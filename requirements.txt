@@ -1,0 +1,4 @@
+# Web scraping tools
+beautifulsoup4
+requests
+pypdf2
