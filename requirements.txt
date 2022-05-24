@@ -1,4 +1,6 @@
 # Web scraping tools
 beautifulsoup4
 requests
-pypdf2
+pdfx
+PyMuPDF
+nltk

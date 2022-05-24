@@ -1,0 +1,4 @@
+-we want to download all the information and immediately begin to structure immediately
+
+some bespoke fixes:
+- we have to ignore standard esg links (eg. terms of use stuff)
