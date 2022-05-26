@@ -41,7 +41,7 @@ for page in motherpdf.pages():
     for item in linklist:
         url = item['uri']
         
-        if re.search('terms-of-use', sub_fta.lower()) is not None :
+        if re.search('terms-of-use', url.lower()) is not None :
             continue # I don't want to go to the terms of use website
 
         text = linkClicker(url)
