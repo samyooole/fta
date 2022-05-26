@@ -1,10 +1,5 @@
--we want to download all the information and immediately begin to structure immediately
--branch textract for nicer code (their pdf parser is wonky)
+- rcep is the remaining problem. i have a fix but i have also run out of tries with enterprisesg so maybe i'll try again tomorrow
 
 
-- jsepa, ussfta, ukfta, ajcep, rcep is a problem child
-- ajcep is mostly scans probably
-- handling url consistencies is a big issue
-
-some bespoke fixes:
-- we have to ignore standard esg links (eg. terms of use stuff)
+what next:
+- the intermediate goal now is to be able to 'identify' 

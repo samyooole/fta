@@ -4,3 +4,4 @@ requests
 pdfx
 PyMuPDF
 nltk
+scikit-learn
