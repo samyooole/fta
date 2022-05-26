@@ -7,3 +7,4 @@ what next:
 
 some issues:
 - how do we handle non-english texts? do we simply get rid of them i think we should
+- only do one of stemming and lemmatization
