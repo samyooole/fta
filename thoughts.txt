@@ -1,5 +1,9 @@
-- rcep is the remaining problem. i have a fix but i have also run out of tries with enterprisesg so maybe i'll try again tomorrow
-
-
 what next:
-- the intermediate goal now is to be able to 'identify' 
+- write preprocessing scripts: get a list of paragraphs (requires some judgement calls as to what exactly a paragraph is)
+- do some exploratory unsupervised classification
+- do some reading up on trade and free trade agreements
+- read up the stanford nlp textbook
+
+
+some issues:
+- how do we handle non-english texts? do we simply get rid of them i think we should
