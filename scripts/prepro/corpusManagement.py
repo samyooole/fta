@@ -39,6 +39,7 @@ def givemeDocuments(corpusfolder):
             addition = read_text_file(file_path)
             list_to_return.append(addition)
         os.chdir(os.path.dirname(os.getcwd()))
+    os.chdir(os.path.dirname(os.getcwd()))
     return list_to_return
 
 def splitParas(text):
