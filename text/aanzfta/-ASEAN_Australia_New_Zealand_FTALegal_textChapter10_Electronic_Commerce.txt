@@ -1,1 +1,299 @@
-  138 CHAPTER 10  ELECTRONIC COMMERCE  Article 1 Objectives  The objectives of this Chapter are to:  (a) promote electronic commerce among the Parties;  (b) enhance co-operation among the Parties regarding development of electronic commerce; and  (c) promote the wider use of electronic commerce globally.  Article 2 Definitions  For the purposes of this Chapter:  (a) digital certificates are electronic documents or files that are issued or otherwise linked to a participant in an electronic communication or transaction for the purpose of establishing the participant’s identity;  (b) electronic authentication means the process of testing an electronic statement or claim, in order to establish a level of confidence in the statement’s or claim’s reliability;  (c) electronic signature has for each Party the meaning set out in its domestic laws and regulations;    139(d) electronic version of a document means a document in electronic format prescribed by a Party, including a document sent by facsimile transmission;  (e) trade administration documents means forms issued or controlled by a Party which must be completed by or for an importer or exporter in relation to the import or export of goods; and  (f) UNCITRAL refers to the United Nations Commission on International Trade Law.  Article 3 Transparency  1. Each Party shall publish as promptly as possible or, where that is not practicable, otherwise make publicly available all relevant measures of general application pertaining to or affecting the operation of this Chapter.  2. Each Party shall respond as promptly as possible to relevant requests by another Party for specific information on any of its measures of general application pertaining to or affecting the operation of this Chapter.  Article 4 Domestic Regulatory Frameworks  Each Party shall maintain, or adopt as soon as practicable, domestic laws and regulations governing electronic transactions taking into account the UNCITRAL Model Law on Electronic Commerce 1996.   140 Article 5 Electronic Authentication and Digital Certificates  1. Each Party shall maintain, or adopt as soon as practicable, measures based on international norms for electronic authentication that:  (a) permit participants in electronic transactions to determine the appropriate authentication technologies and implementation models for their electronic transactions;  (b) do not limit the recognition of authentication technologies and implementation models; and  (c) permit participants in electronic transactions to have the opportunity to prove that their electronic transactions comply with the Party’s domestic laws and regulations.  2. The Parties shall, where possible, endeavour to work towards the mutual recognition of digital certificates and electronic signatures that are issued or recognised by governments based on internationally accepted standards.  3. The Parties shall encourage the interoperability of digital certificates used by business.  Article 6 Online Consumer Protection  1. Subject to Paragraph 2, each Party shall, where possible, provide protection for consumers using electronic commerce that is at least equivalent to that provided for consumers of other forms of commerce under its relevant laws, regulations and policies.    1412. A Party shall not be obliged to apply Paragraph 1 before the date on which that Party enacts domestic laws or regulations or adopts policies on protection for consumers using electronic commerce.  Article 7 Online Data Protection  1. Subject to Paragraph 2, each Party shall, in a manner it considers appropriate, protect the personal data of the users of electronic commerce.  2. A Party shall not be obliged to apply Paragraph 1 before the date on which that Party enacts domestic laws or regulations to protect the personal data of electronic commerce users.  3. In the development of data protection standards, each Party shall consider the international standards and criteria of relevant international organisations.  Article 8 Paperless Trading  1. Each Party shall, where possible, work towards the implementation of initiatives which provide for the use of paperless trading.  2. The Parties shall co-operate in international fora to enhance acceptance of electronic versions of trade administration documents.  3. In working towards the implementation of initiatives which provide for the use of paperless trading, each Party shall take into account the methods agreed by international organisations including the World Customs Organization.    1424. Each Party shall endeavour to make electronic versions of its trade administration documents publicly available.  Article 9 Co-operation on Electronic Commerce  1. Recognising the global nature of electronic commerce, the Parties shall encourage co-operation in research and training activities that would enhance the development of electronic commerce. These co-operative research and training activities may include, but are not limited to:  (a) promotion of the use of electronic versions of trade administration documents used by any other Party or Parties;  (b) assisting small and medium enterprises to overcome obstacles encountered in the use of electronic commerce;  (c) sharing information and experiences and identifying best practices in relation to domestic legal and policy frameworks in the sphere of electronic commerce, including those related to data protection, privacy, consumer confidence, cyber-security, unsolicited electronic mail, electronic signatures, intellectual property rights, and electronic government;  (d) encouraging co-operative activities to promote electronic commerce including those that would improve the effectiveness and efficiency of electronic commerce;  (e) exploring ways in which a developed Party or Parties could provide assistance to the developing Parties in implementing an electronic commerce legal framework;   143 (f) encouraging co-operation between the relevant authorities to facilitate prompt investigation and resolution of fraudulent incidents relating to electronic commerce transactions;  (g) encouraging development by the private sector of methods of self-regulation, including codes of conduct, model contracts, guidelines, and enforcement mechanisms, that foster electronic commerce; and  (h) actively participating in regional and multilateral fora to promote development of electronic commerce.  2. The Parties shall endeavour to undertake forms of co-operation that build on and do not duplicate existing co-operation initiatives pursued in international fora.  Article 10 Non-Application of Chapter 17 (Consultations and Dispute Settlement)  Chapter 17 (Consultations and Dispute Settlement) shall not apply to any matter arising under this Chapter. 
+ 
+ 
+138
+ 
+CHAPTER 10 
+ 
+ELECTRONIC COMMERCE 
+ 
+Article 1 
+Objectives 
+ 
+The objectives of this Chapter are to: 
+ 
+(a) 
+promote electronic commerce among the Parties; 
+ 
+(b) 
+enhance 
+co-operation 
+among 
+the 
+Parties 
+regarding development of electronic commerce; 
+and 
+ 
+(c) 
+promote the wider use of electronic commerce 
+globally. 
+ 
+Article 2 
+Definitions 
+ 
+For the purposes of this Chapter: 
+ 
+(a) 
+digital certificates are electronic documents or 
+files that are issued or otherwise linked to a 
+participant in an electronic communication or 
+transaction for the purpose of establishing the 
+participant’s identity; 
+ 
+(b) 
+electronic authentication means the process of 
+testing an electronic statement or claim, in order 
+to establish a level of confidence in the 
+statement’s or claim’s reliability; 
+ 
+(c) 
+electronic signature has for each Party the 
+meaning set out in its domestic laws and 
+regulations; 
+ 
+ 
+ 
+139
+(d) 
+electronic version of a document means a 
+document in electronic format prescribed by a 
+Party, including a document sent by facsimile 
+transmission; 
+ 
+(e) 
+trade administration documents means forms 
+issued or controlled by a Party which must be 
+completed by or for an importer or exporter in 
+relation to the import or export of goods; and 
+ 
+(f) 
+UNCITRAL 
+refers 
+to 
+the 
+United 
+Nations 
+Commission on International Trade Law. 
+ 
+Article 3 
+Transparency 
+ 
+1. 
+Each Party shall publish as promptly as possible or, 
+where that is not practicable, otherwise make publicly 
+available all relevant measures of general application 
+pertaining to or affecting the operation of this Chapter. 
+ 
+2. 
+Each Party shall respond as promptly as possible to 
+relevant requests by another Party for specific information on 
+any of its measures of general application pertaining to or 
+affecting the operation of this Chapter. 
+ 
+Article 4 
+Domestic Regulatory Frameworks 
+ 
+Each Party shall maintain, or adopt as soon as practicable, 
+domestic 
+laws 
+and 
+regulations 
+governing 
+electronic 
+transactions taking into account the UNCITRAL Model Law 
+on Electronic Commerce 1996. 
+ 
+ 
+140
+ 
+Article 5 
+Electronic Authentication and Digital Certificates 
+ 
+1. 
+Each Party shall maintain, or adopt as soon as 
+practicable, measures based on international norms for 
+electronic authentication that: 
+ 
+(a) 
+permit participants in electronic transactions to 
+determine 
+the 
+appropriate 
+authentication 
+technologies and implementation models for their 
+electronic transactions; 
+ 
+(b) 
+do not limit the recognition of authentication 
+technologies and implementation models; and 
+ 
+(c) 
+permit participants in electronic transactions to 
+have the opportunity to prove that their electronic 
+transactions comply with the Party’s domestic 
+laws and regulations. 
+ 
+2. 
+The Parties shall, where possible, endeavour to work 
+towards the mutual recognition of digital certificates and 
+electronic signatures that are issued or recognised by 
+governments based on internationally accepted standards. 
+ 
+3. 
+The Parties shall encourage the interoperability of 
+digital certificates used by business. 
+ 
+Article 6 
+Online Consumer Protection 
+ 
+1. 
+Subject to Paragraph 2, each Party shall, where 
+possible, provide protection for consumers using electronic 
+commerce that is at least equivalent to that provided for 
+consumers of other forms of commerce under its relevant 
+laws, regulations and policies. 
+ 
+ 
+ 
+141
+2. 
+A Party shall not be obliged to apply Paragraph 1 
+before the date on which that Party enacts domestic laws or 
+regulations or adopts policies on protection for consumers 
+using electronic commerce. 
+ 
+Article 7 
+Online Data Protection 
+ 
+1. 
+Subject to Paragraph 2, each Party shall, in a manner it 
+considers appropriate, protect the personal data of the users 
+of electronic commerce. 
+ 
+2. 
+A Party shall not be obliged to apply Paragraph 1 
+before the date on which that Party enacts domestic laws or 
+regulations to protect the personal data of electronic 
+commerce users. 
+ 
+3. 
+In the development of data protection standards, each 
+Party shall consider the international standards and criteria 
+of relevant international organisations. 
+ 
+Article 8 
+Paperless Trading 
+ 
+1. 
+Each Party shall, where possible, work towards the 
+implementation of initiatives which provide for the use of 
+paperless trading. 
+ 
+2. 
+The Parties shall co-operate in international fora to 
+enhance acceptance of electronic versions of trade 
+administration documents. 
+ 
+3. 
+In working towards the implementation of initiatives 
+which provide for the use of paperless trading, each Party 
+shall take into account the methods agreed by international 
+organisations including the World Customs Organization. 
+ 
+ 
+ 
+142
+4. 
+Each Party shall endeavour to make electronic 
+versions of its trade administration documents publicly 
+available. 
+ 
+Article 9 
+Co-operation on Electronic Commerce 
+ 
+1. 
+Recognising the global nature of electronic commerce, 
+the Parties shall encourage co-operation in research and 
+training activities that would enhance the development of 
+electronic commerce. These co-operative research and 
+training activities may include, but are not limited to: 
+ 
+(a) 
+promotion of the use of electronic versions of 
+trade administration documents used by any 
+other Party or Parties; 
+ 
+(b) 
+assisting small and medium enterprises to 
+overcome obstacles encountered in the use of 
+electronic commerce; 
+ 
+(c) 
+sharing 
+information 
+and 
+experiences 
+and 
+identifying best practices in relation to domestic 
+legal and policy frameworks in the sphere of 
+electronic commerce, including those related to 
+data protection, privacy, consumer confidence, 
+cyber-security, 
+unsolicited 
+electronic 
+mail, 
+electronic signatures, intellectual property rights, 
+and electronic government; 
+ 
+(d) 
+encouraging co-operative activities to promote 
+electronic commerce including those that would 
+improve the effectiveness and efficiency of 
+electronic commerce; 
+ 
+(e) 
+exploring ways in which a developed Party or 
+Parties 
+could 
+provide 
+assistance 
+to 
+the 
+developing Parties in implementing an electronic 
+commerce legal framework; 
+ 
+ 
+143
+ 
+(f) 
+encouraging co-operation between the relevant 
+authorities to facilitate prompt investigation and 
+resolution of fraudulent incidents relating to 
+electronic commerce transactions; 
+ 
+(g) 
+encouraging development by the private sector of 
+methods of self-regulation, including codes of 
+conduct, 
+model 
+contracts, 
+guidelines, 
+and 
+enforcement mechanisms, that foster electronic 
+commerce; and 
+ 
+(h) 
+actively participating in regional and multilateral 
+fora to promote development of electronic 
+commerce. 
+ 
+2. 
+The Parties shall endeavour to undertake forms of co-
+operation that build on and do not duplicate existing co-
+operation initiatives pursued in international fora. 
+ 
+Article 10 
+Non-Application of Chapter 17 (Consultations and 
+Dispute Settlement) 
+ 
+Chapter 17 (Consultations and Dispute Settlement) shall not 
+apply to any matter arising under this Chapter. 

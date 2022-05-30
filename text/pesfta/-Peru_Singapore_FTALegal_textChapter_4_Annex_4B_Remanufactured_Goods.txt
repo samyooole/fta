@@ -1,1 +1,283 @@
-ANNEX 4BRemanufactured GoodsTariff Code (HS 2007)Description8407210000Outboard motors8407290000Other8407310000Of a cylinder capacity not exceeding 50 cc 8407320000Of a cylinder capacity exceeding 50 cc but not exceeding 250 cc 8407330000Of a cylinder capacity exceeding 250 cc but not exceeding 1,000 cc 8407340000Of a cylinder capacity exceeding 1,000 cc 8407900000Other engines8408100000Marine propulsion engines8408201000Of a cylinder capacity not exceeding 4.000 cc8408209000Other8408901000Of a power not exceeding 130 kW (174 HP)8408902000Of a power exceeding 130 kW (174 HP)8409100000For aircraft engines8409911000Blocks and cylinder heads8409912000Cylinder liners 8409913000Connecting rods8409914000Pistons8409915000Rings8409916000Carburators and parts thereof 8409917000Valves8409918000Crankcases8409919100Equipment for the conversion of motor vehicles carburation system  to operate on fuel gas 8409919900Other8409991000Pistons8409992000Rings8409993000Injectors and other parts for fuel systems 8409994000Blocks and cylinder heads 8409995000Cylinders liners8409996000Connecting rods8409997000Valves8409998000Crankcases8409999100Valve guides8409999200Piston pins8409999900Other8412210000Linear acting (cylinders)8412290000Other8412390000Other8412901000Of aircraft engines8412909000Other8413301000For aircraft engines8413302000Other, injection pumps8413309100Of fuel8413309200Of oil8413309900Other8413601000Double-screw pump, of axial flow8413609000Other8413911000Fuel station pumps8413912000For aircraft engines 8413913000For fuel, lubricants or coolers of other engines8414304000For motor vehicles for the transport of goods8414309100Hermetical or semi-hermetical, of a power not exceeding 0,37 kW (1/2 HP)8414309200Hermetical or semi-hermetical, of a power exceeding 0,37 kW (1/2 HP)8414309900Other8414801000Compressors for motor vehicles8414802100Of a power less than 30 kW (40 HP)8414802200Of a power of 30 kW (40 HP) or more but less than 262,5 kW (352 HP)8414802300Of a power of 262,5 kW (352 HP) or more8414809000Other8414901000Of compressors8414909000Other8419891000Autoclaves 8419899200Roasting plant 8419899300Sterilizing equipment8431490000Other8481200010Specially designed for irrigation systems 8481200090Other8481400010Specially designed for irrigation systems 8481400090Other8481803000Tyre valves 8481805100Of a working pressure of 13,8 MPa or greater8481805900Other8481806000Other gate valves 8481807000Globe valves of a nominal diameter not exceeding 100 mm  8481809100Dispenser valves8481809900Other8483101000Of aircraft engines8483109100Crank shafts 8483109200Cam shafts 8483109300Flexible shafts 8483109900Other 8483301000Of aircraft engines8483309000Other8483403000Of aircraft engines8483409100Gear boxes and other speed changers 8483409200Gear and gearing, other than toothed wheels, chain sprockets and other  transmission elements presented separetely 8483409900Other8483500000Flywheels and pulleys, including pulley blocks 8502119000Other8502129000Other8502131000Alternating current8502139000Other8502201000Alternating current 8502209000Other8503000000Parts suitable for use solely or principally with the machines of heading 85.01 or 85.028511401000Of aircraft engines8511409000Other8511501000Of aircraft engines8511509000Other8526100000Radar apparatus8542310000Processors and crontrollers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits8542320000Memories8542330000Amplifiers8542390000Other8708302100Drums 8708302200Pneumatic systems 8708302300Hydraulic systems8708302400Servo-brakes 8708302900Other parts8708401000Mechanical 8708409000Other8708501900Parts8708502100Non-driving axles 8708502900Parts8708701000Road wheels and parts8708702000Rims, hub-caps and other accessories 8708801000Ball and socket joints and parts thereof8708802000Buffer and parts thereof8708809000Other8708931000Clutches8708939100Plates and discs 8708939900Other8708940000Steering wheels, steering columns and steering boxes; parts thereof8708950000Safety airbag with inflater system; parts thereof8708991100Chassis-frames8708991900Parts8708992100Cardanic transmissions 8708992900Parts8708993100Mechanical systems 8708993200Hydraulic systems 8708993300End fittings 8708993900Other parts8708994000Tracks and parts thereof8708995000Fuel tanks 8708999600Detonator and sensor locks for safety belts 8708999900Other9031491000Optical comparators, comparator benches, measuring benches, interferometers, optical surface testers, apparatus equipped with differential feeler, alignment telescopes, optical rules, micrometric reading apparatus, optical goniometers and focimeters9031499000Other
+ANNEX 4B
+Remanufactured Goods
+Tariff Code 
+(HS 2007)
+Description
+8407210000
+Outboard motors
+8407290000
+Other
+8407310000
+Of a cylinder capacity not exceeding 50 cc 
+8407320000
+Of a cylinder capacity exceeding 50 cc but not exceeding 250 cc 
+8407330000
+Of a cylinder capacity exceeding 250 cc but not exceeding 1,000 cc 
+8407340000
+Of a cylinder capacity exceeding 1,000 cc 
+8407900000
+Other engines
+8408100000
+Marine propulsion engines
+8408201000
+Of a cylinder capacity not exceeding 4.000 cc
+8408209000
+Other
+8408901000
+Of a power not exceeding 130 kW (174 HP)
+8408902000
+Of a power exceeding 130 kW (174 HP)
+8409100000
+For aircraft engines
+8409911000
+Blocks and cylinder heads
+8409912000
+Cylinder liners 
+8409913000
+Connecting rods
+8409914000
+Pistons
+8409915000
+Rings
+8409916000
+Carburators and parts thereof 
+8409917000
+Valves
+8409918000
+Crankcases
+8409919100
+Equipment for the conversion of motor vehicles carburation system  to operate on fuel gas 
+8409919900
+Other
+8409991000
+Pistons
+8409992000
+Rings
+8409993000
+Injectors and other parts for fuel systems 
+8409994000
+Blocks and cylinder heads 
+8409995000
+Cylinders liners
+8409996000
+Connecting rods
+8409997000
+Valves
+8409998000
+Crankcases
+8409999100
+Valve guides
+8409999200
+Piston pins
+8409999900
+Other
+8412210000
+Linear acting (cylinders)
+8412290000
+Other
+8412390000
+Other
+8412901000
+Of aircraft engines
+8412909000
+Other
+8413301000
+For aircraft engines
+8413302000
+Other, injection pumps
+8413309100
+Of fuel
+8413309200
+Of oil
+8413309900
+Other
+8413601000
+Double-screw pump, of axial flow
+8413609000
+Other
+8413911000
+Fuel station pumps
+8413912000
+For aircraft engines 
+8413913000
+For fuel, lubricants or coolers of other engines
+8414304000
+For motor vehicles for the transport of goods
+8414309100
+Hermetical or semi-hermetical, of a power not exceeding 0,37 kW (1/2 HP)
+8414309200
+Hermetical or semi-hermetical, of a power exceeding 0,37 kW (1/2 HP)
+8414309900
+Other
+8414801000
+Compressors for motor vehicles
+8414802100
+Of a power less than 30 kW (40 HP)
+8414802200
+Of a power of 30 kW (40 HP) or more but less than 262,5 kW (352 HP)
+8414802300
+Of a power of 262,5 kW (352 HP) or more
+8414809000
+Other
+8414901000
+Of compressors
+8414909000
+Other
+8419891000
+Autoclaves 
+8419899200
+Roasting plant 
+8419899300
+Sterilizing equipment
+8431490000
+Other
+8481200010
+Specially designed for irrigation systems 
+8481200090
+Other
+8481400010
+Specially designed for irrigation systems 
+8481400090
+Other
+8481803000
+Tyre valves 
+8481805100
+Of a working pressure of 13,8 MPa or greater
+8481805900
+Other
+8481806000
+Other gate valves 
+8481807000
+Globe valves of a nominal diameter not exceeding 100 mm  
+8481809100
+Dispenser valves
+8481809900
+Other
+8483101000
+Of aircraft engines
+8483109100
+Crank shafts 
+8483109200
+Cam shafts 
+8483109300
+Flexible shafts 
+8483109900
+Other 
+8483301000
+Of aircraft engines
+8483309000
+Other
+8483403000
+Of aircraft engines
+8483409100
+Gear boxes and other speed changers 
+8483409200
+Gear and gearing, other than toothed wheels, chain sprockets and other  transmission elements 
+presented separetely 
+8483409900
+Other
+8483500000
+Flywheels and pulleys, including pulley blocks 
+8502119000
+Other
+8502129000
+Other
+8502131000
+Alternating current
+8502139000
+Other
+8502201000
+Alternating current 
+8502209000
+Other
+8503000000
+Parts suitable for use solely or principally with the machines of heading 85.01 or 85.02
+8511401000
+Of aircraft engines
+8511409000
+Other
+8511501000
+Of aircraft engines
+8511509000
+Other
+8526100000
+Radar apparatus
+8542310000
+Processors and crontrollers, whether or not combined with memories, converters, logic circuits, 
+amplifiers, clock and timing circuits, or other circuits
+8542320000
+Memories
+8542330000
+Amplifiers
+8542390000
+Other
+8708302100
+Drums 
+8708302200
+Pneumatic systems 
+8708302300
+Hydraulic systems
+8708302400
+Servo-brakes 
+8708302900
+Other parts
+8708401000
+Mechanical 
+8708409000
+Other
+8708501900
+Parts
+8708502100
+Non-driving axles 
+8708502900
+Parts
+8708701000
+Road wheels and parts
+8708702000
+Rims, hub-caps and other accessories 
+8708801000
+Ball and socket joints and parts thereof
+8708802000
+Buffer and parts thereof
+8708809000
+Other
+8708931000
+Clutches
+8708939100
+Plates and discs 
+8708939900
+Other
+8708940000
+Steering wheels, steering columns and steering boxes; parts thereof
+8708950000
+Safety airbag with inflater system; parts thereof
+8708991100
+Chassis-frames
+8708991900
+Parts
+8708992100
+Cardanic transmissions 
+8708992900
+Parts
+8708993100
+Mechanical systems 
+8708993200
+Hydraulic systems 
+8708993300
+End fittings 
+8708993900
+Other parts
+8708994000
+Tracks and parts thereof
+8708995000
+Fuel tanks 
+8708999600
+Detonator and sensor locks for safety belts 
+8708999900
+Other
+9031491000
+Optical comparators, comparator benches, measuring benches, interferometers, optical surface 
+testers, apparatus equipped with differential feeler, alignment telescopes, optical rules, 
+micrometric reading apparatus, optical goniometers and focimeters
+9031499000
+Other

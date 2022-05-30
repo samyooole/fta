@@ -1,1 +1,557 @@
-Chapter 15 – Intellectual Property  15-1  CHAPTER 15 INTELLECTUAL PROPERTY  SECTION 15-A PRINCIPLES    Article 15.1  Scope and Definitions   1. The Parties recall the commitments under the international treaties dealing with intellectual property, including the TRIPS Agreement and the Paris Convention for the Protection of Industrial Property (of 20 March 1883, as revised at Stockholm on 15 July 1967). The provisions of this Chapter shall complement the rights and obligations of the Parties under the TRIPS Agreement and other international treaties in the field of intellectual property to which they both are parties.  2. For the purposes of this Chapter, “intellectual property rights” means:  (a) all categories of intellectual property that are the subject of Sections 1 through 7 of Part II of the TRIPS Agreement, namely:  (i) copyright and related rights;  (ii) patents;  (iii) trademarks;  (iv) designs;  (v) layout-designs (topographies) of integrated circuits;  (vi) geographical indications;  (vii) protection of undisclosed information; and  (b) plant variety rights.  Article 15.2 Exhaustion  Each Party shall be free to establish its own regime for the exhaustion of intellectual property rights subject to the relevant provisions of the TRIPS Agreement.  SECTION 15-B STANDARDS CONCERNING INTELLECTUAL PROPERTY RIGHTS  SUBSECTION 15-B-1 COPYRIGHT AND RELATED RIGHTS  Article 15.3 Chapter 15 – Intellectual Property  15-2  Protection Granted  The Parties shall comply with the rights and obligations set out in the Berne Convention for the Protection of Literary and Artistic Works (of 9 September 1886, as last revised at Paris on 24 July 1971), the WIPO Copyright Treaty (adopted in Geneva on 20 December 1996), the WIPO Performances and Phonograms Treaty (adopted in Geneva on 20 December 1996), and the TRIPS Agreement. The Parties may provide for protection of performers, producers of phonograms and broadcasting organisations in accordance with the relevant provisions of the International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organisations (done at Rome on 26 October 1961).1  Article 15.4 Term of Protection  1. Each Party shall provide, where the term of protection of a work is to be calculated on the basis of the life of the author, that the term shall be not less than the life of the author and 70 years after the author’s death.  2. In the case of a work of joint authorship, the term referred to in paragraph 1 shall be calculated from the death of the last surviving author.  3. The term of protection of cinematographic works shall be not less than 70 years after the work has been made available to the public with the consent of the author or, failing such an event within 50 years from the making of such a work, at least 70 years after the making.  4. The term of protection to be granted to producers of phonograms under this Agreement shall last, at least, until the end of a period of 50 years computed from the end of the year in which the phonogram was published, or failing such publication within 50 years from fixation of the phonogram, 50 years from the end of the year in which the fixation was made.  5. The term of protection for rights in broadcasts shall be not less than 50 years after the first transmission or making of the broadcast.  6. The terms laid down in this Article shall be calculated from the first of January of the year following the event which gives rise to them.  Article 15.5 Presumptions Relating to Copyright and Related Rights  In civil proceedings involving copyright or related rights, each Party shall provide for a presumption that, at least with respect to a literary or artistic work, performance or phonogram, in the absence of proof to the contrary, the natural or legal person whose name appears on such work, performance or phonogram in the usual manner, is the right holder and is consequently entitled to institute infringement proceedings.                                                             1  The Parties recognise that references to these international agreements are subject to the reservations  which each Party has formulated in relation thereto.  Chapter 15 – Intellectual Property  15-3  Article 15.6 Cooperation on Collective Management of Rights  The Parties shall endeavour to promote dialogue and cooperation among their respective collective management societies with the purpose of ensuring easier access and delivery of content between the territories of the Parties, and the transfer of royalties arising from the use of works or other copyright-protected subject matter.  Article 15.7 Protection of Technological Measures  1. Each Party shall provide adequate legal protection and effective legal remedies against the circumvention of any effective technological measures2 that are used by authors, performers or producers of phonograms in connection with the exercise of their rights in, and that restrict acts in respect of, their works, performances, and phonograms, which are not authorised by the authors, the performers or the producers of phonograms concerned or permitted by domestic law.3   2. In providing adequate legal protection and effective legal remedies pursuant to paragraph 1, a Party may adopt or maintain appropriate limitations or exceptions to measures implementing paragraph 1. The obligations under paragraph 1 are without prejudice to the rights, limitations, exceptions, or defences to copyright or related rights infringement under each Party’s domestic law.  Article 15.8 Protection of Rights Management Information  1. To protect electronic rights management information4 each Party shall provide adequate legal protection and effective legal remedies against any person knowingly performing                                                            2  For the purposes of this Article, “technological measures” means any technology, device or component  that, in the normal course of its operation, is designed to prevent or restrict acts, in respect of works,  performances, or phonograms, which are not authorised by authors, performers or producers of  phonograms, as provided for by each Party’s domestic law. Without prejudice to the scope of copyright  or related rights contained in each Party’s domestic law, technological measures shall be deemed  effective where the use of protected works, performances, or phonograms is controlled by authors,  performers or producers of phonograms through the application of a relevant access control or  protection process, such as encryption or scrambling, or a copy control mechanism, which achieves the  objective of protection.   3  Nothing in this Chapter shall require Singapore to restrict the importation or domestic sale of a device  that does not render effective a technological measure the sole purpose of which is to control market  segmentation for legitimate copies of motion pictures, and is not otherwise a violation of its domestic  law.  4  For the purposes of this Article, “rights management information” means:  (a)  information that identifies the work, the performance, or the phonogram; the author of the work, the performer of the performance, or the producer of the phonogram; or the owner of any right in the work, performance or phonogram;  (b)  information about the terms and conditions of use of the work, performance, or phonogram; or   Chapter 15 – Intellectual Property  15-4  without authority any of the following acts knowing or, with respect to civil remedies, having reasonable grounds to know, that it will induce, enable, facilitate or conceal an infringement of any copyright or related rights.  Such following acts are:  (a)  to remove or alter any electronic rights management information;  (b)  to distribute, import for distribution, broadcast, communicate, or make available to the public copies of works, performances, or phonograms, knowing that electronic rights management information has been removed or altered without authority.   2. In providing adequate legal protection and effective legal remedies pursuant to paragraph 1, a Party may adopt or maintain appropriate limitations or exceptions to measures implementing paragraph 1. The obligations under paragraph 1 are without prejudice to the rights, limitations, exceptions or defences to copyright or related rights infringement under a Party’s domestic law.  SUBSECTION 15-B-2 TRADEMARKS  Article 15.9 International Agreements  Each Party shall make all reasonable efforts to comply with the Trademark Law Treaty (done at Geneva on 27 October 1994) and the Singapore Treaty on the Law of Trademarks (adopted in Singapore on 27 March 2006).5   Article 15.10 Registration Procedure  Each Party shall provide for a system for the registration of trademarks in which the relevant trademark administration shall give reasons for a refusal to register a trademark in writing. The applicant shall have the opportunity to appeal against such refusal before a judicial authority. Each Party shall introduce the possibility for third parties to oppose trademark applications. Each Party shall provide a publicly available electronic database of trademark applications and trademark registrations.   Article 15.11 Well-Known Trademarks  The Parties shall protect well-known trademarks in accordance with the TRIPS Agreement. In determining whether a trademark is well-known, the Parties agree to take into consideration the Joint Recommendation Concerning Provisions on the Protection of Well-Known Marks                                                                                                                                                                                      (c)  any number or codes that represent the information described in subparagraphs (a) and (b), when any of these items of information is attached to a copy of a work, performance, or phonogram, or appears in connection with the communication or making available of a work, performance or phonogram to the public.  5  Singapore is a party to the Singapore Treaty on the Law of Trademarks. Turkey shall make all  reasonable efforts to facilitate accession to the said Treaty. Chapter 15 – Intellectual Property  15-5  (adopted by the Assembly of the Paris Union for the Protection of Industrial Property and the General Assembly of the WIPO at the Thirty-Fourth Series of Meetings of the Assemblies of the Member States of WIPO on 20 to 29 September 1999).  Article 15.12 Exceptions to the Rights Conferred by a Trademark  Each Party:   (a) shall provide for the fair use of descriptive terms6 as a limited exception to the rights conferred by trademarks; and  (b) may provide for other limited exceptions,   provided that these exceptions take account of the legitimate interests of the owners of the trademarks and of third parties.  SUBSECTION 15-B-3 GEOGRAPHICAL INDICATIONS7  Article 15.13 Scope  1. This Subsection applies to the recognition and protection of geographical indications for goods originating in the territories of the Parties.  2. Geographical indications of a Party to be protected by the other Party shall only be subject to this Subsection if they are recognised and declared as geographical indications in their country of origin.  Article 15.14 System of Protection of Geographical Indications  With the recognition of the importance of the protection of geographical indications, each Party shall provide a system for the protection of geographical indications in accordance with Section 3 (Geographical Indications), Part II of the TRIPS Agreement and protect the geographical indications of the other Party in accordance with its legislation8.   SUBSECTION 15-B-4                                                            6 The fair use of descriptive terms includes the use of a sign to indicate the geographic origin of the  goods or services, and where such use is in accordance with honest practices in industrial or  commercial matters.  7 For the purposes of this Chapter, “geographical indications” means indications which identify a good  as originating in the territory of a Party, or a region or locality in that territory, where a given quality,  reputation or other characteristic of the good is essentially attributable to its geographical origin.  8  For greater certainty, the Parties acknowledge that geographical indications will be recognised and  protected by the Parties only to the extent permitted by and according to the terms and conditions set  out in their respective domestic laws.  Chapter 15 – Intellectual Property  15-6  DESIGNS  Article 15.15 Requirements for Protection of Registered Designs  1. The Parties shall provide for the protection of independently created designs that are new or original.9 This protection shall be provided by registration and shall confer exclusive rights upon their holders in accordance with the provisions of this Subsection.10  2. Design protection shall not extend to designs dictated essentially by technical or functional considerations.  3. A design right shall not subsist in a design which is contrary to public order or to accepted principles of morality.11  Article 15.16 Rights Conferred by Registration  The owner of a protected design shall have the right to prevent third parties, not having the owner’s consent, from at least making, offering for sale, selling or importing articles bearing or embodying a design which is a copy, or substantially a copy, of the protected design, when such acts are undertaken for commercial purposes.   Article 15.17 Term of Protection  The duration of protection available shall be consistent with Article 26.3 of the TRIPS Agreement.   Article 15.18 Exceptions  The Parties may provide limited exceptions to the protection of designs, provided that such exceptions do not unreasonably conflict with the normal exploitation of protected designs and do not unreasonably prejudice the legitimate interests of the owner of the protected design, taking account of the legitimate interests of third parties.                                                            9  The Parties agree that when the domestic law of a Party so provides, individual character of designs  can also be required. This refers to designs that significantly differ from known designs or  combinations of known designs’ features.   10  It is understood that designs are not excluded from protection simply on the basis that they constitute a  part of an article or product, provided that they are visible, fulfil the criteria of this paragraph, and:  (a) fulfil any other criteria for design protection; and  (b) are not otherwise excluded from design protection,    under the Parties’ respective domestic law.  11  Nothing in this Article precludes either Party from providing other specified exclusions from design  protection under its domestic law. The Parties understand that such exclusions shall not be extensive. Chapter 15 – Intellectual Property  15-7   SUBSECTION 15-B-5 PATENTS  Article 15.19 International Agreements  The Parties recall the obligations under the Patent Cooperation Treaty (done at Washington on 19 June 1970, amended on 28 September 1979 and modified on 3 February 1984). The Parties shall, where appropriate, make all reasonable efforts to comply with Article 1 to Article 16 of the Patent Law Treaty (adopted in Geneva on 1 June 2000) in a manner consistent with their domestic law and procedures.   Article 15.20 Patents and Public Health  1. The Parties recognise the importance of the Declaration on the TRIPS Agreement and Public Health (adopted in Doha on 14 November 2001 by the Ministerial Conference of the WTO). In interpreting and implementing the rights and obligations under this Subsection and Subsection 15-B-6 (Protection of Test Data), the Parties shall ensure consistency with this Declaration.  2. The Parties shall respect the Decision of the WTO General Council of 30 August 2003 on Implementation of Paragraph 6 of the Doha Declaration on the TRIPS Agreement and Public Health, as well as the Decision of the WTO General Council of 6 December 2005 on Amendment of the TRIPS Agreement, adopting the Protocol Amending the TRIPS Agreement.  SUBSECTION 15-B-6 PROTECTION OF TEST DATA  Article 15.21 Protection of Test Data Submitted to Obtain an Administrative Marketing Approval to put an Agricultural Chemical Product on the Market  1. When a Party requires the submission of test data or studies concerning the safety and efficacy of an agricultural chemical product prior to granting an approval for the marketing of such product in that Party, the Party shall not, for a period of at least seven years from the date of approval, permit third parties to market the same or a similar product, on the basis of the marketing approval granted to the party which had provided the test data or studies, unless the party which had provided the test data or studies has given its consent.  2. Where a Party provides for measures or procedures to avoid duplicative testing on vertebrate animals with respect to agricultural chemical products, that Party may provide for the conditions and circumstances under which third parties may market the same or similar product, on the basis of the marketing approval granted to the party which had provided the test data or studies.  Chapter 15 – Intellectual Property  15-8  3. Where a Party requires the submission of test data or studies concerning the safety or efficacy of an agricultural chemical product prior to granting an approval for the marketing of such product, the Party shall endeavour to make best efforts to process the application expeditiously with a view to avoiding unreasonable delays.  SUBSECTION 15-B-7 PLANT VARIETIES   Article 15.22 International Agreements  The Parties reaffirm their obligations under the International Convention for the Protection of New Varieties of Plants (adopted in Paris on 2 December 1961, as last revised in Geneva on 19 March 1991), including their ability to implement the optional exception to the breeder’s right, as referred to in paragraph 2 of Article 15 of the Convention.   SECTION 15-C ENFORCEMENT  Article 15.23 Enforcement of Intellectual Property Rights              The Parties shall provide suitable and effective protection of intellectual and industrial property rights in line with the TRIPS Agreement and other international agreements to which both Parties are party. The Parties shall ensure enforcement procedures as specified in Part III of the TRIPS Agreement so as to permit effective action against any act of infringement of intellectual property rights.  SECTION 15-D COOPERATION  Article 15.24 Cooperation  1. The Parties agree to cooperate with a view to supporting the implementation of the commitments and obligations undertaken in this Chapter. Areas of cooperation include, but are not limited to, the following activities:  (a)  the granting of patents on the basis of applications filed by applicants of a Party in the other Party;  (b)  exchange of information on legal frameworks concerning intellectual property rights, including implementation of intellectual property legislation and systems, aimed at promoting the efficient registration of intellectual property rights;  (c) exchange, between respective authorities responsible for the enforcement of intellectual property rights, of their experiences and best practices concerning enforcement of intellectual property rights;  Chapter 15 – Intellectual Property  15-9  (d) exchange of information and cooperation on public outreach and appropriate initiatives to promote awareness of the benefits of intellectual property rights and systems;  (e) capacity-building and technical cooperation in relation, but not limited, to: management, licensing, valuation and exploitation of intellectual property rights; technology and market intelligence; facilitation of industry collaborations, including on intellectual property rights that may be applied towards environmental conservation or enhancement which may include establishing a platform or database; and public private partnerships to support culture and innovation;  (f)   exchange of information and cooperation on intellectual property issues, where appropriate and relevant to developments in environmentally friendly technology; and  (g) any other areas of cooperation or activities as may be discussed and agreed between the Parties.  2.  Without prejudice to paragraph 1, the Parties agree to designate a contact point for the purpose of maintaining dialogue including, where useful, convening meetings on intellectual property issues between their respective technical experts on matters covered by this Chapter.  3. Cooperation under this Chapter shall be carried out subject to each Party’s laws, rules, regulations, directives or policies. Cooperation shall also be on mutually agreed terms and conditions and be subject to the availability of resources of each Party. 
+Chapter 15 – Intellectual Property 
+ 
+15-1 
+ 
+CHAPTER 15 
+INTELLECTUAL PROPERTY 
+ 
+SECTION 15-A 
+PRINCIPLES   
+ 
+Article 15.1  
+Scope and Definitions  
+ 
+1. 
+The Parties recall the commitments under the international treaties dealing with 
+intellectual property, including the TRIPS Agreement and the Paris Convention for 
+the Protection of Industrial Property (of 20 March 1883, as revised at Stockholm on 
+15 July 1967). The provisions of this Chapter shall complement the rights and 
+obligations of the Parties under the TRIPS Agreement and other international treaties 
+in the field of intellectual property to which they both are parties. 
+ 
+2. 
+For the purposes of this Chapter, “intellectual property rights” means: 
+ 
+(a) 
+all categories of intellectual property that are the subject of Sections 1 through 
+7 of Part II of the TRIPS Agreement, namely: 
+ 
+(i) 
+copyright and related rights; 
+ 
+(ii) 
+patents; 
+ 
+(iii) 
+trademarks; 
+ 
+(iv) 
+designs; 
+ 
+(v) 
+layout-designs (topographies) of integrated circuits; 
+ 
+(vi) 
+geographical indications; 
+ 
+(vii) 
+protection of undisclosed information; and 
+ 
+(b) 
+plant variety rights. 
+ 
+Article 15.2 
+Exhaustion 
+ 
+Each Party shall be free to establish its own regime for the exhaustion of intellectual property 
+rights subject to the relevant provisions of the TRIPS Agreement. 
+ 
+SECTION 15-B 
+STANDARDS CONCERNING INTELLECTUAL PROPERTY RIGHTS 
+ 
+SUBSECTION 15-B-1 
+COPYRIGHT AND RELATED RIGHTS 
+ 
+Article 15.3 
+Chapter 15 – Intellectual Property 
+ 
+15-2 
+ 
+Protection Granted 
+ 
+The Parties shall comply with the rights and obligations set out in the Berne Convention for 
+the Protection of Literary and Artistic Works (of 9 September 1886, as last revised at Paris on 
+24 July 1971), the WIPO Copyright Treaty (adopted in Geneva on 20 December 1996), the 
+WIPO Performances and Phonograms Treaty (adopted in Geneva on 20 December 1996), and 
+the TRIPS Agreement. The Parties may provide for protection of performers, producers of 
+phonograms and broadcasting organisations in accordance with the relevant provisions of the 
+International Convention for the Protection of Performers, Producers of Phonograms and 
+Broadcasting Organisations (done at Rome on 26 October 1961).1 
+ 
+Article 15.4 
+Term of Protection 
+ 
+1. 
+Each Party shall provide, where the term of protection of a work is to be calculated on 
+the basis of the life of the author, that the term shall be not less than the life of the 
+author and 70 years after the author’s death. 
+ 
+2. 
+In the case of a work of joint authorship, the term referred to in paragraph 1 shall be 
+calculated from the death of the last surviving author. 
+ 
+3. 
+The term of protection of cinematographic works shall be not less than 70 years after 
+the work has been made available to the public with the consent of the author or, 
+failing such an event within 50 years from the making of such a work, at least 70 years 
+after the making. 
+ 
+4. 
+The term of protection to be granted to producers of phonograms under this 
+Agreement shall last, at least, until the end of a period of 50 years computed from the 
+end of the year in which the phonogram was published, or failing such publication 
+within 50 years from fixation of the phonogram, 50 years from the end of the year in 
+which the fixation was made. 
+ 
+5. 
+The term of protection for rights in broadcasts shall be not less than 50 years after the 
+first transmission or making of the broadcast. 
+ 
+6. 
+The terms laid down in this Article shall be calculated from the first of January of the 
+year following the event which gives rise to them. 
+ 
+Article 15.5 
+Presumptions Relating to Copyright and Related Rights 
+ 
+In civil proceedings involving copyright or related rights, each Party shall provide for a 
+presumption that, at least with respect to a literary or artistic work, performance or 
+phonogram, in the absence of proof to the contrary, the natural or legal person whose name 
+appears on such work, performance or phonogram in the usual manner, is the right holder and 
+is consequently entitled to institute infringement proceedings. 
+ 
+                                                           
+1  
+The Parties recognise that references to these international agreements are subject to the reservations 
+ 
+which each Party has formulated in relation thereto. 
+ 
+Chapter 15 – Intellectual Property 
+ 
+15-3 
+ 
+Article 15.6 
+Cooperation on Collective Management of Rights 
+ 
+The Parties shall endeavour to promote dialogue and cooperation among their respective 
+collective management societies with the purpose of ensuring easier access and delivery of 
+content between the territories of the Parties, and the transfer of royalties arising from the use 
+of works or other copyright-protected subject matter. 
+ 
+Article 15.7 
+Protection of Technological Measures 
+ 
+1. 
+Each Party shall provide adequate legal protection and effective legal remedies against 
+the circumvention of any effective technological measures2 that are used by authors, 
+performers or producers of phonograms in connection with the exercise of their rights 
+in, and that restrict acts in respect of, their works, performances, and phonograms, 
+which are not authorised by the authors, the performers or the producers of 
+phonograms concerned or permitted by domestic law.3  
+ 
+2. 
+In providing adequate legal protection and effective legal remedies pursuant to 
+paragraph 1, a Party may adopt or maintain appropriate limitations or exceptions to 
+measures implementing paragraph 1. The obligations under paragraph 1 are without 
+prejudice to the rights, limitations, exceptions, or defences to copyright or related 
+rights infringement under each Party’s domestic law. 
+ 
+Article 15.8 
+Protection of Rights Management Information 
+ 
+1. 
+To protect electronic rights management information4 each Party shall provide adequate 
+legal protection and effective legal remedies against any person knowingly performing 
+                                                           
+2  
+For the purposes of this Article, “technological measures” means any technology, device or component 
+ 
+that, in the normal course of its operation, is designed to prevent or restrict acts, in respect of works, 
+ 
+performances, or phonograms, which are not authorised by authors, performers or producers of 
+ 
+phonograms, as provided for by each Party’s domestic law. Without prejudice to the scope of copyright 
+ 
+or related rights contained in each Party’s domestic law, technological measures shall be deemed 
+ 
+effective where the use of protected works, performances, or phonograms is controlled by authors, 
+ 
+performers or producers of phonograms through the application of a relevant access control or 
+ 
+protection process, such as encryption or scrambling, or a copy control mechanism, which achieves the 
+ 
+objective of protection.  
+ 
+3  
+Nothing in this Chapter shall require Singapore to restrict the importation or domestic sale of a device 
+ 
+that does not render effective a technological measure the sole purpose of which is to control market 
+ 
+segmentation for legitimate copies of motion pictures, and is not otherwise a violation of its domestic 
+ 
+law. 
+ 
+4  
+For the purposes of this Article, “rights management information” means: 
+ 
+(a)  
+information that identifies the work, the performance, or the phonogram; the author of the 
+work, the performer of the performance, or the producer of the phonogram; or the owner of 
+any right in the work, performance or phonogram; 
+ 
+(b)  
+information about the terms and conditions of use of the work, performance, or phonogram; or  
+ 
+Chapter 15 – Intellectual Property 
+ 
+15-4 
+ 
+without authority any of the following acts knowing or, with respect to civil remedies, 
+having reasonable grounds to know, that it will induce, enable, facilitate or conceal an 
+infringement of any copyright or related rights.  Such following acts are: 
+ 
+(a)  
+to remove or alter any electronic rights management information; 
+ 
+(b)  
+to distribute, import for distribution, broadcast, communicate, or make 
+available to the public copies of works, performances, or phonograms, 
+knowing that electronic rights management information has been removed or 
+altered without authority.  
+ 
+2. 
+In providing adequate legal protection and effective legal remedies pursuant to 
+paragraph 1, a Party may adopt or maintain appropriate limitations or exceptions to 
+measures implementing paragraph 1. The obligations under paragraph 1 are without 
+prejudice to the rights, limitations, exceptions or defences to copyright or related 
+rights infringement under a Party’s domestic law. 
+ 
+SUBSECTION 15-B-2 
+TRADEMARKS 
+ 
+Article 15.9 
+International Agreements 
+ 
+Each Party shall make all reasonable efforts to comply with the Trademark Law Treaty (done 
+at Geneva on 27 October 1994) and the Singapore Treaty on the Law of Trademarks (adopted 
+in Singapore on 27 March 2006).5  
+ 
+Article 15.10 
+Registration Procedure 
+ 
+Each Party shall provide for a system for the registration of trademarks in which the relevant 
+trademark administration shall give reasons for a refusal to register a trademark in writing. 
+The applicant shall have the opportunity to appeal against such refusal before a judicial 
+authority. Each Party shall introduce the possibility for third parties to oppose trademark 
+applications. Each Party shall provide a publicly available electronic database of trademark 
+applications and trademark registrations.  
+ 
+Article 15.11 
+Well-Known Trademarks 
+ 
+The Parties shall protect well-known trademarks in accordance with the TRIPS Agreement. In 
+determining whether a trademark is well-known, the Parties agree to take into consideration 
+the Joint Recommendation Concerning Provisions on the Protection of Well-Known Marks 
+                                                                                                                                                                                     
+(c)  
+any number or codes that represent the information described in subparagraphs (a) and (b), 
+when any of these items of information is attached to a copy of a work, performance, or 
+phonogram, or appears in connection with the communication or making available of a work, 
+performance or phonogram to the public. 
+ 
+5  
+Singapore is a party to the Singapore Treaty on the Law of Trademarks. Turkey shall make all 
+ 
+reasonable efforts to facilitate accession to the said Treaty. 
+Chapter 15 – Intellectual Property 
+ 
+15-5 
+ 
+(adopted by the Assembly of the Paris Union for the Protection of Industrial Property and the 
+General Assembly of the WIPO at the Thirty-Fourth Series of Meetings of the Assemblies of 
+the Member States of WIPO on 20 to 29 September 1999). 
+ 
+Article 15.12 
+Exceptions to the Rights Conferred by a Trademark 
+ 
+Each Party: 
+  
+(a) 
+shall provide for the fair use of descriptive terms6 as a limited exception to the 
+rights conferred by trademarks; and 
+ 
+(b) 
+may provide for other limited exceptions,  
+ 
+provided that these exceptions take account of the legitimate interests of the owners of the 
+trademarks and of third parties. 
+ 
+SUBSECTION 15-B-3 
+GEOGRAPHICAL INDICATIONS7 
+ 
+Article 15.13 
+Scope 
+ 
+1. 
+This Subsection applies to the recognition and protection of geographical indications 
+for goods originating in the territories of the Parties. 
+ 
+2. 
+Geographical indications of a Party to be protected by the other Party shall only be 
+subject to this Subsection if they are recognised and declared as geographical 
+indications in their country of origin. 
+ 
+Article 15.14 
+System of Protection of Geographical Indications 
+ 
+With the recognition of the importance of the protection of geographical indications, each 
+Party shall provide a system for the protection of geographical indications in accordance with 
+Section 3 (Geographical Indications), Part II of the TRIPS Agreement and protect the 
+geographical indications of the other Party in accordance with its legislation8.  
+ 
+SUBSECTION 15-B-4 
+                                                           
+6 
+The fair use of descriptive terms includes the use of a sign to indicate the geographic origin of the 
+ 
+goods or services, and where such use is in accordance with honest practices in industrial or 
+ 
+commercial matters. 
+ 
+7 
+For the purposes of this Chapter, “geographical indications” means indications which identify a good 
+ 
+as originating in the territory of a Party, or a region or locality in that territory, where a given quality, 
+ 
+reputation or other characteristic of the good is essentially attributable to its geographical origin. 
+ 
+8  
+For greater certainty, the Parties acknowledge that geographical indications will be recognised and 
+ 
+protected by the Parties only to the extent permitted by and according to the terms and conditions set 
+ 
+out in their respective domestic laws. 
+ 
+Chapter 15 – Intellectual Property 
+ 
+15-6 
+ 
+DESIGNS 
+ 
+Article 15.15 
+Requirements for Protection of Registered Designs 
+ 
+1. 
+The Parties shall provide for the protection of independently created designs that are 
+new or original.9 This protection shall be provided by registration and shall confer 
+exclusive rights upon their holders in accordance with the provisions of this 
+Subsection.10 
+ 
+2. 
+Design protection shall not extend to designs dictated essentially by technical or 
+functional considerations. 
+ 
+3. 
+A design right shall not subsist in a design which is contrary to public order or to 
+accepted principles of morality.11 
+ 
+Article 15.16 
+Rights Conferred by Registration 
+ 
+The owner of a protected design shall have the right to prevent third parties, not having the 
+owner’s consent, from at least making, offering for sale, selling or importing articles bearing 
+or embodying a design which is a copy, or substantially a copy, of the protected design, when 
+such acts are undertaken for commercial purposes.  
+ 
+Article 15.17 
+Term of Protection 
+ 
+The duration of protection available shall be consistent with Article 26.3 of the TRIPS 
+Agreement.  
+ 
+Article 15.18 
+Exceptions 
+ 
+The Parties may provide limited exceptions to the protection of designs, provided that such 
+exceptions do not unreasonably conflict with the normal exploitation of protected designs and 
+do not unreasonably prejudice the legitimate interests of the owner of the protected design, 
+taking account of the legitimate interests of third parties. 
+                                                           
+9  
+The Parties agree that when the domestic law of a Party so provides, individual character of designs 
+ 
+can also be required. This refers to designs that significantly differ from known designs or 
+ 
+combinations of known designs’ features.  
+ 
+10  
+It is understood that designs are not excluded from protection simply on the basis that they constitute a 
+ 
+part of an article or product, provided that they are visible, fulfil the criteria of this paragraph, and: 
+ 
+(a) 
+fulfil any other criteria for design protection; and 
+ 
+(b) 
+are not otherwise excluded from design protection,  
+ 
+ 
+under the Parties’ respective domestic law. 
+ 
+11  
+Nothing in this Article precludes either Party from providing other specified exclusions from design 
+ 
+protection under its domestic law. The Parties understand that such exclusions shall not be extensive. 
+Chapter 15 – Intellectual Property 
+ 
+15-7 
+ 
+ 
+SUBSECTION 15-B-5 
+PATENTS 
+ 
+Article 15.19 
+International Agreements 
+ 
+The Parties recall the obligations under the Patent Cooperation Treaty (done at Washington 
+on 19 June 1970, amended on 28 September 1979 and modified on 3 February 1984). The 
+Parties shall, where appropriate, make all reasonable efforts to comply with Article 1 to 
+Article 16 of the Patent Law Treaty (adopted in Geneva on 1 June 2000) in a manner 
+consistent with their domestic law and procedures.  
+ 
+Article 15.20 
+Patents and Public Health 
+ 
+1. 
+The Parties recognise the importance of the Declaration on the TRIPS Agreement and 
+Public Health (adopted in Doha on 14 November 2001 by the Ministerial Conference 
+of the WTO). In interpreting and implementing the rights and obligations under this 
+Subsection and Subsection 15-B-6 (Protection of Test Data), the Parties shall ensure 
+consistency with this Declaration. 
+ 
+2. 
+The Parties shall respect the Decision of the WTO General Council of 30 August 2003 
+on Implementation of Paragraph 6 of the Doha Declaration on the TRIPS Agreement 
+and Public Health, as well as the Decision of the WTO General Council of 6 
+December 2005 on Amendment of the TRIPS Agreement, adopting the Protocol 
+Amending the TRIPS Agreement. 
+ 
+SUBSECTION 15-B-6 
+PROTECTION OF TEST DATA 
+ 
+Article 15.21 
+Protection of Test Data Submitted to Obtain an Administrative Marketing Approval to 
+put an Agricultural Chemical Product on the Market 
+ 
+1. 
+When a Party requires the submission of test data or studies concerning the safety and 
+efficacy of an agricultural chemical product prior to granting an approval for the 
+marketing of such product in that Party, the Party shall not, for a period of at least 
+seven years from the date of approval, permit third parties to market the same or a 
+similar product, on the basis of the marketing approval granted to the party which had 
+provided the test data or studies, unless the party which had provided the test data or 
+studies has given its consent. 
+ 
+2. 
+Where a Party provides for measures or procedures to avoid duplicative testing on 
+vertebrate animals with respect to agricultural chemical products, that Party may 
+provide for the conditions and circumstances under which third parties may market the 
+same or similar product, on the basis of the marketing approval granted to the party 
+which had provided the test data or studies. 
+ 
+Chapter 15 – Intellectual Property 
+ 
+15-8 
+ 
+3. 
+Where a Party requires the submission of test data or studies concerning the safety or 
+efficacy of an agricultural chemical product prior to granting an approval for the 
+marketing of such product, the Party shall endeavour to make best efforts to process 
+the application expeditiously with a view to avoiding unreasonable delays. 
+ 
+SUBSECTION 15-B-7 
+PLANT VARIETIES  
+ 
+Article 15.22 
+International Agreements 
+ 
+The Parties reaffirm their obligations under the International Convention for the Protection of 
+New Varieties of Plants (adopted in Paris on 2 December 1961, as last revised in Geneva on 
+19 March 1991), including their ability to implement the optional exception to the breeder’s 
+right, as referred to in paragraph 2 of Article 15 of the Convention. 
+ 
+ SECTION 15-C 
+ENFORCEMENT 
+ 
+Article 15.23 
+Enforcement of Intellectual Property Rights 
+ 
+            The Parties shall provide suitable and effective protection of intellectual and industrial 
+property rights in line with the TRIPS Agreement and other international agreements to which 
+both Parties are party. The Parties shall ensure enforcement procedures as specified in Part III 
+of the TRIPS Agreement so as to permit effective action against any act of infringement of 
+intellectual property rights. 
+ 
+SECTION 15-D 
+COOPERATION 
+ 
+Article 15.24 
+Cooperation 
+ 
+1. 
+The Parties agree to cooperate with a view to supporting the implementation of the 
+commitments and obligations undertaken in this Chapter. Areas of cooperation 
+include, but are not limited to, the following activities: 
+ 
+(a)  
+the granting of patents on the basis of applications filed by applicants of a 
+Party in the other Party; 
+ 
+(b)  
+exchange of information on legal frameworks concerning intellectual property 
+rights, including implementation of intellectual property legislation and 
+systems, aimed at promoting the efficient registration of intellectual property 
+rights; 
+ 
+(c) 
+exchange, between respective authorities responsible for the enforcement of 
+intellectual property rights, of their experiences and best practices concerning 
+enforcement of intellectual property rights; 
+ 
+Chapter 15 – Intellectual Property 
+ 
+15-9 
+ 
+(d) 
+exchange of information and cooperation on public outreach and appropriate 
+initiatives to promote awareness of the benefits of intellectual property rights 
+and systems; 
+ 
+(e) 
+capacity-building and technical cooperation in relation, but not limited, to: 
+management, licensing, valuation and exploitation of intellectual property 
+rights; technology and market intelligence; facilitation of industry 
+collaborations, including on intellectual property rights that may be applied 
+towards environmental conservation or enhancement which may include 
+establishing a platform or database; and public private partnerships to support 
+culture and innovation; 
+ 
+(f)   
+exchange of information and cooperation on intellectual property issues, where 
+appropriate and relevant to developments in environmentally friendly 
+technology; and 
+ 
+(g) 
+any other areas of cooperation or activities as may be discussed and agreed 
+between the Parties. 
+ 
+2.  
+Without prejudice to paragraph 1, the Parties agree to designate a contact point for the 
+purpose of maintaining dialogue including, where useful, convening meetings on 
+intellectual property issues between their respective technical experts on matters 
+covered by this Chapter. 
+ 
+3. 
+Cooperation under this Chapter shall be carried out subject to each Party’s laws, rules, 
+regulations, directives or policies. Cooperation shall also be on mutually agreed terms 
+and conditions and be subject to the availability of resources of each Party. 

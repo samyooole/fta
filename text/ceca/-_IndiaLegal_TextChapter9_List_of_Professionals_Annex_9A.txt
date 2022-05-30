@@ -1,1 +1,271 @@
- 551 Annex 9A  LIST OF PROFESSIONALS  S/N Occupational Title 1 System Designer & Analyst 2 Network System & Data Communication Analyst 3 Software Engineer 4 Computer and Information Systems Manager 5 Computer Operations and Network Manager 6 Application Programmer 7 Systems Programmer 8 Multi-media Programmer 9 Network System & Database Administrator 10 Database Administrator 11 Information Technology Auditor 12 Information Technology Security Specialist 13 Information Technology Quality Assurance Specialist 14 Building Architect 15 Interior Architect 16 Landscape Architect 17 Town Planner 18 Civil Engineer (General) 19 Dredging Engineer 20 Dock and Harbour Construction Engineer 21 Structural Engineer (General) 22 Building Construction Engineer 23 Sewerage & Sanitary Engineer 24 Soil Mechanic & Piling Engineer 25 Trenchless Technology Engineer 26 Quantity Surveying Engineer 27 Transportation and Highways Engineer 28 Electrical Engineer (General) 29 Electromechanical Equipment Engineer 30 Electrical Traction Engineer 31 Power Generation & Distribution Engineer 32 Lift Engineer 33 Electronics Engineer (General) 34 Telecommunications Engineer 35 Computer Engineer 36 Computer Systems Engineer 37 Computer Applications Engineer 38 Computer Hardware Design Engineer 39 Semi-conductor Engineer 40 Audio & Video Equipment Engineer  552 S/N Occupational Title 41 Instrumentation Engineer 42 Mechanical Engineer (General) 43 Industrial Machinery & Tools Engineer 44 Marine Engineer 45 Ship Construction Engineer 46 Naval Architect 47 Aeronautical Engineer 48 Automotive Engineer 49 Air-conditioning & Refrigeration Engineer 50 Chemical Engineer (General) 51 Chemical Engineer (Petroleum) 52 Chemical Engineer (Petrochemicals) 53 Manufacturing Engineer (General) 54 Production Engineer 55 Automation Engineer 56 Robotic Engineer 57 Biomedical Engineer 58 Biochemical Engineer 59 Biotechnology Engineer 60 Materials Engineer 61 Industrial Health, Safety & Environment Engineer 62 Petroleum & Natural Gas Engineer 63 Metallurgist 64 Quantity Surveyor 65 Ceramics and Glass Technologist 66 Food and Drink Technologist 67 Dairy Technologist 68 Leather Technologist 69 Textile Technologist 70 Oil Technologist 71 Pulp, Paper, Paint and Plastics Technologist 72 Biologist (General) 73 Botanist  74 Zoologist 75 Anatomist 76 Biochemist 77 Physiologist 78 Neurologist 79 Medical Pathologist 80 Clinical Pathologist 81 Veterinary Pathologist 82 Pharmacologist 83 Animal Scientist 84 Microbiologist  553 S/N Occupational Title 85 Bacteriologist 86 Immunologist 87 General Physician 88 General Surgeon 89 Specialised Surgeon 90 Anaesthetist 91 Psychiatrist 92 Obstetrician & Gynaecologist 93 Paediatrician 94 Endocrinologist 95 Dermatologist 96 Ophthalmologist 97 Cardiologist 98 Radiologist 99 Industrial Physician 100 Medical Service Physician (School) 101 Public Health Physician 102 Dentist (General) 103 Specialised Dentist 104 Veterinarian 105 Veterinary Epidemiologist 106 Pharmacist (Dispensing) 107 Other Pharmacists 108 University Lecturer  109 Polytechnic Lecturer 110 Accountant 111 Cost Accountant 112 Company Secretaries (who are Accountants) 113 Taxation Professionals (who are Accountants) 114 Auditor (Accounting) 115 Career Adviser 116 Financial Analyst 117 Credit Analyst 118 Fund Manager 119 Treasury Manager 120 Market Research Analyst 121 Advertising Account Executive 122 Economist 123 Sociologist 124 Anthropologist 125 Historian 126 Political Scientist 127 Psychologist  
+ 
+551 
+Annex 9A 
+ 
+LIST OF PROFESSIONALS 
+ 
+S/N 
+Occupational Title 
+1 
+System Designer & Analyst 
+2 
+Network System & Data Communication Analyst 
+3 
+Software Engineer 
+4 
+Computer and Information Systems Manager 
+5 
+Computer Operations and Network Manager 
+6 
+Application Programmer 
+7 
+Systems Programmer 
+8 
+Multi-media Programmer 
+9 
+Network System & Database Administrator 
+10 
+Database Administrator 
+11 
+Information Technology Auditor 
+12 
+Information Technology Security Specialist 
+13 
+Information Technology Quality Assurance Specialist 
+14 
+Building Architect 
+15 
+Interior Architect 
+16 
+Landscape Architect 
+17 
+Town Planner 
+18 
+Civil Engineer (General) 
+19 
+Dredging Engineer 
+20 
+Dock and Harbour Construction Engineer 
+21 
+Structural Engineer (General) 
+22 
+Building Construction Engineer 
+23 
+Sewerage & Sanitary Engineer 
+24 
+Soil Mechanic & Piling Engineer 
+25 
+Trenchless Technology Engineer 
+26 
+Quantity Surveying Engineer 
+27 
+Transportation and Highways Engineer 
+28 
+Electrical Engineer (General) 
+29 
+Electromechanical Equipment Engineer 
+30 
+Electrical Traction Engineer 
+31 
+Power Generation & Distribution Engineer 
+32 
+Lift Engineer 
+33 
+Electronics Engineer (General) 
+34 
+Telecommunications Engineer 
+35 
+Computer Engineer 
+36 
+Computer Systems Engineer 
+37 
+Computer Applications Engineer 
+38 
+Computer Hardware Design Engineer 
+39 
+Semi-conductor Engineer 
+40 
+Audio & Video Equipment Engineer 
+ 
+552 
+S/N 
+Occupational Title 
+41 
+Instrumentation Engineer 
+42 
+Mechanical Engineer (General) 
+43 
+Industrial Machinery & Tools Engineer 
+44 
+Marine Engineer 
+45 
+Ship Construction Engineer 
+46 
+Naval Architect 
+47 
+Aeronautical Engineer 
+48 
+Automotive Engineer 
+49 
+Air-conditioning & Refrigeration Engineer 
+50 
+Chemical Engineer (General) 
+51 
+Chemical Engineer (Petroleum) 
+52 
+Chemical Engineer (Petrochemicals) 
+53 
+Manufacturing Engineer (General) 
+54 
+Production Engineer 
+55 
+Automation Engineer 
+56 
+Robotic Engineer 
+57 
+Biomedical Engineer 
+58 
+Biochemical Engineer 
+59 
+Biotechnology Engineer 
+60 
+Materials Engineer 
+61 
+Industrial Health, Safety & Environment Engineer 
+62 
+Petroleum & Natural Gas Engineer 
+63 
+Metallurgist 
+64 
+Quantity Surveyor 
+65 
+Ceramics and Glass Technologist 
+66 
+Food and Drink Technologist 
+67 
+Dairy Technologist 
+68 
+Leather Technologist 
+69 
+Textile Technologist 
+70 
+Oil Technologist 
+71 
+Pulp, Paper, Paint and Plastics Technologist 
+72 
+Biologist (General) 
+73 
+Botanist  
+74 
+Zoologist 
+75 
+Anatomist 
+76 
+Biochemist 
+77 
+Physiologist 
+78 
+Neurologist 
+79 
+Medical Pathologist 
+80 
+Clinical Pathologist 
+81 
+Veterinary Pathologist 
+82 
+Pharmacologist 
+83 
+Animal Scientist 
+84 
+Microbiologist 
+ 
+553 
+S/N 
+Occupational Title 
+85 
+Bacteriologist 
+86 
+Immunologist 
+87 
+General Physician 
+88 
+General Surgeon 
+89 
+Specialised Surgeon 
+90 
+Anaesthetist 
+91 
+Psychiatrist 
+92 
+Obstetrician & Gynaecologist 
+93 
+Paediatrician 
+94 
+Endocrinologist 
+95 
+Dermatologist 
+96 
+Ophthalmologist 
+97 
+Cardiologist 
+98 
+Radiologist 
+99 
+Industrial Physician 
+100 
+Medical Service Physician (School) 
+101 
+Public Health Physician 
+102 
+Dentist (General) 
+103 
+Specialised Dentist 
+104 
+Veterinarian 
+105 
+Veterinary Epidemiologist 
+106 
+Pharmacist (Dispensing) 
+107 
+Other Pharmacists 
+108 
+University Lecturer  
+109 
+Polytechnic Lecturer 
+110 
+Accountant 
+111 
+Cost Accountant 
+112 
+Company Secretaries (who are Accountants) 
+113 
+Taxation Professionals (who are Accountants) 
+114 
+Auditor (Accounting) 
+115 
+Career Adviser 
+116 
+Financial Analyst 
+117 
+Credit Analyst 
+118 
+Fund Manager 
+119 
+Treasury Manager 
+120 
+Market Research Analyst 
+121 
+Advertising Account Executive 
+122 
+Economist 
+123 
+Sociologist 
+124 
+Anthropologist 
+125 
+Historian 
+126 
+Political Scientist 
+127 
+Psychologist 
+ 

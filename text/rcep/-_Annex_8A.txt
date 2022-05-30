@@ -1,1 +1,642 @@
- 8A-1 ANNEX 8A  FINANCIAL SERVICES   Article 1: Definitions  For the purposes of this Annex:  (a) financial institution means any financial intermediary or other juridical person that is authorised to do business and regulated or supervised as a financial institution, under the laws and regulations of the Party in whose territory it is located;  (b) financial service means any service of a financial nature offered by a financial service supplier of a Party.  Financial services include all insurance and insurance-related services, and all banking and other financial services (excluding insurance).  Financial services include the following activities:  Insurance and insurance-related services  (i) direct insurance (including co-insurance):  (A) life; and  (B) non-life;  (ii) reinsurance and retrocession;  (iii) insurance intermediation, such as brokerage and agency;  (iv) services auxiliary to insurance, such as consultancy, actuarial, risk assessment, and claim settlement services;  Banking and other financial services (excluding insurance)   (v) acceptance of deposits and other repayable funds from the public;   8A-2 (vi) lending of all types, including consumer credit, mortgage credit, factoring, and financing of commercial transaction;  (vii) financial leasing;  (viii) all payment and money transmission services, including credit, charge and debit cards, travellers cheques, and bankers drafts;  (ix) guarantees and commitments;  (x) trading for own account or for account of customers, whether on an exchange, in an over-the-counter market or otherwise, the following:  (A) money market instruments (including cheques, bills, certificates of deposits);  (B) foreign exchange;  (C) derivative products including futures and options;  (D) exchange rate and interest rate instruments, including products such as swaps and forward rate agreements;  (E) transferable securities; and  (F) other negotiable instruments and financial assets, including bullion;  (xi) participation in issues of all kinds of securities, including underwriting and placement as agent (whether publicly or privately) and provision of services related to such issues;  (xii) money broking;  (xiii) asset management, such as cash or portfolio management, all forms of collective investment management, pension fund management, custodial, depository, and trust services;   8A-3 (xiv) settlement and clearing services for financial assets, including securities, derivative products, and other negotiable instruments;  (xv) provision and transfer of financial information, and financial data processing and related software by suppliers of other financial services; and  (xvi) advisory, intermediation and other auxiliary financial services on all the activities listed in subparagraphs (v) through (xv), including credit reference and analysis, investment and portfolio research and advice, advice on acquisitions and on corporate restructuring and strategy;  (c) financial service supplier means any natural person or juridical person of a Party seeking to supply or supplying financial services but the term “financial service supplier” does not include a public entity;   (d) new financial service means any financial service which is not supplied in the territory of a Party but is supplied and regulated in the territory of any other Party.  This may include a service related to current and new products, or the manner in which a product is delivered;  (e) public entity means:  (i) a government, a central bank, or a monetary authority, of a Party, or an entity owned or controlled by a Party, that is principally engaged in carrying out governmental functions or activities for governmental purposes, not including an entity principally engaged in supplying financial services on commercial terms; or  (ii) a private entity, performing functions normally performed by a central bank or monetary authority, when exercising those functions; and  (f) self-regulatory organisation means any non-governmental body, including any securities or futures exchange or market, clearing or payment settlement agency, or other organisation or association, that:   8A-4 (i) is recognised as a self-regulatory organisation and exercises regulatory or supervisory authority over financial service suppliers or financial institutions by legislation or delegation from central, regional, or local governments or authorities; or  (ii) exercises regulatory or supervisory authority over financial service suppliers or financial institutions by legislation or delegation from central, regional, or local governments or authorities.   Article 2: Scope   1. This Annex shall apply to measures by a Party affecting the supply of financial services.  Reference to the supply of a financial service in this Annex shall mean the supply of a service as defined in subparagraph (r) of Article 8.1 (Definitions).  2. For the purposes of subparagraph (l) of Article 8.1 (Definitions) and subparagraph 2(c) of Article 10.2 (Scope), “services supplied in the exercise of governmental authority” means the following:  (a) activities conducted by a central bank or monetary authority or by any other public entity in pursuit of monetary or exchange rate policies;1  (b) activities forming part of a statutory system of social security or public retirement plans; or  (c) other activities conducted by a public entity for the account or with the guarantee or using the financial resources of the government.  If a Party allows any of the activities referred to in subparagraph (b) or (c) to be conducted by its financial service suppliers in competition with a public entity or a financial service supplier, “services” shall include such activities.  3. Subparagraph (o) of Article 8.1 (Definitions) and the definition set out in subparagraph 2(c) of Article 10.2 (Scope) shall not apply to services covered by this Annex.   1 Activities referred to in this subparagraph include any regulatory and enforcement activities conducted in pursuit of monetary or exchange rate policies.  8A-5 4. Article 8.11 (Local Presence) shall not apply to services covered by this Annex.  5. In the event of any inconsistency between this Annex and any other provision in this Agreement, this Annex shall prevail to the extent of the inconsistency.   Article 3: New Financial Services  1. Each host Party shall endeavour to permit financial institutions of another Party established in the territory of the host Party to supply a new financial service in the territory of the host Party that the host Party would permit its own financial institutions, in like circumstances, to supply without adopting a law or modifying an existing law.2  2. Where an application is approved, the supply of the new financial service is subject to relevant licensing, institutional or juridical form, or other requirements of the host Party.   Article 4: Prudential Measures  Notwithstanding any other provision of this Agreement, a Party shall not be prevented from adopting or maintaining measures for prudential reasons,3 including for the protection of investors, depositors, policy-holders, or persons to whom a fiduciary duty is owed by a financial service supplier, or to ensure the integrity and stability of the financial system.  Where such measures do not conform with the provisions of this Agreement, they shall not be used as a means of avoiding the Party’s commitments or obligations under this Agreement.   Article 5: Treatment of Certain Information  Nothing in this Agreement shall be construed to require a Party to disclose information relating to the affairs and accounts of individual   2 For greater certainty, a Party may issue a new regulation or other subordinate measure in permitting the supply of the new financial service.  3 The Parties understand that “prudential reasons” includes the maintenance of the safety, soundness, integrity, or financial responsibility of individual financial institutions or financial service suppliers, as well as the safety and financial and operational integrity of payment and clearing systems.  8A-6 customers, or any confidential or proprietary information in the possession of public entities.   Article 6: Recognition  1. A Party may recognise prudential measures of any international standard-setting body, another Party, or a non-Party in determining how its measures relating to financial services shall be applied.4  Such recognition, which may be achieved through harmonisation or otherwise, may be based on an agreement or arrangement with the international standard-setting body, other Party, or non-Party concerned, or may be accorded autonomously.  2. A Party that is party to an agreement or arrangement referred to in paragraph 1, whether existing or future, shall afford adequate opportunity for other interested Parties, to negotiate their accession to such an agreement or arrangement, or to negotiate  comparable ones with it, under circumstances in which there would be equivalent regulation, oversight, implementation of such regulation, and, if appropriate, procedures concerning the sharing of information between the parties to the agreement or arrangement.  3. Where a Party accords recognition autonomously, it shall afford adequate opportunity for any other Party to demonstrate that the circumstances referred to in paragraph 2 exist.   Article 7: Transparency  1. The Parties recognise that transparent measures governing the activities of financial service suppliers are important in facilitating their ability to gain access to, and operate in, each other’s markets.  Each Party commits to promote regulatory transparency in financial services.    4 For greater certainty, nothing in Article 8.6 (Most-Favoured-Nation Treatment) shall be construed to require a Party to accord such recognition to prudential measures of any other Party.   8A-7 2. Each Party shall ensure that all measures of general application to which this Annex applies are administered in a reasonable, objective, and impartial manner.  3. Each Party shall ensure that measures of general application adopted or maintained by a Party are promptly published, or otherwise made publicly available.5  4. To the extent practicable, each Party shall:  (a) publish or make available to interested persons6 in advance any regulation of general application relating to this Annex that it proposes to adopt, and the purpose of such regulation; and  (b) provide interested persons and other Parties with a reasonable opportunity to comment on such proposed regulation.  5. To the extent practicable, each Party should allow a reasonable period of time between the date of publication of any final regulation of general application and the date when it enters into effect.  6. Each Party shall take such reasonable measures as may be available to it to ensure that the rules of general application adopted or maintained by a self-regulatory organisation of the Party are promptly published or otherwise made available.7  7. Each Party shall maintain or establish appropriate mechanisms for responding to enquiries from interested persons of another Party regarding measures of general application covered by this Annex.  8. A Party’s regulatory authority shall make available to interested persons of another Party its requirements, including any documentation required, for completing applications relating to the supply of financial services.   5 For greater certainty, each Party may publish such information in its chosen language.  6 For the purposes of this Article, the Parties confirm their shared understanding that “interested persons” are persons whose direct financial interest could potentially be affected by the adoption of the regulations of general application.  7 For greater certainty, each Party may publish such information in its chosen language.  8A-8 9. On request of an applicant in writing, a Party’s regulatory authority shall inform the applicant of the status of its application.  If the authority requires additional information from the applicant, it shall notify the applicant without undue delay.  10. A Party’s regulatory authority shall make an administrative decision on a complete application of a financial service supplier of another Party relating to the supply of a financial service within 180 days, and shall notify the applicant of the decision without undue delay.  An application shall not be considered complete until all relevant proceedings are conducted and all necessary information is received.  Where it is not practicable for such a decision to be made within 180 days, the regulatory authority shall notify the applicant without undue delay and shall endeavour to make the decision within a reasonable period of time thereafter.  11. On request of an unsuccessful applicant in writing, a Party’s regulatory authority that has denied an application shall, to the extent practicable, inform the applicant of the reasons for the denial of the application.   Article 8: Financial Services Exceptions  For greater certainty, nothing in this Annex shall be construed to prevent a Party from adopting or enforcing measures necessary to secure compliance with laws or regulations that are not inconsistent with this Annex, including those relating to the prevention of deceptive and fraudulent practices or to deal with the effects of a default on financial services contracts, subject to the requirement that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination between Parties or between Parties and non-Parties where like conditions prevail, or a disguised restriction on investment in financial institutions or trade in financial services.   Article 9: Transfers of Information and Processing of Information   1. The Parties recognise that each Party may have its own regulatory requirements concerning the transfer of information and the processing of information.8  8 For greater certainty, a Party may adopt a different regulatory approach, and this paragraph does not affect and is without prejudice to a Party’s rights and obligations under this Article.    8A-9  2. A Party shall not take measures that prevent:  (a) transfers of information, including transfers of data by electronic or other means, necessary for the conduct of the ordinary business of a financial service supplier in its territory; or  (b) processing of information necessary for the conduct of the ordinary business of a financial service supplier in its territory.  3. Nothing in paragraph 2 prevents a regulatory authority of a Party, for regulatory or prudential reasons, from requiring a financial service supplier in its territory to comply with its laws and regulations in relation to data management and storage and system maintenance, as well as to retain within its territory copies of records, provided that such requirements shall not be used as a means of avoiding the Party’s commitments or obligations under this Agreement.  4. Nothing in paragraph 2 restricts the right of a Party to protect personal data, personal privacy, and the confidentiality of individual records and accounts including in accordance with its laws and regulations, provided that such a right shall not be used as a means of avoiding the Party’s commitments or obligations under this Agreement.  5. Nothing in paragraph 2 shall be construed to require a Party to allow the cross-border supply or consumption abroad of services in relation to which it has not made commitments, including to allow non-resident suppliers of financial services to supply, as a principal, through an intermediary or as an intermediary, the provision and transfer of financial information and financial data processing as referred to in subparagraph (b)(xv) of Article 1 (Definitions).   Article 10: Self-Regulatory Organisations  If a Party requires a financial institution of another Party to be a member of, participate in, or have access to a self-regulatory organisation to provide a financial service in its territory, that Party shall ensure that the self-regulatory organisation observes that Party’s obligations under Article 8.4 (National Treatment).   8A-10 Article 11: Payment and Clearing Systems  Under the terms and conditions that accord national treatment, each Party shall grant financial institutions of another Party established in its territory access to payment and clearing systems operated by public entities, and to official funding and refinancing facilities available in the normal course of ordinary business.  This Article is not intended to confer access to the Party’s lender of last resort facilities.9   Article 12: Consultations  1. A Party may request consultations with another Party regarding any matter arising under this Agreement that affects financial services.  The other Party shall consider such a request.  2. Consultations under this Article shall include the relevant representatives of the contact points specified in Article 13 (Contact Points).   Article 13: Contact Points  1. For the purposes of this Annex, the contact points for financial services are:  (a) for Australia, the Department of the Treasury and the Department of Foreign Affairs and Trade and, as necessary, officials from the relevant regulatory authorities, including the Australian Prudential Regulation Authority, the Reserve Bank of Australia, and the Australian Securities and Investment Commission;  (b) for Brunei Darussalam, the Ministry of Finance and Economy and Autoriti Monetari Brunei Darussalam;  (c) for Cambodia, the Ministry of Economy and Finance, the Securities Exchange Commission of Cambodia, the National Bank of Cambodia, and the Ministry of Commerce;   9 For greater certainty, a Party need not grant access under this Article to a financial institution of another Party established in its territory if such access or treatment is not granted to its own like financial institutions.  8A-11 (d) for China, the People’s Bank of China, the China Banking and Insurance Regulatory Commission, and the China Securities Regulatory Commission;  (e) for Indonesia, the Ministry of Trade, the Ministry of Finance, the Indonesia Financial Services Authority (OJK), and Bank Indonesia;  (f) for Japan, the Ministry of Foreign Affairs, the Financial Services Agency, or their successors;  (g) for Korea, the Financial Services Commission, and the Ministry of Trade, Industry and Energy;  (h) for Lao PDR, the Bank of the Lao PDR, the Ministry of Finance, and the Lao Securities Commission Office;  (i) for Malaysia, Bank Negara Malaysia and the Securities Commission Malaysia;  (j) for Myanmar, the Ministry of Planning, Finance and Industry, the Central Bank of Myanmar, the Securities and Exchange Commission of Myanmar, and the Ministry of Commerce;  (k) for New Zealand, the Ministry of Foreign Affairs and Trade, in coordination with financial services regulators;  (l) for the Philippines, the Department of Finance, the Bangko Sentral ng Pilipinas, the Securities and Exchange Commission, and the Insurance Commission;  (m) for Singapore, the Monetary Authority of Singapore;  (n) for Thailand, the Ministry of Finance, the Bank of Thailand, the Securities and Exchange Commission, and the Office of Insurance Commission; and  (o) for Viet Nam, the Ministry of Industry and Trade, the State Bank of Viet Nam, and the Ministry of Finance.  2. A Party shall promptly notify the other Parties of any change of its contact point.      8A-12 Article 14: Dispute Settlement  Panels established pursuant to Chapter 19 (Dispute Settlement) for disputes on prudential issues and other financial matters shall have the necessary expertise relevant to the specific financial service under dispute.   
+ 
+8A-1 
+ANNEX 8A 
+ 
+FINANCIAL SERVICES 
+ 
+ 
+Article 1: Definitions 
+ 
+For the purposes of this Annex: 
+ 
+(a) 
+financial institution means any financial intermediary or 
+other juridical person that is authorised to do business and 
+regulated or supervised as a financial institution, under the 
+laws and regulations of the Party in whose territory it is 
+located; 
+ 
+(b) 
+financial service means any service of a financial nature 
+offered by a financial service supplier of a Party.  Financial 
+services include all insurance and insurance-related 
+services, and all banking and other financial services 
+(excluding insurance).  Financial services include the 
+following activities: 
+ 
+Insurance and insurance-related services 
+ 
+(i) 
+direct insurance (including co-insurance): 
+ 
+(A) 
+life; and 
+ 
+(B) 
+non-life; 
+ 
+(ii) 
+reinsurance and retrocession; 
+ 
+(iii) 
+insurance intermediation, such as brokerage and 
+agency; 
+ 
+(iv) 
+services 
+auxiliary 
+to 
+insurance, 
+such 
+as 
+consultancy, actuarial, risk assessment, and claim 
+settlement services; 
+ 
+Banking and other financial services (excluding 
+insurance)  
+ 
+(v) 
+acceptance of deposits and other repayable funds 
+from the public; 
+ 
+ 
+8A-2 
+(vi) 
+lending of all types, including consumer credit, 
+mortgage credit, factoring, and financing of 
+commercial transaction; 
+ 
+(vii) 
+financial leasing; 
+ 
+(viii) 
+all payment and money transmission services, 
+including credit, charge and debit cards, travellers 
+cheques, and bankers drafts; 
+ 
+(ix) 
+guarantees and commitments; 
+ 
+(x) 
+trading for own account or for account of customers, 
+whether on an exchange, in an over-the-counter 
+market or otherwise, the following: 
+ 
+(A) 
+money 
+market 
+instruments 
+(including 
+cheques, bills, certificates of deposits); 
+ 
+(B) 
+foreign exchange; 
+ 
+(C) 
+derivative products including futures and 
+options; 
+ 
+(D) 
+exchange rate and interest rate instruments, 
+including products such as swaps and 
+forward rate agreements; 
+ 
+(E) 
+transferable securities; and 
+ 
+(F) 
+other negotiable instruments and financial 
+assets, including bullion; 
+ 
+(xi) 
+participation in issues of all kinds of securities, 
+including underwriting and placement as agent 
+(whether publicly or privately) and provision of 
+services related to such issues; 
+ 
+(xii) 
+money broking; 
+ 
+(xiii) 
+asset management, such as cash or portfolio 
+management, all forms of collective investment 
+management, pension fund management, custodial, 
+depository, and trust services; 
+ 
+ 
+8A-3 
+(xiv) settlement and clearing services for financial assets, 
+including securities, derivative products, and other 
+negotiable instruments; 
+ 
+(xv) 
+provision and transfer of financial information, and 
+financial data processing and related software by 
+suppliers of other financial services; and 
+ 
+(xvi) advisory, intermediation and other auxiliary financial 
+services on all the activities listed in subparagraphs 
+(v) through (xv), including credit reference and 
+analysis, investment and portfolio research and 
+advice, advice on acquisitions and on corporate 
+restructuring and strategy; 
+ 
+(c) 
+financial service supplier means any natural person or 
+juridical person of a Party seeking to supply or supplying 
+financial services but the term “financial service supplier” 
+does not include a public entity;  
+ 
+(d) 
+new financial service means any financial service which 
+is not supplied in the territory of a Party but is supplied and 
+regulated in the territory of any other Party.  This may 
+include a service related to current and new products, or 
+the manner in which a product is delivered; 
+ 
+(e) 
+public entity means: 
+ 
+(i) 
+a government, a central bank, or a monetary 
+authority, of a Party, or an entity owned or controlled 
+by a Party, that is principally engaged in carrying out 
+governmental 
+functions 
+or 
+activities 
+for 
+governmental purposes, not including an entity 
+principally engaged in supplying financial services 
+on commercial terms; or 
+ 
+(ii) 
+a private entity, performing functions normally 
+performed by a central bank or monetary authority, 
+when exercising those functions; and 
+ 
+(f) 
+self-regulatory 
+organisation 
+means 
+any 
+non-
+governmental body, including any securities or futures 
+exchange or market, clearing or payment settlement 
+agency, or other organisation or association, that: 
+ 
+ 
+8A-4 
+(i) 
+is recognised as a self-regulatory organisation and 
+exercises regulatory or supervisory authority over 
+financial service suppliers or financial institutions by 
+legislation or delegation from central, regional, or 
+local governments or authorities; or 
+ 
+(ii) 
+exercises regulatory or supervisory authority over 
+financial service suppliers or financial institutions by 
+legislation or delegation from central, regional, or 
+local governments or authorities. 
+ 
+ 
+Article 2: Scope  
+ 
+1. 
+This Annex shall apply to measures by a Party affecting the 
+supply of financial services.  Reference to the supply of a financial 
+service in this Annex shall mean the supply of a service as defined 
+in subparagraph (r) of Article 8.1 (Definitions). 
+ 
+2. 
+For the purposes of subparagraph (l) of Article 8.1 (Definitions) 
+and subparagraph 2(c) of Article 10.2 (Scope), “services supplied 
+in the exercise of governmental authority” means the following: 
+ 
+(a) 
+activities conducted by a central bank or monetary 
+authority or by any other public entity in pursuit of monetary 
+or exchange rate policies;1 
+ 
+(b) 
+activities forming part of a statutory system of social 
+security or public retirement plans; or 
+ 
+(c) 
+other activities conducted by a public entity for the account 
+or with the guarantee or using the financial resources of the 
+government. 
+ 
+If a Party allows any of the activities referred to in subparagraph 
+(b) or (c) to be conducted by its financial service suppliers in 
+competition with a public entity or a financial service supplier, 
+“services” shall include such activities. 
+ 
+3. 
+Subparagraph (o) of Article 8.1 (Definitions) and the definition set 
+out in subparagraph 2(c) of Article 10.2 (Scope) shall not apply to 
+services covered by this Annex. 
+ 
+ 
+1 Activities referred to in this subparagraph include any regulatory and enforcement 
+activities conducted in pursuit of monetary or exchange rate policies. 
+ 
+8A-5 
+4. 
+Article 8.11 (Local Presence) shall not apply to services covered 
+by this Annex. 
+ 
+5. 
+In the event of any inconsistency between this Annex and any 
+other provision in this Agreement, this Annex shall prevail to the 
+extent of the inconsistency. 
+ 
+ 
+Article 3: New Financial Services 
+ 
+1. 
+Each host Party shall endeavour to permit financial institutions of 
+another Party established in the territory of the host Party to 
+supply a new financial service in the territory of the host Party that 
+the host Party would permit its own financial institutions, in like 
+circumstances, to supply without adopting a law or modifying an 
+existing law.2 
+ 
+2. 
+Where an application is approved, the supply of the new financial 
+service is subject to relevant licensing, institutional or juridical 
+form, or other requirements of the host Party. 
+ 
+ 
+Article 4: Prudential Measures 
+ 
+Notwithstanding any other provision of this Agreement, a Party shall not 
+be prevented from adopting or maintaining measures for prudential 
+reasons,3 including for the protection of investors, depositors, policy-
+holders, or persons to whom a fiduciary duty is owed by a financial 
+service supplier, or to ensure the integrity and stability of the financial 
+system.  Where such measures do not conform with the provisions of 
+this Agreement, they shall not be used as a means of avoiding the 
+Party’s commitments or obligations under this Agreement. 
+ 
+ 
+Article 5: Treatment of Certain Information 
+ 
+Nothing in this Agreement shall be construed to require a Party to 
+disclose information relating to the affairs and accounts of individual 
+ 
+ 
+2 For greater certainty, a Party may issue a new regulation or other subordinate 
+measure in permitting the supply of the new financial service. 
+ 
+3 The Parties understand that “prudential reasons” includes the maintenance of the 
+safety, soundness, integrity, or financial responsibility of individual financial institutions 
+or financial service suppliers, as well as the safety and financial and operational 
+integrity of payment and clearing systems. 
+ 
+8A-6 
+customers, or any confidential or proprietary information in the 
+possession of public entities. 
+ 
+ 
+Article 6: Recognition 
+ 
+1. 
+A Party may recognise prudential measures of any international 
+standard-setting body, another Party, or a non-Party in 
+determining how its measures relating to financial services shall 
+be applied.4  Such recognition, which may be achieved through 
+harmonisation or otherwise, may be based on an agreement or 
+arrangement with the international standard-setting body, other 
+Party, 
+or 
+non-Party 
+concerned, 
+or 
+may 
+be 
+accorded 
+autonomously. 
+ 
+2. 
+A Party that is party to an agreement or arrangement referred to 
+in paragraph 1, whether existing or future, shall afford adequate 
+opportunity for other interested Parties, to negotiate their 
+accession to such an agreement or arrangement, or to negotiate  
+comparable ones with it, under circumstances in which there 
+would be equivalent regulation, oversight, implementation of such 
+regulation, and, if appropriate, procedures concerning the sharing 
+of information between the parties to the agreement or 
+arrangement. 
+ 
+3. 
+Where a Party accords recognition autonomously, it shall afford 
+adequate opportunity for any other Party to demonstrate that the 
+circumstances referred to in paragraph 2 exist. 
+ 
+ 
+Article 7: Transparency 
+ 
+1. 
+The Parties recognise that transparent measures governing the 
+activities of financial service suppliers are important in facilitating 
+their ability to gain access to, and operate in, each other’s 
+markets.  Each Party commits to promote regulatory transparency 
+in financial services. 
+ 
+ 
+ 
+4 For greater certainty, nothing in Article 8.6 (Most-Favoured-Nation Treatment) shall 
+be construed to require a Party to accord such recognition to prudential measures of 
+any other Party. 
+ 
+ 
+8A-7 
+2. 
+Each Party shall ensure that all measures of general application 
+to which this Annex applies are administered in a reasonable, 
+objective, and impartial manner. 
+ 
+3. 
+Each Party shall ensure that measures of general application 
+adopted or maintained by a Party are promptly published, or 
+otherwise made publicly available.5 
+ 
+4. 
+To the extent practicable, each Party shall: 
+ 
+(a) 
+publish or make available to interested persons6 in 
+advance any regulation of general application relating to 
+this Annex that it proposes to adopt, and the purpose of 
+such regulation; and 
+ 
+(b) 
+provide interested persons and other Parties with a 
+reasonable opportunity to comment on such proposed 
+regulation. 
+ 
+5. 
+To the extent practicable, each Party should allow a reasonable 
+period of time between the date of publication of any final 
+regulation of general application and the date when it enters into 
+effect. 
+ 
+6. 
+Each Party shall take such reasonable measures as may be 
+available to it to ensure that the rules of general application 
+adopted or maintained by a self-regulatory organisation of the 
+Party are promptly published or otherwise made available.7 
+ 
+7. 
+Each Party shall maintain or establish appropriate mechanisms 
+for responding to enquiries from interested persons of another 
+Party regarding measures of general application covered by this 
+Annex. 
+ 
+8. 
+A Party’s regulatory authority shall make available to interested 
+persons of another Party its requirements, including any 
+documentation required, for completing applications relating to 
+the supply of financial services. 
+ 
+ 
+5 For greater certainty, each Party may publish such information in its chosen language. 
+ 
+6 For the purposes of this Article, the Parties confirm their shared understanding that 
+“interested persons” are persons whose direct financial interest could potentially be 
+affected by the adoption of the regulations of general application. 
+ 
+7 For greater certainty, each Party may publish such information in its chosen language. 
+ 
+8A-8 
+9. 
+On request of an applicant in writing, a Party’s regulatory authority 
+shall inform the applicant of the status of its application.  If the 
+authority requires additional information from the applicant, it shall 
+notify the applicant without undue delay. 
+ 
+10. 
+A Party’s regulatory authority shall make an administrative 
+decision on a complete application of a financial service supplier 
+of another Party relating to the supply of a financial service within 
+180 days, and shall notify the applicant of the decision without 
+undue delay.  An application shall not be considered complete 
+until all relevant proceedings are conducted and all necessary 
+information is received.  Where it is not practicable for such a 
+decision to be made within 180 days, the regulatory authority shall 
+notify the applicant without undue delay and shall endeavour to 
+make the decision within a reasonable period of time thereafter. 
+ 
+11. 
+On request of an unsuccessful applicant in writing, a Party’s 
+regulatory authority that has denied an application shall, to the 
+extent practicable, inform the applicant of the reasons for the 
+denial of the application. 
+ 
+ 
+Article 8: Financial Services Exceptions 
+ 
+For greater certainty, nothing in this Annex shall be construed to prevent 
+a Party from adopting or enforcing measures necessary to secure 
+compliance with laws or regulations that are not inconsistent with this 
+Annex, including those relating to the prevention of deceptive and 
+fraudulent practices or to deal with the effects of a default on financial 
+services contracts, subject to the requirement that such measures are 
+not applied in a manner which would constitute a means of arbitrary or 
+unjustifiable discrimination between Parties or between Parties and non-
+Parties where like conditions prevail, or a disguised restriction on 
+investment in financial institutions or trade in financial services. 
+ 
+ 
+Article 9: Transfers of Information and Processing of Information  
+ 
+1. 
+The Parties recognise that each Party may have its own 
+regulatory requirements concerning the transfer of information 
+and the processing of information.8 
+ 
+8 For greater certainty, a Party may adopt a different regulatory approach, and this 
+paragraph does not affect and is without prejudice to a Party’s rights and obligations 
+under this Article.  
+ 
+ 
+8A-9 
+ 
+2. 
+A Party shall not take measures that prevent: 
+ 
+(a) 
+transfers of information, including transfers of data by 
+electronic or other means, necessary for the conduct of the 
+ordinary business of a financial service supplier in its 
+territory; or 
+ 
+(b) 
+processing of information necessary for the conduct of the 
+ordinary business of a financial service supplier in its 
+territory. 
+ 
+3. 
+Nothing in paragraph 2 prevents a regulatory authority of a Party, 
+for regulatory or prudential reasons, from requiring a financial 
+service supplier in its territory to comply with its laws and 
+regulations in relation to data management and storage and 
+system maintenance, as well as to retain within its territory copies 
+of records, provided that such requirements shall not be used as 
+a means of avoiding the Party’s commitments or obligations under 
+this Agreement. 
+ 
+4. 
+Nothing in paragraph 2 restricts the right of a Party to protect 
+personal data, personal privacy, and the confidentiality of 
+individual records and accounts including in accordance with its 
+laws and regulations, provided that such a right shall not be used 
+as a means of avoiding the Party’s commitments or obligations 
+under this Agreement. 
+ 
+5. 
+Nothing in paragraph 2 shall be construed to require a Party to 
+allow the cross-border supply or consumption abroad of services 
+in relation to which it has not made commitments, including to 
+allow non-resident suppliers of financial services to supply, as a 
+principal, through an intermediary or as an intermediary, the 
+provision and transfer of financial information and financial data 
+processing as referred to in subparagraph (b)(xv) of Article 1 
+(Definitions). 
+ 
+ 
+Article 10: Self-Regulatory Organisations 
+ 
+If a Party requires a financial institution of another Party to be a member 
+of, participate in, or have access to a self-regulatory organisation to 
+provide a financial service in its territory, that Party shall ensure that the 
+self-regulatory organisation observes that Party’s obligations under 
+Article 8.4 (National Treatment). 
+ 
+ 
+8A-10 
+Article 11: Payment and Clearing Systems 
+ 
+Under the terms and conditions that accord national treatment, each 
+Party shall grant financial institutions of another Party established in its 
+territory access to payment and clearing systems operated by public 
+entities, and to official funding and refinancing facilities available in the 
+normal course of ordinary business.  This Article is not intended to confer 
+access to the Party’s lender of last resort facilities.9 
+ 
+ 
+Article 12: Consultations 
+ 
+1. 
+A Party may request consultations with another Party regarding 
+any matter arising under this Agreement that affects financial 
+services.  The other Party shall consider such a request. 
+ 
+2. 
+Consultations under this Article shall include the relevant 
+representatives of the contact points specified in Article 13 
+(Contact Points). 
+ 
+ 
+Article 13: Contact Points 
+ 
+1. 
+For the purposes of this Annex, the contact points for financial 
+services are: 
+ 
+(a) 
+for Australia, the Department of the Treasury and the 
+Department of Foreign Affairs and Trade and, as 
+necessary, officials from the relevant regulatory authorities, 
+including the Australian Prudential Regulation Authority, 
+the Reserve Bank of Australia, and the Australian 
+Securities and Investment Commission; 
+ 
+(b) 
+for Brunei Darussalam, the Ministry of Finance and 
+Economy and Autoriti Monetari Brunei Darussalam; 
+ 
+(c) 
+for Cambodia, the Ministry of Economy and Finance, the 
+Securities Exchange Commission of Cambodia, the 
+National Bank of Cambodia, and the Ministry of 
+Commerce; 
+ 
+ 
+9 For greater certainty, a Party need not grant access under this Article to a financial 
+institution of another Party established in its territory if such access or treatment is not 
+granted to its own like financial institutions. 
+ 
+8A-11 
+(d) 
+for China, the People’s Bank of China, the China Banking 
+and Insurance Regulatory Commission, and the China 
+Securities Regulatory Commission; 
+ 
+(e) 
+for Indonesia, the Ministry of Trade, the Ministry of 
+Finance, the Indonesia Financial Services Authority (OJK), 
+and Bank Indonesia; 
+ 
+(f) 
+for Japan, the Ministry of Foreign Affairs, the Financial 
+Services Agency, or their successors; 
+ 
+(g) 
+for Korea, the Financial Services Commission, and the 
+Ministry of Trade, Industry and Energy; 
+ 
+(h) 
+for Lao PDR, the Bank of the Lao PDR, the Ministry of 
+Finance, and the Lao Securities Commission Office; 
+ 
+(i) 
+for Malaysia, Bank Negara Malaysia and the Securities 
+Commission Malaysia; 
+ 
+(j) 
+for Myanmar, the Ministry of Planning, Finance and 
+Industry, the Central Bank of Myanmar, the Securities and 
+Exchange Commission of Myanmar, and the Ministry of 
+Commerce; 
+ 
+(k) 
+for New Zealand, the Ministry of Foreign Affairs and Trade, 
+in coordination with financial services regulators; 
+ 
+(l) 
+for the Philippines, the Department of Finance, the Bangko 
+Sentral ng Pilipinas, the Securities and Exchange 
+Commission, and the Insurance Commission; 
+ 
+(m) 
+for Singapore, the Monetary Authority of Singapore; 
+ 
+(n) 
+for Thailand, the Ministry of Finance, the Bank of Thailand, 
+the Securities and Exchange Commission, and the Office 
+of Insurance Commission; and 
+ 
+(o) 
+for Viet Nam, the Ministry of Industry and Trade, the State 
+Bank of Viet Nam, and the Ministry of Finance. 
+ 
+2. 
+A Party shall promptly notify the other Parties of any change of its 
+contact point. 
+ 
+ 
+ 
+ 
+ 
+8A-12 
+Article 14: Dispute Settlement 
+ 
+Panels established pursuant to Chapter 19 (Dispute Settlement) for 
+disputes on prudential issues and other financial matters shall have the 
+necessary expertise relevant to the specific financial service under 
+dispute. 
+ 
+ 

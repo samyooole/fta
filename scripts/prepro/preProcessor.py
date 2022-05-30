@@ -1,3 +1,16 @@
+# some pre-steps for mac.... cry
+import nltk
+import ssl
+
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+nltk.download()
+
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from corpusManagement import getcorpusbyParas
@@ -10,15 +23,26 @@ text = getcorpusbyParas('text')
 text = [item for item in text if item != '']
 
 """
-choice of functions here will be very important - for instance, is it realistically feasible to catch numbers through nlp?
-NOTE: the order somehow matters. source code isn't written well. because some functions like remove_number take in and spit out string, but others like remove_stopword will take in and spit out list? i think
+we perform the pre-processing one step by one step since it doesn't need to be automated. also, when combined together, the package text-preprocessing has very poor speed
 """
-preprocess_functions = [to_lower, check_spelling, expand_contraction, remove_number, remove_special_character,remove_punctuation, remove_whitespace, normalize_unicode, remove_single_characters, remove_stopword, stem_word, lemmatize_word]
+preprocess_functions = [to_lower, check_spelling, expand_contraction, remove_number, remove_whitespace, remove_single_characters]
 
-pp_text=[]
-for i, item in enumerate(text): # so i can keep track of progress
-    pp_text.append(preprocess_text(item, preprocess_functions))
-    print(i/len(text))
+def processor(func, text):
+    output_list = []
+    for i, item in enumerate(text): # so i can keep track of progress
+        x=func(item)
+        output_list.append(x)
+        if (i/len(text) * 100) % 5 == 0:
+            print(i/len(text))
+
+    return output_list
+
+
+# lower casing of text
+text_after_to_lower = processor(to_lower, text)
+
+# check spelling of text
+text_after_expansion= processor(expand_contraction, text_after_to_lower)
 
 
 # save as pickle, takes a long time

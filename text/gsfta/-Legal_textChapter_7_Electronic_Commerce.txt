@@ -1,1 +1,123 @@
-65 CHAPTER 7 ELECTRONIC COMMERCE  ARTICLE 7.1 General  The Parties recognise the economic growth and opportunity provided by electronic commerce and the importance of avoiding barriers to its use and development.    ARTICLE 7.2 Definitions  For the purposes of this Chapter:  (a)  carrier medium means any physical object capable of storing a digital product by any method now known or later developed, and from which a digital product can be perceived, reproduced, or communicated, directly or indirectly, and includes, but is not limited to, an optical medium, a floppy disk, or a magnetic tape;  (b) digital products means computer programmes, text, video, images, sound recordings and other products that are digitally encoded, regardless of whether they are fixed on a carrier medium or transmitted electronically;91  (c) electronic transmission or transmitted electronically means the transfer of digital products using any electromagnetic or photonic means; and  (d) using electronic means, means employing computer processing.   ARTICLE 7.3 Electronic Supply of Services  The Parties agree that delivery by electronic means is to be considered as the supply of services using electronic means, within the meaning of the Chapter 5 (Trade in Services).   ARTICLE 7.4 Digital Products  1.  A Party shall not apply customs duties or other duties, fees, or charges on or in connection with the importation or exportation of digital products by electronic transmission.102                                              9  For greater clarity, digital products do not include digitized representations of financial instruments. 10  Paragraph 1 of this Article does not preclude a Party from imposing internal taxes or other internal 66  2.  Each Party shall determine the customs value of an imported carrier medium bearing a digital product according to the cost or value of the carrier medium alone, without regard to the cost or value of the digital product stored on the carrier medium.  3.  A Party shall not accord less favourable treatment to some digital products than it accords to other like digital products:  (a)  on the basis that  (i)  the digital products receiving less favorable treatment are created, produced, published, stored, transmitted, contracted for, commissioned, or first made available on commercial terms, outside its territory; or   (ii)  the author, performer, producer, developer, or distributor of such digital products is a person of the other Party or a non-Party; or  (b)  so as otherwise to afford protection to the other like digital products that are created, produced, published, stored, transmitted, contracted for, commissioned, or first made available on commercial terms, in its territory.  4. A Party shall not accord less favourable treatment to digital products:    (a) created, produced, published, stored, transmitted, contracted for, commissioned, or first made available on commercial terms in the territory of the other Party than it accords to like digital products created, produced, published, stored, transmitted, contracted for, commissioned, or first made available on commercial terms, in the territory of a non-Party.   (b)  whose author, performer, producer, developer, or distributor is a person of the other Party than it accords to like digital products whose author, performer, producer, developer, or distributor is a person of a non-Party.  5. Paragraphs 3 and 4 of this Article are subject to relevant exceptions or reservations set out in this Agreement or its Annexes, if any.   6.  This Chapter does not apply to measures affecting the electronic transmission of a series of text, video, images, sound recordings, and other products scheduled by a content provider for aural and/or visual reception, and for                                                                                                                                charges provided that these are imposed in a manner consistent with this Agreement.  67 which the content consumer has no choice over the scheduling of the series.    
+65 
+CHAPTER 7 
+ELECTRONIC COMMERCE 
+ 
+ARTICLE 7.1 
+General 
+ 
+The Parties recognise the economic growth and opportunity provided by electronic 
+commerce and the importance of avoiding barriers to its use and development.  
+ 
+ 
+ARTICLE 7.2 
+Definitions 
+ 
+For the purposes of this Chapter: 
+ 
+(a)  
+carrier medium means any physical object capable of storing a digital 
+product by any method now known or later developed, and from which a 
+digital product can be perceived, reproduced, or communicated, directly 
+or indirectly, and includes, but is not limited to, an optical medium, a 
+floppy disk, or a magnetic tape; 
+ 
+(b) 
+digital products means computer programmes, text, video, images, sound 
+recordings and other products that are digitally encoded, regardless of 
+whether they are fixed on a carrier medium or transmitted electronically;91 
+ 
+(c) 
+electronic transmission or transmitted electronically means the transfer 
+of digital products using any electromagnetic or photonic means; and 
+ 
+(d) 
+using electronic means, means employing computer processing. 
+ 
+ 
+ARTICLE 7.3 
+Electronic Supply of Services 
+ 
+The Parties agree that delivery by electronic means is to be considered as the 
+supply of services using electronic means, within the meaning of the Chapter 5 
+(Trade in Services). 
+ 
+ 
+ARTICLE 7.4 
+Digital Products 
+ 
+1.  
+A Party shall not apply customs duties or other duties, fees, or charges on 
+or in connection with the importation or exportation of digital products by 
+electronic transmission.102 
+                                             
+9  For greater clarity, digital products do not include digitized representations of financial instruments. 
+10  Paragraph 1 of this Article does not preclude a Party from imposing internal taxes or other internal 
+66 
+ 
+2.  
+Each Party shall determine the customs value of an imported carrier 
+medium bearing a digital product according to the cost or value of the carrier 
+medium alone, without regard to the cost or value of the digital product stored on 
+the carrier medium. 
+ 
+3.  
+A Party shall not accord less favourable treatment to some digital products 
+than it accords to other like digital products: 
+ 
+(a)  on the basis that 
+ 
+(i)  
+the digital products receiving less favorable treatment are 
+created, 
+produced, 
+published, 
+stored, 
+transmitted, 
+contracted for, commissioned, or first made available on 
+commercial terms, outside its territory; or  
+ 
+(ii)  
+the author, performer, producer, developer, or distributor 
+of such digital products is a person of the other Party or a 
+non-Party; or 
+ 
+(b)  
+so as otherwise to afford protection to the other like digital products 
+that are created, produced, published, stored, transmitted, contracted 
+for, commissioned, or first made available on commercial terms, in 
+its territory. 
+ 
+4. 
+A Party shall not accord less favourable treatment to digital products: 
+ 
+  
+(a) 
+created, produced, published, stored, transmitted, contracted for, 
+commissioned, or first made available on commercial terms in the 
+territory of the other Party than it accords to like digital products 
+created, produced, published, stored, transmitted, contracted for, 
+commissioned, or first made available on commercial terms, in the 
+territory of a non-Party. 
+ 
+ 
+(b)  
+whose author, performer, producer, developer, or distributor is a 
+person of the other Party than it accords to like digital products 
+whose author, performer, producer, developer, or distributor is a 
+person of a non-Party. 
+ 
+5. 
+Paragraphs 3 and 4 of this Article are subject to relevant exceptions or 
+reservations set out in this Agreement or its Annexes, if any.  
+ 
+6.  
+This Chapter does not apply to measures affecting the electronic 
+transmission of a series of text, video, images, sound recordings, and other 
+products scheduled by a content provider for aural and/or visual reception, and for 
+                                                                                                                               
+charges provided that these are imposed in a manner consistent with this Agreement. 
+ 
+67 
+which the content consumer has no choice over the scheduling of the series. 
+  
+ 

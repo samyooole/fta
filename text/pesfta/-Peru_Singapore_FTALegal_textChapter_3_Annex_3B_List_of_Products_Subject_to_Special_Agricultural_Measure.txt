@@ -1,1 +1,131 @@
-ANNEX 3BList of Products Subject to Special Agricultural MeasureTariff Code (HS2007)Description0401100000Of a fat content, by weight, not exceeding 1 %0401200000Of a fat content, by weight, exceeding 1 % but not exceeding 6 %0401300000Of a fat content, by weight, exceeding 6 %0402101000In packing of a net content not exceeding 2,5 kg0402109000Other0402211100In packing of a net content not exceeding 2,5 kg0402211900Other0402219100In packing of a net content not exceeding 2,5 kg0402219900Other0402291100In packing of a net content not exceeding 2,5 kg0402291900Other0402299100In packing of a net content not exceeding 2,5 kg0402299900Other0402911000Evaporated milk0402919000Other0402991000Condensed milk0402999000Other0403901000Buttermilk0403909010Flavoured or containing added fruit, nuts or cocoa, whether or not containing added sugar or other sweetening matter0403909090Other0404109000Other0405100000Butter0405902000Dehydrated dairy oil ("butteroil")0405909000Other0406200000Grated or powdered cheese, of all kinds0406300000Processed cheese, not grated or powdered0406904000Containing less than 50%  by weight of humidity calculated on a totally defatted basis0406905000Containing not less than 50% but less than 56% by weight of humidity calculated on a totally defatted basis0406906000Containing not less than 56% but less than 69% by weight of humidity calculated on a totally defatted basis0406909000Other1005901100Yellow1005901200White1005909000Other1006109000Other1006200000Husked (brown) rice1006300000Semi-milled or wholly milled rice, whether or not polished or glazed1006400000Broken rice1007009000Other1103130000Of maize (corn)1108120000Maize (corn) starch1108130000Potato starch1507901000Containing added denatured substances in a proportion not exceding 1%  1507909000Other1511100000Crude oil1511900000Other1701119000Other1701120000Beet sugar1701999000Other1702302000Glucose syrup1702600000Other fructose and fructose syrup, containing in the dry state more than 50 % by weight of fructose, excluding invert sugar1702902000Caramel1702903000Sugars containing added flavouring or colouring matter1702904000Other syrups1901902000Milk caramel or milk sweet (Manjar blanco)1901909000Other2105001000Icecreams, not containing lacteous fat2105009000Other2106907900Other2106909000Other2309909000Other3505100000Dextrins and other modified starches
+ANNEX 3B
+List of Products Subject to Special Agricultural Measure
+Tariff Code 
+(HS2007)
+Description
+0401100000
+Of a fat content, by weight, not exceeding 1 %
+0401200000
+Of a fat content, by weight, exceeding 1 % but not exceeding 6 %
+0401300000
+Of a fat content, by weight, exceeding 6 %
+0402101000
+In packing of a net content not exceeding 2,5 kg
+0402109000
+Other
+0402211100
+In packing of a net content not exceeding 2,5 kg
+0402211900
+Other
+0402219100
+In packing of a net content not exceeding 2,5 kg
+0402219900
+Other
+0402291100
+In packing of a net content not exceeding 2,5 kg
+0402291900
+Other
+0402299100
+In packing of a net content not exceeding 2,5 kg
+0402299900
+Other
+0402911000
+Evaporated milk
+0402919000
+Other
+0402991000
+Condensed milk
+0402999000
+Other
+0403901000
+Buttermilk
+0403909010
+Flavoured or containing added fruit, nuts or cocoa, whether or not containing added sugar or 
+other sweetening matter
+0403909090
+Other
+0404109000
+Other
+0405100000
+Butter
+0405902000
+Dehydrated dairy oil ("butteroil")
+0405909000
+Other
+0406200000
+Grated or powdered cheese, of all kinds
+0406300000
+Processed cheese, not grated or powdered
+0406904000
+Containing less than 50%  by weight of humidity calculated on a totally defatted basis
+0406905000
+Containing not less than 50% but less than 56% by weight of humidity calculated on a totally 
+defatted basis
+0406906000
+Containing not less than 56% but less than 69% by weight of humidity calculated on a totally 
+defatted basis
+0406909000
+Other
+1005901100
+Yellow
+1005901200
+White
+1005909000
+Other
+1006109000
+Other
+1006200000
+Husked (brown) rice
+1006300000
+Semi-milled or wholly milled rice, whether or not polished or glazed
+1006400000
+Broken rice
+1007009000
+Other
+1103130000
+Of maize (corn)
+1108120000
+Maize (corn) starch
+1108130000
+Potato starch
+1507901000
+Containing added denatured substances in a proportion not exceding 1%  
+1507909000
+Other
+1511100000
+Crude oil
+1511900000
+Other
+1701119000
+Other
+1701120000
+Beet sugar
+1701999000
+Other
+1702302000
+Glucose syrup
+1702600000
+Other fructose and fructose syrup, containing in the dry state more than 50 % by weight of 
+fructose, excluding invert sugar
+1702902000
+Caramel
+1702903000
+Sugars containing added flavouring or colouring matter
+1702904000
+Other syrups
+1901902000
+Milk caramel or milk sweet (Manjar blanco)
+1901909000
+Other
+2105001000
+Icecreams, not containing lacteous fat
+2105009000
+Other
+2106907900
+Other
+2106909000
+Other
+2309909000
+Other
+3505100000
+Dextrins and other modified starches

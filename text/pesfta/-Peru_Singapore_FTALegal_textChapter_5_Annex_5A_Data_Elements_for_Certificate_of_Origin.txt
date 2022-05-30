@@ -1,1 +1,39 @@
-ANNEX 5A : DATA ELEMENTS FOR CERTIFICATION OF ORIGIN The  data  elements  of  the  Certification  of  Origin  shall  be  as follows: 1. legal name, address (including city and country), of the exporter; 2. legal  name,  address  (including  city  and  country),  telephone number, fax number and email address of the producer, if known; 3. legal  name,  address  (including  city  and  country),  telephone number, fax number and email address of the importer, if known; 4. description of the good(s) for which preferential tariff treatment is claimed, which shall contain sufficient details to relate it to the invoice description  and  the  relevant  code  under  the  Harmonized  System nomenclature; 5. Harmonized  System  classification  at  the  six  digit  level  for  the good(s) for which preferential tariff treatment is claimed; 6. number and date of invoice; 7. country of origin; 8. origin criteria satisfied by the good(s), pursuant to paragraph 1(c) of Article 4.2 (Originating Goods), including, if it is the case, the detail of the change in tariff classification or the regional value content satisfied by the good(s); 9. date the Certification of Origin was signed; 10. name and  signature of the representative authorized by law to act on  behalf  of  the  producing  or  exporting  enterprise,  who  signs  the Certification of Origin, and the named enterprise shall be constituted and registered according to the national law; and 11. declaration by the exporter: we hereby declare that the details and statements provided in this Certification are true and correct. Signature, name, designation, date, stamp
+ANNEX 5A : DATA ELEMENTS FOR CERTIFICATION OF ORIGIN 
+The  data  elements  of  the  Certification  of  Origin  shall  be  as 
+follows: 
+1. 
+legal name, address (including city and country), of the exporter; 
+2. 
+legal  name,  address  (including  city  and  country),  telephone 
+number, fax number and email address of the producer, if known; 
+3. 
+legal  name,  address  (including  city  and  country),  telephone 
+number, fax number and email address of the importer, if known; 
+4. 
+description of the good(s) for which preferential tariff treatment is 
+claimed, which shall contain sufficient details to relate it to the invoice 
+description  and  the  relevant  code  under  the  Harmonized  System 
+nomenclature; 
+5. 
+Harmonized  System  classification  at  the  six  digit  level  for  the 
+good(s) for which preferential tariff treatment is claimed; 
+6. 
+number and date of invoice; 
+7. 
+country of origin; 
+8. 
+origin criteria satisfied by the good(s), pursuant to paragraph 1(c) 
+of Article 4.2 (Originating Goods), including, if it is the case, the detail of 
+the change in tariff classification or the regional value content satisfied by 
+the good(s); 
+9. 
+date the Certification of Origin was signed; 
+10. 
+name and  signature of the representative authorized by law to act 
+on  behalf  of  the  producing  or  exporting  enterprise,  who  signs  the 
+Certification of Origin, and the named enterprise shall be constituted and 
+registered according to the national law; and 
+11. 
+declaration by the exporter: we hereby declare that the details and 
+statements provided in this Certification are true and correct. 
+Signature, name, designation, date, stamp

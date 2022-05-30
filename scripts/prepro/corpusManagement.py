@@ -26,7 +26,7 @@ def givemeDocuments(corpusfolder):
     path = 'C:\\Users\\Samuel\\fta'
     os.chdir(corpusfolder)
     for folder in os.listdir():
-        if folder.endswith(".gitkeep"):
+        if folder.startswith("."): # assumption is that management files that we want to ignore begin with .
             continue
         os.chdir(folder)
         for file in os.listdir():

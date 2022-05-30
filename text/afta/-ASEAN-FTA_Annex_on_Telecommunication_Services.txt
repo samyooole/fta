@@ -1,1 +1,913 @@
-   61  ANNEX ON TELECOMMUNICATION SERVICES   Article 1 Scope  1. This Annex shall apply to measures by a Member State affecting trade in public telecommunications transport networks and services.  2. This Annex shall not apply to measures affecting broadcasting services as defined in the domestic laws and regulations of each Member State.  3. Nothing in this Annex shall be construed to:  (a) require a Member State to authorise a service supplier of another Member State to establish, construct, acquire, lease, operate or supply telecommunications transport networks or services, unless otherwise in accordance with its Schedule of Non-Conforming Measures under this Agreement; or  (b) require a Member State (or require a Member State to oblige service suppliers under its jurisdiction) to establish, construct, acquire, lease, operate or supply telecommunications transport networks or services not offered to the public generally.   Article 2 Definitions  For the purposes of this Annex, the term:  (a) “cost-oriented” means based on cost, and may include a reasonable profit, and may involve different cost methodologies for different facilities or services;     62  (b) “end user” means a subscriber to or a final consumer of public telecommunications transport networks or services, including a service supplier other than a supplier of public telecommunications transport networks or services;  (c) “essential facilities” means facilities of a public telecommunications transport network or service that:  (i) are exclusively or predominantly provided by a single or limited number of suppliers; and  (ii) cannot feasibly be economically or technically substituted in order to provide a service;  (d) “international mobile roaming service” means a commercial mobile service provided pursuant to a commercial agreement between suppliers of public telecommunications transport networks or services that enables end users to use their home mobile handset or other device for voice, data or messaging services while outside the territory in which the end user’s home public telecommunications transport network is located;  (e) “international submarine cable landing station” means the premises1 where connection takes place with an international submarine cable system, as determined by the telecommunications regulatory body or other relevant competent authority or by a supplier of public telecommunications transport networks or services who owns or controls the premises, if required;                                         1 For Thailand, this may include other designated points of access.    63  (f) “leased circuits” means telecommunications facilities between two or more designated points that are set aside for the dedicated use of, or availability to, particular users;  (g) “major supplier” means a supplier which has the ability to materially affect the terms of participation, having regard to price and supply, in the relevant market for public telecommunications transport networks or services as a result of:  (i) control over essential facilities; or  (ii) use of its position in the market;  (h) “non-discriminatory” means treatment no less favourable than that accorded to any other user of like public telecommunications transport networks or services in like circumstances;  (i) “personal data” means any information about an identified or identifiable natural person;  (j) “public telecommunications transport network” means the public telecommunications infrastructure which permits telecommunications between and among defined network termination points;  (k) “public telecommunications transport service” means any telecommunications transport service required, explicitly or in effect, by a Member State to be offered to the public generally.  Such services may include, inter alia, telegraph, telephone, telex and data transmission typically involving transmission of customer-supplied information between two or more defined points without any end-to-end change in the form or content of the customer's information;     64  (l) “telecommunications” means the transmission and reception of signals by any electromagnetic means;   (m) “telecommunications regulatory body” means any body or bodies in the territory of a Member State which is or are responsible, under the domestic laws and regulations of that Member State, for the regulation of telecommunications; and  (n) “users” means end users or suppliers of public telecommunications transport networks or services.   Article 3 Access and Use  1. Each Member State shall ensure that any service supplier of another Member State is accorded access to and use of public telecommunications transport networks and services in a timely fashion and on transparent, reasonable and non-discriminatory terms and conditions unless otherwise in accordance with its Schedule of Non-Conforming Measures under this Agreement This obligation shall be applied, inter alia, through paragraphs 2 through 6.  2. Each Member State shall ensure that service suppliers of another Member State have access to and use of any public telecommunications transport network or service offered within or across the border of that Member State, including private leased circuits, and to this end shall ensure, subject to the provisions of paragraphs 5 and 6, that such suppliers are permitted to:  (a) purchase or lease and attach terminal or other equipment which interfaces with the network and which is necessary to supply their services;  (b) interconnect private leased or owned circuits with public telecommunications transport networks and    65  services or with circuits leased or owned by other service suppliers; and  (c) use operating protocols of their choice in the supply of any service, other than as necessary to ensure the availability of telecommunications transport networks and services to the public generally.  3. Each Member State shall ensure that service suppliers of another Member State may use public telecommunications transport networks and services for the movement of information within and across borders, including for intra-corporate communications of such service suppliers, and for access to information contained in data bases or otherwise stored in machine-readable form in the territory of any Member State.  4. Notwithstanding paragraph 3, a Member State may take measures as are necessary to:  (a) ensure the security and confidentiality of messages; or  (b) protect the personal data of end users of public telecommunications transport networks or services  provided that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination or a disguised restriction on trade in services.  5. Each Member State shall ensure that no condition is imposed on access to and use of public telecommunications transport networks and services other than as necessary to:  (a) safeguard the public service responsibilities of suppliers of public telecommunications transport networks and services, in particular their ability to    66  make their networks or services available to the public generally; or  (b) protect the technical integrity of public telecommunications transport networks or services.  6. Provided that they satisfy the criteria set out in paragraph 5, conditions for access to and use of public telecommunications transport networks and services may include:  (a) a requirement to use specified technical interfaces, including interface protocols, for interconnection with public telecommunications transport networks and services;  (b) requirements, where necessary, for the inter-operability of public telecommunications transport services and to encourage the achievement of the goals set out in Article 17 (Relation to International Organisations);  (c) type approval of terminal or other equipment which interfaces with public telecommunications transport networks and technical requirements relating to the attachment of such equipment to such networks;  (d) restrictions on interconnection of private leased or owned circuits with public telecommunications transport networks or services or with circuits leased or owned by other service suppliers; or  (e) notification, permit, registration and licensing.         67  Article 4 Number Portability  Each Member State shall endeavour to ensure that suppliers of public telecommunications transport networks or services in its territory provide number portability for mobile services in accordance with its domestic laws and regulations, to the extent technically and economically feasible, on a timely basis and on reasonable terms and conditions.   Article 5 Competitive Safeguard2  1. Each Member State shall adopt or maintain appropriate measures for the purpose of preventing suppliers who, alone or together, are a major supplier from engaging in or continuing anti-competitive practices.  2. The anti-competitive practices referred to in paragraph 1 shall include, in particular:  (a) engaging in anti-competitive cross-subsidisation;  (b) using information obtained from competitors with anti-competitive results; and  (c) not making available to other suppliers of public telecommunications transport networks or services, on a timely basis, technical information about essential facilities and commercially relevant information which are necessary for them to supply services.                                          2 Cambodia and Thailand commit to apply this Article by the end of 2019.    68  Article 6 Treatment by Major Suppliers  Each Member State shall ensure that a major supplier in its territory accords to suppliers of public telecommunications transport networks and services of another Member State treatment no less favourable than that such major supplier accords in like circumstances to its subsidiaries and affiliates, or any non-affiliated service suppliers regarding:  (a) the availability, provisioning, rates or quality of like telecommunications services; 3 and  (b) the availability of technical interfaces necessary for interconnection.   Article 7 Resale4  Each Member State shall ensure that any major supplier in its territory does not impose unreasonable or discriminatory conditions or limitations on the resale of the public telecommunications transport services by suppliers of public telecommunications transport networks or services of another Member State.                                            3 Indonesia commits to apply this subparagraph by the end of 2020. 4 Brunei Darussalam may require that licensees who purchase public telecommunication services on a wholesale basis only resell their services to an end user. Cambodia commits to apply this Article by the end of 2019. Indonesia commits to apply this Article once reflected in its domestic laws and regulations. Viet Nam commits to apply this Article by the end of 2020.    69  Article 8 Interconnection5  1. Each Member State shall ensure that suppliers of public telecommunications transport networks in its territory provide interconnection with the suppliers of public telecommunications transport networks or services of another Member State to the extent provided for in its domestic laws and regulations.  2. Each Member State shall ensure that a major supplier which has control over essential facilities in its territory provides interconnection for the facilities and equipment of suppliers of public telecommunications transport networks and services of another Member State at any technically feasible point in the network. Such interconnection shall be provided:  (a) under non-discriminatory terms, conditions (including technical standards and specifications) and rates and of a quality no less favourable than that provided for its own like services, or for like services of non-affiliated service suppliers or for its subsidiaries or other affiliates;  (b) in a timely fashion and on terms, conditions (including technical standards and specifications) and cost-oriented rates that are transparent, reasonable, having regard to economic feasibility, and sufficiently unbundled so that the supplier of public telecommunications transport networks or services of another Member State need not pay for network components or facilities that it does not require for the services to be provided; and                                         5 Cambodia commits to apply this Article by the end of 2019.    70  c) upon request, at points in addition to the network termination points offered to the majority of suppliers of public telecommunications transport networks and services, subject to charges that reflect the cost of construction of necessary additional facilities.  3. Each Member State shall ensure that suppliers of public telecommunications transport networks or services of another Member State may interconnect their facilities and equipment with those of major suppliers which have control over essential facilities in its territory pursuant to at least one of the following options:  (a) a reference interconnection offer, approved by the Member State’s telecommunications regulatory body, containing the rates, terms and conditions that the major supplier which has control over essential facilities offers generally to suppliers of public telecommunications transport services;  (b) the terms and conditions of an existing interconnection agreement; or   (c) a new interconnection agreement through commercial negotiation.  4. Each Member State shall ensure that the procedures applicable for interconnection to a major supplier are made publicly available.  5. Each Member State shall ensure that a major supplier in its territory makes publicly available either its interconnection agreements or reference interconnection offer.  6. Each Member State shall ensure that a major supplier which has control over essential facilities does not use or provide commercially sensitive or confidential information on suppliers of public telecommunications transport networks or services or end users thereof, which was acquired through its    71  interconnection business with telecommunications facilities of the suppliers of the public telecommunications transport networks or services, for purposes other than such interconnection business.   Article 9 Provisioning and Pricing of Leased Circuit Services 6  Each Member State shall ensure that a major supplier which has control over essential facilities in its territory provides suppliers of public telecommunications transport networks and services of another Member State with leased circuit services that are public telecommunications transport networks or services on terms and conditions, and at rates, that are reasonable, non-discriminatory and transparent.   Article 10 Co-location7  Each Member State shall ensure, in accordance with its domestic laws and regulations, that a major supplier which has control over essential facilities in its territory allows suppliers of public telecommunications transport networks or services of another Member State to locate their equipment within the major supplier’s buildings on terms and conditions, including technical feasibility and space availability where applicable, and at rates, that are reasonable, non-discriminatory (including with respect to timeliness) and transparent.                                        6 Cambodia commits to apply this Article by the end of 2019. Indonesia commits to apply this Article once reflected in its domestic laws and regulations. Viet Nam commits to apply this Article by the end of 2020. 7 Cambodia commits to apply this Article by the end of 2019. Indonesia commits to apply this Article once reflected in its domestic laws and regulations. Thailand commits to apply this Article by the end of 2019. Viet Nam commits to apply this Article by the end of 2020.    72    Article 11 Independent Telecommunications Regulatory Body  1. Each Member State shall ensure that its telecommunications regulatory body is separate from, and not accountable to, any supplier of public telecommunications services.  2. Each Member State shall ensure that the decisions of, and the procedures used by, its telecommunications regulatory body are impartial with respect to all market participants.   Article 12 Universal Service  Each Member State has the right to define the kind of universal service obligations it wishes to maintain. Such obligations shall not be regarded as anti-competitive per se, provided that they are administered in a transparent, non-discriminatory and competitively neutral manner, and are not more burdensome than necessary for the kind of universal service defined by the Member State.   Article 13 Licensing8  1. Where a licence, concession, permit, registration or other type of authorisation is required for the supply of public telecommunications transport networks or services, each Member State shall make publicly available:                                         8 Cambodia commits to apply this Article by the end of 2019.    73  (a) all the licensing or other authorisation criteria and procedures, and the period of time normally required to reach a decision concerning an application for a licence, concession, permit, registration or other type of authorisation; and  (b) the terms and conditions of individual licences, concessions, permits, registrations or other type of authorisations it has issued.9  2. The competent authority of a Member State shall notify an applicant of the outcome of its application, without undue delay, after a decision has been taken. In case a decision is taken to deny an application for a licence, concession, permit, registration or other type of authorisation, the competent authority of the Member State shall make known to the applicant, upon request, the reason for the denial.   Article 14 Allocation and Use of Scarce Resources10  1. Each Member State shall carry out its procedures for the allocation and use of scarce resources related to telecommunications, including frequencies and numbers, in an objective, timely, transparent and non-discriminatory manner.  2. Each Member State shall make publicly available the current state of allocated frequency bands, but shall not be required to provide detailed identification of frequencies allocated for specific government uses.  3. A Member State’s measures allocating and assigning spectrum and managing frequency are not measures that are                                        9 For greater certainty, the terms and conditions may not include licensee specific terms and conditions that contain confidential information. 10 Cambodia commits to apply this Article by the end of 2019.    74  per se inconsistent with Article 8 (Market Access) of this Agreement. Accordingly, each Member State retains the right to establish and apply spectrum and frequency management policies that have the effect of limiting the number of suppliers of public telecommunications transport networks or services, provided that it does so in a manner consistent with other provisions of this Agreement. Such right includes the ability to allocate frequency bands, taking into account current and future needs and spectrum availability.   Article 15 Transparency  Each Member State shall ensure that relevant information on conditions affecting access to and use of public telecommunications transport networks and services is publicly available, including: tariffs and other terms and conditions of service; specifications of technical interfaces with such networks and services; information on bodies responsible for the preparation and adoption of standards affecting such access and use; conditions applying to attachment of terminal or other equipment; and notifications, permit, registration or licensing requirements, if any.   Article 16 Settlement of Telecommunication Disputes  1. Each Member State shall ensure that suppliers of public telecommunications transport networks or services of another Member State may have timely recourse to its telecommunications regulatory body or dispute settlement body to settle disputes arising under this Annex in accordance with its domestic laws and regulations.  2. Each Member State shall ensure, in accordance with its domestic laws and regulations, that any supplier of public telecommunications transport networks or services aggrieved    75  by a determination or decision of its relevant telecommunications regulatory body may petition that body for reconsideration of that determination or decision. No Member State shall permit such a petition to constitute grounds for non-compliance with such determination or decision of the said body, unless an appropriate authority suspends or withdraws such determination or decision.  3. Each Member State shall ensure that any supplier of public telecommunications transport networks or services aggrieved by a final determination or decision of its relevant telecommunications regulatory body may obtain review of such determination or decision in accordance with its domestic laws and regulations.   Article 17 Relation to International Organisations  Member States recognise the importance of international standards for global compatibility and inter-operability of telecommunications networks and services and undertake to promote such standards through the work of relevant international bodies, including the International Telecommunication Union and the International Organization for Standardization.   Article 18 International Mobile Roaming  1. Member States shall endeavour to cooperate on promoting transparent and reasonable rates for international mobile roaming services that can help promote the growth of trade among the Member States and enhance consumer welfare.  2. A Member State may choose to take steps to enhance transparency and competition with respect to international    76  mobile roaming rates and technological alternatives to roaming services, such as:  (a) ensuring that information regarding retail rates is easily accessible to consumers; and  (b) minimising impediments to the use of technological alternatives to roaming, whereby consumers when visiting the territory of a Member State from the territory of another Member State can access telecommunications services using the device of their choice.  3. Member States recognise that a Member State may choose to promote competition with respect to international mobile roaming rates including through commercial arrangements, or to adopt or maintain measures affecting rates for wholesale and/or retail international roaming services with a view to ensuring the rates are reasonable.  If a Member State considers it appropriate, it may cooperate on and implement mechanisms with other Member States to facilitate the implementation of those measures, including but not limited to, by entering into arrangements with those Member States.  4. If a Member State (“the first Member State”) chooses to regulate rates or conditions for wholesale and/or retail international mobile roaming services, it shall ensure that a supplier of public telecommunications services of another Member State (“the second Member State”) has access to the regulated rates or conditions for wholesale and/or retail international mobile roaming services for its customers roaming in the territory of the first Member State if the second Member State has entered into an arrangement with the first Member State to reciprocally regulate rates or conditions for wholesale and/or retail international mobile roaming services    77  for suppliers of the two Member States.11  Notwithstanding, the first Member State may require suppliers of the second Member State to fully utilise commercial negotiations to reach agreement on the terms for accessing such rates or conditions.  5. A Member State that ensures access to regulated rates or conditions for wholesale and/or retail international mobile roaming services in accordance with paragraph 4, shall be deemed to be in compliance with Article 7 (Most-Favoured Nation Treatment) of this Agreement, and Article 3 (Access and Use) and Article 6 (Treatment by Major Supplier) of this Annex.  6. Nothing in this Article shall require a Member State to regulate rates or conditions for international mobile roaming services.                                              11 For greater certainty: (a) no Member State shall, solely on the basis of any obligations owed to it by the first Member State under a most-favoured-nation provision, or under a telecommunications-specific non-discrimination provision, in any international trade agreement, seek or obtain for its suppliers the access to regulated rates or conditions for wholesale and/or retail international mobile roaming services that is provided under this Article. (b) access to the rates or conditions regulated by the first Member State shall be available to a supplier of the second Member State only if the regulated rates or conditions are reasonably comparable to those reciprocally regulated under the arrangement.  The telecommunications regulatory body of first Member State shall, in the case of a disagreement, determine whether the rates or conditions are reasonably comparable. For the purposes of this footnote, rates or conditions that are reasonably comparable means rates or conditions agreed to be such by the relevant suppliers or, in the case of disagreement, determined to be such by the telecommunications regulatory body of first Member State.    78  Article 19 International Submarine Cable Landing Station12 13  1. Where under its domestic laws and regulations, a Member State has authorised a supplier of public telecommunications transport network in its territory to operate an international submarine cable landing station as a public telecommunications transport network, that Member State shall ensure that such supplier accords the suppliers of public telecommunications transport networks or services of the other Member State reasonable and non-discriminatory treatment in like circumstances.  2. Where submarine cable landing facilities and services cannot be economically or technically substituted, each Member State shall ensure that any major supplier who owns or controls an international submarine cable landing station in its territory allows suppliers of the public telecommunications transport networks or services of the other Member States to:  (i) access international submarine cable landing stations; and  (ii) co-locate their transmission and routing equipment at the international submarine cable landing station;  based on terms and conditions, and at rates, that are reasonable, non-discriminatory and transparent.                                        12 Indonesia will apply this Article to the extent provided for under its domestic laws and regulations. 13 For Viet Nam: (i) This Article shall only apply to major suppliers who own or control international submarine cable landing stations in the territory of Viet Nam; (ii) Under Paragraph 2(i), access to international submarine cable landing stations shall comply with relevant domestic laws and regulations of Viet Nam; and  (iii) Under Paragraph 2(ii), co-location for international submarine cable landing stations owned or controlled by the major supplier in the territory of Viet Nam shall exclude physical co-location. It may include virtual co-location. 
+ 
+ 
+ 
+61 
+ 
+ANNEX ON 
+TELECOMMUNICATION SERVICES 
+ 
+ 
+Article 1 
+Scope 
+ 
+1. 
+This Annex shall apply to measures by a Member State 
+affecting trade in public telecommunications transport 
+networks and services. 
+ 
+2. 
+This Annex shall not apply to measures affecting 
+broadcasting services as defined in the domestic laws and 
+regulations of each Member State. 
+ 
+3. 
+Nothing in this Annex shall be construed to: 
+ 
+(a) require a Member State to authorise a service 
+supplier of another Member State to establish, 
+construct, acquire, 
+lease, 
+operate 
+or 
+supply 
+telecommunications transport networks or services, 
+unless otherwise in accordance with its Schedule of 
+Non-Conforming Measures under this Agreement; or  
+(b) require a Member State (or require a Member State 
+to oblige service suppliers under its jurisdiction) to 
+establish, construct, acquire, lease, operate or 
+supply telecommunications transport networks or 
+services not offered to the public generally. 
+ 
+ 
+Article 2 
+Definitions 
+ 
+For the purposes of this Annex, the term: 
+ 
+(a) “cost-oriented” means based on cost, and may 
+include a reasonable profit, and may involve different 
+cost methodologies for different facilities or services; 
+ 
+ 
+ 
+ 
+62 
+ 
+(b) “end user” means a subscriber to or a final consumer 
+of public telecommunications transport networks or 
+services, including a service supplier other than a 
+supplier of public telecommunications transport 
+networks or services; 
+ 
+(c) “essential facilities” means facilities of a public 
+telecommunications transport network or service 
+that: 
+ 
+(i) are exclusively or predominantly provided by a 
+single or limited number of suppliers; and 
+ 
+(ii) cannot feasibly be economically or technically 
+substituted in order to provide a service; 
+ 
+(d) “international mobile roaming service” means a 
+commercial mobile service provided pursuant to a 
+commercial agreement between suppliers of public 
+telecommunications transport networks or services 
+that enables end users to use their home mobile 
+handset or other device for voice, data or messaging 
+services while outside the territory in which the end 
+user’s home public telecommunications transport 
+network is located; 
+ 
+(e) “international submarine cable landing station” 
+means the premises1 where connection takes place 
+with an international submarine cable system, as 
+determined by the telecommunications regulatory 
+body or other relevant competent authority or by a 
+supplier of public telecommunications transport 
+networks or services who owns or controls the 
+premises, if required; 
+ 
+                                      
+ 
+1 For Thailand, this may include other designated points of access. 
+ 
+ 
+ 
+63 
+ 
+(f) “leased 
+circuits” 
+means 
+telecommunications 
+facilities between two or more designated points that 
+are set aside for the dedicated use of, or availability 
+to, particular users; 
+ 
+(g) “major supplier” means a supplier which has the 
+ability to materially affect the terms of participation, 
+having regard to price and supply, in the relevant 
+market for public telecommunications transport 
+networks or services as a result of: 
+ 
+(i) control over essential facilities; or 
+ 
+(ii) use of its position in the market; 
+ 
+(h) “non-discriminatory” means treatment no less 
+favourable than that accorded to any other user of 
+like public telecommunications transport networks or 
+services in like circumstances; 
+ 
+(i) “personal data” means any information about an 
+identified or identifiable natural person; 
+ 
+(j) “public telecommunications transport network” 
+means the public telecommunications infrastructure 
+which permits telecommunications between and 
+among defined network termination points; 
+ 
+(k) “public telecommunications transport service” 
+means any telecommunications transport service 
+required, explicitly or in effect, by a Member State to 
+be offered to the public generally.  Such services may 
+include, inter alia, telegraph, telephone, telex and 
+data transmission typically involving transmission of 
+customer-supplied information between two or more 
+defined points without any end-to-end change in the 
+form or content of the customer's information; 
+ 
+ 
+ 
+ 
+64 
+ 
+(l) “telecommunications” means the transmission and 
+reception of signals by any electromagnetic means;  
+ 
+(m) “telecommunications regulatory body” means any 
+body or bodies in the territory of a Member State 
+which is or are responsible, under the domestic laws 
+and regulations of that Member State, for the 
+regulation of telecommunications; and 
+ 
+(n) “users” means end users or suppliers of public 
+telecommunications transport networks or services. 
+ 
+ 
+Article 3 
+Access and Use 
+ 
+1. 
+Each Member State shall ensure that any service supplier 
+of another Member State is accorded access to and use of 
+public telecommunications transport networks and services in 
+a timely fashion and on transparent, reasonable and non-
+discriminatory terms and conditions unless otherwise in 
+accordance with its Schedule of Non-Conforming Measures 
+under this Agreement This obligation shall be applied, inter 
+alia, through paragraphs 2 through 6. 
+ 
+2. 
+Each Member State shall ensure that service suppliers of 
+another Member State have access to and use of any public 
+telecommunications transport network or service offered 
+within or across the border of that Member State, including 
+private leased circuits, and to this end shall ensure, subject to 
+the provisions of paragraphs 5 and 6, that such suppliers are 
+permitted to: 
+ 
+(a) purchase or lease and attach terminal or other 
+equipment which interfaces with the network and 
+which is necessary to supply their services; 
+ 
+(b) interconnect private leased or owned circuits with 
+public telecommunications transport networks and 
+ 
+ 
+ 
+65 
+ 
+services or with circuits leased or owned by other 
+service suppliers; and 
+ 
+(c) use operating protocols of their choice in the supply 
+of any service, other than as necessary to ensure the 
+availability of telecommunications transport networks 
+and services to the public generally. 
+ 
+3. 
+Each Member State shall ensure that service suppliers of 
+another Member State may use public telecommunications 
+transport networks and services for the movement of 
+information within and across borders, including for intra-
+corporate communications of such service suppliers, and for 
+access to information contained in data bases or otherwise 
+stored in machine-readable form in the territory of any 
+Member State. 
+ 
+4. 
+Notwithstanding paragraph 3, a Member State may take 
+measures as are necessary to: 
+ 
+(a) ensure the security and confidentiality of messages; 
+or 
+ 
+(b) protect the personal data of end users of public 
+telecommunications transport networks or services 
+ 
+provided that such measures are not applied in a manner 
+which would constitute a means of arbitrary or 
+unjustifiable discrimination or a disguised restriction on 
+trade in services. 
+ 
+5. 
+Each Member State shall ensure that no condition is 
+imposed on access to and use of public telecommunications 
+transport networks and services other than as necessary to: 
+ 
+(a) safeguard the public service responsibilities of 
+suppliers of public telecommunications transport 
+networks and services, in particular their ability to 
+ 
+ 
+ 
+66 
+ 
+make their networks or services available to the 
+public generally; or 
+ 
+(b) protect 
+the 
+technical 
+integrity 
+of 
+public 
+telecommunications transport networks or services. 
+ 
+6. 
+Provided that they satisfy the criteria set out in paragraph 
+5, 
+conditions 
+for 
+access 
+to 
+and 
+use 
+of 
+public 
+telecommunications transport networks and services may 
+include: 
+ 
+(a) a requirement to use specified technical interfaces, 
+including interface protocols, for interconnection with 
+public telecommunications transport networks and 
+services; 
+ 
+(b) requirements, where necessary, for the inter-
+operability of public telecommunications transport 
+services and to encourage the achievement of the 
+goals set out in Article 17 (Relation to International 
+Organisations); 
+ 
+(c) type approval of terminal or other equipment which 
+interfaces with public telecommunications transport 
+networks and technical requirements relating to the 
+attachment of such equipment to such networks; 
+ 
+(d) restrictions on interconnection of private leased or 
+owned circuits with public telecommunications 
+transport networks or services or with circuits leased 
+or owned by other service suppliers; or 
+ 
+(e) notification, permit, registration and licensing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+67 
+ 
+Article 4 
+Number Portability 
+ 
+Each Member State shall endeavour to ensure that suppliers 
+of public telecommunications transport networks or services 
+in its territory provide number portability for mobile services in 
+accordance with its domestic laws and regulations, to the 
+extent technically and economically feasible, on a timely basis 
+and on reasonable terms and conditions. 
+ 
+ 
+Article 5 
+Competitive Safeguard2 
+ 
+1. 
+Each Member State shall adopt or maintain appropriate 
+measures for the purpose of preventing suppliers who, alone 
+or together, are a major supplier from engaging in or 
+continuing anti-competitive practices. 
+ 
+2. 
+The anti-competitive practices referred to in paragraph 1 
+shall include, in particular: 
+ 
+(a) engaging in anti-competitive cross-subsidisation; 
+ 
+(b) using information obtained from competitors with 
+anti-competitive results; and 
+ 
+(c) not making available to other suppliers of public 
+telecommunications transport networks or services, 
+on a timely basis, technical information about 
+essential 
+facilities 
+and 
+commercially 
+relevant 
+information which are necessary for them to supply 
+services. 
+ 
+ 
+                                      
+ 
+2 Cambodia and Thailand commit to apply this Article by the end of 2019. 
+ 
+ 
+ 
+68 
+ 
+Article 6 
+Treatment by Major Suppliers 
+ 
+Each Member State shall ensure that a major supplier in its 
+territory accords to suppliers of public telecommunications 
+transport networks and services of another Member State 
+treatment no less favourable than that such major supplier 
+accords in like circumstances to its subsidiaries and affiliates, 
+or any non-affiliated service suppliers regarding: 
+ 
+(a) the availability, provisioning, rates or quality of like 
+telecommunications services; 3 and 
+ 
+(b) the availability of technical interfaces necessary for 
+interconnection. 
+ 
+ 
+Article 7 
+Resale4 
+ 
+Each Member State shall ensure that any major supplier in its 
+territory does not impose unreasonable or discriminatory 
+conditions or limitations on the resale of the public 
+telecommunications transport services by suppliers of public 
+telecommunications transport networks or services of another 
+Member State. 
+ 
+ 
+ 
+ 
+                                      
+ 
+3 Indonesia commits to apply this subparagraph by the end of 2020. 
+4 
+Brunei 
+Darussalam 
+may 
+require 
+that 
+licensees 
+who 
+purchase 
+public 
+telecommunication services on a wholesale basis only resell their services to an end 
+user. 
+Cambodia commits to apply this Article by the end of 2019. 
+Indonesia commits to apply this Article once reflected in its domestic laws and 
+regulations. 
+Viet Nam commits to apply this Article by the end of 2020. 
+ 
+ 
+ 
+69 
+ 
+Article 8 
+Interconnection5 
+ 
+1. 
+Each Member State shall ensure that suppliers of public 
+telecommunications transport networks in its territory provide 
+interconnection 
+with 
+the 
+suppliers 
+of 
+public 
+telecommunications transport networks or services of another 
+Member State to the extent provided for in its domestic laws 
+and regulations. 
+ 
+2. 
+Each Member State shall ensure that a major supplier 
+which has control over essential facilities in its territory 
+provides interconnection for the facilities and equipment of 
+suppliers of public telecommunications transport networks 
+and services of another Member State at any technically 
+feasible point in the network. Such interconnection shall be 
+provided: 
+ 
+(a) under non-discriminatory terms, conditions (including 
+technical standards and specifications) and rates and 
+of a quality no less favourable than that provided for 
+its own like services, or for like services of non-
+affiliated service suppliers or for its subsidiaries or 
+other affiliates; 
+ 
+(b) in a timely fashion and on terms, conditions 
+(including technical standards and specifications) 
+and cost-oriented rates that are transparent, 
+reasonable, having regard to economic feasibility, 
+and sufficiently unbundled so that the supplier of 
+public telecommunications transport networks or 
+services of another Member State need not pay for 
+network components or facilities that it does not 
+require for the services to be provided; and 
+ 
+                                      
+ 
+5 Cambodia commits to apply this Article by the end of 2019. 
+ 
+ 
+ 
+70 
+ 
+c) 
+upon request, at points in addition to the network 
+termination points offered to the majority of suppliers 
+of public telecommunications transport networks and 
+services, subject to charges that reflect the cost of 
+construction of necessary additional facilities. 
+ 
+3. 
+Each Member State shall ensure that suppliers of public 
+telecommunications transport networks or services of another 
+Member State may interconnect their facilities and equipment 
+with those of major suppliers which have control over essential 
+facilities in its territory pursuant to at least one of the following 
+options: 
+ 
+(a) a reference interconnection offer, approved by the 
+Member State’s telecommunications regulatory 
+body, containing the rates, terms and conditions that 
+the major supplier which has control over essential 
+facilities offers generally to suppliers of public 
+telecommunications transport services; 
+ 
+(b) the 
+terms 
+and 
+conditions 
+of 
+an 
+existing 
+interconnection agreement; or  
+ 
+(c) a 
+new 
+interconnection 
+agreement 
+through 
+commercial negotiation. 
+ 
+4. 
+Each Member State shall ensure that the procedures 
+applicable for interconnection to a major supplier are made 
+publicly available. 
+ 
+5. 
+Each Member State shall ensure that a major supplier in 
+its territory makes publicly available either its interconnection 
+agreements or reference interconnection offer. 
+ 
+6. 
+Each Member State shall ensure that a major supplier 
+which has control over essential facilities does not use or 
+provide commercially sensitive or confidential information on 
+suppliers of public telecommunications transport networks or 
+services or end users thereof, which was acquired through its 
+ 
+ 
+ 
+71 
+ 
+interconnection business with telecommunications facilities of 
+the suppliers of the public telecommunications transport 
+networks or services, for purposes other than such 
+interconnection business. 
+ 
+ 
+Article 9 
+Provisioning and Pricing of Leased Circuit Services 6 
+ 
+Each Member State shall ensure that a major supplier which 
+has control over essential facilities in its territory provides 
+suppliers of public telecommunications transport networks 
+and services of another Member State with leased circuit 
+services that are public telecommunications transport 
+networks or services on terms and conditions, and at rates, 
+that are reasonable, non-discriminatory and transparent. 
+ 
+ 
+Article 10 
+Co-location7 
+ 
+Each Member State shall ensure, in accordance with its 
+domestic laws and regulations, that a major supplier which 
+has control over essential facilities in its territory allows 
+suppliers of public telecommunications transport networks or 
+services of another Member State to locate their equipment 
+within the major supplier’s buildings on terms and conditions, 
+including technical feasibility and space availability where 
+applicable, and at rates, that are reasonable, non-
+discriminatory (including with respect to timeliness) and 
+transparent. 
+                                      
+ 
+6 Cambodia commits to apply this Article by the end of 2019. 
+Indonesia commits to apply this Article once reflected in its domestic laws and 
+regulations. 
+Viet Nam commits to apply this Article by the end of 2020. 
+7 Cambodia commits to apply this Article by the end of 2019. 
+Indonesia commits to apply this Article once reflected in its domestic laws and 
+regulations. 
+Thailand commits to apply this Article by the end of 2019. 
+Viet Nam commits to apply this Article by the end of 2020. 
+ 
+ 
+ 
+72 
+ 
+ 
+ 
+Article 11 
+Independent Telecommunications Regulatory Body 
+ 
+1. 
+Each 
+Member 
+State 
+shall 
+ensure 
+that 
+its 
+telecommunications regulatory body is separate from, and not 
+accountable to, any supplier of public telecommunications 
+services. 
+ 
+2. 
+Each Member State shall ensure that the decisions of, 
+and the procedures used by, its telecommunications 
+regulatory body are impartial with respect to all market 
+participants. 
+ 
+ 
+Article 12 
+Universal Service 
+ 
+Each Member State has the right to define the kind of 
+universal service obligations it wishes to maintain. Such 
+obligations shall not be regarded as anti-competitive per se, 
+provided that they are administered in a transparent, non-
+discriminatory and competitively neutral manner, and are not 
+more burdensome than necessary for the kind of universal 
+service defined by the Member State. 
+ 
+ 
+Article 13 
+Licensing8 
+ 
+1. 
+Where a licence, concession, permit, registration or other 
+type of authorisation is required for the supply of public 
+telecommunications transport networks or services, each 
+Member State shall make publicly available: 
+ 
+                                      
+ 
+8 Cambodia commits to apply this Article by the end of 2019. 
+ 
+ 
+ 
+73 
+ 
+(a) all the licensing or other authorisation criteria and 
+procedures, and the period of time normally required 
+to reach a decision concerning an application for a 
+licence, concession, permit, registration or other type 
+of authorisation; and 
+ 
+(b) the terms and conditions of individual licences, 
+concessions, permits, registrations or other type of 
+authorisations it has issued.9 
+ 
+2. 
+The competent authority of a Member State shall notify 
+an applicant of the outcome of its application, without undue 
+delay, after a decision has been taken. In case a decision is 
+taken to deny an application for a licence, concession, permit, 
+registration or other type of authorisation, the competent 
+authority of the Member State shall make known to the 
+applicant, upon request, the reason for the denial. 
+ 
+ 
+Article 14 
+Allocation and Use of Scarce Resources10 
+ 
+1. 
+Each Member State shall carry out its procedures for the 
+allocation and use of scarce resources related to 
+telecommunications, including frequencies and numbers, in 
+an objective, timely, transparent and non-discriminatory 
+manner. 
+ 
+2. 
+Each Member State shall make publicly available the 
+current state of allocated frequency bands, but shall not be 
+required to provide detailed identification of frequencies 
+allocated for specific government uses. 
+ 
+3. 
+A Member State’s measures allocating and assigning 
+spectrum and managing frequency are not measures that are 
+                                      
+ 
+9 For greater certainty, the terms and conditions may not include licensee specific terms 
+and conditions that contain confidential information. 
+10 Cambodia commits to apply this Article by the end of 2019. 
+ 
+ 
+ 
+74 
+ 
+per se inconsistent with Article 8 (Market Access) of this 
+Agreement. Accordingly, each Member State retains the right 
+to establish and apply spectrum and frequency management 
+policies that have the effect of limiting the number of suppliers 
+of public telecommunications transport networks or services, 
+provided that it does so in a manner consistent with other 
+provisions of this Agreement. Such right includes the ability to 
+allocate frequency bands, taking into account current and 
+future needs and spectrum availability. 
+ 
+ 
+Article 15 
+Transparency 
+ 
+Each Member State shall ensure that relevant information on 
+conditions 
+affecting 
+access 
+to 
+and 
+use 
+of 
+public 
+telecommunications transport networks and services is 
+publicly available, including: tariffs and other terms and 
+conditions of service; specifications of technical interfaces 
+with such networks and services; information on bodies 
+responsible for the preparation and adoption of standards 
+affecting such access and use; conditions applying to 
+attachment of terminal or other equipment; and notifications, 
+permit, registration or licensing requirements, if any. 
+ 
+ 
+Article 16 
+Settlement of Telecommunication Disputes 
+ 
+1. 
+Each Member State shall ensure that suppliers of public 
+telecommunications transport networks or services of another 
+Member 
+State 
+may 
+have 
+timely 
+recourse 
+to 
+its 
+telecommunications regulatory body or dispute settlement 
+body to settle disputes arising under this Annex in accordance 
+with its domestic laws and regulations. 
+ 
+2. 
+Each Member State shall ensure, in accordance with its 
+domestic laws and regulations, that any supplier of public 
+telecommunications transport networks or services aggrieved 
+ 
+ 
+ 
+75 
+ 
+by 
+a 
+determination 
+or 
+decision 
+of 
+its 
+relevant 
+telecommunications regulatory body may petition that body for 
+reconsideration of that determination or decision. No Member 
+State shall permit such a petition to constitute grounds for non-
+compliance with such determination or decision of the said 
+body, unless an appropriate authority suspends or withdraws 
+such determination or decision. 
+ 
+3. 
+Each Member State shall ensure that any supplier of 
+public telecommunications transport networks or services 
+aggrieved by a final determination or decision of its relevant 
+telecommunications regulatory body may obtain review of 
+such determination or decision in accordance with its 
+domestic laws and regulations. 
+ 
+ 
+Article 17 
+Relation to International Organisations 
+ 
+Member States recognise the importance of international 
+standards for global compatibility and inter-operability of 
+telecommunications networks and services and undertake to 
+promote such standards through the work of relevant 
+international 
+bodies, 
+including 
+the 
+International 
+Telecommunication Union and the International Organization 
+for Standardization. 
+ 
+ 
+Article 18 
+International Mobile Roaming 
+ 
+1. 
+Member States shall endeavour to cooperate on 
+promoting transparent and reasonable rates for international 
+mobile roaming services that can help promote the growth of 
+trade among the Member States and enhance consumer 
+welfare. 
+ 
+2. 
+A Member State may choose to take steps to enhance 
+transparency and competition with respect to international 
+ 
+ 
+ 
+76 
+ 
+mobile roaming rates and technological alternatives to 
+roaming services, such as: 
+ 
+(a) ensuring that information regarding retail rates is 
+easily accessible to consumers; and 
+ 
+(b) minimising impediments to the use of technological 
+alternatives to roaming, whereby consumers when 
+visiting the territory of a Member State from the 
+territory of another Member State can access 
+telecommunications services using the device of 
+their choice. 
+ 
+3. 
+Member States recognise that a Member State may 
+choose to promote competition with respect to international 
+mobile 
+roaming 
+rates 
+including 
+through 
+commercial 
+arrangements, or to adopt or maintain measures affecting 
+rates for wholesale and/or retail international roaming services 
+with a view to ensuring the rates are reasonable.  If a Member 
+State considers it appropriate, it may cooperate on and 
+implement mechanisms with other Member States to facilitate 
+the implementation of those measures, including but not 
+limited to, by entering into arrangements with those Member 
+States. 
+ 
+4. 
+If a Member State (“the first Member State”) chooses to 
+regulate rates or conditions for wholesale and/or retail 
+international mobile roaming services, it shall ensure that a 
+supplier of public telecommunications services of another 
+Member State (“the second Member State”) has access to the 
+regulated rates or conditions for wholesale and/or retail 
+international mobile roaming services for its customers 
+roaming in the territory of the first Member State if the second 
+Member State has entered into an arrangement with the first 
+Member State to reciprocally regulate rates or conditions for 
+wholesale and/or retail international mobile roaming services 
+ 
+ 
+ 
+77 
+ 
+for suppliers of the two Member States.11  Notwithstanding, 
+the first Member State may require suppliers of the second 
+Member State to fully utilise commercial negotiations to reach 
+agreement on the terms for accessing such rates or 
+conditions. 
+ 
+5. 
+A Member State that ensures access to regulated rates 
+or conditions for wholesale and/or retail international mobile 
+roaming services in accordance with paragraph 4, shall be 
+deemed to be in compliance with Article 7 (Most-Favoured 
+Nation Treatment) of this Agreement, and Article 3 (Access 
+and Use) and Article 6 (Treatment by Major Supplier) of this 
+Annex. 
+ 
+6. 
+Nothing in this Article shall require a Member State to 
+regulate rates or conditions for international mobile roaming 
+services. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                      
+ 
+11 For greater certainty: 
+(a) no Member State shall, solely on the basis of any obligations owed to it by the first 
+Member State under a most-favoured-nation provision, or under a telecommunications-
+specific non-discrimination provision, in any international trade agreement, seek or 
+obtain for its suppliers the access to regulated rates or conditions for wholesale and/or 
+retail international mobile roaming services that is provided under this Article. 
+(b) access to the rates or conditions regulated by the first Member State shall be 
+available to a supplier of the second Member State only if the regulated rates or 
+conditions are reasonably comparable to those reciprocally regulated under the 
+arrangement.  The telecommunications regulatory body of first Member State shall, in 
+the case of a disagreement, determine whether the rates or conditions are reasonably 
+comparable. For the purposes of this footnote, rates or conditions that are reasonably 
+comparable means rates or conditions agreed to be such by the relevant suppliers or, 
+in the case of disagreement, determined to be such by the telecommunications 
+regulatory body of first Member State. 
+ 
+ 
+ 
+78 
+ 
+Article 19 
+International Submarine Cable Landing Station12 13 
+ 
+1. 
+Where under its domestic laws and regulations, a 
+Member State has authorised a supplier of public 
+telecommunications transport network in its territory to 
+operate an international submarine cable landing station as a 
+public telecommunications transport network, that Member 
+State shall ensure that such supplier accords the suppliers of 
+public telecommunications transport networks or services of 
+the other Member State reasonable and non-discriminatory 
+treatment in like circumstances. 
+ 
+2. 
+Where submarine cable landing facilities and services 
+cannot be economically or technically substituted, each 
+Member State shall ensure that any major supplier who owns 
+or controls an international submarine cable landing station in 
+its territory allows suppliers of the public telecommunications 
+transport networks or services of the other Member States to: 
+ 
+(i) access 
+international 
+submarine 
+cable landing 
+stations; and 
+ 
+(ii) co-locate their transmission and routing equipment at 
+the international submarine cable landing station; 
+ 
+based on terms and conditions, and at rates, that are 
+reasonable, non-discriminatory and transparent. 
+                                      
+ 
+12 Indonesia will apply this Article to the extent provided for under its domestic laws and 
+regulations. 
+13 For Viet Nam: 
+(i) This Article shall only apply to major suppliers who own or control international 
+submarine cable landing stations in the territory of Viet Nam; 
+(ii) Under Paragraph 2(i), access to international submarine cable landing stations 
+shall comply with relevant domestic laws and regulations of Viet Nam; and  
+(iii) Under Paragraph 2(ii), co-location for international submarine cable landing 
+stations owned or controlled by the major supplier in the territory of Viet Nam 
+shall exclude physical co-location. It may include virtual co-location. 

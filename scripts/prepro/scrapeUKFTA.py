@@ -26,11 +26,11 @@ def linkClicker(link):
         return None
 
 def bruteCleaner(text, name):
-    try:
-        text = str.replace(text, "\n", "")
-    except:
-        return "I don't know how to clean this"
-    text = str.replace(text, "™", "'")
+    #try:
+    #    text = str.replace(text, "\n", "")
+    #except:
+    #    return "I don't know how to clean this"
+    #text = str.replace(text, "™", "'")
 
     #dump as txt file
     f = open(name + ".txt", "w")

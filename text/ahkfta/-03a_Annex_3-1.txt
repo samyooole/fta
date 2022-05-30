@@ -1,1 +1,1016 @@
-40  ANNEX 3-1    OPERATIONAL CERTIFICATION PROCEDURES   For the purposes of implementing Chapter 3 (Rules of Origin), the following operational certification procedures and other related administrative matters shall apply:  Rule 1 Definitions  For the purposes of this Annex:  (a) Movement Confirmation (MC) means a Certificate of Origin (Form AHK) as defined in Rule 7 (Certificate of Origin (Form AHK)) issued by the issuing authority of an intermediate Party based on the Certificate of Origin (Form AHK) issued by the first exporting Party;    (b) exporter means a natural or juridical person located in the Area of a Party where a good is exported from by such a person;   (c)  competent authority means the government authority or other entity authorised under the internal laws and regulations of a Party;   (d)  importer means a natural or juridical person located in the Area of a Party where a good is imported into by such a person;  (e)  issuing authority means the government authority or authority designated by the government of the exporting Party to issue a 41  Certificate of Origin (Form AHK) or MC and notified to all other Parties in accordance with this Annex; and  (f)  producer means a natural or juridical person who carries out production in the Area of a Party.  Rule 2  Specimen Signatures and Official Seals of the Issuing Authorities  1. Each Party shall inform all other Parties of the names and addresses of its respective issuing authorities and shall provide specimen signatures, specimen of official seals and specimen of correction stamps, if any, used by its issuing authorities.  2. The information in paragraph 1 of a Party shall be provided by its contact point electronically to all other Parties through the ASEAN Secretariat and, to the extent possible, one month before they take effect.  A Party shall promptly inform all other Parties of any change in names, addresses, or official seals in the same manner.  3.  All Parties shall promptly provide confirmation that they have received the information to the ASEAN Secretariat, which will forward the compiled confirmation to the Party providing the information.     42  Rule 3  Supporting Documents  For the purposes of determining originating status, the competent authorities shall have the right to request for supporting documentary evidence or to carry out checks considered appropriate in accordance with the internal laws and regulations of a Party.    Rule 4  Pre-exportation Verification  The producer or exporter of the good, or its authorised representative, subject to the internal laws and regulations of a Party, shall apply to the issuing authority of the Party requesting pre-exportation examination of the origin of the good.  The result of pre-exportation examination of a Party, subject to review periodically or whenever appropriate, shall be accepted as the supporting evidence in determining the origin of the said good to be exported thereafter.  The pre-exportation examination may not apply to the good of which, by its nature, origin can be easily determined.  Rule 5  Application for Certificate of Origin (Form AHK)  At the time of carrying out the formalities for exporting the good under preferential tariff treatment, the exporter or its authorised representative shall submit a written application or an application by electronic means for the Certificate of Origin (Form AHK), and in accordance with the internal laws and regulations of the exporting Party, appropriate supporting documents 43  proving that the good to be exported qualifies for the issuance of a Certificate of Origin (Form AHK).  Rule 6  Examination of Application for Certificate of Origin (Form AHK)  The issuing authority of a Party shall, to the best of its competence and ability, carry out proper examination in accordance with its internal laws and regulations on each application for a Certificate of Origin (Form AHK) to ensure that:  (a)  the origin of the good is in conformity with the provisions of this Chapter;  (b)  the other details in the Certificate of Origin (Form AHK) correspond to the supporting documentary evidence submitted;  (c)  the description, quantity and weight of the good, marks and number of packages, number and kinds of packages, as specified, conform to the good to be exported; and  (d)  the application and the Certificate of Origin (Form AHK) are duly completed and signed either manually or electronically by the authorised signatory.   Rule 7  Certificate of Origin (Form AHK)  1. The format of the Certificate of Origin (Form AHK) is to be determined by the Parties and it shall 44  contain the data requirements listed in the Appendix (List of Data Requirements).   2. The Certificate of Origin (Form AHK) shall comprise one original and two copies.  3. The Certificate of Origin (Form AHK) shall:  (a) be in hardcopy;  (b) bear a unique reference number separately given by each place or office of issuance;  (c) be in the English language; and  (d) bear an authorised signature and official seal of the issuing authority and the signature and official seal may be applied electronically.   4. The FOB value of goods, when the Regional Value Content origin criterion is applied, needs to be indicated on the Certificate of Origin (Form AHK) for goods that are exported from one ASEAN Member State to another ASEAN Member State, and from Hong Kong, China to ASEAN Member States, but need not be indicated if the goods are exported from ASEAN Member States to Hong Kong, China.   5. The original Certificate of Origin (Form AHK) shall be forwarded by the exporter to the importer for submission to the customs authority of the importing Party.  Copies shall be retained by the issuing authority and the exporter.  6. Multiple goods declared on the same Certificate of Origin (Form AHK) shall be allowed, provided that each good is originating in its own right.  45   Rule 8  Treatment of Erroneous Declaration in the Certificate of Origin (Form AHK)  Neither erasures nor superimpositions shall be allowed on the Certificate of Origin (Form AHK).  Any alteration shall be made by:  (a) striking out the erroneous materials and making any addition required; such alteration shall be approved by an official authorised to sign the Certificate of Origin (Form AHK) and certified by the issuing authority; and any unused spaces shall be crossed out to prevent any subsequent addition; or  (b) issuing a new Certificate of Origin (Form AHK) to replace the erroneous one.  Rule 9  Issuance of the Certificate of Origin (Form AHK)  1. Subject to the submission of all documentary requirements, in accordance with the internal laws and regulations of the exporting Party, the Certificate of Origin (Form AHK) shall be issued by the issuing authority of the exporting Party prior to shipment or at the time of shipment but shall not be issued more than three working days after the declared shipment date whenever the good to be exported is considered to be originating in that Party within the meaning set out in this Chapter.   46  2. In exceptional case where a Certificate of Origin (Form AHK) has not been issued in accordance with paragraph 1 due to involuntary errors or omissions or other valid causes, the Certificate of Origin (Form AHK) may be issued retroactively but no longer than one year from the date of shipment and shall be duly marked “Issued Retroactively”.  Rule 10  Movement Confirmation  An issuing authority of an intermediate exporting Party shall issue an MC, if an application is made by the exporter while the good is passing through that intermediate exporting Party, provided that:  (a) a valid original Certificate of Origin (Form AHK) or its certified true copy is presented;  (b) the period of validity of the MC does not exceed the period of validity of the original Certificate of Origin (Form AHK);  (c) the goods which are to be re-exported using the MC shall remain under the supervision of the competent authority6 of the intermediate exporting Party in accordance with its internal laws and regulations and the goods shall not undergo any further processing in the intermediate exporting Party, except for repacking or logistics activities such as unloading, reloading, storing, or any other operations necessary to preserve them in good condition or to transport them to the importing                                                            6 The supervision of the competent authority of the intermediate exporting Party includes documentary controls or any risk management procedures as deemed necessary by that competent authority. 47  Party;  (d) the MC contains relevant information from the original Certificate of Origin (Form AHK) pursuant to the data requirements listed in the Appendix (List of Data Requirements) and the FOB value shall be the FOB value of the goods exported from the intermediate exporting Party;   (e) in the event that the information is not complete or circumvention is suspected, the final importing Party may request the original Certificate of Origin (Form AHK) be submitted to its respective competent authority; and  (f) the verification procedures in Rule 17 (Retroactive Check) and Rule 18 (Verification Visit) shall also apply to the MC.  Rule 11  Loss of the Certificate of Origin (Form AHK)  In the event of theft, loss or destruction of a Certificate of Origin (Form AHK), the exporter may apply in writing to the issuing authority for a certified true copy of the original Certificate of Origin (Form AHK) or its copies. The certified true copy shall be made on the basis of the export documents in their possession and bear the words “CERTIFIED TRUE COPY”.  This copy shall bear the date of issuance of the original Certificate of Origin (Form AHK).  The certified true copy of a Certificate of Origin (Form AHK) shall be issued no longer than one year from the date of issuance of the original Certificate of Origin (Form AHK).    48  Rule 12  Presentation of the Certificate of Origin (Form AHK)  1. For the purposes of claiming preferential tariff treatment, the importer shall submit to the customs authority of the importing Party at the time of import, a declaration, a Certificate of Origin (Form AHK) including supporting documents (i.e. invoices and, when required, Bill of Lading or other related transportation documents) issued in the Area of the exporting Party and other documents as required in accordance with the internal laws and regulations of the importing Party.  2. In the case where a Certificate of Origin (Form AHK) is rejected by the customs authority of the importing Party, the subject Certificate of Origin (Form AHK) shall be marked accordingly and the original Certificate of Origin (Form AHK) shall be returned to the issuing authority within a reasonable period but not exceeding 60 days from the date of rejection.  The issuing authority shall be duly notified of the grounds for the denial of preferential tariff treatment.   3. In the case where a Certificate of Origin (Form AHK) is rejected, as stated in paragraph 2, the importing Party shall accept and consider the clarification made by the issuing authority and assess again whether or not the Certificate of Origin (Form AHK) can be accepted for the granting of the preferential tariff treatment.  The clarifications shall be detailed and exhaustive in addressing the grounds of denial of preferential tariff treatment raised by the importing Party.  If a clarification made by the issuing authority addresses the grounds for denial of preferential tariff treatment and satisfies the 49  requirements of this Chapter, the importing Party shall accept the Certificate of Origin (Form AHK) and grant preferential tariff treatment in accordance with its internal laws and regulations.   Rule 13  Validity Period of the Certificate of Origin  (Form AHK)  1. The following time limit for the presentation of the Certificate of Origin (Form AHK) shall be observed:  (a)  the Certificate of Origin (Form AHK) shall be valid for a period of one year from the date of issuance and shall be submitted to the customs authority of the importing Party within that period; and  (b)  where the Certificate of Origin (Form AHK) is submitted to the customs authority of the importing Party after the expiration of the time limit for its submission, such Certificate of Origin (Form AHK) shall still be accepted where failure to observe the time limit for its submission results from force majeure or other valid causes beyond the control of the importer or the exporter.   2. In all cases, the customs authority of the importing Party may accept such Certificate of Origin (Form AHK) provided that the goods have been imported before the expiration of the time limit of the said Certificate of Origin (Form AHK).    50  Rule 14  Waiver of Certificate of Origin (Form AHK)  1.  In the case of a consignment of goods originating in the exporting Party and not exceeding US$ 200.00 FOB, the presentation of Certificate of Origin (Form AHK) shall be waived and the use of simplified declaration by the exporter that the goods in question have originated in the exporting Party shall be accepted.  Goods sent through the post not exceeding US$ 200.00 FOB shall also be similarly treated.  2.  Without prejudice to the generality of paragraph 1, a Party may elect not to require submission of a Certificate of Origin (Form AHK).   Rule 15  Treatment of Minor Discrepancies  1. Where the origin of the goods is not in doubt, the discovery of minor discrepancies, such as typographical errors in the statements made in the Certificate of Origin (Form AHK) or made in other documents submitted to the customs authority of the importing Party for the purpose of carrying out the formalities for importing the goods, shall not ipso facto invalidate the Certificate of Origin (Form AHK), if it does in fact correspond to the goods submitted.  2. In the case where the exporting Party and the importing Party have different tariff classifications for a good subject to preferential tariff treatment, the goods shall be released at the most-favoured-nation rates or at the AHKFTA preferential rate, subject to the compliance of the applicable rules of origin, and no penalty or other charges shall be imposed in 51  accordance with the internal laws and regulations of the importing Party.  Once the classification differences have been resolved, the correct rate shall be applied and any overpaid duty shall be refunded if applicable, in accordance with the internal laws and regulations of the importing Party, as soon as the issues have been resolved.  3. For multiple items declared under the same Certificate of Origin (Form AHK), a problem encountered with one of the items listed shall not affect or delay the granting of preferential tariff treatment and customs clearance of the remaining items listed in the Certificate of Origin (Form AHK).  Subparagraph (c) of Rule 17 (Retroactive Check) may be applied to the problematic items.  Rule 16  Record Keeping Requirement  1. For the purposes of the verification process pursuant to Rule 17 (Retroactive Check) and Rule 18 (Verification Visit), the producer and/or exporter applying for the issuance of a Certificate of Origin (Form AHK) shall, subject to the internal laws and regulations of the exporting Party, keep its supporting records for application for not less than three years from the date of issuance of the Certificate of Origin (Form AHK).  2. The application for Certificate of Origin (Form AHK) and all documents related to such application shall be retained by the issuing authorities for not less than three years from the date of issuance.  3. Information relating to the validity of the Certificate of Origin (Form AHK) shall be furnished by 52  the issuing authority of the exporting Party upon request of the importing Party.   4. Any information communicated between the Parties concerned shall be treated as confidential and shall be used for purpose of the validation of Certificate of Origin (Form AHK) only.  Rule 17  Retroactive Check  The competent authority of the importing Party may request the competent authority of the exporting Party to conduct a retroactive check at random or when it has reasonable doubt as to the authenticity of the document or as to the accuracy of the information regarding the true origin of the goods in question or of certain parts thereof.  Upon such request, the competent authority of the exporting Party shall conduct a retroactive check on the exporter or producer, subject to the following conditions:  (a) the request for retroactive check shall be accompanied with the Certificate of Origin (Form AHK) concerned and shall specify the reasons and any additional information suggesting that the particulars given on the said Certificate of Origin (Form AHK) may be inaccurate, unless the retroactive check is requested on a random basis;  (b) the competent authority of the exporting Party receiving a request for retroactive check shall respond to the request promptly and transmit the results of the retroactive check to the importing Party within 90 days upon the receipt of the request; 53   (c) the competent authority of the importing Party may suspend the provisions on preferential tariff treatment to a good that is the subject of a retroactive check for the duration of that action or any part thereof. However, in accordance with the internal laws and regulations of the importing Party, the competent authority of the importing Party may release the good to the importer subject to any administrative measures deemed necessary, provided that it is not held to be subject to import prohibition or restriction and there is no suspicion of fraud.  In the event that a determination is made by the importing Party that the good qualifies as an originating good of the exporting Party, any suspended preferential tariff treatment shall be reinstated; and  (d) the competent authority of the importing Party, after receipt of the results of the retroactive check from the competent authority of the exporting Party, shall determine whether or not the subject good is an originating good. The entire process of retroactive check including the process of notifying the competent authority of the exporting Party the result of the determination of whether or not the good is an originating good shall be completed within 180 days upon the receipt of the request by the competent authority of the exporting Party.     54  Rule 18  Verification Visit  If the competent authority of the importing Party is not satisfied with the outcome of the retroactive check, it may, under exceptional cases, request for verification visit to the premises of the exporter or producer through the competent authority of the exporting Party in accordance with the following conditions:  (a) Prior to conducting a verification visit, the competent authority of the importing Party shall:  (i) deliver a written request to conduct the proposed verification visit to:  (1) the exporter or producer whose premises are to be visited; and  (2) the competent authority of the exporting Party;   (ii)  deliver a written notification to conduct the proposed verification visit to the importer of the goods that are subject to the verification visit;   (iii)  the written request mentioned in subparagraph (a) (i) shall be as comprehensive as possible and includes:   (1) the name and contact details of the competent authority issuing the request;  55  (2) the name of the exporter or producer whose premises are to be visited;  (3) the proposed date for the verification visit;  (4) the objective and scope of the proposed verification visit, including specific reference to the goods that are subject to the verification; and  (5) the names and designation or title of the officials of the importing Party performing the verification visit;  (iv)  obtain the written consent of the exporter or producer whose premises are to be visited;  (b) Where a written consent from the exporter or producer is not obtained within 30 days upon receipt of the written request pursuant to subparagraph (a) (i), the competent authority of the importing Party may deny preferential tariff treatment to the goods that would have been the subject of the verification visit;  (c) The competent authority of the exporting Party receiving the written request may postpone the proposed verification visit and notify the competent authority of the importing Party of such intention.  Notwithstanding any postponement, any verification visit shall be carried out in accordance with the internal laws and regulations of the exporting Party 56  within 60 days upon the date of receipt of the request, or for a longer period as the concerned Parties may agree.  The arrangement of the verification visit shall be agreed by the competent authorities of the importing and exporting Parties;  (d) The competent authority of the importing Party conducting the verification visit shall provide the exporter or producer whose goods are the subject of the verification visit, and the competent authority of the exporting Party, with a written determination of whether or not the subject goods qualified as originating goods;  (e) Any suspended preferential tariff treatment shall be reinstated upon the written determination referred to in subparagraph (d) that the goods qualify as originating goods;  (f) The exporter or producer shall be allowed 30 days, upon receipt of the written determination, to provide in writing additional information regarding the eligibility of the goods to the competent authority of the importing Party.  If the goods are still found to be non-originating, the final written determination shall be communicated by the competent authority of the importing Party to the competent authority of the exporting Party within 30 days upon receipt of additional information from the exporter or producer; and  (g) The verification visit process, including the actual visit and determination of whether the subject goods are originating or not, shall be 57  carried out and its results communicated to the competent authority of the exporting Party within 180 days upon receipt of the written request pursuant to subparagraph (a) (i).  While awaiting the results of the verification visit, subparagraph (c) of Rule 17 (Retroactive Check) on the suspension of preferential tariff treatment shall be applied.  Rule 19  Confidentiality  The Parties shall maintain, in accordance with their internal laws and regulations, the confidentiality of classified business information collected in the process pursuant to Rule 17 (Retroactive Check) and Rule 18 (Verification Visit) and shall protect such information from disclosure that could prejudice the competitive position of the person who provided the information.  The information and documents collected in such process shall not be used for other purposes, including being used as evidence in administrative and judicial proceedings, without the explicit written permission of the Party providing such information.  Rule 20  Documentation for Implementing Subparagraph 2 (b) of Article 9  (Direct Consignment) of this Chapter   For the purposes of implementing subparagraph 2 (b) of Article 9 (Direct Consignment) of this Chapter, where transportation is effected through the area of one or more non-Parties, the following shall be produced to the competent authority of the importing Party:  58  (a) the Bill of Lading or other related transportation documents issued in the exporting Party;  (b) a Certificate of Origin (Form AHK) issued by the relevant issuing authority of the exporting Party, unless not required pursuant to Rule 14 (Waiver of Certificate of Origin (Form AHK));   (c) a copy of the original commercial invoice in respect of the goods; and  (d) supporting documents evidencing that the requirements of subparagraphs 2(b) (i) to (iii) of Article 9 (Direct Consignment) of this Chapter have been complied with.   Rule 21  Exhibition Goods  1.  Goods sent from an exporting Party for exhibition in another Party and sold during or after the exhibition for importation into a Party shall be granted preferential tariff treatment accorded under this Agreement on the condition that the goods meet the requirements as set out in this Chapter, and provided that it is shown to the satisfaction of the relevant customs authority of the importing Party that:  (a) an exporter has dispatched those goods from the Area of the exporting Party to the Party where the exhibition is held and has exhibited them there;  (b) the exporter has sold the goods or transferred them to a consignee in the importing Party; and   59  (c) the goods have been consigned during the exhibition or immediately thereafter to the importing Party in the state in which they were sent for the exhibition.  2. For the purposes of paragraph 1, the Certificate of Origin (Form AHK) shall be provided to the customs authority of the importing Party.  The name and address of the exhibition shall be indicated.  The relevant customs authority of the Party where the exhibition took place may provide evidence together with supporting documents prescribed in subparagraph (d) of Rule 20 (Documentation for Implementing Subparagraph 2 (b) of Article 9 (Direct Consignment) of this Chapter) for the identification of the goods and the conditions under which they were exhibited.  3. Paragraph 1 shall apply to any trade, agricultural or crafts exhibition, fair or similar show or display in shops or business premises with a view to sale and where the goods remain under customs control during the exhibition.  Rule 22  Third Party Invoicing  1.   The competent authority of the importing Party shall accept Certificates of Origin (Form AHK) in the case where the sales invoice is issued either by a company located in a third party or by an exporter for the account of the said company, provided that the goods meet the requirements of this Chapter.   2. The exporter shall indicate “Third party invoicing” and such information as name and country/party of the company issuing the invoice in the Certificate of Origin (Form AHK).  60   Rule 23  Action against Fraudulent Acts  1. When it is suspected that fraudulent acts in connection with the Certificate of Origin (Form AHK) have been committed, the Parties concerned shall cooperate in the action to be taken in the respective Parties against the persons involved to the extent permitted under their applicable internal laws and regulations.  2. Each Party shall provide legal sanctions for fraudulent acts related to the Certificate of Origin (Form AHK) in accordance with its internal laws and regulations.   61   APPENDIX   LIST OF DATA REQUIREMENTS  1. Exporter details The name, address, Country/Party and contact details of the exporter 2. Shipment details (a Certificate of Origin (Form AHK) can only apply to a single shipment of goods) (i) Consignee’s name, address and Country/Party (ii) Sufficient details to identify the consignment, such as importer’s purchase order number, invoice number and date and Air Way Bill or Sea Way Bill or Bill of Lading (iii) Port of Discharge, as far as known 3. Full description of goods (i) Marks and numbers on packages (ii) Detailed description of the goods, including HS Code (6-digit level), and if applicable, product number and brand name (iii) The relevant origin-conferring criteria  (iv) Quantity of goods (v) FOB value when the Regional Value Content origin criterion is applied, except if the goods are exported from ASEAN Member States to Hong Kong, China  4. Certification by issuing authority Certification by the issuing authority that the goods specified in the Certificate of Origin (Form AHK) meet all the relevant requirements in Chapter 3 (Rules of Origin) based on the documents provided, and the date of issuance of the Certificate of Origin (Form AHK) 5. Certificate of Origin (Form AHK) number A unique number assigned to the Certificate of Origin (Form AHK) by the issuing authority     
+40 
+ 
+ANNEX 3-1  
+ 
+ 
+OPERATIONAL CERTIFICATION PROCEDURES 
+ 
+ 
+For the purposes of implementing Chapter 3 (Rules of 
+Origin), 
+the 
+following 
+operational 
+certification 
+procedures and other related administrative matters 
+shall apply: 
+ 
+Rule 1 Definitions 
+ 
+For the purposes of this Annex: 
+ 
+(a) Movement Confirmation (MC) means a 
+Certificate of Origin (Form AHK) as defined in 
+Rule 7 (Certificate of Origin (Form AHK)) 
+issued by the issuing authority of an 
+intermediate Party based on the Certificate of 
+Origin (Form AHK) issued by the first exporting 
+Party;  
+ 
+ 
+(b) exporter means a natural or juridical person 
+located in the Area of a Party where a good is 
+exported from by such a person; 
+ 
+ 
+(c)  competent authority means the government 
+authority or other entity authorised under the 
+internal laws and regulations of a Party;  
+ 
+(d)  importer means a natural or juridical person 
+located in the Area of a Party where a good is 
+imported into by such a person; 
+ 
+(e)  issuing authority means the government 
+authority or authority designated by the 
+government of the exporting Party to issue a 
+41 
+ 
+Certificate of Origin (Form AHK) or MC and 
+notified to all other Parties in accordance with 
+this Annex; and 
+ 
+(f)  producer means a natural or juridical person 
+who carries out production in the Area of a 
+Party. 
+ 
+Rule 2 
+ 
+Specimen Signatures and Official Seals of the 
+Issuing Authorities 
+ 
+1. 
+Each Party shall inform all other Parties of the 
+names and addresses of its respective issuing 
+authorities and shall provide specimen signatures, 
+specimen of official seals and specimen of correction 
+stamps, if any, used by its issuing authorities. 
+ 
+2. 
+The information in paragraph 1 of a Party shall 
+be provided by its contact point electronically to all 
+other Parties through the ASEAN Secretariat and, to 
+the extent possible, one month before they take effect.  
+A Party shall promptly inform all other Parties of any 
+change in names, addresses, or official seals in the 
+same manner. 
+ 
+3.  
+All Parties shall promptly provide confirmation 
+that they have received the information to the ASEAN 
+Secretariat, 
+which 
+will 
+forward 
+the 
+compiled 
+confirmation to the Party providing the information.  
+ 
+ 
+ 
+42 
+ 
+Rule 3 
+ 
+Supporting Documents 
+ 
+For the purposes of determining originating status, the 
+competent authorities shall have the right to request for 
+supporting documentary evidence or to carry out 
+checks considered appropriate in accordance with the 
+internal laws and regulations of a Party.  
+ 
+ 
+Rule 4 
+ 
+Pre-exportation Verification 
+ 
+The producer or exporter of the good, or its authorised 
+representative, subject to the internal laws and 
+regulations of a Party, shall apply to the issuing 
+authority of the Party requesting pre-exportation 
+examination of the origin of the good.  The result of pre-
+exportation examination of a Party, subject to review 
+periodically or whenever appropriate, shall be 
+accepted as the supporting evidence in determining 
+the origin of the said good to be exported thereafter.  
+The pre-exportation examination may not apply to the 
+good of which, by its nature, origin can be easily 
+determined. 
+ 
+Rule 5 
+ 
+Application for Certificate of Origin (Form AHK) 
+ 
+At the time of carrying out the formalities for exporting 
+the good under preferential tariff treatment, the 
+exporter or its authorised representative shall submit a 
+written application or an application by electronic 
+means for the Certificate of Origin (Form AHK), and in 
+accordance with the internal laws and regulations of 
+the exporting Party, appropriate supporting documents 
+43 
+ 
+proving that the good to be exported qualifies for the 
+issuance of a Certificate of Origin (Form AHK). 
+ 
+Rule 6 
+ 
+Examination of Application for Certificate of 
+Origin (Form AHK) 
+ 
+The issuing authority of a Party shall, to the best of its 
+competence and ability, carry out proper examination 
+in accordance with its internal laws and regulations on 
+each application for a Certificate of Origin (Form AHK) 
+to ensure that: 
+ 
+(a)  the origin of the good is in conformity with the 
+provisions of this Chapter; 
+ 
+(b)  the other details in the Certificate of Origin 
+(Form AHK) correspond to the supporting 
+documentary evidence submitted; 
+ 
+(c)  the description, quantity and weight of the 
+good, marks and number of packages, number 
+and kinds of packages, as specified, conform 
+to the good to be exported; and 
+ 
+(d)  the application and the Certificate of Origin 
+(Form AHK) are duly completed and signed 
+either manually or electronically by the 
+authorised signatory.  
+ 
+Rule 7 
+ 
+Certificate of Origin (Form AHK) 
+ 
+1. 
+The format of the Certificate of Origin (Form 
+AHK) is to be determined by the Parties and it shall 
+44 
+ 
+contain the data requirements listed in the Appendix 
+(List of Data Requirements).  
+ 
+2. 
+The Certificate of Origin (Form AHK) shall 
+comprise one original and two copies. 
+ 
+3. 
+The Certificate of Origin (Form AHK) shall: 
+ 
+(a) 
+be in hardcopy; 
+ 
+(b) 
+bear a unique reference number separately 
+given by each place or office of issuance; 
+ 
+(c) 
+be in the English language; and 
+ 
+(d) 
+bear an authorised signature and official 
+seal of the issuing authority and the 
+signature and official seal may be applied 
+electronically.  
+ 
+4. 
+The FOB value of goods, when the Regional 
+Value Content origin criterion is applied, needs to be 
+indicated on the Certificate of Origin (Form AHK) for 
+goods that are exported from one ASEAN Member 
+State to another ASEAN Member State, and from Hong 
+Kong, China to ASEAN Member States, but need not 
+be indicated if the goods are exported from ASEAN 
+Member States to Hong Kong, China.  
+ 
+5. 
+The original Certificate of Origin (Form AHK) 
+shall be forwarded by the exporter to the importer for 
+submission to the customs authority of the importing 
+Party.  Copies shall be retained by the issuing authority 
+and the exporter. 
+ 
+6. 
+Multiple goods declared on the same Certificate 
+of Origin (Form AHK) shall be allowed, provided that 
+each good is originating in its own right.  
+45 
+ 
+ 
+Rule 8 
+ 
+Treatment of Erroneous Declaration in the 
+Certificate of Origin (Form AHK) 
+ 
+Neither erasures nor superimpositions shall be allowed 
+on the Certificate of Origin (Form AHK).  Any alteration 
+shall be made by: 
+ 
+(a) 
+striking out the erroneous materials and 
+making 
+any 
+addition 
+required; 
+such 
+alteration shall be approved by an official 
+authorised to sign the Certificate of Origin 
+(Form AHK) and certified by the issuing 
+authority; and any unused spaces shall be 
+crossed out to prevent any subsequent 
+addition; or 
+ 
+(b) 
+issuing a new Certificate of Origin (Form 
+AHK) to replace the erroneous one. 
+ 
+Rule 9 
+ 
+Issuance of the Certificate of Origin (Form AHK) 
+ 
+1. 
+Subject to the submission of all documentary 
+requirements, in accordance with the internal laws and 
+regulations of the exporting Party, the Certificate of 
+Origin (Form AHK) shall be issued by the issuing 
+authority of the exporting Party prior to shipment or at 
+the time of shipment but shall not be issued more than 
+three working days after the declared shipment date 
+whenever the good to be exported is considered to be 
+originating in that Party within the meaning set out in 
+this Chapter.  
+ 
+46 
+ 
+2. 
+In exceptional case where a Certificate of Origin 
+(Form AHK) has not been issued in accordance with 
+paragraph 1 due to involuntary errors or omissions or 
+other valid causes, the Certificate of Origin (Form AHK) 
+may be issued retroactively but no longer than one year 
+from the date of shipment and shall be duly marked 
+“Issued Retroactively”. 
+ 
+Rule 10 
+ 
+Movement Confirmation 
+ 
+An issuing authority of an intermediate exporting Party 
+shall issue an MC, if an application is made by the 
+exporter while the good is passing through that 
+intermediate exporting Party, provided that: 
+ 
+(a) a valid original Certificate of Origin (Form AHK) 
+or its certified true copy is presented; 
+ 
+(b) the period of validity of the MC does not 
+exceed the period of validity of the original 
+Certificate of Origin (Form AHK); 
+ 
+(c) the goods which are to be re-exported using 
+the MC shall remain under the supervision of 
+the competent authority6 of the intermediate 
+exporting Party in accordance with its internal 
+laws and regulations and the goods shall not 
+undergo any further processing in the 
+intermediate exporting Party, except for 
+repacking or logistics activities such as 
+unloading, reloading, storing, or any other 
+operations necessary to preserve them in good 
+condition or to transport them to the importing 
+                                                           
+6 The supervision of the competent authority of the intermediate exporting Party 
+includes documentary controls or any risk management procedures as deemed 
+necessary by that competent authority. 
+47 
+ 
+Party; 
+ 
+(d) the MC contains relevant information from the 
+original Certificate of Origin (Form AHK) 
+pursuant to the data requirements listed in the 
+Appendix (List of Data Requirements) and the 
+FOB value shall be the FOB value of the goods 
+exported from the intermediate exporting 
+Party;  
+ 
+(e) in the event that the information is not complete 
+or circumvention is suspected, the final 
+importing Party may request the original 
+Certificate of Origin (Form AHK) be submitted 
+to its respective competent authority; and 
+ 
+(f) 
+the verification procedures in Rule 17 
+(Retroactive Check) and Rule 18 (Verification 
+Visit) shall also apply to the MC. 
+ 
+Rule 11 
+ 
+Loss of the Certificate of Origin (Form AHK) 
+ 
+In the event of theft, loss or destruction of a Certificate 
+of Origin (Form AHK), the exporter may apply in writing 
+to the issuing authority for a certified true copy of the 
+original Certificate of Origin (Form AHK) or its copies. 
+The certified true copy shall be made on the basis of 
+the export documents in their possession and bear the 
+words “CERTIFIED TRUE COPY”.  This copy shall 
+bear the date of issuance of the original Certificate of 
+Origin (Form AHK).  The certified true copy of a 
+Certificate of Origin (Form AHK) shall be issued no 
+longer than one year from the date of issuance of the 
+original Certificate of Origin (Form AHK). 
+ 
+ 
+ 
+48 
+ 
+Rule 12 
+ 
+Presentation of the Certificate of Origin 
+(Form AHK) 
+ 
+1. 
+For the purposes of claiming preferential tariff 
+treatment, the importer shall submit to the customs 
+authority of the importing Party at the time of import, a 
+declaration, a Certificate of Origin (Form AHK) 
+including supporting documents (i.e. invoices and, 
+when required, Bill of Lading or other related 
+transportation documents) issued in the Area of the 
+exporting Party and other documents as required in 
+accordance with the internal laws and regulations of 
+the importing Party. 
+ 
+2. 
+In the case where a Certificate of Origin (Form 
+AHK) is rejected by the customs authority of the 
+importing Party, the subject Certificate of Origin (Form 
+AHK) shall be marked accordingly and the original 
+Certificate of Origin (Form AHK) shall be returned to 
+the issuing authority within a reasonable period but not 
+exceeding 60 days from the date of rejection.  The 
+issuing authority shall be duly notified of the grounds 
+for the denial of preferential tariff treatment.  
+ 
+3. 
+In the case where a Certificate of Origin (Form 
+AHK) is rejected, as stated in paragraph 2, the 
+importing Party shall accept and consider the 
+clarification made by the issuing authority and assess 
+again whether or not the Certificate of Origin (Form 
+AHK) can be accepted for the granting of the 
+preferential tariff treatment.  The clarifications shall be 
+detailed and exhaustive in addressing the grounds of 
+denial of preferential tariff treatment raised by the 
+importing Party.  If a clarification made by the issuing 
+authority addresses the grounds for denial of 
+preferential 
+tariff 
+treatment 
+and 
+satisfies 
+the 
+49 
+ 
+requirements of this Chapter, the importing Party shall 
+accept the Certificate of Origin (Form AHK) and grant 
+preferential tariff treatment in accordance with its 
+internal laws and regulations. 
+ 
+ 
+Rule 13 
+ 
+Validity Period of the Certificate of Origin  
+(Form AHK) 
+ 
+1. 
+The following time limit for the presentation of the 
+Certificate of Origin (Form AHK) shall be observed: 
+ 
+(a)  the Certificate of Origin (Form AHK) shall be 
+valid for a period of one year from the date of 
+issuance and shall be submitted to the 
+customs authority of the importing Party 
+within that period; and 
+ 
+(b)  where the Certificate of Origin (Form AHK) is 
+submitted to the customs authority of the 
+importing Party after the expiration of the time 
+limit for its submission, such Certificate of 
+Origin (Form AHK) shall still be accepted 
+where failure to observe the time limit for its 
+submission results from force majeure or 
+other valid causes beyond the control of the 
+importer or the exporter.  
+ 
+2. 
+In all cases, the customs authority of the importing 
+Party may accept such Certificate of Origin (Form AHK) 
+provided that the goods have been imported before the 
+expiration of the time limit of the said Certificate of 
+Origin (Form AHK). 
+ 
+ 
+ 
+50 
+ 
+Rule 14 
+ 
+Waiver of Certificate of Origin (Form AHK) 
+ 
+1.  
+In the case of a consignment of goods originating 
+in the exporting Party and not exceeding US$ 200.00 
+FOB, the presentation of Certificate of Origin (Form 
+AHK) shall be waived and the use of simplified 
+declaration by the exporter that the goods in question 
+have originated in the exporting Party shall be 
+accepted.  Goods sent through the post not exceeding 
+US$ 200.00 FOB shall also be similarly treated. 
+ 
+2.  
+Without 
+prejudice 
+to 
+the 
+generality 
+of 
+paragraph 1, a Party may elect not to require 
+submission of a Certificate of Origin (Form AHK).  
+ 
+Rule 15 
+ 
+Treatment of Minor Discrepancies 
+ 
+1. 
+Where the origin of the goods is not in doubt, the 
+discovery 
+of 
+minor 
+discrepancies, 
+such 
+as 
+typographical errors in the statements made in the 
+Certificate of Origin (Form AHK) or made in other 
+documents submitted to the customs authority of the 
+importing Party for the purpose of carrying out the 
+formalities for importing the goods, shall not ipso facto 
+invalidate the Certificate of Origin (Form AHK), if it does 
+in fact correspond to the goods submitted. 
+ 
+2. 
+In the case where the exporting Party and the 
+importing Party have different tariff classifications for a 
+good subject to preferential tariff treatment, the goods 
+shall be released at the most-favoured-nation rates or 
+at the AHKFTA preferential rate, subject to the 
+compliance of the applicable rules of origin, and no 
+penalty or other charges shall be imposed in 
+51 
+ 
+accordance with the internal laws and regulations of 
+the importing Party.  Once the classification differences 
+have been resolved, the correct rate shall be applied 
+and any overpaid duty shall be refunded if applicable, 
+in accordance with the internal laws and regulations of 
+the importing Party, as soon as the issues have been 
+resolved. 
+ 
+3. 
+For multiple items declared under the same 
+Certificate 
+of 
+Origin 
+(Form 
+AHK), 
+a 
+problem 
+encountered with one of the items listed shall not affect 
+or delay the granting of preferential tariff treatment and 
+customs clearance of the remaining items listed in the 
+Certificate of Origin (Form AHK).  Subparagraph (c) of 
+Rule 17 (Retroactive Check) may be applied to the 
+problematic items. 
+ 
+Rule 16 
+ 
+Record Keeping Requirement 
+ 
+1. 
+For the purposes of the verification process 
+pursuant to Rule 17 (Retroactive Check) and Rule 18 
+(Verification Visit), the producer and/or exporter 
+applying for the issuance of a Certificate of Origin 
+(Form AHK) shall, subject to the internal laws and 
+regulations of the exporting Party, keep its supporting 
+records for application for not less than three years 
+from the date of issuance of the Certificate of Origin 
+(Form AHK). 
+ 
+2. 
+The application for Certificate of Origin (Form 
+AHK) and all documents related to such application 
+shall be retained by the issuing authorities for not less 
+than three years from the date of issuance. 
+ 
+3. 
+Information relating to the validity of the 
+Certificate of Origin (Form AHK) shall be furnished by 
+52 
+ 
+the issuing authority of the exporting Party upon 
+request of the importing Party.  
+ 
+4. 
+Any information communicated between the 
+Parties concerned shall be treated as confidential and 
+shall be used for purpose of the validation of Certificate 
+of Origin (Form AHK) only. 
+ 
+Rule 17 
+ 
+Retroactive Check 
+ 
+The competent authority of the importing Party may 
+request the competent authority of the exporting Party 
+to conduct a retroactive check at random or when it has 
+reasonable doubt as to the authenticity of the 
+document or as to the accuracy of the information 
+regarding the true origin of the goods in question or of 
+certain parts thereof.  Upon such request, the 
+competent authority of the exporting Party shall 
+conduct a retroactive check on the exporter or producer, 
+subject to the following conditions: 
+ 
+(a) the request for retroactive check shall be 
+accompanied with the Certificate of Origin 
+(Form AHK) concerned and shall specify the 
+reasons 
+and 
+any 
+additional 
+information 
+suggesting that the particulars given on the 
+said Certificate of Origin (Form AHK) may be 
+inaccurate, unless the retroactive check is 
+requested on a random basis; 
+ 
+(b) the competent authority of the exporting Party 
+receiving a request for retroactive check shall 
+respond to the request promptly and transmit 
+the results of the retroactive check to the 
+importing Party within 90 days upon the receipt 
+of the request; 
+53 
+ 
+ 
+(c) the competent authority of the importing Party 
+may suspend the provisions on preferential 
+tariff treatment to a good that is the subject of 
+a retroactive check for the duration of that 
+action or any part thereof. However, in 
+accordance with the internal laws and 
+regulations of the importing Party, the 
+competent authority of the importing Party may 
+release the good to the importer subject to any 
+administrative measures deemed necessary, 
+provided that it is not held to be subject to 
+import prohibition or restriction and there is no 
+suspicion of fraud.  In the event that a 
+determination is made by the importing Party 
+that the good qualifies as an originating good 
+of the exporting Party, any suspended 
+preferential tariff treatment shall be reinstated; 
+and 
+ 
+(d) the competent authority of the importing Party, 
+after receipt of the results of the retroactive 
+check from the competent authority of the 
+exporting Party, shall determine whether or not 
+the subject good is an originating good. The 
+entire process of retroactive check including 
+the process of notifying the competent 
+authority of the exporting Party the result of the 
+determination of whether or not the good is an 
+originating good shall be completed within 180 
+days upon the receipt of the request by the 
+competent authority of the exporting Party.  
+ 
+ 
+ 
+54 
+ 
+Rule 18 
+ 
+Verification Visit 
+ 
+If the competent authority of the importing Party is not 
+satisfied with the outcome of the retroactive check, it 
+may, under exceptional cases, request for verification 
+visit to the premises of the exporter or producer through 
+the competent authority of the exporting Party in 
+accordance with the following conditions: 
+ 
+(a) Prior to conducting a verification visit, the 
+competent authority of the importing Party 
+shall: 
+ 
+(i) 
+deliver a written request to conduct the 
+proposed verification visit to: 
+ 
+(1) 
+the exporter or producer whose 
+premises are to be visited; and 
+ 
+(2) 
+the competent authority of the 
+exporting Party;  
+ 
+(ii)  
+deliver a written notification to conduct 
+the proposed verification visit to the 
+importer of the goods that are subject to 
+the verification visit;  
+ 
+(iii)  the 
+written 
+request 
+mentioned 
+in 
+subparagraph (a) (i) shall be as 
+comprehensive 
+as 
+possible 
+and 
+includes:  
+ 
+(1) 
+the name and contact details of 
+the competent authority issuing 
+the request; 
+ 
+55 
+ 
+(2) 
+the name of the exporter or 
+producer whose premises are to 
+be visited; 
+ 
+(3) 
+the 
+proposed 
+date 
+for 
+the 
+verification visit; 
+ 
+(4) 
+the objective and scope of the 
+proposed 
+verification 
+visit, 
+including specific reference to the 
+goods that are subject to the 
+verification; and 
+ 
+(5) 
+the names and designation or title 
+of the officials of the importing 
+Party performing the verification 
+visit; 
+ 
+(iv)  obtain the written consent of the 
+exporter or producer whose premises 
+are to be visited; 
+ 
+(b) 
+Where a written consent from the exporter or 
+producer is not obtained within 30 days upon 
+receipt of the written request pursuant to 
+subparagraph (a) (i), the competent authority 
+of the importing Party may deny preferential 
+tariff treatment to the goods that would have 
+been the subject of the verification visit; 
+ 
+(c) 
+The competent authority of the exporting 
+Party receiving the written request may 
+postpone the proposed verification visit and 
+notify the competent authority of the importing 
+Party of such intention.  Notwithstanding any 
+postponement, any verification visit shall be 
+carried out in accordance with the internal 
+laws and regulations of the exporting Party 
+56 
+ 
+within 60 days upon the date of receipt of the 
+request, or for a longer period as the 
+concerned 
+Parties 
+may 
+agree. 
+ 
+The 
+arrangement of the verification visit shall be 
+agreed by the competent authorities of the 
+importing and exporting Parties; 
+ 
+(d) 
+The competent authority of the importing 
+Party conducting the verification visit shall 
+provide the exporter or producer whose 
+goods are the subject of the verification visit, 
+and the competent authority of the exporting 
+Party, with a written determination of whether 
+or not the subject goods qualified as 
+originating goods; 
+ 
+(e) 
+Any suspended preferential tariff treatment 
+shall 
+be 
+reinstated 
+upon 
+the 
+written 
+determination referred to in subparagraph (d) 
+that the goods qualify as originating goods; 
+ 
+(f) 
+The exporter or producer shall be allowed 30 
+days, 
+upon 
+receipt 
+of 
+the 
+written 
+determination, to provide in writing additional 
+information regarding the eligibility of the 
+goods to the competent authority of the 
+importing Party.  If the goods are still found to 
+be 
+non-originating, 
+the 
+final 
+written 
+determination shall be communicated by the 
+competent authority of the importing Party to 
+the competent authority of the exporting Party 
+within 30 days upon receipt of additional 
+information from the exporter or producer; 
+and 
+ 
+(g) 
+The verification visit process, including the 
+actual visit and determination of whether the 
+subject goods are originating or not, shall be 
+57 
+ 
+carried out and its results communicated to 
+the competent authority of the exporting Party 
+within 180 days upon receipt of the written 
+request pursuant to subparagraph (a) (i).  
+While awaiting the results of the verification 
+visit, 
+subparagraph 
+(c) 
+of 
+Rule 
+17 
+(Retroactive Check) on the suspension of 
+preferential tariff treatment shall be applied.
+ 
+ 
+Rule 19 
+ 
+Confidentiality 
+ 
+The Parties shall maintain, in accordance with their 
+internal laws and regulations, the confidentiality of 
+classified business information collected in the process 
+pursuant to Rule 17 (Retroactive Check) and Rule 18 
+(Verification Visit) and shall protect such information 
+from disclosure that could prejudice the competitive 
+position of the person who provided the information.  
+The information and documents collected in such 
+process shall not be used for other purposes, including 
+being used as evidence in administrative and judicial 
+proceedings, without the explicit written permission of 
+the Party providing such information. 
+ 
+Rule 20 
+ 
+Documentation for Implementing 
+Subparagraph 2 (b) of Article 9  
+(Direct Consignment) of this Chapter  
+ 
+For the purposes of implementing subparagraph 2 (b) 
+of Article 9 (Direct Consignment) of this Chapter, where 
+transportation is effected through the area of one or 
+more non-Parties, the following shall be produced to 
+the competent authority of the importing Party: 
+ 
+58 
+ 
+(a) 
+the 
+Bill 
+of 
+Lading 
+or 
+other 
+related 
+transportation documents issued in the 
+exporting Party; 
+ 
+(b) 
+a Certificate of Origin (Form AHK) issued by 
+the relevant issuing authority of the exporting 
+Party, unless not required pursuant to Rule 14 
+(Waiver of Certificate of Origin (Form AHK));  
+ 
+(c) 
+a copy of the original commercial invoice in 
+respect of the goods; and 
+ 
+(d) 
+supporting documents evidencing that the 
+requirements of subparagraphs 2(b) (i) to (iii) 
+of Article 9 (Direct Consignment) of this 
+Chapter have been complied with.  
+ 
+Rule 21 
+ 
+Exhibition Goods 
+ 
+1.  
+Goods sent from an exporting Party for exhibition 
+in another Party and sold during or after the exhibition 
+for importation into a Party shall be granted preferential 
+tariff treatment accorded under this Agreement on the 
+condition that the goods meet the requirements as set 
+out in this Chapter, and provided that it is shown to the 
+satisfaction of the relevant customs authority of the 
+importing Party that: 
+ 
+(a) an exporter has dispatched those goods from 
+the Area of the exporting Party to the Party 
+where the exhibition is held and has exhibited 
+them there; 
+ 
+(b) the exporter has sold the goods or transferred 
+them to a consignee in the importing Party; and  
+ 
+59 
+ 
+(c) the goods have been consigned during the 
+exhibition or immediately thereafter to the 
+importing Party in the state in which they were 
+sent for the exhibition. 
+ 
+2. 
+For the purposes of paragraph 1, the Certificate 
+of Origin (Form AHK) shall be provided to the customs 
+authority of the importing Party.  The name and 
+address of the exhibition shall be indicated.  The 
+relevant customs authority of the Party where the 
+exhibition took place may provide evidence together 
+with supporting documents prescribed in subparagraph 
+(d) of Rule 20 (Documentation for Implementing 
+Subparagraph 2 (b) of Article 9 (Direct Consignment) 
+of this Chapter) for the identification of the goods and 
+the conditions under which they were exhibited. 
+ 
+3. 
+Paragraph 1 shall apply to any trade, agricultural 
+or crafts exhibition, fair or similar show or display in 
+shops or business premises with a view to sale and 
+where the goods remain under customs control during 
+the exhibition. 
+ 
+Rule 22 
+ 
+Third Party Invoicing 
+ 
+1.   
+The competent authority of the importing Party 
+shall accept Certificates of Origin (Form AHK) in the 
+case where the sales invoice is issued either by a 
+company located in a third party or by an exporter for 
+the account of the said company, provided that the 
+goods meet the requirements of this Chapter.  
+ 
+2. 
+The exporter shall indicate “Third party invoicing” 
+and such information as name and country/party of the 
+company issuing the invoice in the Certificate of Origin 
+(Form AHK).  
+60 
+ 
+ 
+Rule 23 
+ 
+Action against Fraudulent Acts 
+ 
+1. 
+When it is suspected that fraudulent acts in 
+connection with the Certificate of Origin (Form AHK) 
+have been committed, the Parties concerned shall 
+cooperate in the action to be taken in the respective 
+Parties against the persons involved to the extent 
+permitted under their applicable internal laws and 
+regulations. 
+ 
+2. 
+Each Party shall provide legal sanctions for 
+fraudulent acts related to the Certificate of Origin (Form 
+AHK) in accordance with its internal laws and 
+regulations. 
+ 
+ 
+61 
+ 
+ APPENDIX 
+ 
+ 
+LIST OF DATA REQUIREMENTS 
+ 
+1. Exporter details 
+The name, address, Country/Party and contact details of the 
+exporter 
+2. Shipment 
+details 
+(a 
+Certificate 
+of 
+Origin 
+(Form AHK) can only 
+apply 
+to 
+a 
+single 
+shipment of goods) 
+(i) 
+Consignee’s name, address and Country/Party 
+(ii) 
+Sufficient details to identify the consignment, such as 
+importer’s purchase order number, invoice number and 
+date and Air Way Bill or Sea Way Bill or Bill of Lading 
+(iii) Port of Discharge, as far as known 
+3. Full description of goods 
+(i) 
+Marks and numbers on packages 
+(ii) 
+Detailed description of the goods, including HS Code 
+(6-digit level), and if applicable, product number and 
+brand name 
+(iii) The relevant origin-conferring criteria  
+(iv) Quantity of goods 
+(v) 
+FOB value when the Regional Value Content origin 
+criterion is applied, except if the goods are exported 
+from ASEAN Member States to Hong Kong, China 
+ 
+4. Certification by issuing 
+authority 
+Certification by the issuing authority that the goods specified 
+in the Certificate of Origin (Form AHK) meet all the relevant 
+requirements in Chapter 3 (Rules of Origin) based on the 
+documents provided, and the date of issuance of the 
+Certificate of Origin (Form AHK) 
+5. Certificate 
+of 
+Origin 
+(Form AHK) number 
+A unique number assigned to the Certificate of Origin (Form 
+AHK) by the issuing authority  
+ 
+ 
+ 

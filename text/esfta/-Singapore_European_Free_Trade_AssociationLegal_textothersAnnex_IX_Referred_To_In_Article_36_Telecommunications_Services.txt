@@ -1,1 +1,313 @@
-  ANNEX IX   REFERRED TO IN ARTICLE 36   TELECOMMUNICATIONS SERVICES   Article 1  Definitions  1. For the purposes of this Annex:  a) “Supplier” refers to a telecommunications operator that supplies or intends to supply telecommunications services.  b) “Dominant Supplier” is a Supplier who, on its own or, together with other Suppliers based on an agreement or otherwise, has the ability to materially affect the terms of participation (having regard to price and supply) in the relevant market for a specific telecommunications service as a result of:  i) control over essential facilities; or   ii) use of its position in the market.   c) “Essential facilities” mean facilities of a public telecommunications network or service that i) are exclusively or predominantly provided by a single or limited number of suppliers; and ii) cannot feasibly be economically or technically substituted in order to provide a service.   Article 2  General Principles  1. Competition and Reliance on Market Forces  With a view to ensure the supply of cost-effective, high quality telecommunications services, the Parties shall adopt or maintain appropriate measures to prevent anti-competitive practices of - 2 -   Suppliers. There shall be primary reliance on private negotiations and industry self-regulation, subject to requirements designed to prevent anti-competitive conduct.   2. Regulatory Principles  Measures and their application shall be objective, impartial and non-discriminatory. They shall, to the extent feasible, be technology-neutral.  3. Transparency  Regulatory requirements shall be applied in a transparent manner. Unless there is an overriding public or private interest not to do so, the regulatory authorities shall make interconnection agreements publicly available.   4. Avoidance of Unnecessary Delay  Recognising the need to respond rapidly to changing market forces, all decisions and directions pertaining to the regulatory measures outlined in this Annex, including decisions regarding appeals, shall be implemented by the relevant authorities as quickly as reasonably possible.   5. Right to appeal  A Supplier affected by a decision of a regulatory authority shall have recourse to appeal to an independent administrative body and/or a court, in accordance with domestic legislation.   Article 3  Licensing Procedures  1. Where a licence is required, all the licensing criteria and the period of time normally required to reach a decision concerning an application for a licence shall be made publicly available.   2. The granting of the license shall be based on the licensing criteria referred to in paragraph 1.   3. The period of time normally required to reach a decision concerning an application for a licence shall be reasonable.  4. Where a licence has been denied to an applicant, the reasons for the denial shall be made known to the applicant upon request.  - 3 -    Article 4  Allocation and Use of Scarce Resources  Any procedures for the allocation and use of scarce resources, including frequencies, numbers and rights of way, shall be carried out in an objective, timely, transparent and non-discriminatory manner. The current state of allocated frequency bands shall be made publicly available.   Article 5  Competitive Safeguards  1. The Parties shall provide for measures to prevent anti-competitive conduct by Dominant Suppliers, acting singly or collectively, which frustrate the benefits of this Agreement as it relates to telecommunications services.  2. With regard to Dominant Suppliers, the anti-competitive practices, referred to in paragraph 1, shall include in particular: a) engaging in anti-competitive pricing or cross-subsidisation; b) using information obtained from competitors with anti-competitive results; c) not making available to other Suppliers on a timely basis technical information about essential facilities and commercially relevant information which are necessary for them to provide services; and  d) not offering to other Suppliers, on a non-discriminatory basis, access to essential facilities and commercially relevant information which are necessary for them to provide services.   Article 6  Minimum Interconnection Obligations  1. Obligation to Interconnect with Other Suppliers  Suppliers offering a public switched telephone service shall interconnect either directly or indirectly with other Suppliers.  2. Disclose Technical and Commercial Conditions  A Supplier shall be required to make publicly available, in a clear format and in sufficient detail, any technical and commercial conditions concerning interconnection.  - 4 -   3. Protection of Confidential Information  According to domestic laws and regulations, Suppliers shall protect from disclosure any confidential or proprietary information obtained from another Supplier in the course of negotiating or implementing an interconnection agreement. Suppliers may use such information only for the provision of the specific Interconnection Related Services (IRS) requested.  4. Duty to Prevent Technical Harm to the Network  A Supplier that interconnects with another Supplier shall only use telecommunications installations that do not cause physical or technical harm to the other Supplier’s network.  5. Comply with Mandatory Technical Standards  Suppliers shall be required to comply with any applicable mandatory technical standard adopted. The telecommunications industry shall be consulted with regard to efforts to determine which technical standards should be made mandatory.  6. Facilitate Change of Suppliers  Suppliers shall be required to take any reasonable action necessary to allow an end user that chooses to obtain service from a different Supplier to do so with minimum difficulty. This includes the duty, where technically feasible, to allow the end user to retain the same telephone number or network address and to continue to receive service using the same local loop.  7. Duty to Provide Billing Information  Unless they agree otherwise, the interconnecting Suppliers shall be required to exchange information that is necessary to provide accurate and timely billing to themselves, their affiliates or other Suppliers.   Article 7  Interconnection with Dominant Suppliers  1. A Dominant Supplier shall grant interconnection to other Suppliers without discrimination and in accordance with the principles of transparent and cost oriented price policy. The provisions of Article 6, paragraphs 2 to 7 shall also apply. 2. Interconnection with a Dominant Supplier shall be ensured at any technically feasible point in the network. Such interconnection shall be provided: - 5 -   a) under non-discriminatory terms, conditions (including technical standards and specifications) and rates and of a quality no less favourable than that provided for its own like services or for like services of non-affiliated Suppliers or for its subsidiaries or other affiliates; b) in a timely fashion, on terms, conditions (including technical standards and specifications) and cost-oriented rates that are transparent, reasonable, having regard to economic feasibility, and sufficiently unbundled so that Suppliers need not pay for network components or facilities they do not require for the service to be provided; c) upon request, at points in addition to the network termination points offered to the majority of users, subject to charges that reflect the cost of construction of necessary additional facilities. 3. A Supplier that seeks to interconnect with a Dominant Supplier shall be able to do so pursuant to the terms of a Reference Interconnection Offer (RIO) extended by the Dominant Supplier. The RIO shall contain written statements of the prices, terms and conditions on which a Dominant Supplier will provide interconnection services to a Supplier seeking interconnection. The RIO shall be required to contain the following: a) A list and description of the IRS offered, the terms and conditions for such services, the commercial and technical requirements; b) A list of cost-based prices for the IRS where the Supplier has a dominant position. The Dominant Supplier shall use an established methodology based on long-run average incremental costs (LRAIC) or any other forward-looking methodology better reflecting the relevant costs.  4. The RIO must be modular, allowing a Supplier seeking interconnection to purchase only those IRS that it wants to obtain. The RIO must be sufficiently detailed to enable a Supplier that is willing to accept its prices, terms and conditions to obtain IRS without having to engage in negotiations with the Dominant Supplier. If a Supplier accepts the RIO, further discussions will be limited to implementing the accepted prices, terms and conditions.   Article 8  Interconnection Dispute Resolution  Where Suppliers are unable to resolve disputes regarding the negotiation of an Interconnection Agreement with Dominant Suppliers within a stipulated time, they shall have recourse to assistance from the relevant regulatory authorities to resolve disputes regarding appropriate terms, conditions and rates for interconnection within a reasonable time frame. The relevant regulatory authority shall fix the conditions for the interconnection in accordance with the normal principles governing the market and - 6 -   the sector in question and in accordance with the principles of Article 2, Article 6 and Article 7. Domestic legislation may provide for special conciliation proceedings.  Article 9  Independent Regulators  The regulatory authority shall be separate from, and not accountable to, any Supplier of basic telecommunications services.    Article 10  Universal Service  Domestic regulation may define the kind of universal service obligation that should be maintained. Such obligations will not be regarded as anti-competitive per se, provided they are administered in a transparent, non-discriminatory and competitively neutral manner and are not more burdensome than necessary for the kind of universal service defined by domestic regulation.    __________________ 
+ 
+ 
+ANNEX IX 
+ 
+ 
+REFERRED TO IN ARTICLE 36 
+ 
+ 
+TELECOMMUNICATIONS SERVICES 
+ 
+ 
+Article 1 
+ 
+Definitions 
+ 
+1. 
+For the purposes of this Annex: 
+ 
+a) 
+“Supplier” refers to a telecommunications operator that supplies or 
+intends to supply telecommunications services. 
+ 
+b) 
+“Dominant Supplier” is a Supplier who, on its own or, together with 
+other Suppliers based on an agreement or otherwise, has the ability to 
+materially affect the terms of participation (having regard to price and 
+supply) in the relevant market for a specific telecommunications 
+service as a result of: 
+ 
+i) 
+control over essential facilities; or  
+ 
+ii) 
+use of its position in the market.  
+ 
+c) 
+“Essential facilities” mean facilities of a public telecommunications 
+network or service that 
+i) 
+are exclusively or predominantly provided by a single or 
+limited number of suppliers; and 
+ii) 
+cannot feasibly be economically or technically substituted in 
+order to provide a service. 
+ 
+ 
+Article 2 
+ 
+General Principles 
+ 
+1. 
+Competition and Reliance on Market Forces 
+ 
+With a view to ensure the supply of cost-effective, high quality 
+telecommunications services, the Parties shall adopt or maintain 
+appropriate measures to prevent anti-competitive practices of 
+- 2 - 
+ 
+ 
+Suppliers. There shall be primary reliance on private negotiations and 
+industry self-regulation, subject to requirements designed to prevent 
+anti-competitive conduct. 
+ 
+ 
+2. 
+Regulatory Principles 
+ 
+Measures and their application shall be objective, impartial and non-
+discriminatory. They shall, to the extent feasible, be technology-
+neutral. 
+ 
+3. 
+Transparency 
+ 
+Regulatory requirements shall be applied in a transparent manner. 
+Unless there is an overriding public or private interest not to do so, the 
+regulatory authorities shall make interconnection agreements publicly 
+available.  
+ 
+4. 
+Avoidance of Unnecessary Delay 
+ 
+Recognising the need to respond rapidly to changing market forces, all 
+decisions and directions pertaining to the regulatory measures outlined 
+in this Annex, including decisions regarding appeals, shall be 
+implemented by the relevant authorities as quickly as reasonably 
+possible.  
+ 
+5. 
+Right to appeal 
+ 
+A Supplier affected by a decision of a regulatory authority shall have 
+recourse to appeal to an independent administrative body and/or a 
+court, in accordance with domestic legislation. 
+ 
+ 
+Article 3 
+ 
+Licensing Procedures 
+ 
+1. 
+Where a licence is required, all the licensing criteria and the period of time 
+normally required to reach a decision concerning an application for a licence shall be 
+made publicly available.  
+ 
+2. 
+The granting of the license shall be based on the licensing criteria referred to 
+in paragraph 1.  
+ 
+3. 
+The period of time normally required to reach a decision concerning an 
+application for a licence shall be reasonable. 
+ 
+4. 
+Where a licence has been denied to an applicant, the reasons for the denial 
+shall be made known to the applicant upon request. 
+ 
+- 3 - 
+ 
+ 
+ 
+Article 4 
+ 
+Allocation and Use of Scarce Resources 
+ 
+Any procedures for the allocation and use of scarce resources, including 
+frequencies, numbers and rights of way, shall be carried out in an objective, timely, 
+transparent and non-discriminatory manner. The current state of allocated frequency 
+bands shall be made publicly available. 
+ 
+ 
+Article 5 
+ 
+Competitive Safeguards 
+ 
+1. 
+The Parties shall provide for measures to prevent anti-competitive conduct by 
+Dominant Suppliers, acting singly or collectively, which frustrate the benefits of this 
+Agreement as it relates to telecommunications services. 
+ 
+2. 
+With regard to Dominant Suppliers, the anti-competitive practices, referred to in 
+paragraph 1, shall include in particular: 
+a) 
+engaging in anti-competitive pricing or cross-subsidisation; 
+b) 
+using information obtained from competitors with anti-competitive 
+results; 
+c) 
+not making available to other Suppliers on a timely basis technical 
+information about essential facilities and commercially relevant 
+information which are necessary for them to provide services; and  
+d) 
+not offering to other Suppliers, on a non-discriminatory basis, access to 
+essential facilities and commercially relevant information which are 
+necessary for them to provide services. 
+ 
+ 
+Article 6 
+ 
+Minimum Interconnection Obligations 
+ 
+1. 
+Obligation to Interconnect with Other Suppliers 
+ 
+Suppliers offering a public switched telephone service shall 
+interconnect either directly or indirectly with other Suppliers. 
+ 
+2. 
+Disclose Technical and Commercial Conditions 
+ 
+A Supplier shall be required to make publicly available, in a clear 
+format and in sufficient detail, any technical and commercial 
+conditions concerning interconnection. 
+ 
+- 4 - 
+ 
+ 
+3. 
+Protection of Confidential Information 
+ 
+According to domestic laws and regulations, Suppliers shall protect 
+from disclosure any confidential or proprietary information obtained 
+from another Supplier in the course of negotiating or implementing an 
+interconnection agreement. Suppliers may use such information only 
+for the provision of the specific Interconnection Related Services (IRS) 
+requested. 
+ 
+4. 
+Duty to Prevent Technical Harm to the Network 
+ 
+A Supplier that interconnects with another Supplier shall only use 
+telecommunications installations that do not cause physical or 
+technical harm to the other Supplier’s network. 
+ 
+5. 
+Comply with Mandatory Technical Standards 
+ 
+Suppliers shall be required to comply with any applicable mandatory 
+technical standard adopted. The telecommunications industry shall be 
+consulted with regard to efforts to determine which technical standards 
+should be made mandatory. 
+ 
+6. 
+Facilitate Change of Suppliers 
+ 
+Suppliers shall be required to take any reasonable action necessary to 
+allow an end user that chooses to obtain service from a different 
+Supplier to do so with minimum difficulty. This includes the duty, 
+where technically feasible, to allow the end user to retain the same 
+telephone number or network address and to continue to receive 
+service using the same local loop. 
+ 
+7. 
+Duty to Provide Billing Information 
+ 
+Unless they agree otherwise, the interconnecting Suppliers shall be 
+required to exchange information that is necessary to provide accurate 
+and timely billing to themselves, their affiliates or other Suppliers. 
+ 
+ 
+Article 7 
+ 
+Interconnection with Dominant Suppliers 
+ 
+1. 
+A Dominant Supplier shall grant interconnection to other Suppliers without 
+discrimination and in accordance with the principles of transparent and cost oriented 
+price policy. The provisions of Article 6, paragraphs 2 to 7 shall also apply. 
+2. 
+Interconnection with a Dominant Supplier shall be ensured at any technically 
+feasible point in the network. Such interconnection shall be provided: 
+- 5 - 
+ 
+ 
+a) 
+under non-discriminatory terms, conditions (including technical 
+standards and specifications) and rates and of a quality no less 
+favourable than that provided for its own like services or for like 
+services of non-affiliated Suppliers or for its subsidiaries or other 
+affiliates; 
+b) 
+in a timely fashion, on terms, conditions (including technical standards 
+and specifications) and cost-oriented rates that are transparent, 
+reasonable, having regard to economic feasibility, and sufficiently 
+unbundled so that Suppliers need not pay for network components or 
+facilities they do not require for the service to be provided; 
+c) 
+upon request, at points in addition to the network termination points 
+offered to the majority of users, subject to charges that reflect the cost of 
+construction of necessary additional facilities. 
+3. 
+A Supplier that seeks to interconnect with a Dominant Supplier shall be able to 
+do so pursuant to the terms of a Reference Interconnection Offer (RIO) extended by 
+the Dominant Supplier. The RIO shall contain written statements of the prices, terms 
+and conditions on which a Dominant Supplier will provide interconnection services to 
+a Supplier seeking interconnection. The RIO shall be required to contain the 
+following: 
+a) 
+A list and description of the IRS offered, the terms and conditions for 
+such services, the commercial and technical requirements; 
+b) 
+A list of cost-based prices for the IRS where the Supplier has a 
+dominant position. The Dominant Supplier shall use an established 
+methodology based on long-run average incremental costs (LRAIC) or 
+any other forward-looking methodology better reflecting the relevant 
+costs.  
+4. 
+The RIO must be modular, allowing a Supplier seeking interconnection to 
+purchase only those IRS that it wants to obtain. The RIO must be sufficiently detailed 
+to enable a Supplier that is willing to accept its prices, terms and conditions to obtain 
+IRS without having to engage in negotiations with the Dominant Supplier. If a 
+Supplier accepts the RIO, further discussions will be limited to implementing the 
+accepted prices, terms and conditions. 
+ 
+ 
+Article 8 
+ 
+Interconnection Dispute Resolution 
+ 
+Where Suppliers are unable to resolve disputes regarding the negotiation of an 
+Interconnection Agreement with Dominant Suppliers within a stipulated time, they 
+shall have recourse to assistance from the relevant regulatory authorities to resolve 
+disputes regarding appropriate terms, conditions and rates for interconnection within a 
+reasonable time frame. The relevant regulatory authority shall fix the conditions for the 
+interconnection in accordance with the normal principles governing the market and 
+- 6 - 
+ 
+ 
+the sector in question and in accordance with the principles of Article 2, Article 6 and 
+Article 7. Domestic legislation may provide for special conciliation proceedings. 
+ 
+Article 9 
+ 
+Independent Regulators 
+ 
+The regulatory authority shall be separate from, and not accountable to, any 
+Supplier of basic telecommunications services.  
+ 
+ 
+Article 10 
+ 
+Universal Service 
+ 
+Domestic regulation may define the kind of universal service obligation that 
+should be maintained. Such obligations will not be regarded as anti-competitive per se, 
+provided they are administered in a transparent, non-discriminatory and competitively 
+neutral manner and are not more burdensome than necessary for the kind of universal 
+service defined by domestic regulation. 
+ 
+ 
+ 
+__________________ 

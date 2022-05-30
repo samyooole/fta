@@ -1,1 +1,841 @@
-  28   CHAPTER 5  STANDARDS AND TECHNICAL REGULATIONS, SANITARY AND PHYTOSANITARY MEASURES   ARTICLE 5.1: SCOPE  1. Consistent with the objectives set out in Chapter 1 and the provisions of this Chapter, and reflecting the level of confidence that each Party has in the other Party’s regulatory outcomes and conformity assessment systems, each Party shall implement the principles of mutual recognition that provide the most appropriate or cost-efficient approach to the removal or reduction of technical, sanitary and phytosanitary barriers (hereinafter referred to as “regulatory barriers”) to the trade in goods between the Parties for products and/or assessments of manufacturers/manufacturing processes of products specified in the Sectoral Annexes to this Chapter.  2. For the purposes of this Chapter, mutual recognition means that each Party, on the basis that it is accorded reciprocal treatment by the other Party:  (a) accepts the test reports of conformity assessment activities of the other Party to demonstrate conformity of products and/or manufacturers/manufacturing processes with its mandatory requirements when the conformity assessment activities are undertaken by conformity assessment bodies designated by the other Party in accordance with this Chapter i.e. mutual recognition of test reports;  (b) accepts the certification of results of conformity assessment activities of the other Party to demonstrate conformity of products and/or manufacturers/manufacturing processes with its mandatory requirements when the conformity assessment activities are undertaken by conformity assessment bodies designated by the other Party in accordance with this Chapter i.e. mutual recognition of certification of conformity assessment;  (c) accepts the mandatory requirements of a Party as producing outcomes equivalent to those produced by the other Party’s corresponding but different mandatory requirements, with both meeting the legitimate objective or achieving the appropriate level of sanitary or phytosanitary protection of the mandatory requirements applied in the territory of the latter Party; i.e. mutual recognition of equivalence of mandatory requirements.    ARTICLE 5.2: DEFINITIONS  1. All general terms concerning standards and conformity assessment used in this Chapter shall have the meaning given in the definitions contained in the International Organisation for Standardisation/International Electrotechnical Commission (ISO/IEC)   29  Guide 2: 2004 "Standardization and related activities – General vocabulary” published by the ISO and IEC, unless the context otherwise requires and as appropriate.  2. For the purposes of this Chapter, and its Sectoral Annexes, unless a more specific meaning is given in the specified Sectoral Annexes:  accept means the use of the results of conformity assessment activities as a basis for regulatory actions such as approvals, licences, registrations and post-market assessments of conformity assessment;  acceptance has an equivalent meaning to accept;  certification body means a body, including product or quality systems certification bodies, that may be designated by a Party in accordance with this Chapter to conduct certification on compliance with its or the other Party’s standardisation and/or specifications to meet relevant mandatory requirements;  confirmation means the confirmation of the compliance of the manufacturing or test facility with the criteria for confirmation by a Competent Authority of a Party pursuant to the mandatory requirements of the other Party;  competent authority means an authority of a Party with the power to conduct inspection or audits on facilities in its territory to confirm their compliance with the mandatory requirements of the other Party;  conformity assessment means any activity concerned with determining  directly or indirectly whether products, manufacturers or processes fulfil relevant  standards and/or specifications to meet relevant mandatory requirements set out in the respective Party’s mandatory requirements.  The typical examples of conformity assessment activities are sampling, testing, inspection, evaluation, verification, certification, registration, accreditation and approval, as well as their combinations;   conformity assessment body  means a body that conducts conformity assessment activities;  designation means the authorisation by a Party’s designating authority of its conformity assessment body to undertake specified conformity assessment activities pursuant to the mandatory requirements of the other Party;   designate has an equivalent meaning to designation;  Designating Authority means a body established in the territory of a Party with the authority to designate, monitor, suspend or withdraw designation of conformity assessment bodies to conduct conformity assessment activities within its jurisdiction in accordance with the other Party’s mandatory requirements;  inspection means conformity evaluation by observation and judgement accompanied  as appropriate by measurement, testing or gauging, unless otherwise specified in the Sectoral Annex;    30  inspection body means a body that performs inspection;  mandatory requirements means a Party’s applicable laws, regulations and administrative provisions;  registered conformity assessment body means a body registered pursuant to Article 5.5;  registration means the authorisation by a Party’s Designating Authority of a conformity assessment body of the other Party to undertake specified conformity assessment activities pursuant to its mandatory requirements;  regulatory authority means an entity that exercises a legal right to determine the mandatory requirements, control the import, use or supply of products within a Party’s territory and may take enforcement action to ensure that products marketed within its territory comply with that Party’s mandatory requirements including assessments of manufacturers/ manufacturing processes of products;  sanitary or phytosanitary measure shall have the same meaning as in the WTO Agreement on the Application of Sanitary and Phytosanitary Measures;  Sectoral Annex is an annex to this Chapter which specifies the implementation arrangements in respect of a specific product sector;  stipulated requirements means the criteria set out in a Sectoral Annex for the designation of a Conformity Assessment Body;   technical regulations shall have the same meaning as in the WTO Agreement on Technical Barriers to Trade;  test facility means a facility, including independent laboratories, manufacturers’ own test facilities or government testing bodies, that may be designated by one Party’s Designating Authority in accordance with this Chapter to undertake tests to the other Party’s mandatory requirements; and  verification means an action to verify in the territories of the Parties, by such means as audits or inspections, compliance with the stipulated requirements for designation or criteria for confirmation by a conformity assessment body or a manufacturing or test facility respectively.     ARTICLE 5.3: GENERAL OBLIGATIONS  1. This Chapter shall apply to the mandatory requirements adopted or maintained by the Parties to fulfil their legitimate objectives and/or achieve their appropriate level of sanitary or phytosanitary protection.  2. Each Party shall accept, in accordance with the provisions of this Chapter, the test reports and/or results of conformity assessment activities stipulated by the mandatory requirements of that Party specified in the relevant Sectoral Annex, including certificates   31  and marks of conformity, that are conducted by the registered conformity assessment bodies of the other Party.  3. For the purposes of this Article, a Sectoral Annex shall include:  (a) inter alia, provisions on scope and coverage;  (b) applicable laws, regulations and administrative provisions i.e. mandatory requirements of each Party concerning the scope and coverage;  (c) applicable laws, regulations and administrative provisions of each Party stipulating the requirements covered by this Chapter, all the conformity assessment activities covered by this Chapter to satisfy such requirements and the stipulated requirements for designation of conformity assessment bodies or the applicable laws, regulations and administrative provisions of each Party stipulating the criteria for confirmation of the manufacturing or test facilities covered by this Chapter; and   (d) the list of Designating Authorities or Competent Authorities.  4. The Parties shall, where appropriate, endeavour to work towards harmonisation of their respective mandatory requirements taking into account relevant international standards, recommendations and guidelines, in accordance with their international rights and obligations.   ARTICLE  5.4: APPLICATION   This Chapter applies to all products and/or assessments of manufacturers or manufacturing processes of products traded between the Parties, regardless of the origin of those products, unless otherwise specified in a Sectoral Annex, or unless otherwise specified by any mandatory requirements of a Party.   ARTICLE  5.5: MUTUAL RECOGNITION OF CONFORMITY ASSESSMENT  Scope  1. This Article shall apply to the conformity assessment bodies and conformity assessment activities for products as may be specified in the Sectoral Annexes.  Obligations   2. In accordance with Article 2.4 of the WTO Agreement on Technical Barriers to Trade, where technical regulations are required and relevant international standards exist or their completion is imminent, Parties shall use them, or the relevant parts of them, as a basis for their mandatory requirements except when such international standards or relevant parts of them would be an ineffective  or inappropriate means for the legitimate objectives pursued, for instance because of fundamental climatic or geographical factors or fundamental technological problems.     32   3. A Party shall accept the test reports and/or the results of conformity assessment activities to demonstrate conformity of products with its mandatory requirements when the conformity assessment activities are undertaken by conformity assessment bodies designated by the  Designating Authority of the other Party and registered by the first mentioned Party’s Designating Authority in accordance with this Chapter.  Designating Authorities  4. Each Party shall notify the other of any scheduled changes concerning their Designating Authorities, and ensure that their Designating Authorities:   (a) have the necessary power to designate, monitor (including verification), withdraw the designation of, suspend the designation of and withdraw the suspension of the designation of the conformity assessment bodies that conduct conformity assessment activities within its territory based upon the requirements set out in the other Party’s mandatory requirements as specified in the relevant Sectoral Annex; and  (b) consult, as necessary, with the relevant counterparts of the other Party to ensure the maintenance of confidence in conformity assessment activities including processes and procedures.  The consultations may include joint participation in audits related to conformity assessment activities or other assessments of registered conformity assessment bodies, where such participation is appropriate, technically possible and within reasonable cost.  Registration of Conformity Assessment Bodies  5. The following procedures shall apply to the registration of a conformity assessment body:  (a) each Party shall make a proposal that a conformity assessment body of that Party designated by its Designating Authority be registered under this Chapter, by presenting its proposal in writing, supported by the necessary documents, to the Designating Authority of the other Party;  (b) the Designating Authority of the other Party shall consider whether the proposed conformity assessment body complies with the stipulated and mandatory requirements specified in the relevant Sectoral Annex and  communicate, to the Designating Authority of the other Party in writing, its  decision regarding the registration of that conformity assessment body along with date of registration within 90 days from the date of receipt of the proposal referred to in paragraph (a) above; and   (c) in the event of any disagreement over the registration, either Party may refer the matter to  the Mutual Recognition Joint Committee for resolution.     33  6. The proposing Party shall provide the following information in its proposal for registration of a conformity assessment body and keep such information up to date:  (a) the name and address of the conformity assessment body;  (b) the products or processes the conformity assessment body is designated to assess;  (c) the conformity assessment activities the conformity assessment body is designated to conduct; and  (d) the designation procedure and necessary information used to determine the compliance of the conformity assessment body with the stipulated requirements.  7. Each Party shall ensure that its Designating Authority withdraws the designation of a conformity assessment body registered by the Designating Authority of the other Party when its Designating Authority considers that the conformity assessment body no longer complies with the stipulated and mandatory requirements set out in the relevant Sectoral Annex. The withdrawal of the designation shall be notified in writing to the Designating Authority of the other Party. Each Party shall terminate the registration of a conformity assessment body when the Designating Authority of the other Party withdraws the designation of its conformity assessment body. The date of termination of registration of the conformity assessment body shall be the date of receipt of notification for withdrawal from the other Party.  8. A Party shall propose the termination of the registration of a conformity assessment body when that Party considers that the conformity assessment body no longer complies with the stipulated and mandatory requirements of that Party specified in the relevant Sectoral Annex. Proposal for terminating the registration of that conformity assessment body shall be made to the Designating Authority of the other Party in writing.  9. In the case of registration of a new conformity assessment body, the other Party shall accept the results of conformity assessment activities conducted by that conformity assessment body from the date of the registration. In the event that the registration of a conformity assessment body is terminated, the other Party shall accept the results of the conformity assessment activities conducted by that conformity assessment body prior to the termination, without prejudice to paragraphs 16 and 17.  10. Each Party shall notify the other Party of any scheduled changes concerning its designated conformity assessment bodies.  11. The Parties shall publish, on a sector-by-sector basis, their respective lists of registered conformity assessment bodies.    Verification and Monitoring of Conformity Assessment Bodies  12. Each Party shall ensure that its Designating Authorities shall:    34  (a) through appropriate means such as audits, inspections or monitoring, ensure that its designated conformity assessment bodies fulfil the stipulated and mandatory requirements set out in the Sectoral Annex. When applying the stipulated requirements for designation of the conformity assessment bodies, the Designating Authorities of a Party should take into account the bodies’ understanding of and experience relevant to the mandatory requirements of the other Party;  (b) monitor and verify that the designated conformity assessment bodies, maintain the necessary technical competence to demonstrate the conformity of a product with the standards, and/or specifications to meet the mandatory requirements of the other Party. This shall include participation in appropriate proficiency-testing programmes and other comparative reviews such as non government-to-government mutual recognition agreements, so that confidence in their technical competence to undertake the required conformity assessment is maintained;  (c) exchange information concerning the procedures used to ensure that the designated conformity assessment bodies are technically competent and comply with the relevant stipulated requirements; and  (d) compare methods used to verify that the registered conformity assessment bodies comply with the relevant stipulated requirements.  13. When in doubt, a Party may request the other Party, in writing, to clarify whether a registered conformity assessment body complies with the stipulated requirements for  designation as set out in the mandatory requirements in the Sectoral Annex, and may request for a verification to be conducted of the conformity assessment body’s activities in accordance with the first mentioned Party’s mandatory requirements.  14. Either Party may, upon request, participate as an observer, at its own expense, in the verification of conformity assessment bodies conducted by the Designating Authorities of the other Party, with the prior consent of such conformity assessment bodies, in order to maintain a continuing understanding of the other Party’s procedures for verification.  15. Each Party should encourage its conformity assessment bodies to co-operate with the conformity assessment bodies of the other Party.  Suspension and Withdrawal of Suspension of Designation of Conformity Assessment Bodies  16. In case of suspension of the designation of a registered conformity assessment body, the Party whose Designating Authority has suspended the designation shall immediately notify the other Party to that effect. The registration of that conformity assessment body shall be suspended from the date of receipt of the notification by the Designating Authority of the other Party. The other Party shall accept the results of the conformity assessment activities conducted by that conformity assessment body prior to the suspension of the designation.    35  17. In the case of lifting of suspension of the designation of a registered conformity assessment body, the Designating Authority which has lifted the suspension of the designation shall immediately notify the Designating Authority of the other Party to that effect.  The lifting of suspension of the registration of that conformity assessment body shall be effective from the date of receipt of the notification by the Designating Authority of the other Party. The other Party shall accept the results of the conformity assessment body from the date of lifting of the suspension of the registration.  Challenge  18. Each Party shall have the right to challenge a registered conformity assessment body’s technical competence and compliance with the relevant stipulated requirements. This right shall be exercised only in exceptional circumstances and where supported by relevant expert analysis or evidence. A Party shall exercise this right by notifying the other Party and the Mutual Recognition Joint Committee in writing. Such notification shall be accompanied by the supporting expert analysis or evidence.  19. Except in urgent circumstances, the Parties shall, prior to a challenge under paragraph 18, enter into consultations with a view to seeking a mutually satisfactory solution. In case the consultations do not produce a satisfactory solution and the Parties exercise the right to challenge, the registration of the conformity assessment body shall be suspended immediately. The date of suspension shall be the date of receipt of the written notification pursuant to paragraph 18.  20. In urgent circumstances, the Party shall suspend the registration of the conformity assessment body as soon as the right of challenge has been exercised.   21. Pursuant to paragraph 19, the consultations shall take place expeditiously with a view to resolving all issues and seeking a mutually satisfactory solution within 20 days following the date on which a challenge is received by the other Party or within the period so specified in the Sectoral Annex.   22. If a mutually satisfactory solution is not reached, the Mutual Recognition Joint Committee shall be convened at the earliest to resolve the matter. Unless the Mutual Recognition Joint Committee decides otherwise, the registration of the challenged conformity assessment body shall be suspended by the relevant Designating Authority for the relevant scope of designation from the date its technical competence or compliance is challenged, until either:  (a) the challenging Party is satisfied as to the competence and compliance of the conformity assessment body; or   (b) the designation of that conformity assessment body has been withdrawn; or  (c) the Mutual Recognition Joint Committee decides to lift the suspension of the registration of the conformity assessment body.  23. The Sectoral Annex may provide for additional procedures such as verification and time limits. This may involve the Mutual Recognition Joint Committee being   36  activated.  Where the Mutual Recognition Joint Committee decides to conduct a joint verification, it will be conducted in a timely manner by the Parties with the participation of the Designating Authority that designated the contested conformity assessment body and with the prior consent of the conformity assessment body. The result of such joint verification shall be discussed in the Mutual Recognition Joint Committee with a view to resolving the issue within the time limit specified in the Sectoral Annex.  24. The results of conformity assessment activities undertaken by a challenged conformity assessment body on or before the date of its suspension or withdrawal shall remain valid for acceptance for the purposes of paragraph 3.   ARTICLE 5.6: GOOD MANUFACTURING PRACTICES (GMP)  1. The provisions of this Article apply to assessments of manufacturers or manufacturing processes of products, and their mandatory requirements as may be specified in the relevant Sectoral Annexes.    Obligations  2. In accordance with Article 2.4 of the WTO Agreement on Technical Barriers to Trade, where technical regulations are required and relevant international standards exist or their completion is imminent, the Parties shall use them, or the relevant parts of them, as a basis for their mandatory requirements except when such international standards or relevant parts of them would be an ineffective  or inappropriate means for the legitimate objectives pursued, for instance because of fundamental climatic or geographical factors or fundamental technological problems.  3. A Party shall accept the test reports and/or the results of conformity assessment activities to demonstrate conformity of manufacturers or manufacturing processes of products with its mandatory requirements when the conformity assessment activities are undertaken by Inspection Body designated by the other Party’s Designating Authority and registered by the first mentioned Party’s Designating Authority in accordance with this Chapter.   ARTICLE 5.7: EQUIVALENCE OF MANDATORY REQUIREMENTS  1. The Parties shall give favourable consideration to accepting the equivalence of each other’s mandatory requirements consistent with the purpose of this Chapter and the WTO Agreement on the Application of Sanitary and Phytosanitary Measures.  2. A Party shall accept the equivalence of the mandatory requirements, and/or results of conformity assessment and approval procedures, of the other Party as set out in the respective Sectoral Annex.  3. For the purposes of paragraph 2, a Sectoral Annex shall provide the following details, as applicable:    37  (a) the procedures for determining and implementing the equivalence of each Party’s mandatory requirements; and/or  (b) the procedures for accepting the results of the conformity assessment and approval procedures; and   (c) the regulatory authorities designated by each Party.  ARTICLE 5.8: JOINT COMMITTEE ON MUTUAL RECOGNITION  1. A Joint Committee on Mutual Recognition (“Mutual Recognition Joint Committee”) shall be established as a body responsible for the effective implementation of this Chapter.  2. The Mutual Recognition Joint Committee shall be led by co-chairs from both Parties. It shall comprise an equal number of senior representatives from both Parties with an understanding of this Chapter, its objectives and application and with the relevant expertise.   3. A representative:  (a) may be accompanied by advisers at meetings of the Mutual Recognition Joint Committee; and  (b) shall not hold a position which may give rise to a conflict of interest.  4. The Mutual Recognition Joint Committee shall:  (a) be responsible for administering and facilitating the effective functioning of this Chapter and the Sectoral Annexes including:  (i) facilitating the extension of this Chapter, including the addition of new Sectoral Annexes or an increase in the scope of existing Sectoral Annexes;  (ii) resolving any questions or disputes relating to the application of this Chapter and its Sectoral Annexes;   (iii) resolving disagreement over registration with reference to paragraph 5(c) of Article 5.5,  lifting of suspension of registration of a conformity assessment body with reference to paragraphs 22(c) and 23 of Article 5.5;  (iv) establishing appropriate modalities of information exchange referred to in this Chapter;  (v) appointing experts from each Party for joint verification when needed; and  (vi) discharging such other functions as provided for in this Chapter;   38  (b) be the contact point for the Parties unless otherwise specified in the relevant Sectoral Annexes;  (c) determine its own rules of procedure;  (d) make its decisions and adopt its recommendations by consensus; and  (e) meet as and when required for the discharge of its functions, including upon the request of either Party.  5. In case any problem arising from the interpretation or application of this Chapter is not resolved through mutual consultations, the Parties shall seek an amicable solution through the Mutual Recognition Joint Committee.  6. The Mutual Recognition Joint Committee may establish ad hoc groups to undertake specific tasks, where necessary.  7. Any decision made by the Mutual Recognition Joint Committee shall be notified promptly in writing to each Party.  8. The Parties shall bring into effect the relevant decisions of the Mutual Recognition Joint Committee. Where any problem arising from the interpretation or application of this Chapter is not resolved through mutual consultations, the Parties shall seek an amicable solution through the Mutual Recognition Joint Committee before making a request for an arbitral tribunal under Article 15.5.  ARTICLE 5.9 : EXCHANGE OF INFORMATION AND COOPERATION  1. The Parties shall provide notification of any changes to their mandatory requirements in accordance with their WTO obligations.  In exceptional cases where considerations of health, safety or environmental protection warrant more urgent action, each Party shall notify the other Party of changes within the time period set out in the relevant Sectoral Annex or if no time period is specified, at least 60 days before the changes enter into force.  2. The Parties shall, for the purposes of this Chapter, establish contact points to expeditiously:  (a) broaden the exchange of information; and  (b) give favourable consideration to any written request for consultation.  3. The Parties should endeavour to develop a work programme and mechanisms for co-operation activities in the areas of technical issues of mutual interest.     39  ARTICLE 5.10: CONFIDENTIALITY  1. A Party shall not be required to disclose confidential proprietary information to the other Party except where such disclosure would be necessary for the other Party to demonstrate the technical competence of its designated conformity assessment body and conformity with the relevant stipulated requirements.  2. A Party shall, in accordance with its applicable laws, protect the confidentiality of any proprietary information disclosed to it in connection with conformity assessment activities and/or designation activities.  3. Nothing in this Chapter shall be construed to require either Party to furnish or allow access to information the disclosure of which it considers would:  (a) be contrary to its essential security interests;  (b) be contrary to the public interest as determined by its domestic laws, regulations and administrative provisions;  (c) be contrary to any of its domestic laws, regulations and administrative provisions including but not limited to those protecting personal privacy or the financial affairs and accounts of individual customers of financial institutions;  (d) impede law enforcement; or   (e) prejudice legitimate commercial interests of particular public or private enterprises.   ARTICLE 5.11: PRESERVATION OF REGULATORY AUTHORITY  1. Each Party retains all authority under its laws to interpret and implement its mandatory requirements.  2. This Chapter shall not:  (a) prevent a Party from adopting or maintaining, in accordance with its international rights and obligations, mandatory requirements, as appropriate to its particular national circumstances;   (b) prevent a Party from adopting mandatory requirements to determine the level of protection it considers necessary to ensure the quality of its imports, or for the protection of human, animal or plant life or health, or the environment, or for the prevention of deceptive practices or to fulfil other legitimate objectives, at the levels it considers appropriate.  (c) limit the authority of a Party to take all appropriate measures whenever it ascertains that products may not conform with its mandatory requirements. Such measures may include withdrawing the products from   40  the market, prohibiting their placement on the market, restricting their free movement, initiating a product recall, initiating legal proceedings or otherwise preventing the recurrence of such problems including through a prohibition on imports. If a Party takes such measures, it shall notify the other Party within 15 days of taking the measures, giving its reasons;  (d) oblige a Party to accept the standards or technical regulations or mandatory requirements of the other Party;  (e) entail an obligation upon a Party to accept the results of the conformity assessment activities and/or assessment of manufacturers or manufacturing processes of products and their mandatory requirements of any third country save where there is an expressed agreement between  the Parties to do so; or  (f) be construed so as to affect the rights and obligations of either Party as a member of the WTO Agreement on Technical Barriers to Trade or WTO Agreement on the Application of Sanitary and Phytosanitary Measures.   ARTICLE 5.12: FINAL PROVISIONS ON SECTORAL ANNEXES  1. Sectoral Annexes are attached to this Agreement as Annex 5A, Annex 5B and Annex 5C which shall provide the detailed implementing arrangements in respect of the product sectors specified therein.   2. In addition, the Parties may subsequently conclude as appropriate, Sectoral Annexes on other product sectors which shall provide the implementing arrangements for such other sectors.   3. The Parties shall:  (a) specify and communicate to each other the applicable articles or annexes contained in the mandatory requirements set out in the Sectoral Annexes;  (b) exchange information concerning the implementation of the mandatory requirements specified in the Sectoral Annexes;  (c) notify each other of any scheduled changes in their respective mandatory requirements as and when they are made; and  (d) notify each other of any scheduled changes concerning their respective Designating Authorities as well as registered conformity assessment bodies.  4.  Unless otherwise provided for, a Sectoral Annex concluded pursuant to paragraph 2 shall enter into force on the first day of the second month following the date on which the Parties have exchanged notes confirming the completion of their respective procedures for the entry into force of that Sectoral Annex.    41  5. A Party may terminate a Sectoral Annex in its entirety by giving the other Party six months advance notice in writing unless otherwise stated in the relevant Sectoral Annex. However, a Party shall continue to accept the results of conformity assessment or equivalence for the duration of the six-month notice period.  6. Where urgent problems of safety, health, consumer or environment protection or national security arise or threaten to arise for a Party, that Party may suspend the operation of any Sectoral Annex, in whole or in part, immediately. In such a case, the Party shall immediately advise the other Party of the nature of the urgent problem, the products covered and the objective and rationale of the suspension.     
+ 
+ 
+28 
+ 
+ 
+CHAPTER 5 
+ 
+STANDARDS AND TECHNICAL REGULATIONS, SANITARY AND PHYTOSANITARY 
+MEASURES 
+ 
+ 
+ARTICLE 5.1: SCOPE 
+ 
+1. 
+Consistent with the objectives set out in Chapter 1 and the provisions of this 
+Chapter, and reflecting the level of confidence that each Party has in the other Party’s 
+regulatory outcomes and conformity assessment systems, each Party shall implement the 
+principles of mutual recognition that provide the most appropriate or cost-efficient 
+approach to the removal or reduction of technical, sanitary and phytosanitary barriers 
+(hereinafter referred to as “regulatory barriers”) to the trade in goods between the Parties 
+for products and/or assessments of manufacturers/manufacturing processes of products 
+specified in the Sectoral Annexes to this Chapter. 
+ 
+2. 
+For the purposes of this Chapter, mutual recognition means that each Party, on 
+the basis that it is accorded reciprocal treatment by the other Party: 
+ 
+(a) 
+accepts the test reports of conformity assessment activities of the other 
+Party 
+to 
+demonstrate 
+conformity 
+of 
+products 
+and/or 
+manufacturers/manufacturing processes with its mandatory requirements 
+when the conformity assessment activities are undertaken by conformity 
+assessment bodies designated by the other Party in accordance with this 
+Chapter i.e. mutual recognition of test reports; 
+ 
+(b) 
+accepts the certification of results of conformity assessment activities of 
+the other Party to demonstrate conformity of products and/or 
+manufacturers/manufacturing processes with its mandatory requirements 
+when the conformity assessment activities are undertaken by conformity 
+assessment bodies designated by the other Party in accordance with this 
+Chapter i.e. mutual recognition of certification of conformity assessment; 
+ 
+(c) 
+accepts the mandatory requirements of a Party as producing outcomes 
+equivalent to those produced by the other Party’s corresponding but 
+different mandatory requirements, with both meeting the legitimate 
+objective or achieving the appropriate level of sanitary or phytosanitary 
+protection of the mandatory requirements applied in the territory of the 
+latter Party; i.e. mutual recognition of equivalence of mandatory 
+requirements.  
+ 
+ 
+ARTICLE 5.2: DEFINITIONS 
+ 
+1. 
+All general terms concerning standards and conformity assessment used in this 
+Chapter shall have the meaning given in the definitions contained in the International 
+Organisation for Standardisation/International Electrotechnical Commission (ISO/IEC) 
+ 
+ 
+29 
+ 
+Guide 2: 2004 "Standardization and related activities – General vocabulary” published 
+by the ISO and IEC, unless the context otherwise requires and as appropriate. 
+ 
+2. 
+For the purposes of this Chapter, and its Sectoral Annexes, unless a more specific 
+meaning is given in the specified Sectoral Annexes: 
+ 
+accept means the use of the results of conformity assessment activities as a basis for 
+regulatory actions such as approvals, licences, registrations and post-market assessments 
+of conformity assessment; 
+ 
+acceptance has an equivalent meaning to accept; 
+ 
+certification body means a body, including product or quality systems certification 
+bodies, that may be designated by a Party in accordance with this Chapter to conduct 
+certification on compliance with its or the other Party’s standardisation and/or 
+specifications to meet relevant mandatory requirements; 
+ 
+confirmation means the confirmation of the compliance of the manufacturing or test 
+facility with the criteria for confirmation by a Competent Authority of a Party pursuant 
+to the mandatory requirements of the other Party; 
+ 
+competent authority means an authority of a Party with the power to conduct inspection 
+or audits on facilities in its territory to confirm their compliance with the mandatory 
+requirements of the other Party; 
+ 
+conformity assessment means any activity concerned with determining  directly or 
+indirectly whether products, manufacturers or processes fulfil relevant  standards and/or 
+specifications to meet relevant mandatory requirements set out in the respective Party’s 
+mandatory requirements.  The typical examples of conformity assessment activities are 
+sampling, testing, inspection, evaluation, verification, certification, registration, 
+accreditation and approval, as well as their combinations;  
+ 
+conformity assessment body  means a body that conducts conformity assessment 
+activities; 
+ 
+designation means the authorisation by a Party’s designating authority of its conformity 
+assessment body to undertake specified conformity assessment activities pursuant to the 
+mandatory requirements of the other Party;  
+ 
+designate has an equivalent meaning to designation; 
+ 
+Designating Authority means a body established in the territory of a Party with the 
+authority to designate, monitor, suspend or withdraw designation of conformity 
+assessment bodies to conduct conformity assessment activities within its jurisdiction in 
+accordance with the other Party’s mandatory requirements; 
+ 
+inspection means conformity evaluation by observation and judgement accompanied  as 
+appropriate by measurement, testing or gauging, unless otherwise specified in the 
+Sectoral Annex; 
+ 
+ 
+ 
+30 
+ 
+inspection body means a body that performs inspection; 
+ 
+mandatory requirements means a Party’s applicable laws, regulations and 
+administrative provisions; 
+ 
+registered conformity assessment body means a body registered pursuant to Article 
+5.5; 
+ 
+registration means the authorisation by a Party’s Designating Authority of a conformity 
+assessment body of the other Party to undertake specified conformity assessment 
+activities pursuant to its mandatory requirements; 
+ 
+regulatory authority means an entity that exercises a legal right to determine the 
+mandatory requirements, control the import, use or supply of products within a Party’s 
+territory and may take enforcement action to ensure that products marketed within its 
+territory comply with that Party’s mandatory requirements including assessments of 
+manufacturers/ manufacturing processes of products; 
+ 
+sanitary or phytosanitary measure shall have the same meaning as in the WTO 
+Agreement on the Application of Sanitary and Phytosanitary Measures; 
+ 
+Sectoral Annex is an annex to this Chapter which specifies the implementation 
+arrangements in respect of a specific product sector; 
+ 
+stipulated requirements means the criteria set out in a Sectoral Annex for the 
+designation of a Conformity Assessment Body;  
+ 
+technical regulations shall have the same meaning as in the WTO Agreement on 
+Technical Barriers to Trade; 
+ 
+test facility means a facility, including independent laboratories, manufacturers’ own test 
+facilities or government testing bodies, that may be designated by one Party’s 
+Designating Authority in accordance with this Chapter to undertake tests to the other 
+Party’s mandatory requirements; and 
+ 
+verification means an action to verify in the territories of the Parties, by such means as 
+audits or inspections, compliance with the stipulated requirements for designation or 
+criteria for confirmation by a conformity assessment body or a manufacturing or test 
+facility respectively.   
+ 
+ 
+ARTICLE 5.3: GENERAL OBLIGATIONS 
+ 
+1. 
+This Chapter shall apply to the mandatory requirements adopted or maintained by 
+the Parties to fulfil their legitimate objectives and/or achieve their appropriate level of 
+sanitary or phytosanitary protection. 
+ 
+2. 
+Each Party shall accept, in accordance with the provisions of this Chapter, the test 
+reports and/or results of conformity assessment activities stipulated by the mandatory 
+requirements of that Party specified in the relevant Sectoral Annex, including certificates 
+ 
+ 
+31 
+ 
+and marks of conformity, that are conducted by the registered conformity assessment 
+bodies of the other Party. 
+ 
+3. 
+For the purposes of this Article, a Sectoral Annex shall include: 
+ 
+(a) 
+inter alia, provisions on scope and coverage; 
+ 
+(b) 
+applicable laws, regulations and administrative provisions i.e. mandatory 
+requirements of each Party concerning the scope and coverage; 
+ 
+(c) 
+applicable laws, regulations and administrative provisions of each Party 
+stipulating the requirements covered by this Chapter, all the conformity 
+assessment activities covered by this Chapter to satisfy such requirements 
+and the stipulated requirements for designation of conformity assessment 
+bodies or the applicable laws, regulations and administrative provisions of 
+each Party stipulating the criteria for confirmation of the manufacturing or 
+test facilities covered by this Chapter; and  
+ 
+(d) 
+the list of Designating Authorities or Competent Authorities. 
+ 
+4. 
+The Parties shall, where appropriate, endeavour to work towards harmonisation 
+of their respective mandatory requirements taking into account relevant international 
+standards, recommendations and guidelines, in accordance with their international rights 
+and obligations. 
+ 
+ 
+ARTICLE  5.4: APPLICATION 
+ 
+ 
+This Chapter applies to all products and/or assessments of manufacturers or 
+manufacturing processes of products traded between the Parties, regardless of the origin 
+of those products, unless otherwise specified in a Sectoral Annex, or unless otherwise 
+specified by any mandatory requirements of a Party. 
+ 
+ 
+ARTICLE  5.5: MUTUAL RECOGNITION OF CONFORMITY ASSESSMENT 
+ 
+Scope 
+ 
+1. 
+This Article shall apply to the conformity assessment bodies and conformity 
+assessment activities for products as may be specified in the Sectoral Annexes. 
+ 
+Obligations  
+ 
+2. 
+In accordance with Article 2.4 of the WTO Agreement on Technical Barriers to 
+Trade, where technical regulations are required and relevant international standards exist 
+or their completion is imminent, Parties shall use them, or the relevant parts of them, as a 
+basis for their mandatory requirements except when such international standards or 
+relevant parts of them would be an ineffective  or inappropriate means for the legitimate 
+objectives pursued, for instance because of fundamental climatic or geographical factors 
+or fundamental technological problems.   
+ 
+ 
+32 
+ 
+ 
+3. 
+A Party shall accept the test reports and/or the results of conformity assessment 
+activities to demonstrate conformity of products with its mandatory requirements when 
+the conformity assessment activities are undertaken by conformity assessment bodies 
+designated by the  Designating Authority of the other Party and registered by the first 
+mentioned Party’s Designating Authority in accordance with this Chapter. 
+ 
+Designating Authorities 
+ 
+4. 
+Each Party shall notify the other of any scheduled changes concerning their 
+Designating Authorities, and ensure that their Designating Authorities:  
+ 
+(a) 
+have the necessary power to designate, monitor (including verification), 
+withdraw the designation of, suspend the designation of and withdraw the 
+suspension of the designation of the conformity assessment bodies that 
+conduct conformity assessment activities within its territory based upon 
+the requirements set out in the other Party’s mandatory requirements as 
+specified in the relevant Sectoral Annex; and 
+ 
+(b) 
+consult, as necessary, with the relevant counterparts of the other Party to 
+ensure the maintenance of confidence in conformity assessment activities 
+including processes and procedures.  The consultations may include joint 
+participation in audits related to conformity assessment activities or other 
+assessments of registered conformity assessment bodies, where such 
+participation is appropriate, technically possible and within reasonable 
+cost. 
+ 
+Registration of Conformity Assessment Bodies 
+ 
+5. 
+The following procedures shall apply to the registration of a conformity 
+assessment body: 
+ 
+(a) 
+each Party shall make a proposal that a conformity assessment body of 
+that Party designated by its Designating Authority be registered under this 
+Chapter, by presenting its proposal in writing, supported by the necessary 
+documents, to the Designating Authority of the other Party; 
+ 
+(b) 
+the Designating Authority of the other Party shall consider whether the 
+proposed conformity assessment body complies with the stipulated and 
+mandatory requirements specified in the relevant Sectoral Annex and  
+communicate, to the Designating Authority of the other Party in writing, 
+its  decision regarding the registration of that conformity assessment body 
+along with date of registration within 90 days from the date of receipt of 
+the proposal referred to in paragraph (a) above; and  
+ 
+(c) 
+in the event of any disagreement over the registration, either Party may 
+refer the matter to  the Mutual Recognition Joint Committee for 
+resolution.  
+ 
+ 
+ 
+33 
+ 
+6. 
+The proposing Party shall provide the following information in its proposal for 
+registration of a conformity assessment body and keep such information up to date: 
+ 
+(a) 
+the name and address of the conformity assessment body; 
+ 
+(b) 
+the products or processes the conformity assessment body is designated to 
+assess; 
+ 
+(c) 
+the conformity assessment activities the conformity assessment body is 
+designated to conduct; and 
+ 
+(d) 
+the designation procedure and necessary information used to determine 
+the compliance of the conformity assessment body with the stipulated 
+requirements. 
+ 
+7. 
+Each Party shall ensure that its Designating Authority withdraws the designation 
+of a conformity assessment body registered by the Designating Authority of the other 
+Party when its Designating Authority considers that the conformity assessment body no 
+longer complies with the stipulated and mandatory requirements set out in the relevant 
+Sectoral Annex. The withdrawal of the designation shall be notified in writing to the 
+Designating Authority of the other Party. Each Party shall terminate the registration of a 
+conformity assessment body when the Designating Authority of the other Party 
+withdraws the designation of its conformity assessment body. The date of termination of 
+registration of the conformity assessment body shall be the date of receipt of notification 
+for withdrawal from the other Party. 
+ 
+8. 
+A Party shall propose the termination of the registration of a conformity 
+assessment body when that Party considers that the conformity assessment body no 
+longer complies with the stipulated and mandatory requirements of that Party specified 
+in the relevant Sectoral Annex. Proposal for terminating the registration of that 
+conformity assessment body shall be made to the Designating Authority of the other 
+Party in writing. 
+ 
+9. 
+In the case of registration of a new conformity assessment body, the other Party 
+shall accept the results of conformity assessment activities conducted by that conformity 
+assessment body from the date of the registration. In the event that the registration of a 
+conformity assessment body is terminated, the other Party shall accept the results of the 
+conformity assessment activities conducted by that conformity assessment body prior to 
+the termination, without prejudice to paragraphs 16 and 17. 
+ 
+10. 
+Each Party shall notify the other Party of any scheduled changes concerning its 
+designated conformity assessment bodies. 
+ 
+11. 
+The Parties shall publish, on a sector-by-sector basis, their respective lists of 
+registered conformity assessment bodies.   
+ 
+Verification and Monitoring of Conformity Assessment Bodies 
+ 
+12. 
+Each Party shall ensure that its Designating Authorities shall: 
+ 
+ 
+ 
+34 
+ 
+(a) 
+through appropriate means such as audits, inspections or monitoring, 
+ensure that its designated conformity assessment bodies fulfil the 
+stipulated and mandatory requirements set out in the Sectoral Annex. 
+When applying the stipulated requirements for designation of the 
+conformity assessment bodies, the Designating Authorities of a Party 
+should take into account the bodies’ understanding of and experience 
+relevant to the mandatory requirements of the other Party; 
+ 
+(b) 
+monitor and verify that the designated conformity assessment bodies, 
+maintain the necessary technical competence to demonstrate the 
+conformity of a product with the standards, and/or specifications to meet 
+the mandatory requirements of the other Party. This shall include 
+participation in appropriate proficiency-testing programmes and other 
+comparative reviews such as non government-to-government mutual 
+recognition agreements, so that confidence in their technical competence 
+to undertake the required conformity assessment is maintained; 
+ 
+(c) 
+exchange information concerning the procedures used to ensure that the 
+designated conformity assessment bodies are technically competent and 
+comply with the relevant stipulated requirements; and 
+ 
+(d) 
+compare methods used to verify that the registered conformity assessment 
+bodies comply with the relevant stipulated requirements. 
+ 
+13. 
+When in doubt, a Party may request the other Party, in writing, to clarify whether 
+a registered conformity assessment body complies with the stipulated requirements for  
+designation as set out in the mandatory requirements in the Sectoral Annex, and may 
+request for a verification to be conducted of the conformity assessment body’s activities 
+in accordance with the first mentioned Party’s mandatory requirements. 
+ 
+14. 
+Either Party may, upon request, participate as an observer, at its own expense, in 
+the verification of conformity assessment bodies conducted by the Designating 
+Authorities of the other Party, with the prior consent of such conformity assessment 
+bodies, in order to maintain a continuing understanding of the other Party’s procedures 
+for verification. 
+ 
+15. 
+Each Party should encourage its conformity assessment bodies to co-operate with 
+the conformity assessment bodies of the other Party. 
+ 
+Suspension and Withdrawal of Suspension of Designation of Conformity 
+Assessment Bodies 
+ 
+16. 
+In case of suspension of the designation of a registered conformity assessment 
+body, the Party whose Designating Authority has suspended the designation shall 
+immediately notify the other Party to that effect. The registration of that conformity 
+assessment body shall be suspended from the date of receipt of the notification by the 
+Designating Authority of the other Party. The other Party shall accept the results of the 
+conformity assessment activities conducted by that conformity assessment body prior to 
+the suspension of the designation. 
+ 
+ 
+ 
+35 
+ 
+17. 
+In the case of lifting of suspension of the designation of a registered conformity 
+assessment body, the Designating Authority which has lifted the suspension of the 
+designation shall immediately notify the Designating Authority of the other Party to that 
+effect.  The lifting of suspension of the registration of that conformity assessment body 
+shall be effective from the date of receipt of the notification by the Designating 
+Authority of the other Party. The other Party shall accept the results of the conformity 
+assessment body from the date of lifting of the suspension of the registration. 
+ 
+Challenge 
+ 
+18. 
+Each Party shall have the right to challenge a registered conformity assessment 
+body’s technical competence and compliance with the relevant stipulated requirements. 
+This right shall be exercised only in exceptional circumstances and where supported by 
+relevant expert analysis or evidence. A Party shall exercise this right by notifying the 
+other Party and the Mutual Recognition Joint Committee in writing. Such notification 
+shall be accompanied by the supporting expert analysis or evidence. 
+ 
+19. 
+Except in urgent circumstances, the Parties shall, prior to a challenge under 
+paragraph 18, enter into consultations with a view to seeking a mutually satisfactory 
+solution. In case the consultations do not produce a satisfactory solution and the Parties 
+exercise the right to challenge, the registration of the conformity assessment body shall 
+be suspended immediately. The date of suspension shall be the date of receipt of the 
+written notification pursuant to paragraph 18. 
+ 
+20. 
+In urgent circumstances, the Party shall suspend the registration of the conformity 
+assessment body as soon as the right of challenge has been exercised.  
+ 
+21. 
+Pursuant to paragraph 19, the consultations shall take place expeditiously with a 
+view to resolving all issues and seeking a mutually satisfactory solution within 20 days 
+following the date on which a challenge is received by the other Party or within the 
+period so specified in the Sectoral Annex.  
+ 
+22. 
+If a mutually satisfactory solution is not reached, the Mutual Recognition Joint 
+Committee shall be convened at the earliest to resolve the matter. Unless the Mutual 
+Recognition Joint Committee decides otherwise, the registration of the challenged 
+conformity assessment body shall be suspended by the relevant Designating Authority 
+for the relevant scope of designation from the date its technical competence or 
+compliance is challenged, until either: 
+ 
+(a) 
+the challenging Party is satisfied as to the competence and compliance of 
+the conformity assessment body; or  
+ 
+(b) 
+the designation of that conformity assessment body has been withdrawn; 
+or 
+ 
+(c) 
+the Mutual Recognition Joint Committee decides to lift the suspension of 
+the registration of the conformity assessment body. 
+ 
+23. 
+The Sectoral Annex may provide for additional procedures such as verification 
+and time limits. This may involve the Mutual Recognition Joint Committee being 
+ 
+ 
+36 
+ 
+activated.  Where the Mutual Recognition Joint Committee decides to conduct a joint 
+verification, it will be conducted in a timely manner by the Parties with the participation 
+of the Designating Authority that designated the contested conformity assessment body 
+and with the prior consent of the conformity assessment body. The result of such joint 
+verification shall be discussed in the Mutual Recognition Joint Committee with a view to 
+resolving the issue within the time limit specified in the Sectoral Annex. 
+ 
+24. 
+The results of conformity assessment activities undertaken by a challenged 
+conformity assessment body on or before the date of its suspension or withdrawal shall 
+remain valid for acceptance for the purposes of paragraph 3. 
+ 
+ 
+ARTICLE 5.6: GOOD MANUFACTURING PRACTICES (GMP) 
+ 
+1. 
+The provisions of this Article apply to assessments of manufacturers or 
+manufacturing processes of products, and their mandatory requirements as may be 
+specified in the relevant Sectoral Annexes.   
+ 
+Obligations 
+ 
+2. 
+In accordance with Article 2.4 of the WTO Agreement on Technical Barriers to 
+Trade, where technical regulations are required and relevant international standards exist 
+or their completion is imminent, the Parties shall use them, or the relevant parts of them, 
+as a basis for their mandatory requirements except when such international standards or 
+relevant parts of them would be an ineffective  or inappropriate means for the legitimate 
+objectives pursued, for instance because of fundamental climatic or geographical factors 
+or fundamental technological problems. 
+ 
+3. 
+A Party shall accept the test reports and/or the results of conformity assessment 
+activities to demonstrate conformity of manufacturers or manufacturing processes of 
+products with its mandatory requirements when the conformity assessment activities are 
+undertaken by Inspection Body designated by the other Party’s Designating Authority 
+and registered by the first mentioned Party’s Designating Authority in accordance with 
+this Chapter. 
+ 
+ 
+ARTICLE 5.7: EQUIVALENCE OF MANDATORY REQUIREMENTS 
+ 
+1. 
+The Parties shall give favourable consideration to accepting the equivalence of 
+each other’s mandatory requirements consistent with the purpose of this Chapter and the 
+WTO Agreement on the Application of Sanitary and Phytosanitary Measures. 
+ 
+2. 
+A Party shall accept the equivalence of the mandatory requirements, and/or 
+results of conformity assessment and approval procedures, of the other Party as set out in 
+the respective Sectoral Annex. 
+ 
+3. 
+For the purposes of paragraph 2, a Sectoral Annex shall provide the following 
+details, as applicable: 
+ 
+ 
+ 
+37 
+ 
+(a) 
+the procedures for determining and implementing the equivalence of each 
+Party’s mandatory requirements; and/or 
+ 
+(b) 
+the procedures for accepting the results of the conformity assessment and 
+approval procedures; and  
+ 
+(c) 
+the regulatory authorities designated by each Party. 
+ 
+ARTICLE 5.8: JOINT COMMITTEE ON MUTUAL RECOGNITION 
+ 
+1. 
+A Joint Committee on Mutual Recognition (“Mutual Recognition Joint 
+Committee”) shall be established as a body responsible for the effective implementation 
+of this Chapter. 
+ 
+2. 
+The Mutual Recognition Joint Committee shall be led by co-chairs from both 
+Parties. It shall comprise an equal number of senior representatives from both Parties 
+with an understanding of this Chapter, its objectives and application and with the 
+relevant expertise.  
+ 
+3. 
+A representative: 
+ 
+(a) 
+may be accompanied by advisers at meetings of the Mutual Recognition 
+Joint Committee; and 
+ 
+(b) 
+shall not hold a position which may give rise to a conflict of interest. 
+ 
+4. 
+The Mutual Recognition Joint Committee shall: 
+ 
+(a) 
+be responsible for administering and facilitating the effective functioning 
+of this Chapter and the Sectoral Annexes including: 
+ 
+(i) 
+facilitating the extension of this Chapter, including the addition of 
+new Sectoral Annexes or an increase in the scope of existing 
+Sectoral Annexes; 
+ 
+(ii) 
+resolving any questions or disputes relating to the application of 
+this Chapter and its Sectoral Annexes;  
+ 
+(iii) 
+resolving disagreement over registration with reference to 
+paragraph 5(c) of Article 5.5,  lifting of suspension of registration 
+of a conformity assessment body with reference to paragraphs 
+22(c) and 23 of Article 5.5; 
+ 
+(iv) 
+establishing appropriate modalities of information exchange 
+referred to in this Chapter; 
+ 
+(v) 
+appointing experts from each Party for joint verification when 
+needed; and 
+ 
+(vi) 
+discharging such other functions as provided for in this Chapter; 
+ 
+ 
+38 
+ 
+(b) 
+be the contact point for the Parties unless otherwise specified in the 
+relevant Sectoral Annexes; 
+ 
+(c) 
+determine its own rules of procedure; 
+ 
+(d) 
+make its decisions and adopt its recommendations by consensus; and 
+ 
+(e) 
+meet as and when required for the discharge of its functions, including 
+upon the request of either Party. 
+ 
+5. 
+In case any problem arising from the interpretation or application of this Chapter 
+is not resolved through mutual consultations, the Parties shall seek an amicable solution 
+through the Mutual Recognition Joint Committee. 
+ 
+6. 
+The Mutual Recognition Joint Committee may establish ad hoc groups to 
+undertake specific tasks, where necessary. 
+ 
+7. 
+Any decision made by the Mutual Recognition Joint Committee shall be notified 
+promptly in writing to each Party. 
+ 
+8. 
+The Parties shall bring into effect the relevant decisions of the Mutual 
+Recognition Joint Committee. Where any problem arising from the interpretation or 
+application of this Chapter is not resolved through mutual consultations, the Parties shall 
+seek an amicable solution through the Mutual Recognition Joint Committee before 
+making a request for an arbitral tribunal under Article 15.5. 
+ 
+ARTICLE 5.9 : EXCHANGE OF INFORMATION AND COOPERATION 
+ 
+1. 
+The Parties shall provide notification of any changes to their mandatory 
+requirements in accordance with their WTO obligations.  In exceptional cases where 
+considerations of health, safety or environmental protection warrant more urgent action, 
+each Party shall notify the other Party of changes within the time period set out in the 
+relevant Sectoral Annex or if no time period is specified, at least 60 days before the 
+changes enter into force. 
+ 
+2. 
+The Parties shall, for the purposes of this Chapter, establish contact points to 
+expeditiously: 
+ 
+(a) 
+broaden the exchange of information; and 
+ 
+(b) 
+give favourable consideration to any written request for consultation. 
+ 
+3. 
+The Parties should endeavour to develop a work programme and mechanisms for 
+co-operation activities in the areas of technical issues of mutual interest. 
+ 
+ 
+ 
+ 
+39 
+ 
+ARTICLE 5.10: CONFIDENTIALITY 
+ 
+1. 
+A Party shall not be required to disclose confidential proprietary information to 
+the other Party except where such disclosure would be necessary for the other Party to 
+demonstrate the technical competence of its designated conformity assessment body and 
+conformity with the relevant stipulated requirements. 
+ 
+2. 
+A Party shall, in accordance with its applicable laws, protect the confidentiality 
+of any proprietary information disclosed to it in connection with conformity assessment 
+activities and/or designation activities. 
+ 
+3. 
+Nothing in this Chapter shall be construed to require either Party to furnish or 
+allow access to information the disclosure of which it considers would: 
+ 
+(a) 
+be contrary to its essential security interests; 
+ 
+(b) 
+be contrary to the public interest as determined by its domestic laws, 
+regulations and administrative provisions; 
+ 
+(c) 
+be contrary to any of its domestic laws, regulations and administrative 
+provisions including but not limited to those protecting personal privacy 
+or the financial affairs and accounts of individual customers of financial 
+institutions; 
+ 
+(d) 
+impede law enforcement; or  
+ 
+(e) 
+prejudice legitimate commercial interests of particular public or private 
+enterprises. 
+ 
+ 
+ARTICLE 5.11: PRESERVATION OF REGULATORY AUTHORITY 
+ 
+1. 
+Each Party retains all authority under its laws to interpret and implement its 
+mandatory requirements. 
+ 
+2. 
+This Chapter shall not: 
+ 
+(a) 
+prevent a Party from adopting or maintaining, in accordance with its 
+international rights and obligations, mandatory requirements, as 
+appropriate to its particular national circumstances;  
+ 
+(b) 
+prevent a Party from adopting mandatory requirements to determine the 
+level of protection it considers necessary to ensure the quality of its 
+imports, or for the protection of human, animal or plant life or health, or 
+the environment, or for the prevention of deceptive practices or to fulfil 
+other legitimate objectives, at the levels it considers appropriate. 
+ 
+(c) 
+limit the authority of a Party to take all appropriate measures whenever it 
+ascertains that products may not conform with its mandatory 
+requirements. Such measures may include withdrawing the products from 
+ 
+ 
+40 
+ 
+the market, prohibiting their placement on the market, restricting their 
+free movement, initiating a product recall, initiating legal proceedings or 
+otherwise preventing the recurrence of such problems including through a 
+prohibition on imports. If a Party takes such measures, it shall notify the 
+other Party within 15 days of taking the measures, giving its reasons; 
+ 
+(d) 
+oblige a Party to accept the standards or technical regulations or 
+mandatory requirements of the other Party; 
+ 
+(e) 
+entail an obligation upon a Party to accept the results of the conformity 
+assessment 
+activities 
+and/or 
+assessment 
+of 
+manufacturers 
+or 
+manufacturing processes of products and their mandatory requirements of 
+any third country save where there is an expressed agreement between  
+the Parties to do so; or 
+ 
+(f) 
+be construed so as to affect the rights and obligations of either Party as a 
+member of the WTO Agreement on Technical Barriers to Trade or WTO 
+Agreement on the Application of Sanitary and Phytosanitary Measures. 
+ 
+ 
+ARTICLE 5.12: FINAL PROVISIONS ON SECTORAL ANNEXES 
+ 
+1. 
+Sectoral Annexes are attached to this Agreement as Annex 5A, Annex 5B and 
+Annex 5C which shall provide the detailed implementing arrangements in respect of the 
+product sectors specified therein.  
+ 
+2. 
+In addition, the Parties may subsequently conclude as appropriate, Sectoral 
+Annexes on other product sectors which shall provide the implementing arrangements 
+for such other sectors.  
+ 
+3. 
+The Parties shall: 
+ 
+(a) 
+specify and communicate to each other the applicable articles or annexes 
+contained in the mandatory requirements set out in the Sectoral Annexes; 
+ 
+(b) 
+exchange information concerning the implementation of the mandatory 
+requirements specified in the Sectoral Annexes; 
+ 
+(c) 
+notify each other of any scheduled changes in their respective mandatory 
+requirements as and when they are made; and 
+ 
+(d) 
+notify each other of any scheduled changes concerning their respective 
+Designating Authorities as well as registered conformity assessment 
+bodies. 
+ 
+4.  
+Unless otherwise provided for, a Sectoral Annex concluded pursuant to paragraph 
+2 shall enter into force on the first day of the second month following the date on which 
+the Parties have exchanged notes confirming the completion of their respective 
+procedures for the entry into force of that Sectoral Annex. 
+ 
+ 
+ 
+41 
+ 
+5. 
+A Party may terminate a Sectoral Annex in its entirety by giving the other Party 
+six months advance notice in writing unless otherwise stated in the relevant Sectoral 
+Annex. However, a Party shall continue to accept the results of conformity assessment or 
+equivalence for the duration of the six-month notice period. 
+ 
+6. 
+Where urgent problems of safety, health, consumer or environment protection or 
+national security arise or threaten to arise for a Party, that Party may suspend the 
+operation of any Sectoral Annex, in whole or in part, immediately. In such a case, the 
+Party shall immediately advise the other Party of the nature of the urgent problem, the 
+products covered and the objective and rationale of the suspension.  
+ 
+ 
+ 

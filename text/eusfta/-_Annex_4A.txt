@@ -1,1 +1,336 @@
-EUSFTA Annex 4-A - 1  ANNEX 4-A   ELECTRONICS   ARTICLE 1  General Provisions  1. The Parties confirm the following shared objectives and principles:  (a) eliminating and preventing non-tariff barriers to bilateral trade;  (b) basing their standards, technical regulations and conformity assessment procedures, wherever appropriate, on relevant international standards;  (c) eliminating duplicative and unnecessarily burdensome conformity assessment procedures; and  (d) enhancing cooperation to foster the development of their bilateral trade in electronics.  2. This Annex shall apply only to standards, technical regulations and conformity assessment procedures of either Party that relate to the safety and electromagnetic compatibility (hereinafter referred to as "EMC") of electrical and electronic equipment, electrical household appliances and consumer electronics, as defined in Appendix 4-A-1 (hereinafter referred to as "covered products").   EUSFTA Annex 4-A - 2  ARTICLE 2  International Standards and Standard-setting Bodies  1. The Parties recognise that the International Organization for Standards (hereinafter referred to as "ISO"), the International Electrotechnical Commission (hereinafter referred to as "IEC") and the International Telecommunication Union (hereinafter referred to as "ITU") are the relevant international standard-setting bodies for EMC and for the safety of products covered by this Annex1.  2. Where relevant international standards established by ISO, IEC and ITU exist, the Parties shall use such international standards or the relevant parts of such standards as a basis for any standard, technical regulation or conformity assessment procedure, except for cases where such international standards or relevant parts would be an ineffective or inappropriate means for the fulfilment of legitimate objectives pursued by a Party. In such cases, upon the request of a Party, the other Party shall identify the parts of the respective standard, technical regulation or conformity assessment procedure which substantially deviate from the relevant international standard, and shall justify the deviation.                                                   1 The Parties may, by decision of the Committee on Trade in Goods, agree on any new international standard-setting bodies which they deem relevant for the purposes of implementing this Annex. EUSFTA Annex 4-A - 3  3. Without prejudice to Article 2.3 of the TBT Agreement, insofar as a Party maintains technical regulations that deviate from existing relevant international standards as referred to in paragraph 2, that Party shall review such technical regulations at regular intervals, which shall not exceed five years, in order to assess whether the circumstances that gave rise to the deviation from the relevant international standard still exist. The outcome of such reviews shall be communicated to the other Party upon request.  4. The Parties shall encourage their standard-setting bodies to participate in the development of international standards in the ISO, IEC and ITU, and to consult within the framework of those international standard-setting bodies, with a view to establishing common approaches.   ARTICLE 3  Innovation  1. No Party shall prevent or unduly delay the placing of a product on its market on the grounds that the product incorporates a new technology or a new feature which has not yet been regulated.  2. Paragraph 1 shall not prejudice the right of the importing Party, where it demonstrates duly substantiated concerns to the supplier of a product referred to in paragraph 1, to require evidence that the new technology or new feature concerned does not create a risk for safety or EMC or for any other legitimate objective as listed in Article 2.2 of the TBT Agreement.   EUSFTA Annex 4-A - 4  ARTICLE 4  Conformity Assessment Procedures  1. The Parties shall not prepare, adopt or apply conformity assessment procedures with the purpose or effect of creating unnecessary obstacles to trade with the other Party. In principle, Parties should avoid requiring mandatory third-party conformity assessments to prove that covered products comply with applicable technical regulations on safety and/or EMC, and instead should consider the use of a supplier's declaration of conformity and/or post-market surveillance mechanisms to ensure that products conform with relevant standards or technical requirements.  2. Except as provided in Article 5 (Safeguard Measures), Article 6 (Exceptions) and Appendix 4-A-2, insofar as a Party requires a positive assurance of conformity with domestic technical regulations on the safety and/or EMC of covered products, each Party shall accept products on its market on the basis of one or more of the following:  (a) a supplier's declaration of conformity, where intervention by a conformity assessment body or the testing of the product by a recognised test laboratory is not mandatory and, if testing is undertaken, such testing can be carried out by the manufacturer itself or by a competent body of its choice; or  EUSFTA Annex 4-A - 5  (b) a supplier's declaration of conformity that is based on a test report issued by a Certification Body ("CB") Testing Laboratory of the other Party under the CB Scheme of the Worldwide System for Conformity Testing and Certification of Electrotechnical Equipment and Components (IECEE) (hereinafter referred to as "IECEE CB Scheme"), and that is accompanied by a valid CB Test Certificate that was issued in accordance with the rules and procedures of the IECEE CB Scheme and with the commitments by the Parties thereunder; or  (c) a supplier's declaration of conformity that is based on a test report issued by any testing laboratory or is based on a certificate issued by any certification body in the other Party that has concluded voluntary arrangements for the mutual acceptance of test reports or certificates with one or more conformity assessment bodies designated by the importing Party.  The choice of basis under this paragraph shall rest with the supplier.  3. The supplier's declaration of conformity referred to in paragraph 2 shall be in accordance with ISO/IEC 17050. The Parties shall accept that the supplier is solely responsible for issuing, changing or withdrawing the declaration of conformity, for preparing the technical documentation which shall enable the assessment whether the products concerned conform with the applicable technical regulations, and for affixing any required markings. The Parties may require that the declaration of conformity be dated and identify the supplier or the supplier's authorised representative in their territories, that the person empowered by the manufacturer or his authorised representative sign the declaration, the products covered by the declaration, and the applied technical regulations to which the declaration of conformity relates.  EUSFTA Annex 4-A - 6  4. In addition to paragraphs 1 to 3, no Party shall require any form of registration of products or of suppliers, where such registration could prevent or otherwise delay the placing on the market of products that comply with the Party's technical regulations. Where a Party reviews the supplier's declaration, such review shall be limited solely to verifying, on the basis of the documentation submitted, that the test was done in accordance with the Party's relevant technical regulations, and that the information contained in the documentation is complete. Such reviews shall not cause undue delay for the placing of the products on the Party's market, and the Party shall accept the declaration, without exceptions, if the products comply with the Party's technical regulations and the documentation submitted is complete. In the event that a Party rejects a declaration, that Party shall communicate its decision to the supplier, together with an explanation of the grounds for the rejection. At the request of the supplier, the Party shall provide information or guidance, as appropriate, on how to rectify the shortcomings, as well as an explanation of possibilities for appealing the decision.   ARTICLE 5  Safeguard Measures  Notwithstanding Article 4 (Conformity Assessment Procedures), either Party may introduce requirements for mandatory third-party testing or certification of the EMC or safety of covered products, or may introduce administrative procedures for approving or reviewing test reports, for particular covered products under the following conditions:  (a) there exist compelling reasons related to the protection of human health or safety that justify the introduction of such requirements or procedures, supported by substantiated technical or scientific information;  EUSFTA Annex 4-A - 7  (b) such requirements or procedures are not more trade-restrictive than necessary to fulfil the Party's legitimate objectives, taking into account the risks that non-fulfilment would create; and  (c) the Party could not have reasonably foreseen the need for introducing such requirements or procedures at the time of entry into force of this Agreement.  Without prejudice to Article 2.10 of the TBT Agreement, before introducing the requirements or procedures, each Party shall notify the other Party and, following consultations, shall take the comments of the other Party into account to the greatest extent possible in devising such requirements or procedures. Any requirements that are introduced shall comply with this Annex to the greatest extent possible. Once adopted, any requirement or procedure that is introduced shall be regularly reviewed, and shall be repealed if the reasons for introducing that requirement or procedure no longer exist.   ARTICLE 6  Exceptions  1. Pursuant to Singapore's agreement to substantially reduce the list of products for which it requires a positive assurance of conformity with its mandatory safety and/or EMC requirements, in the form of third-party certification, at the time of entry into force of this Agreement, Singapore shall only require such third-party certification for the product categories listed in Appendix 4-A-2.  EUSFTA Annex 4-A - 8  2. By the date of entry into force of this Agreement, Singapore shall have undertaken a review of its Consumer Protection (Safety Requirements) Registration Scheme with a view to reducing the number of products categories that are covered by the scheme and listed in Appendix 4-A-2. Such review shall examine the necessity of maintaining that scheme in its existing form, or whether that scheme's desired outcomes of ensuring human health and safety in Singapore can be achieved with simplified procedures that better facilitate trade2.  3. The review referred to in paragraph 2 shall include a risk assessment for each of the products covered by the Consumer Protection (Safety Requirements) Registration Scheme to ascertain whether moving towards post-market surveillance in accordance with paragraph 1 of Article 4 (Conformity Assessment Procedures) or accepting a positive assurance of conformity in accordance with paragraph 2 of Article 4 (Conformity Assessment Procedures) would create unreasonable risks for human health and safety. The risk assessment shall be conducted on the basis of available scientific and technical information, such as consumer reports on safety accidents and the non-conformity rate of product inspection. The risk assessment shall also consider whether the products had been used for their intended end-uses and whether those products had been used with reasonable and usual care.                                                   2 For example, Singapore will review the administrative procedures associated with the Consumer Protection (Safety Requirements) Registration Scheme, including the procedures for accepting and reviewing test reports and certificates of conformity. EUSFTA Annex 4-A - 9  4. Depending on the outcome of the review referred to in paragraph 3, Singapore may maintain its requirements for the positive assurance of conformity by means of third-party certification for those products that are covered by the Consumer Protection (Safety Requirements) Registration Scheme, and are listed in Appendix 4-A-2, where the results of the risk assessment referred to in paragraph 3 demonstrate that adopting the procedures in paragraph 2 of Article 4 (Conformity Assessment Procedures) for such products would create unreasonable risks for human health and safety, or where it would not be possible to set up the post-market surveillance system to address such risks effectively.  5. Singapore shall table the risk assessment referred to in paragraph 3 for discussion at the first meeting of the Committee on Trade in Goods. Following the review carried out by Singapore, the Parties, by decision in the Committee on Trade and Goods may modify Appendix 4-A-2 as appropriate.  6. Insofar as Singapore continues to require positive assurances of conformity with its mandatory safety and/or EMC requirements in the form of third-party certification for covered products, Singapore shall accept certificates of conformity with its technical regulations that have been issued by a conformity assessment body in the Union that was designated by Singapore.3 Singapore shall also ensure that, for the purposes of issuing such certification, the conformity assessment bodies designated by Singapore accept test reports issued:                                                   3 Singapore shall comply with this requirement within three years of the entry into force of this Agreement. EUSFTA Annex 4-A - 10  (a) in accordance with the rules and procedures of the IECEE CB Scheme, and in accordance with the commitments of the Parties thereunder, by one of the Recognised CB Testing Laboratories or Recognised CB Manufacturer's Testing Laboratories of the Union;  (b) in accordance with relevant international standards, guides and recommendations (including ISO/IEC 17025), by any testing laboratory of the Union that has been accredited by an accreditation body which is a signatory to the Mutual Recognition Arrangement of the International Laboratory Accreditation Cooperation or one of its regional bodies' mutual recognition agreements to which Singapore is a Party; or  (c) by any testing laboratory in the Union that has concluded voluntary arrangements for mutual acceptance of test reports with one or more conformity assessment bodies designated by Singapore.  7. Five years after the entry into force of this Agreement, and thereafter at regular intervals that shall not exceed five years, Singapore shall review Appendix 4-A-2 again, with the aim of reducing the number of product categories listed therein. Such reviews shall include the risk assessments laid out in paragraph 3. Singapore shall submit such risk assessments for discussion at the Committee on Trade in Goods.  8. Following the review carried out by Singapore, the Parties, by decision in the Committee on Trade and Goods, may modify Appendix 4-A-2 as appropriate.   EUSFTA Annex 4-A - 11  ARTICLE 7  Joint Cooperation  1. The Parties shall closely cooperate to promote common understanding on regulatory issues and shall consider any request of the other Party regarding the implementation of this Annex.  2. This cooperation shall take place within the framework of the Committee on Trade in Goods.   
+EUSFTA Annex 4-A - 1 
+ 
+ANNEX 4-A 
+ 
+ 
+ELECTRONICS 
+ 
+ 
+ARTICLE 1 
+ 
+General Provisions 
+ 
+1. 
+The Parties confirm the following shared objectives and principles: 
+ 
+(a) 
+eliminating and preventing non-tariff barriers to bilateral trade; 
+ 
+(b) 
+basing their standards, technical regulations and conformity assessment 
+procedures, wherever appropriate, on relevant international standards; 
+ 
+(c) 
+eliminating duplicative and unnecessarily burdensome conformity assessment 
+procedures; and 
+ 
+(d) 
+enhancing cooperation to foster the development of their bilateral trade in 
+electronics. 
+ 
+2. 
+This Annex shall apply only to standards, technical regulations and conformity 
+assessment procedures of either Party that relate to the safety and electromagnetic 
+compatibility (hereinafter referred to as "EMC") of electrical and electronic 
+equipment, electrical household appliances and consumer electronics, as defined in 
+Appendix 4-A-1 (hereinafter referred to as "covered products"). 
+ 
+ 
+EUSFTA Annex 4-A - 2 
+ 
+ARTICLE 2 
+ 
+International Standards and Standard-setting Bodies 
+ 
+1. 
+The Parties recognise that the International Organization for Standards (hereinafter 
+referred to as "ISO"), the International Electrotechnical Commission (hereinafter 
+referred to as "IEC") and the International Telecommunication Union (hereinafter 
+referred to as "ITU") are the relevant international standard-setting bodies for EMC 
+and for the safety of products covered by this Annex1. 
+ 
+2. 
+Where relevant international standards established by ISO, IEC and ITU exist, the 
+Parties shall use such international standards or the relevant parts of such standards 
+as a basis for any standard, technical regulation or conformity assessment procedure, 
+except for cases where such international standards or relevant parts would be an 
+ineffective or inappropriate means for the fulfilment of legitimate objectives pursued 
+by a Party. In such cases, upon the request of a Party, the other Party shall identify the 
+parts of the respective standard, technical regulation or conformity assessment 
+procedure which substantially deviate from the relevant international standard, and 
+shall justify the deviation. 
+ 
+                                                 
+1 
+The Parties may, by decision of the Committee on Trade in Goods, agree on any new international 
+standard-setting bodies which they deem relevant for the purposes of implementing this Annex. 
+EUSFTA Annex 4-A - 3 
+ 
+3. 
+Without prejudice to Article 2.3 of the TBT Agreement, insofar as a Party maintains 
+technical regulations that deviate from existing relevant international standards as 
+referred to in paragraph 2, that Party shall review such technical regulations at regular 
+intervals, which shall not exceed five years, in order to assess whether the 
+circumstances that gave rise to the deviation from the relevant international standard 
+still exist. The outcome of such reviews shall be communicated to the other Party 
+upon request. 
+ 
+4. 
+The Parties shall encourage their standard-setting bodies to participate in the 
+development of international standards in the ISO, IEC and ITU, and to consult within 
+the framework of those international standard-setting bodies, with a view to 
+establishing common approaches. 
+ 
+ 
+ARTICLE 3 
+ 
+Innovation 
+ 
+1. 
+No Party shall prevent or unduly delay the placing of a product on its market on the 
+grounds that the product incorporates a new technology or a new feature which has 
+not yet been regulated. 
+ 
+2. 
+Paragraph 1 shall not prejudice the right of the importing Party, where it 
+demonstrates duly substantiated concerns to the supplier of a product referred to in 
+paragraph 1, to require evidence that the new technology or new feature concerned 
+does not create a risk for safety or EMC or for any other legitimate objective as listed 
+in Article 2.2 of the TBT Agreement. 
+ 
+ 
+EUSFTA Annex 4-A - 4 
+ 
+ARTICLE 4 
+ 
+Conformity Assessment Procedures 
+ 
+1. 
+The Parties shall not prepare, adopt or apply conformity assessment procedures with 
+the purpose or effect of creating unnecessary obstacles to trade with the other Party. 
+In principle, Parties should avoid requiring mandatory third-party conformity 
+assessments to prove that covered products comply with applicable technical 
+regulations on safety and/or EMC, and instead should consider the use of a supplier's 
+declaration of conformity and/or post-market surveillance mechanisms to ensure that 
+products conform with relevant standards or technical requirements. 
+ 
+2. 
+Except as provided in Article 5 (Safeguard Measures), Article 6 (Exceptions) and 
+Appendix 4-A-2, insofar as a Party requires a positive assurance of conformity with 
+domestic technical regulations on the safety and/or EMC of covered products, each 
+Party shall accept products on its market on the basis of one or more of the following: 
+ 
+(a) 
+a supplier's declaration of conformity, where intervention by a conformity 
+assessment body or the testing of the product by a recognised test laboratory is 
+not mandatory and, if testing is undertaken, such testing can be carried out by 
+the manufacturer itself or by a competent body of its choice; or 
+ 
+EUSFTA Annex 4-A - 5 
+ 
+(b) 
+a supplier's declaration of conformity that is based on a test report issued by a 
+Certification Body ("CB") Testing Laboratory of the other Party under the CB 
+Scheme of the Worldwide System for Conformity Testing and Certification of 
+Electrotechnical Equipment and Components (IECEE) (hereinafter referred to as 
+"IECEE CB Scheme"), and that is accompanied by a valid CB Test Certificate that 
+was issued in accordance with the rules and procedures of the IECEE CB Scheme 
+and with the commitments by the Parties thereunder; or 
+ 
+(c) 
+a supplier's declaration of conformity that is based on a test report issued by any 
+testing laboratory or is based on a certificate issued by any certification body in 
+the other Party that has concluded voluntary arrangements for the mutual 
+acceptance of test reports or certificates with one or more conformity 
+assessment bodies designated by the importing Party. 
+ 
+The choice of basis under this paragraph shall rest with the supplier. 
+ 
+3. 
+The supplier's declaration of conformity referred to in paragraph 2 shall be in 
+accordance with ISO/IEC 17050. The Parties shall accept that the supplier is solely 
+responsible for issuing, changing or withdrawing the declaration of conformity, for 
+preparing the technical documentation which shall enable the assessment whether 
+the products concerned conform with the applicable technical regulations, and for 
+affixing any required markings. The Parties may require that the declaration of 
+conformity be dated and identify the supplier or the supplier's authorised 
+representative in their territories, that the person empowered by the manufacturer or 
+his authorised representative sign the declaration, the products covered by the 
+declaration, and the applied technical regulations to which the declaration of 
+conformity relates. 
+ 
+EUSFTA Annex 4-A - 6 
+ 
+4. 
+In addition to paragraphs 1 to 3, no Party shall require any form of registration of 
+products or of suppliers, where such registration could prevent or otherwise delay the 
+placing on the market of products that comply with the Party's technical regulations. 
+Where a Party reviews the supplier's declaration, such review shall be limited solely to 
+verifying, on the basis of the documentation submitted, that the test was done in 
+accordance with the Party's relevant technical regulations, and that the information 
+contained in the documentation is complete. Such reviews shall not cause undue 
+delay for the placing of the products on the Party's market, and the Party shall accept 
+the declaration, without exceptions, if the products comply with the Party's technical 
+regulations and the documentation submitted is complete. In the event that a Party 
+rejects a declaration, that Party shall communicate its decision to the supplier, 
+together with an explanation of the grounds for the rejection. At the request of the 
+supplier, the Party shall provide information or guidance, as appropriate, on how to 
+rectify the shortcomings, as well as an explanation of possibilities for appealing the 
+decision. 
+ 
+ 
+ARTICLE 5 
+ 
+Safeguard Measures 
+ 
+Notwithstanding Article 4 (Conformity Assessment Procedures), either Party may introduce 
+requirements for mandatory third-party testing or certification of the EMC or safety of 
+covered products, or may introduce administrative procedures for approving or reviewing 
+test reports, for particular covered products under the following conditions: 
+ 
+(a) 
+there exist compelling reasons related to the protection of human health or safety 
+that justify the introduction of such requirements or procedures, supported by 
+substantiated technical or scientific information; 
+ 
+EUSFTA Annex 4-A - 7 
+ 
+(b) 
+such requirements or procedures are not more trade-restrictive than necessary to 
+fulfil the Party's legitimate objectives, taking into account the risks that non-fulfilment 
+would create; and 
+ 
+(c) 
+the Party could not have reasonably foreseen the need for introducing such 
+requirements or procedures at the time of entry into force of this Agreement. 
+ 
+Without prejudice to Article 2.10 of the TBT Agreement, before introducing the 
+requirements or procedures, each Party shall notify the other Party and, following 
+consultations, shall take the comments of the other Party into account to the greatest 
+extent possible in devising such requirements or procedures. Any requirements that are 
+introduced shall comply with this Annex to the greatest extent possible. Once adopted, any 
+requirement or procedure that is introduced shall be regularly reviewed, and shall be 
+repealed if the reasons for introducing that requirement or procedure no longer exist. 
+ 
+ 
+ARTICLE 6 
+ 
+Exceptions 
+ 
+1. 
+Pursuant to Singapore's agreement to substantially reduce the list of products for 
+which it requires a positive assurance of conformity with its mandatory safety and/or 
+EMC requirements, in the form of third-party certification, at the time of entry into 
+force of this Agreement, Singapore shall only require such third-party certification for 
+the product categories listed in Appendix 4-A-2. 
+ 
+EUSFTA Annex 4-A - 8 
+ 
+2. 
+By the date of entry into force of this Agreement, Singapore shall have undertaken a 
+review of its Consumer Protection (Safety Requirements) Registration Scheme with a 
+view to reducing the number of products categories that are covered by the scheme 
+and listed in Appendix 4-A-2. Such review shall examine the necessity of maintaining 
+that scheme in its existing form, or whether that scheme's desired outcomes of 
+ensuring human health and safety in Singapore can be achieved with simplified 
+procedures that better facilitate trade2. 
+ 
+3. 
+The review referred to in paragraph 2 shall include a risk assessment for each of the 
+products covered by the Consumer Protection (Safety Requirements) Registration 
+Scheme to ascertain whether moving towards post-market surveillance in accordance 
+with paragraph 1 of Article 4 (Conformity Assessment Procedures) or accepting a 
+positive assurance of conformity in accordance with paragraph 2 of Article 4 
+(Conformity Assessment Procedures) would create unreasonable risks for human 
+health and safety. The risk assessment shall be conducted on the basis of available 
+scientific and technical information, such as consumer reports on safety accidents and 
+the non-conformity rate of product inspection. The risk assessment shall also consider 
+whether the products had been used for their intended end-uses and whether those 
+products had been used with reasonable and usual care. 
+ 
+                                                 
+2 
+For example, Singapore will review the administrative procedures associated with the Consumer 
+Protection (Safety Requirements) Registration Scheme, including the procedures for accepting and 
+reviewing test reports and certificates of conformity. 
+EUSFTA Annex 4-A - 9 
+ 
+4. 
+Depending on the outcome of the review referred to in paragraph 3, Singapore may 
+maintain its requirements for the positive assurance of conformity by means of third-
+party certification for those products that are covered by the Consumer Protection 
+(Safety Requirements) Registration Scheme, and are listed in Appendix 4-A-2, where 
+the results of the risk assessment referred to in paragraph 3 demonstrate that 
+adopting the procedures in paragraph 2 of Article 4 (Conformity Assessment 
+Procedures) for such products would create unreasonable risks for human health and 
+safety, or where it would not be possible to set up the post-market surveillance 
+system to address such risks effectively. 
+ 
+5. 
+Singapore shall table the risk assessment referred to in paragraph 3 for discussion at 
+the first meeting of the Committee on Trade in Goods. Following the review carried 
+out by Singapore, the Parties, by decision in the Committee on Trade and Goods may 
+modify Appendix 4-A-2 as appropriate. 
+ 
+6. 
+Insofar as Singapore continues to require positive assurances of conformity with its 
+mandatory safety and/or EMC requirements in the form of third-party certification for 
+covered products, Singapore shall accept certificates of conformity with its technical 
+regulations that have been issued by a conformity assessment body in the Union that 
+was designated by Singapore.3 Singapore shall also ensure that, for the purposes of 
+issuing such certification, the conformity assessment bodies designated by Singapore 
+accept test reports issued: 
+ 
+                                                 
+3 
+Singapore shall comply with this requirement within three years of the entry into force of this 
+Agreement. 
+EUSFTA Annex 4-A - 10 
+ 
+(a) 
+in accordance with the rules and procedures of the IECEE CB Scheme, and in 
+accordance with the commitments of the Parties thereunder, by one of the 
+Recognised CB Testing Laboratories or Recognised CB Manufacturer's Testing 
+Laboratories of the Union; 
+ 
+(b) 
+in accordance with relevant international standards, guides and 
+recommendations (including ISO/IEC 17025), by any testing laboratory of the 
+Union that has been accredited by an accreditation body which is a signatory to 
+the Mutual Recognition Arrangement of the International Laboratory 
+Accreditation Cooperation or one of its regional bodies' mutual recognition 
+agreements to which Singapore is a Party; or 
+ 
+(c) 
+by any testing laboratory in the Union that has concluded voluntary 
+arrangements for mutual acceptance of test reports with one or more 
+conformity assessment bodies designated by Singapore. 
+ 
+7. 
+Five years after the entry into force of this Agreement, and thereafter at regular 
+intervals that shall not exceed five years, Singapore shall review Appendix 4-A-2 again, 
+with the aim of reducing the number of product categories listed therein. Such 
+reviews shall include the risk assessments laid out in paragraph 3. Singapore shall 
+submit such risk assessments for discussion at the Committee on Trade in Goods. 
+ 
+8. 
+Following the review carried out by Singapore, the Parties, by decision in the 
+Committee on Trade and Goods, may modify Appendix 4-A-2 as appropriate. 
+ 
+ 
+EUSFTA Annex 4-A - 11 
+ 
+ARTICLE 7 
+ 
+Joint Cooperation 
+ 
+1. 
+The Parties shall closely cooperate to promote common understanding on regulatory 
+issues and shall consider any request of the other Party regarding the implementation 
+of this Annex. 
+ 
+2. 
+This cooperation shall take place within the framework of the Committee on Trade in 
+Goods. 
+ 
+ 

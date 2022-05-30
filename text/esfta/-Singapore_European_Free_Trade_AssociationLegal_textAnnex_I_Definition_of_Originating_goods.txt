@@ -1,1 +1,1290 @@
-   ANNEX I   CONCERNING THE DEFINITION OF THE CONCEPT OF "ORIGINATING PRODUCTS" AND METHODS OF ADMINISTRATIVE CO-OPERATION   -----   TABLE OF CONTENTS:      TITLE I GENERAL PROVISIONS  - Article 1 Definitions   TITLE II DEFINITION OF THE CONCEPT OF "ORIGINATING PRODUCTS"  - Article 2 Origin Criteria - Article 3 Cumulation of Origin - Article 4 Wholly Obtained Products - Article 5 Sufficiently Worked or Processed Products - Article 6 Insufficient Working or Processing Operations - Article 7 Unit of Qualification - Article 8 Accessories, Spare Parts and Tools - Article 9 Sets - Article 10 Neutral Elements - Article 11 Segregation of Materials   TITLE III TERRITORIAL REQUIREMENTS  - Article 12  Principle of Territoriality - Article 13 Outward Processing - Article 14 Direct Transport - Article 15 Exhibitions   - ii - TITLE IV PROOF OF ORIGIN  - Article 16 Origin Declaration - Article 17 Approved Exporter - Article 18 Importation Requirements - Article 19 Importation by Instalments - Article 20 Exemptions from Origin Declaration - Article 21 Supporting Documents - Article 22 Preservation of Origin Declarations and Supporting Documents - Article 23 Discrepancies and Formal Errors   TITLE V ARRANGEMENTS FOR ADMINISTRATIVE CO-OPERATION  - Article 24 Notifications - Article 25 Verification of Origin Declarations - Article 26 Dispute Settlement - Article 27 Origin and Classification Information - Article 28 Confidentiality - Article 29 Penalties - Article 30 Free Zones   TITLE VI FINAL PROVISIONS  - Article 31 Sub-Committee on Customs and Origin Matters - Article 32 Explanatory Notes - Article 33 Goods in Transit or Storage        TITLE I  GENERAL PROVISIONS   Article 1  Definitions  For the purposes of this Annex:  (a) “chapters” and “headings” mean the chapters and the headings (four-digit codes) used in the nomenclature of the Harmonized System;  (b) “classified” refers to the classification of a product or material under a particular heading;  (c) “competent authority of Singapore” means International Enterprise Singapore, or IE Singapore;  (d) “consignment” means products which are either sent simultaneously from one exporter to one consignee or covered by a single transport document covering their shipment from the exporter to the consignee or, in the absence of such a document, by a single invoice;  (e) “customs value” means the calculated value determined in accordance with the Agreement on implementation of Article VII of the General Agreement on Tariffs and Trade 1994 (WTO Agreement on Customs Valuation);  (f) “ex-works price” means the price paid for the product ex-works to the manufacturer in a Party in whose undertaking the last working or processing is carried out, provided the price includes the value of all the materials used, minus any internal taxes returned or repaid when the product obtained is exported;  (g) “goods” means both materials and products;  (h) “Harmonized System” means the Harmonized Commodity Description and Coding System in force, including its general rules and legal notes;  (i) “manufacture” means any kind of working or processing, including assembly or specific operations;  (j) “material” means any ingredient, raw material, component or part, etc., used in the manufacture of a product;  - 2 -   (k) “non-originating materials” means materials which do not qualify as originating under this Annex;  (l) “Party” means Iceland, Norway, Switzerland and Singapore. Due to the customs union between Switzerland and Liechtenstein, products originating in Liechtenstein are considered as originating in Switzerland;   (m) “product” means the product being manufactured, even if it is intended for later use as a material in another manufacturing operation;   (n) “territories” includes territorial sea;  (o) “value of materials” means the customs value at the time of importation of the non-originating materials used, or, if this is not known and cannot be ascertained, the first ascertainable price paid for the materials in a Party;  (p) “value of originating materials” means the value of originating materials in accordance with the definition of sub-paragraph (o) applied mutatis mutandis.    TITLE II   DEFINITION OF THE CONCEPT “ORIGINATING PRODUCTS”   Article 2  Origin Criteria  For the purpose of this Agreement, the following products shall be considered as originating in a Party:  (a) products wholly obtained in a Party within the meaning of Article 4;  (b) products obtained in a Party incorporating materials which have not been wholly obtained there, provided that such materials have undergone sufficient working or processing in the Party concerned within the meaning of Article 5; or  (c) products obtained in a Party exclusively from materials that qualify as originating pursuant to this Annex.   - 3 -   Article 3  Cumulation of Origin  1. Notwithstanding Article 2, materials originating in another Party within the meaning of this Annex shall be considered as materials originating in the Party concerned, provided that they have undergone working or processing going beyond that referred to in Article 6.  2. Products originating in another Party within the meaning of this Annex, which are exported from one Party to another, shall retain their origin when exported in the same state or without having undergone in the exporting Party working or processing going beyond that referred to in Article 6.  3. For the purpose of paragraph 2, where materials originating in two or more of the Parties are used and those materials have undergone working or processing in the exporting Party not going beyond that referred to in Article 6, the origin is determined by the material with the highest customs value or, if this is not known and cannot be ascertained, with the highest first ascertainable price paid for that material in that Party.   Article 4  Wholly Obtained Products  For the purpose of Article 2(a), the following shall be considered as wholly obtained in a Party:  (a) mineral products extracted from their soil or from their seabed;  (b) vegetable products harvested or gathered there;  (c) live animals born and raised there;  (d) products from live animals raised there;  (e) products obtained by hunting, trapping or fishing conducted there;  (f) products of sea fishing and other products taken from the sea outside the territorial sea of a country by a vessel flying the flag of a Party;  (g) products manufactured on board a factory ship flying the flag of a Party, exclusively from products referred to in sub-paragraph (f);  (h) articles collected there which can no longer perform their original purpose nor are capable of being restored or repaired and are fit only for disposal or recovery of parts or raw materials, including used tyres fit only for retreading;  - 4 -    (i) waste and scrap resulting from consumption or manufacturing operations conducted there, fit only for disposal or recovery of raw materials;  (j) products extracted from the seabed or beneath the seabed outside their territorial sea, provided that they have sole rights to exploit such seabed;   (k) products manufactured there exclusively from products specified in sub-paragraphs (a) to (j).   Article 5  Sufficiently Worked or Processed Products  1. For the purpose of Article 2(b), products which are not wholly obtained are considered to be sufficiently worked or processed when the conditions set out in Appendix 2 are fulfilled.   The conditions referred to above indicate the working or processing which shall be carried out on non-originating materials used in manufacturing and apply only in relation to such materials. Accordingly, it follows that if a product which has acquired originating status, regardless of whether this product has been manufactured in the same factory or in another factory in a Party, by fulfilling the conditions set out in Appendix 2, is used as material in the manufacture of another product, the conditions applicable to such other product do not apply to the product that is used as material, and therefore no account shall be taken of any non-originating materials incorporated into such a product used as a material in the manufacture of another product.  2. Notwithstanding paragraph 1, non-originating materials which, according to the conditions set out in Appendix 2, should not be used in the manufacture of a product may nevertheless be used, provided that:  (a) their total value does not exceed 10 per cent of the ex-works price of the product; and  (b) any of the percentages given in Appendix 2 for the maximum value of non-originating materials are not exceeded through the application of this paragraph.  This paragraph shall not apply to products falling within Chapters 50 to 63 of the Harmonized System.  Appendix 1 shall apply to these products.  3. For the purpose of fulfilling the conditions set out in Appendix 2, the processes may be carried out by one or more producers within one Party.  Supporting documents proving the working or processing shall be maintained by the exporter or the producer of the final product. - 5 -    4. Paragraphs 1 to 3 shall apply except as provided for in Article 6.  - 6 -    Article 6  Insufficient Working or Processing Operations  1. Without prejudice to paragraph 2, the following operations shall be considered as insufficient working or processing to confer the status of originating products, whether or not the requirements of Article 5 are satisfied:   (a) preserving operations to ensure that the products remain in good condition during transport and storage;   (b) breaking-up and assembly of packages;   (c) washing, cleaning; removal of dust, oxide, oil, paint or other coverings;   (d) ironing or pressing of textiles;   (e) simple1  painting and polishing operations;   (f) husking, partial or total bleaching, polishing, and glazing of cereals and rice;   (g) operations to colour sugar or form sugar lumps;   (h) peeling, stoning and shelling, of fruits, nuts and vegetables;   (i) sharpening, simple grinding or simple cutting;   (j) sifting, screening, sorting, classifying, grading, matching; (including the making-up of sets of articles);   (k) simple1  placing in bottles, cans, flasks, bags, cases, boxes, fixing on cards or boards and all other simple packaging operations;   (l) affixing or printing marks, labels, logos and other like distinguishing signs on products or their packaging;    (m) simple mixing2 of products, whether or not of different kinds;                                                  1  “simple”, generally describes activities which need neither special skills nor machines, apparatus or equipment especially produced or installed for carrying out the activity.  2  “simple mixing”, generally describes activities which need neither special skills nor machines, apparatus or equipment especially produced or installed for carrying out the activity. However, simple mixing does not include chemical reaction. Chemical reaction means a process (including a - 7 -     (n) simple3  assembly of parts of articles to constitute a complete article or disassembly of products into parts;   (o) slaughter of animals;   (p) a combination of two or more operations specified in sub-paragraphs (a) to (o).  2. All operations carried out either in a Party on a given product shall be considered together when determining whether the working or processing undergone by that product is to be regarded as insufficient within the meaning of paragraph 1.   Article 7  Unit of Qualification  1. The unit of qualification for the application of the provisions of this Annex shall be the particular product which is considered as the basic unit when determining classification using the nomenclature of the Harmonized System.  Accordingly, it follows that:   (a) when a product composed of a group or assembly of articles is classified under  a single heading, the whole constitutes the unit of qualification; or  (b) when a consignment consists of a number of identical products classified under the same heading, each product shall be taken individually into account when applying the provisions of this Annex.  2. Where, under General Rule 5 of the Harmonized System, packaging is included with the product for classification purposes, it shall be included for the purposes of determining origin.   Article 8  Accessories, Spare Parts and Tools                                                                                                                                                 biochemical process) which results in a molecule with a new structure by breaking intramolecular bonds and by forming new intramolecular bonds, or by altering the spatial arrangement of atoms in a molecule. 3  “simple”, generally describes activities which need neither special skills nor machines, apparatus or equipment especially produced or installed for carrying out the activity. - 8 -   Accessories, spare parts and tools dispatched with a piece of equipment, machine, apparatus or vehicle, which are part of the normal equipment and included in the price thereof or which are not separately invoiced, shall be regarded as one with the piece of equipment, machine, apparatus or vehicle in question.  - 9 -    Article 9  Sets  Sets, as defined in General Rule 3 of the Harmonized System, shall be regarded as originating when all component products are originating. However, when a set is composed of originating and non-originating products, the set as a whole shall be regarded as originating, provided that the value of the non-originating products does not exceed 15 per cent of the ex-works price of the set.   Article 10  Neutral Elements  In order to determine whether a product originates, it shall not be necessary to determine the origin of the following which might be used in its manufacture:  (a) energy and fuel;  (b) plant and equipment, including goods to be used for their maintenance;  (c) machines, tools, dies and moulds; and  (d) any other goods which do not enter into and which are not intended to enter into the final composition of the product.   Article 11  Segregation of Materials  1. Where identical and interchangeable originating and non-originating materials are used in the manufacture of a product, those materials shall be physically segregated, according to their origin, during storage.  Identical and interchangeable materials means materials being of the same kind and commercial quality, possessing the same technical and physical characteristics, and which once they are incorporated into the finished product cannot be distinguished from one another for origin purposes by virtue of any markings etc.  2. A producer facing considerable costs or material difficulties in keeping separate stocks of identical and interchangeable originating and non-originating materials used in the manufacture of a product, may use the so-called “accounting segregation” method for managing stocks. - 10 -    3. The accounting method shall be recorded, applied and maintained in accordance with generally accepted accounting principles applicable in the Party in which the product is manufactured.  The method chosen must:  - permit a clear distinction to be made between originating and non-originating materials acquired and/or kept in stock, and  - guarantee that no more products receive originating status than would be the case if the materials had been physically segregated.  4. The producer using this facilitation shall only complete origin declarations for the quantity of products considered as originating and shall assume full responsibility for the origin declarations and for keeping all documentary evidence of origin of the materials.  At the request of the customs authorities or the competent authority of Singapore, the producer shall provide satisfactory information on how the stocks have been managed.  5. A Party may require that the application of the method for managing stocks as provided for in this Article is subject to prior authorization.     TITLE III  TERRITORIAL REQUIREMENTS   Article 12  Principle of Territoriality  1. Except as provided for in Articles 3 and 13, the conditions for acquiring originating status set out in Title II must be fulfilled without interruption in a Party.  2. Except as provided for in Article 3, an originating product exported from a Party to a non-Party shall where returned be considered as non-originating unless it can be demonstrated to the satisfaction of the customs authority of the importing Party concerned that:   (a) the returning product is the same as that exported; and    (b) the returning product has not undergone any operation beyond that necessary to preserve it in good condition while being exported.   Article 13  - 11 -   Outward Processing  Notwithstanding the provisions of Article 12, the acquisition of originating status in accordance with the conditions set out in Title II shall not be affected by working or processing carried out outside the territory of a Party on materials exported from the Party concerned and subsequently re-imported there, provided that the conditions set out in Appendix 3 are fulfilled.   Article 14  Direct Transport  1. The preferential tariff treatment provided for under this Agreement applies only to products satisfying the requirements of this Annex, which are transported directly between an EFTA State and Singapore.  However, products constituting one single consignment may be transported through other countries with, should the occasion arise, trans-shipment or temporary warehousing in such countries, provided that they remain under the surveillance of the customs authority in the country of transit or warehousing and do not undergo operations other than unloading, reloading or any operation designed to preserve them in good condition.  2. Evidence that the conditions set out in paragraph 1 have been fulfilled shall upon request be supplied to the customs authority of the importing Party by the production of:   (a) a single transport document covering the passage from the exporting Party through the country of transit; or  (b) a certificate issued by the customs authority of the country of transit:  (i) giving an exact description of the products  (ii) stating the dates of unloading and reloading of the products and, where applicable, the names of the ships, or the other means of transport used; and  (iii) certifying the conditions under which the products remained in the transit country; or  (c) failing these, any other substantiating documents.   Article 15  Exhibitions  - 12 -   1. Originating products sent for exhibition outside the territories of the Parties and sold after the exhibition for importation into a Party shall, on importation benefit from the preferential tariff treatment under this Agreement provided it is demonstrated to the satisfaction of the customs authorities that:  (a) an exporter has sent these products from a Party to the country in which the exhibition is held and has exhibited them there;  (b) the products have been sold or otherwise disposed of by that exporter to a person in a Party;  (c) the products have been sent during the exhibition or immediately thereafter in the state in which they were sent for exhibition; and  (d) the products have not, since they were sent for exhibition, been used for any purpose other than demonstration at the exhibition.  2. Paragraph 1 shall apply to any trade, industrial, agricultural or crafts exhibition, fair or similar public show or display which is not organised for private purposes in shops or business premises with a view to the sale of foreign products, and during which the products remain under customs control. The customs authority of the importing Party may upon importation of the products concerned require evidence that the products have remained under customs control in the country of exhibition, as well as additional documentary evidences of the conditions under which they have been exhibited, failing which preferential tariff treatment may be refused.  3. An origin declaration shall be completed in accordance with the provisions of Title IV and submitted to the customs authority of the importing Party in the normal manner. The name and address of the exhibition must be indicated thereon.     TITLE IV  PROOF OF ORIGIN   Article 16  Origin Declaration  1. For the purpose of obtaining preferential tariff treatment in another Party, a proof of origin in the form of an origin declaration shall be completed by an exporter of a Party for products which can be considered as products originating in a Party and which fulfil the other requirements of this Annex.   - 13 -   2. The origin declaration referred to in paragraph 1, shall have the following wording:   ”The exporter of the products covered by this document (customs authorization No ...(1) declares that, except where otherwise clearly indicated, these products are of ...(2)  preferential origin.”  ………………………………………………………………………………. (3)      (Place and date)  ………………………………………………………………………………….(4)      (Signature of the exporter; in addition the      name of the person signing the declaration      has to be indicated in clear script)   3. The origin declaration may be provided on an invoice or any other commercial document which describes the products concerned in sufficient detail to enable them to be identified.   4. An origin declaration shall be completed in English, in a legible and permanent form and, except as provided in Article 17, bear the original signature of the exporter.  5. An origin declaration may be completed by the exporter when the products to which it relates are exported, or after exportation.  6. When completing an origin declaration, an exporter that relies on documents and information from a producer shall take steps to ensure that the documents and information are accurate.  7. An exporter that has completed an origin declaration and that becomes aware that the origin declaration contains incorrect information shall immediately notify the importer in writing of any change affecting the originating status of each product to which the origin declaration is applicable.  8. An exporter that has completed an origin declaration shall, on request of the customs authority of the exporting Party or the competent authority of Singapore, provide to the                                                  (1)  When the origin declaration is made out by an approved exporter within the meaning of Article 17, the authorization number of the approved exporter must be entered in this space. When the origin declaration is not made out by an approved exporter, the words in brackets shall be omitted or the space left blank. (2)  Origin of products to be indicated (Icelandic, Norwegian, Swiss or Singapore).  The use of ISO-Alpha-2 codes is permitted (IS, NO, CH or SG).  Reference may be made to a specific column of the invoice in which the country of origin of each product is entered. (3)  These indications may be omitted if the information is contained on the document itself. (4)  Approved exporters are not required to sign.  The exemption of signature also implies the exemption of the name of the signatory.  - 14 -   authority concerned a copy of the origin declaration, and of all documents supporting the originating status of each product to which the origin declaration is applicable.  For this purpose the said customs authorities or the competent authority of Singapore shall have the right to carry out inspections of the exporters accounts or any other controls considered appropriate.  9. For the purposes of this Article, the term "exporter" does not include a forwarding agent, customs broker or the like, unless such a company has been authorized in writing by the owner of the product to complete the origin declaration.   Article 17  Approved Exporter  1. Where a Party has established an approved exporter programme, the customs authority of an EFTA State or the competent authority of Singapore may authorize an exporter of that Party that makes frequent shipments of originating products under this Agreement to complete an origin declaration without signature, on condition that he gives the customs authority of the exporting Party or the competent authority of Singapore a written undertaking that he accepts full responsibility for any origin declaration which identifies him as if it had been signed in manuscript by him.  2. The customs authority of the exporting Party or the competent authority of Singapore shall provide to the approved exporter referred to in paragraph 1 a customs authorization number or other form of identification as may be agreed by the customs authorities of the Parties or the competent authority of Singapore for use on the origin declaration instead of the signature of the exporter.  3. The customs authority of the exporting Party or the competent authority of Singapore may verify the proper use of an authorization as referred to in paragraph 1 and may at any time withdraw the authorization if the exporter no longer meets the conditions or otherwise makes improper use of the authorization.   Article 18  Importation Requirements  1. Each Party shall grant preferential tariff treatment in accordance with this Agreement to originating products imported from another Party, on the basis of an origin declaration as referred to in Article 16.  2. In order to obtain preferential tariff treatment, the importer shall, in accordance with the procedures applicable in the importing Party request preferential tariff treatment at the time of importation of an originating product, whether or not he has an origin declaration.  - 15 -    In the case that the importer at the time of importation does not have in his possession an origin declaration, the importer of the product may, in accordance with the law of the importing Party, present the original origin declaration and if required such other documentation relating to the importation of the product, at a later stage.  3. Notwithstanding paragraph 1, originating products within the meaning of this Annex shall, in the cases specified in Article 20, on importation benefit from the preferential tariff treatment under this Agreement without it being necessary to submit a document as referred in paragraph 1.  4. An origin declaration shall be valid for 10 months from the date of issue in the exporting Party, and shall be submitted within such period to the customs authority of the importing Party.  5. An origin declaration which is submitted to the customs authority of the importing Party after the final date for presentation specified in paragraph 4 may be accepted for the purpose of applying for preferential tariff treatment where the failure to submit such a document by the final date set is due to exceptional circumstances.  In other cases of belated presentation, the customs authority of the importing Party may accept an origin declaration where the products have been submitted before such final date.  6. An origin declaration shall be submitted to the customs authority of the importing Party in accordance with the procedures applicable in that Party. Such authority may require a translation of the document on which the origin declaration is made out and may also require the import declaration to be accompanied by a statement from the importer to the effect that the products meet the conditions of this Annex.   Article 19  Importation by Instalments  Where, at the request of the importer and on the conditions laid down by the customs authorities of the importing Party, dismantled or non-assembled products within the meaning of General Rule 2(a) of the Harmonized System falling within Sections XVI and XVII or heading Nos 7308 and 9406 of the Harmonized System are imported by instalments, a single origin declaration for such products shall be submitted to the customs authorities upon importation of the first instalment.   Article 20  Exemptions from Origin Declaration  - 16 -   1. Products sent as small packages from private persons to private persons or forming part of travellers' personal luggage shall be admitted as originating products without requiring the submission of an origin declaration, provided that such products are not imported by way of trade and have been declared as meeting the requirements of this Annex and where there is no doubt as to the veracity of such a declaration. In the case of products sent by post, this declaration can be made on a postal customs declaration (CN22/CN23 or C2/CP3) or on a sheet of paper annexed to that document.  2. Imports which are occasional and consist solely of products for the personal use of the recipients or travellers or their families shall not be considered as imports by way of trade if it is evident from the nature and quantity of the products that no commercial purpose is intended.  3. In case of small packages sent from private persons to private persons the total value of these products shall not exceed any of the following amounts: (i) 500 euro (ii) 450 US dollar (USD) (iii) 1000 Singapore dollar (SGD) (iv) 4100 Norwegian kroner (NOK) (v) 43000 Icelandic kroner (ISK) (vi) 900 Swiss francs (CHF)  4. In case of products forming part of travellers’ personal luggage the total value of these products shall not exceed any of the following amounts: (i) 1200 euro (ii) 1100 US dollar (USD) (iii) 2400 Singapore dollar (SGD) (iv) 10000 Norwegian kroner (NOK) (v) 100000 Icelandic kroner (ISK) (vi) 2100 Swiss francs (CHF)  5. Where the value of the products is invoiced or declared in a currency other than those mentioned in paragraphs 3 and 4 the amount equivalent to the amount expressed in the national currency of the importing Party shall be applied.   Article 21  Supporting Documents  - 17 -   The documents referred to in Article 16(8) used for the purpose of proving that products covered by an origin declaration can be considered as products originating in a Party and fulfil the other requirements of this Annex may consist of inter alia the following:  (a) direct evidence of the processes carried out by the exporter or supplier to obtain the goods concerned, contained for example in his accounts or internal bookkeeping;  (b) documents proving the originating status of materials used, issued or made out in a Party where these documents are used, as provided for in their domestic law;  (c) documents proving the working or processing of materials in a Party, issued or made out in a Party where these documents are used, as provided for in their domestic law;  (d) origin declarations proving the originating status of materials used, completed in a Party; or  (e) appropriate evidence concerning working or processing undergone outside the territories of the Parties by application of Article 13, proving that the requirements of that Article have been satisfied.   Article 22  Preservation of Origin Declarations and Supporting Documents  The exporter making out an origin declaration shall keep for at least three years a copy of the origin declaration in question as well as the documents referred to in  Article 16(8).  Article 23  Discrepancies and Formal Errors  1. The discovery of slight discrepancies between the statements made in the origin declaration and those made in the documents submitted to the customs office for the purpose of carrying out the formalities for importing the products shall not ipso facto render the origin declaration null and void if it is duly established that such document does correspond to the products submitted.  2. Obvious formal errors such as typing errors in an origin declaration should not cause this document to be rejected if these errors are not such as to create doubts concerning the correctness of the statements made in this document.  - 18 -     TITLE V  ARRANGEMENTS FOR ADMINISTRATIVE CO-OPERATION   Article 24  Notifications  The customs authorities of the Parties shall provide each other, through the EFTA Secretariat, with information on the composition of the authorization number for approved exporters, where established by a Party, and with the addresses of the customs authorities of the Parties responsible for verifying origin declarations.   Article 25  Verification of Origin Declarations  1. In order to ensure the proper application of this Annex, the Parties shall assist each other, through the respective customs authorities of the Parties, to verify the authenticity of the origin declarations and the correctness of the information given in these documents.  2. Subsequent verifications of origin declarations shall be carried out whenever the customs authority of the importing Party wants to verify the authenticity of such documents, the originating status of the products concerned or the fulfilment of the other requirements of this Annex.  3. For the purpose of implementing the provisions of paragraph 1, the customs authority of the importing Party shall return the origin declaration, or a copy of this document, to the customs authority of the exporting Party, as the case may be, giving the reasons for the inquiry. Any documents and information obtained suggesting that the information given on the origin declaration is incorrect shall be forwarded in support of the request for verification.  4. The verification shall be carried out by the customs authority of the exporting EFTA State concerned or the competent authority of Singapore.  For this purpose, they shall have the right to request any evidence and to carry out any inspection of the exporter's accounts or any other control considered appropriate.  5. The customs authority of the importing Party may decide to suspend the granting of preferential tariff treatment to the products covered by the origin declaration concerned while awaiting the results of the verification.  The release of the products shall be offered to the importer subject to any precautionary measures judged necessary.  - 19 -   6. The customs authority requesting the verification shall be informed of the results of this verification as soon as possible.  These results shall indicate clearly whether the documents are authentic and whether the products concerned can be considered as products originating in a Party and fulfil the other requirements of this Annex.  7. If there is no reply within 10 months of the date of the verification request or if the reply does not contain sufficient information to be able to determine the authenticity of the document in question or the origin of the products, the requesting customs authorities shall be entitled, save in exceptional circumstances, to refuse to grant preferential tariff treatment.   Article 26  Dispute Settlement  Disputes between the Parties arising in relation to the verification procedures pursuant to Article 25, which cannot be settled between the customs authorities of the Parties, or which raise a question as to the interpretation of this Annex, shall be referred to the Sub-Committee on Customs and Origin Matters. The Sub-Committee shall present a report to the Joint Committee containing its conclusions.   Article 27  Origin and Classification Information  Upon request of an importer, exporter or producer, the customs authority of a Party or the competent authority of Singapore, as the case may be, shall provide an opinion concerning the originating status and tariff classification of a product.  They shall seek to answer within 90 days after having received the request.  - 20 -    Article 28  Confidentiality  All information which is by nature confidential or which is provided on a confidential basis shall be covered by the obligation of professional secrecy, in accordance with the respective laws of each Party. It shall not be disclosed by the Parties’ authorities without the express permission of the person or authority providing it.   Article 29  Penalties  Each Party shall provide for penalties to be imposed on any person who draws up or causes to be drawn up, a document which contains incorrect information for the purpose of obtaining preferential tariff treatment.    Article 30  Free Zones  1. An exporter in a Party shall ensure that products traded under cover of an origin declaration which in the course of transport use a free zone situated in a Party, are not substituted by other goods and do not undergo handling other than normal operations designed to prevent their deterioration.  2. Notwithstanding paragraph 1, when products originating in a Party are imported into a free zone under cover of an origin declaration and undergo treatment or processing, the exporter concerned may complete a new origin declaration if the treatment or processing undergone is in conformity with the provisions of this Annex.    TITLE VI  FINAL PROVISIONS   Article 31  Sub-Committee on Customs and Origin Matters  - 21 -   1. A Sub-Committee of the Joint Committee on Customs and Origin Matters is hereby established.  2. The functions of the Sub-Committee shall be to exchange information and review the rules of origin in light of changed circumstances, such as technological advances, changes in market conditions or other international developments.  Furthermore, the Sub-Committee shall prepare and co-ordinate positions, prepare amendments to the rules of origin and assist the Joint Committee regarding:  (a) general rules of origin and administrative co-operation as set out in this Annex;  (b) product-specific rules of origin set out in Appendices 2 and 3 to this Annex;  (c) other matters referred to the Sub-Committee by the Joint Committee.   3. The Sub-Committee shall endeavour to resolve as soon as possible any dispute arising in relation to the verification procedures, as referred to in Article 26 of this Annex.  4. The Sub-Committee shall report to the Joint Committee.  The Sub-Committee may make recommendations to the Joint Committee on matters related to its functions.   5. The Sub-Committee shall act by consensus.  The Sub-Committee shall be chaired alternatively by a representative of a Party for an agreed period of time. The chairperson shall be elected at the first meeting of the Sub-Committee.  6. The Sub-Committee shall meet as often as required.  It may be convened by the Joint Committee, by the chairperson of the Sub-Committee on his/her own initiative or upon request of any Party.  The venue shall alternate between Singapore and an EFTA State.   7. A provisional agenda for each meeting shall be prepared by the chairperson in consultation with all Parties, and forwarded to the Parties, as a general rule, not later than two weeks before the meeting.   Article 32  Explanatory Notes  1. The Parties shall within the Sub-Committee on Customs and Origin Matters elaborate and agree on “Explanatory Notes” regarding the interpretation, application and administration of this Annex.  2. The Parties shall implement simultaneously the agreed Explanatory Notes, in accordance with their respective internal procedures.   - 22 -   Article 33  Goods in Transit or Storage  The provisions of this Agreement may be applied to goods which comply with the provisions of this Annex and which on the date of entry into force of this Agreement are either in transit or are in a Party or, in temporary storage in bonded warehouse under customs control or in free zones, subject to the submission to the customs authority of the importing Party, within 4 months of that date, of an origin declaration completed retrospectively by the exporter concerned after the entry into the force of the Agreement together with the documents showing that the goods have been transported directly.   
+ 
+ 
+ 
+ANNEX I 
+ 
+ 
+CONCERNING THE DEFINITION OF THE CONCEPT OF 
+"ORIGINATING PRODUCTS" AND 
+METHODS OF ADMINISTRATIVE CO-OPERATION 
+ 
+ 
+----- 
+ 
+ 
+TABLE OF CONTENTS: 
+ 
+ 
+ 
+ 
+ 
+TITLE I 
+GENERAL PROVISIONS 
+ 
+- 
+Article 1 
+Definitions 
+ 
+ 
+TITLE II 
+DEFINITION OF THE CONCEPT OF "ORIGINATING 
+PRODUCTS" 
+ 
+- 
+Article 2 
+Origin Criteria 
+- 
+Article 3 
+Cumulation of Origin 
+- 
+Article 4 
+Wholly Obtained Products 
+- 
+Article 5 
+Sufficiently Worked or Processed Products 
+- 
+Article 6 
+Insufficient Working or Processing Operations 
+- 
+Article 7 
+Unit of Qualification 
+- 
+Article 8 
+Accessories, Spare Parts and Tools 
+- 
+Article 9 
+Sets 
+- 
+Article 10 
+Neutral Elements 
+- 
+Article 11 
+Segregation of Materials 
+ 
+ 
+TITLE III 
+TERRITORIAL REQUIREMENTS 
+ 
+- 
+Article 12  
+Principle of Territoriality 
+- 
+Article 13 
+Outward Processing 
+- 
+Article 14 
+Direct Transport 
+- 
+Article 15 
+Exhibitions 
+ 
+ 
+- ii - 
+TITLE IV 
+PROOF OF ORIGIN 
+ 
+- 
+Article 16 
+Origin Declaration 
+- 
+Article 17 
+Approved Exporter 
+- 
+Article 18 
+Importation Requirements 
+- 
+Article 19 
+Importation by Instalments 
+- 
+Article 20 
+Exemptions from Origin Declaration 
+- 
+Article 21 
+Supporting Documents 
+- 
+Article 22 
+Preservation of Origin Declarations and Supporting Documents 
+- 
+Article 23 
+Discrepancies and Formal Errors 
+ 
+ 
+TITLE V 
+ARRANGEMENTS FOR ADMINISTRATIVE CO-OPERATION 
+ 
+- 
+Article 24 
+Notifications 
+- 
+Article 25 
+Verification of Origin Declarations 
+- 
+Article 26 
+Dispute Settlement 
+- 
+Article 27 
+Origin and Classification Information 
+- 
+Article 28 
+Confidentiality 
+- 
+Article 29 
+Penalties 
+- 
+Article 30 
+Free Zones 
+ 
+ 
+TITLE VI 
+FINAL PROVISIONS 
+ 
+- 
+Article 31 
+Sub-Committee on Customs and Origin Matters 
+- 
+Article 32 
+Explanatory Notes 
+- 
+Article 33 
+Goods in Transit or Storage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TITLE I 
+ 
+GENERAL PROVISIONS 
+ 
+ 
+Article 1 
+ 
+Definitions 
+ 
+For the purposes of this Annex: 
+ 
+(a) 
+“chapters” and “headings” mean the chapters and the headings (four-digit 
+codes) used in the nomenclature of the Harmonized System; 
+ 
+(b) 
+“classified” refers to the classification of a product or material under a 
+particular heading; 
+ 
+(c) 
+“competent authority of Singapore” means International Enterprise 
+Singapore, or IE Singapore; 
+ 
+(d) 
+“consignment” means products which are either sent simultaneously from one 
+exporter to one consignee or covered by a single transport document covering 
+their shipment from the exporter to the consignee or, in the absence of such a 
+document, by a single invoice; 
+ 
+(e) 
+“customs value” means the calculated value determined in accordance with 
+the Agreement on implementation of Article VII of the General Agreement on 
+Tariffs and Trade 1994 (WTO Agreement on Customs Valuation); 
+ 
+(f) 
+“ex-works price” means the price paid for the product ex-works to the 
+manufacturer in a Party in whose undertaking the last working or processing is 
+carried out, provided the price includes the value of all the materials used, 
+minus any internal taxes returned or repaid when the product obtained is 
+exported; 
+ 
+(g) 
+“goods” means both materials and products; 
+ 
+(h) 
+“Harmonized System” means the Harmonized Commodity Description and 
+Coding System in force, including its general rules and legal notes; 
+ 
+(i) 
+“manufacture” means any kind of working or processing, including assembly 
+or specific operations; 
+ 
+(j) 
+“material” means any ingredient, raw material, component or part, etc., used 
+in the manufacture of a product; 
+ 
+- 2 - 
+ 
+ 
+(k) 
+“non-originating materials” means materials which do not qualify as 
+originating under this Annex; 
+ 
+(l) 
+“Party” means Iceland, Norway, Switzerland and Singapore. Due to the 
+customs union between Switzerland and Liechtenstein, products originating in 
+Liechtenstein are considered as originating in Switzerland;  
+ 
+(m) 
+“product” means the product being manufactured, even if it is intended for 
+later use as a material in another manufacturing operation; 
+ 
+ 
+(n) 
+“territories” includes territorial sea; 
+ 
+(o) 
+“value of materials” means the customs value at the time of importation of 
+the non-originating materials used, or, if this is not known and cannot be 
+ascertained, the first ascertainable price paid for the materials in a Party; 
+ 
+(p) 
+“value of originating materials” means the value of originating materials in 
+accordance with the definition of sub-paragraph (o) applied mutatis 
+mutandis. 
+ 
+ 
+ 
+TITLE II  
+ 
+DEFINITION OF THE CONCEPT “ORIGINATING PRODUCTS” 
+ 
+ 
+Article 2 
+ 
+Origin Criteria 
+ 
+For the purpose of this Agreement, the following products shall be considered as 
+originating in a Party: 
+ 
+(a) 
+products wholly obtained in a Party within the meaning of Article 4; 
+ 
+(b) 
+products obtained in a Party incorporating materials which have not been 
+wholly obtained there, provided that such materials have undergone sufficient 
+working or processing in the Party concerned within the meaning of Article 5; 
+or 
+ 
+(c) 
+products obtained in a Party exclusively from materials that qualify as 
+originating pursuant to this Annex. 
+ 
+ 
+- 3 - 
+ 
+ 
+Article 3 
+ 
+Cumulation of Origin 
+ 
+1. 
+Notwithstanding Article 2, materials originating in another Party within the meaning of 
+this Annex shall be considered as materials originating in the Party concerned, provided that 
+they have undergone working or processing going beyond that referred to in Article 6. 
+ 
+2. 
+Products originating in another Party within the meaning of this Annex, which are 
+exported from one Party to another, shall retain their origin when exported in the same state or 
+without having undergone in the exporting Party working or processing going beyond that 
+referred to in Article 6. 
+ 
+3. 
+For the purpose of paragraph 2, where materials originating in two or more of the 
+Parties are used and those materials have undergone working or processing in the exporting 
+Party not going beyond that referred to in Article 6, the origin is determined by the material 
+with the highest customs value or, if this is not known and cannot be ascertained, with the 
+highest first ascertainable price paid for that material in that Party. 
+ 
+ 
+Article 4 
+ 
+Wholly Obtained Products 
+ 
+For the purpose of Article 2(a), the following shall be considered as wholly obtained in 
+a Party: 
+ 
+(a) 
+mineral products extracted from their soil or from their seabed; 
+ 
+(b) 
+vegetable products harvested or gathered there; 
+ 
+(c) 
+live animals born and raised there; 
+ 
+(d) 
+products from live animals raised there; 
+ 
+(e) 
+products obtained by hunting, trapping or fishing conducted there; 
+ 
+(f) 
+products of sea fishing and other products taken from the sea outside the 
+territorial sea of a country by a vessel flying the flag of a Party; 
+ 
+(g) 
+products manufactured on board a factory ship flying the flag of a Party, 
+exclusively from products referred to in sub-paragraph (f); 
+ 
+(h) 
+articles collected there which can no longer perform their original purpose nor 
+are capable of being restored or repaired and are fit only for disposal or 
+recovery of parts or raw materials, including used tyres fit only for retreading;  
+- 4 - 
+ 
+ 
+ 
+(i) 
+waste and scrap resulting from consumption or manufacturing operations 
+conducted there, fit only for disposal or recovery of raw materials; 
+ 
+(j) 
+products extracted from the seabed or beneath the seabed outside their 
+territorial sea, provided that they have sole rights to exploit such seabed;  
+ 
+(k) 
+products manufactured there exclusively from products specified in sub-
+paragraphs (a) to (j). 
+ 
+ 
+Article 5 
+ 
+Sufficiently Worked or Processed Products 
+ 
+1. 
+For the purpose of Article 2(b), products which are not wholly obtained are 
+considered to be sufficiently worked or processed when the conditions set out in Appendix 2 
+are fulfilled.  
+ 
+The conditions referred to above indicate the working or processing which shall be carried out 
+on non-originating materials used in manufacturing and apply only in relation to such materials. 
+Accordingly, it follows that if a product which has acquired originating status, regardless of 
+whether this product has been manufactured in the same factory or in another factory in a 
+Party, by fulfilling the conditions set out in Appendix 2, is used as material in the manufacture 
+of another product, the conditions applicable to such other product do not apply to the 
+product that is used as material, and therefore no account shall be taken of any non-originating 
+materials incorporated into such a product used as a material in the manufacture of another 
+product. 
+ 
+2. 
+Notwithstanding paragraph 1, non-originating materials which, according to the 
+conditions set out in Appendix 2, should not be used in the manufacture of a product may 
+nevertheless be used, provided that: 
+ 
+(a) 
+their total value does not exceed 10 per cent of the ex-works price of the 
+product; and 
+ 
+(b) 
+any of the percentages given in Appendix 2 for the maximum value of non-
+originating materials are not exceeded through the application of this 
+paragraph. 
+ 
+This paragraph shall not apply to products falling within Chapters 50 to 63 of the Harmonized 
+System.  Appendix 1 shall apply to these products. 
+ 
+3. 
+For the purpose of fulfilling the conditions set out in Appendix 2, the processes may be 
+carried out by one or more producers within one Party.  Supporting documents proving the 
+working or processing shall be maintained by the exporter or the producer of the final product. 
+- 5 - 
+ 
+ 
+ 
+4. 
+Paragraphs 1 to 3 shall apply except as provided for in Article 6. 
+ 
+- 6 - 
+ 
+ 
+ 
+Article 6 
+ 
+Insufficient Working or Processing Operations 
+ 
+1. 
+Without prejudice to paragraph 2, the following operations shall be considered as 
+insufficient working or processing to confer the status of originating products, whether or not 
+the requirements of Article 5 are satisfied: 
+ 
+ 
+(a) 
+preserving operations to ensure that the products remain in good condition 
+during transport and storage; 
+ 
+ 
+(b) 
+breaking-up and assembly of packages; 
+ 
+ 
+(c) 
+washing, cleaning; removal of dust, oxide, oil, paint or other coverings; 
+ 
+ 
+(d) 
+ironing or pressing of textiles; 
+ 
+ 
+(e) 
+simple1  painting and polishing operations; 
+ 
+ 
+(f) 
+husking, partial or total bleaching, polishing, and glazing of cereals and rice; 
+ 
+ 
+(g) 
+operations to colour sugar or form sugar lumps; 
+ 
+ 
+(h) 
+peeling, stoning and shelling, of fruits, nuts and vegetables; 
+ 
+ 
+(i) 
+sharpening, simple grinding or simple cutting; 
+ 
+ 
+(j) 
+sifting, screening, sorting, classifying, grading, matching; (including the 
+making-up of sets of articles); 
+ 
+ 
+(k) 
+simple1  placing in bottles, cans, flasks, bags, cases, boxes, fixing on cards or 
+boards and all other simple packaging operations; 
+ 
+ 
+(l) 
+affixing or printing marks, labels, logos and other like distinguishing signs on 
+products or their packaging; 
+ 
+ 
+ 
+(m) 
+simple mixing2 of products, whether or not of different kinds; 
+                                                 
+1  
+“simple”, generally describes activities which need neither special skills nor machines, apparatus 
+or equipment especially produced or installed for carrying out the activity. 
+ 
+2  
+“simple mixing”, generally describes activities which need neither special skills nor machines, 
+apparatus or equipment especially produced or installed for carrying out the activity. However, 
+simple mixing does not include chemical reaction. Chemical reaction means a process (including a 
+- 7 - 
+ 
+ 
+ 
+ 
+(n) 
+simple3  assembly of parts of articles to constitute a complete article or 
+disassembly of products into parts; 
+ 
+ 
+(o) 
+slaughter of animals; 
+ 
+ 
+(p) 
+a combination of two or more operations specified in sub-paragraphs (a) to 
+(o). 
+ 
+2. 
+All operations carried out either in a Party on a given product shall be considered 
+together when determining whether the working or processing undergone by that product is to 
+be regarded as insufficient within the meaning of paragraph 1. 
+ 
+ 
+Article 7 
+ 
+Unit of Qualification 
+ 
+1. 
+The unit of qualification for the application of the provisions of this Annex shall be the 
+particular product which is considered as the basic unit when determining classification using 
+the nomenclature of the Harmonized System. 
+ 
+Accordingly, it follows that:  
+ 
+(a) 
+when a product composed of a group or assembly of articles is classified 
+under  a single heading, the whole constitutes the unit of qualification; or 
+ 
+(b) 
+when a consignment consists of a number of identical products classified under 
+the same heading, each product shall be taken individually into account when 
+applying the provisions of this Annex. 
+ 
+2. 
+Where, under General Rule 5 of the Harmonized System, packaging is included with 
+the product for classification purposes, it shall be included for the purposes of determining 
+origin. 
+ 
+ 
+Article 8 
+ 
+Accessories, Spare Parts and Tools 
+ 
+                                                                                                                                               
+biochemical process) which results in a molecule with a new structure by breaking intramolecular 
+bonds and by forming new intramolecular bonds, or by altering the spatial arrangement of atoms 
+in a molecule. 
+3  
+“simple”, generally describes activities which need neither special skills nor machines, apparatus 
+or equipment especially produced or installed for carrying out the activity. 
+- 8 - 
+ 
+ 
+Accessories, spare parts and tools dispatched with a piece of equipment, machine, 
+apparatus or vehicle, which are part of the normal equipment and included in the price thereof 
+or which are not separately invoiced, shall be regarded as one with the piece of equipment, 
+machine, apparatus or vehicle in question. 
+ 
+- 9 - 
+ 
+ 
+ 
+Article 9 
+ 
+Sets 
+ 
+Sets, as defined in General Rule 3 of the Harmonized System, shall be regarded as 
+originating when all component products are originating. However, when a set is composed of 
+originating and non-originating products, the set as a whole shall be regarded as originating, 
+provided that the value of the non-originating products does not exceed 15 per cent of the ex-
+works price of the set. 
+ 
+ 
+Article 10 
+ 
+Neutral Elements 
+ 
+In order to determine whether a product originates, it shall not be necessary to 
+determine the origin of the following which might be used in its manufacture: 
+ 
+(a) 
+energy and fuel; 
+ 
+(b) 
+plant and equipment, including goods to be used for their maintenance; 
+ 
+(c) 
+machines, tools, dies and moulds; and 
+ 
+(d) 
+any other goods which do not enter into and which are not intended to enter 
+into the final composition of the product. 
+ 
+ 
+Article 11 
+ 
+Segregation of Materials 
+ 
+1. 
+Where identical and interchangeable originating and non-originating materials are used 
+in the manufacture of a product, those materials shall be physically segregated, according to 
+their origin, during storage. 
+ 
+Identical and interchangeable materials means materials being of the same kind and 
+commercial quality, possessing the same technical and physical characteristics, and which once 
+they are incorporated into the finished product cannot be distinguished from one another for 
+origin purposes by virtue of any markings etc. 
+ 
+2. 
+A producer facing considerable costs or material difficulties in keeping separate stocks 
+of identical and interchangeable originating and non-originating materials used in the 
+manufacture of a product, may use the so-called “accounting segregation” method for 
+managing stocks. 
+- 10 - 
+ 
+ 
+ 
+3. 
+The accounting method shall be recorded, applied and maintained in accordance with 
+generally accepted accounting principles applicable in the Party in which the product is 
+manufactured.  The method chosen must: 
+ 
+- 
+permit a clear distinction to be made between originating and non-originating 
+materials acquired and/or kept in stock, and 
+ 
+- 
+guarantee that no more products receive originating status than would be the 
+case if the materials had been physically segregated. 
+ 
+4. 
+The producer using this facilitation shall only complete origin declarations for the 
+quantity of products considered as originating and shall assume full responsibility for the origin 
+declarations and for keeping all documentary evidence of origin of the materials.  At the 
+request of the customs authorities or the competent authority of Singapore, the producer shall 
+provide satisfactory information on how the stocks have been managed. 
+ 
+5. 
+A Party may require that the application of the method for managing stocks as 
+provided for in this Article is subject to prior authorization.  
+ 
+ 
+ 
+TITLE III 
+ 
+TERRITORIAL REQUIREMENTS 
+ 
+ 
+Article 12 
+ 
+Principle of Territoriality 
+ 
+1. 
+Except as provided for in Articles 3 and 13, the conditions for acquiring originating 
+status set out in Title II must be fulfilled without interruption in a Party. 
+ 
+2. 
+Except as provided for in Article 3, an originating product exported from a Party to a 
+non-Party shall where returned be considered as non-originating unless it can be demonstrated 
+to the satisfaction of the customs authority of the importing Party concerned that: 
+ 
+ 
+(a) 
+the returning product is the same as that exported; and  
+ 
+ 
+(b) 
+the returning product has not undergone any operation beyond that necessary 
+to preserve it in good condition while being exported. 
+ 
+ 
+Article 13 
+ 
+- 11 - 
+ 
+ 
+Outward Processing 
+ 
+Notwithstanding the provisions of Article 12, the acquisition of originating status in 
+accordance with the conditions set out in Title II shall not be affected by working or 
+processing carried out outside the territory of a Party on materials exported from the Party 
+concerned and subsequently re-imported there, provided that the conditions set out in 
+Appendix 3 are fulfilled. 
+ 
+ 
+Article 14 
+ 
+Direct Transport 
+ 
+1. 
+The preferential tariff treatment provided for under this Agreement applies only to 
+products satisfying the requirements of this Annex, which are transported directly between an 
+EFTA State and Singapore.  However, products constituting one single consignment may be 
+transported through other countries with, should the occasion arise, trans-shipment or 
+temporary warehousing in such countries, provided that they remain under the surveillance of 
+the customs authority in the country of transit or warehousing and do not undergo operations 
+other than unloading, reloading or any operation designed to preserve them in good condition. 
+ 
+2. 
+Evidence that the conditions set out in paragraph 1 have been fulfilled shall upon 
+request be supplied to the customs authority of the importing Party by the production of:  
+ 
+(a) 
+a single transport document covering the passage from the exporting Party 
+through the country of transit; or 
+ 
+(b) 
+a certificate issued by the customs authority of the country of transit: 
+ 
+(i) 
+giving an exact description of the products 
+ 
+(ii) 
+stating the dates of unloading and reloading of the products and, 
+where applicable, the names of the ships, or the other means of 
+transport used; and 
+ 
+(iii) 
+certifying the conditions under which the products remained in the 
+transit country; or 
+ 
+(c) 
+failing these, any other substantiating documents. 
+ 
+ 
+Article 15 
+ 
+Exhibitions 
+ 
+- 12 - 
+ 
+ 
+1. 
+Originating products sent for exhibition outside the territories of the Parties and sold 
+after the exhibition for importation into a Party shall, on importation benefit from the 
+preferential tariff treatment under this Agreement provided it is demonstrated to the satisfaction 
+of the customs authorities that: 
+ 
+(a) 
+an exporter has sent these products from a Party to the country in which the 
+exhibition is held and has exhibited them there; 
+ 
+(b) 
+the products have been sold or otherwise disposed of by that exporter to a 
+person in a Party; 
+ 
+(c) 
+the products have been sent during the exhibition or immediately thereafter in 
+the state in which they were sent for exhibition; and 
+ 
+(d) 
+the products have not, since they were sent for exhibition, been used for any 
+purpose other than demonstration at the exhibition. 
+ 
+2. 
+Paragraph 1 shall apply to any trade, industrial, agricultural or crafts exhibition, fair or 
+similar public show or display which is not organised for private purposes in shops or business 
+premises with a view to the sale of foreign products, and during which the products remain 
+under customs control. The customs authority of the importing Party may upon importation of 
+the products concerned require evidence that the products have remained under customs 
+control in the country of exhibition, as well as additional documentary evidences of the 
+conditions under which they have been exhibited, failing which preferential tariff treatment may 
+be refused. 
+ 
+3. 
+An origin declaration shall be completed in accordance with the provisions of Title IV 
+and submitted to the customs authority of the importing Party in the normal manner. The name 
+and address of the exhibition must be indicated thereon.  
+ 
+ 
+ 
+TITLE IV 
+ 
+PROOF OF ORIGIN 
+ 
+ 
+Article 16 
+ 
+Origin Declaration 
+ 
+1. 
+For the purpose of obtaining preferential tariff treatment in another Party, a proof of 
+origin in the form of an origin declaration shall be completed by an exporter of a Party for 
+products which can be considered as products originating in a Party and which fulfil the other 
+requirements of this Annex.  
+ 
+- 13 - 
+ 
+ 
+2. 
+The origin declaration referred to in paragraph 1, shall have the following wording:  
+ 
+”The exporter of the products covered by this document (customs authorization No 
+...(1) declares that, except where otherwise clearly indicated, these products are of ...(2)  
+preferential origin.” 
+ 
+………………………………………………………………………………. (3) 
+ 
+ 
+ 
+ 
+ 
+(Place and date) 
+ 
+………………………………………………………………………………….(4) 
+ 
+ 
+ 
+ 
+ 
+(Signature of the exporter; in addition the 
+ 
+ 
+ 
+ 
+ 
+name of the person signing the declaration 
+ 
+ 
+ 
+ 
+ 
+has to be indicated in clear script) 
+ 
+ 
+3. 
+The origin declaration may be provided on an invoice or any other commercial 
+document which describes the products concerned in sufficient detail to enable them to be 
+identified.  
+ 
+4. 
+An origin declaration shall be completed in English, in a legible and permanent form 
+and, except as provided in Article 17, bear the original signature of the exporter. 
+ 
+5. 
+An origin declaration may be completed by the exporter when the products to which it 
+relates are exported, or after exportation. 
+ 
+6. 
+When completing an origin declaration, an exporter that relies on documents and 
+information from a producer shall take steps to ensure that the documents and information are 
+accurate. 
+ 
+7. 
+An exporter that has completed an origin declaration and that becomes aware that the 
+origin declaration contains incorrect information shall immediately notify the importer in writing 
+of any change affecting the originating status of each product to which the origin declaration is 
+applicable. 
+ 
+8. 
+An exporter that has completed an origin declaration shall, on request of the customs 
+authority of the exporting Party or the competent authority of Singapore, provide to the 
+                                                 
+(1)  
+When the origin declaration is made out by an approved exporter within the meaning of Article 
+17, the authorization number of the approved exporter must be entered in this space. When the 
+origin declaration is not made out by an approved exporter, the words in brackets shall be omitted 
+or the space left blank. 
+(2)  
+Origin of products to be indicated (Icelandic, Norwegian, Swiss or Singapore).  The use of ISO-
+Alpha-2 codes is permitted (IS, NO, CH or SG).  Reference may be made to a specific column of 
+the invoice in which the country of origin of each product is entered. 
+(3)  
+These indications may be omitted if the information is contained on the document itself. 
+(4)  
+Approved exporters are not required to sign.  The exemption of signature also implies the 
+exemption of the name of the signatory. 
+ 
+- 14 - 
+ 
+ 
+authority concerned a copy of the origin declaration, and of all documents supporting the 
+originating status of each product to which the origin declaration is applicable.  For this 
+purpose the said customs authorities or the competent authority of Singapore shall have the 
+right to carry out inspections of the exporters accounts or any other controls considered 
+appropriate. 
+ 
+9. 
+For the purposes of this Article, the term "exporter" does not include a forwarding 
+agent, customs broker or the like, unless such a company has been authorized in writing by the 
+owner of the product to complete the origin declaration. 
+ 
+ 
+Article 17 
+ 
+Approved Exporter 
+ 
+1. 
+Where a Party has established an approved exporter programme, the customs 
+authority of an EFTA State or the competent authority of Singapore may authorize an exporter 
+of that Party that makes frequent shipments of originating products under this Agreement to 
+complete an origin declaration without signature, on condition that he gives the customs 
+authority of the exporting Party or the competent authority of Singapore a written undertaking 
+that he accepts full responsibility for any origin declaration which identifies him as if it had been 
+signed in manuscript by him. 
+ 
+2. 
+The customs authority of the exporting Party or the competent authority of Singapore 
+shall provide to the approved exporter referred to in paragraph 1 a customs authorization 
+number or other form of identification as may be agreed by the customs authorities of the 
+Parties or the competent authority of Singapore for use on the origin declaration instead of the 
+signature of the exporter. 
+ 
+3. 
+The customs authority of the exporting Party or the competent authority of Singapore 
+may verify the proper use of an authorization as referred to in paragraph 1 and may at any time 
+withdraw the authorization if the exporter no longer meets the conditions or otherwise makes 
+improper use of the authorization. 
+ 
+ 
+Article 18 
+ 
+Importation Requirements 
+ 
+1. 
+Each Party shall grant preferential tariff treatment in accordance with this Agreement to 
+originating products imported from another Party, on the basis of an origin declaration as 
+referred to in Article 16. 
+ 
+2. 
+In order to obtain preferential tariff treatment, the importer shall, in accordance with 
+the procedures applicable in the importing Party request preferential tariff treatment at the time 
+of importation of an originating product, whether or not he has an origin declaration.  
+- 15 - 
+ 
+ 
+ 
+In the case that the importer at the time of importation does not have in his possession an 
+origin declaration, the importer of the product may, in accordance with the law of the 
+importing Party, present the original origin declaration and if required such other 
+documentation relating to the importation of the product, at a later stage. 
+ 
+3. 
+Notwithstanding paragraph 1, originating products within the meaning of this Annex 
+shall, in the cases specified in Article 20, on importation benefit from the preferential tariff 
+treatment under this Agreement without it being necessary to submit a document as referred in 
+paragraph 1. 
+ 
+4. 
+An origin declaration shall be valid for 10 months from the date of issue in the 
+exporting Party, and shall be submitted within such period to the customs authority of the 
+importing Party. 
+ 
+5. 
+An origin declaration which is submitted to the customs authority of the importing 
+Party after the final date for presentation specified in paragraph 4 may be accepted for the 
+purpose of applying for preferential tariff treatment where the failure to submit such a 
+document by the final date set is due to exceptional circumstances.  In other cases of belated 
+presentation, the customs authority of the importing Party may accept an origin declaration 
+where the products have been submitted before such final date. 
+ 
+6. 
+An origin declaration shall be submitted to the customs authority of the importing Party 
+in accordance with the procedures applicable in that Party. Such authority may require a 
+translation of the document on which the origin declaration is made out and may also require 
+the import declaration to be accompanied by a statement from the importer to the effect that 
+the products meet the conditions of this Annex. 
+ 
+ 
+Article 19 
+ 
+Importation by Instalments 
+ 
+Where, at the request of the importer and on the conditions laid down by the customs 
+authorities of the importing Party, dismantled or non-assembled products within the meaning of 
+General Rule 2(a) of the Harmonized System falling within Sections XVI and XVII or heading 
+Nos 7308 and 9406 of the Harmonized System are imported by instalments, a single origin 
+declaration for such products shall be submitted to the customs authorities upon importation of 
+the first instalment. 
+ 
+ 
+Article 20 
+ 
+Exemptions from Origin Declaration 
+ 
+- 16 - 
+ 
+ 
+1. 
+Products sent as small packages from private persons to private persons or forming 
+part of travellers' personal luggage shall be admitted as originating products without requiring 
+the submission of an origin declaration, provided that such products are not imported by way 
+of trade and have been declared as meeting the requirements of this Annex and where there is 
+no doubt as to the veracity of such a declaration. In the case of products sent by post, this 
+declaration can be made on a postal customs declaration (CN22/CN23 or C2/CP3) or on a 
+sheet of paper annexed to that document. 
+ 
+2. 
+Imports which are occasional and consist solely of products for the personal use of the 
+recipients or travellers or their families shall not be considered as imports by way of trade if it 
+is evident from the nature and quantity of the products that no commercial purpose is intended. 
+ 
+3. 
+In case of small packages sent from private persons to private persons the total value 
+of these products shall not exceed any of the following amounts: 
+(i) 
+500 euro 
+(ii) 
+450 US dollar (USD) 
+(iii) 
+1000 Singapore dollar (SGD) 
+(iv) 
+4100 Norwegian kroner (NOK) 
+(v) 
+43000 Icelandic kroner (ISK) 
+(vi) 
+900 Swiss francs (CHF) 
+ 
+4. 
+In case of products forming part of travellers’ personal luggage the total value of these 
+products shall not exceed any of the following amounts: 
+(i) 
+1200 euro 
+(ii) 
+1100 US dollar (USD) 
+(iii) 
+2400 Singapore dollar (SGD) 
+(iv) 
+10000 Norwegian kroner (NOK) 
+(v) 
+100000 Icelandic kroner (ISK) 
+(vi) 
+2100 Swiss francs (CHF) 
+ 
+5. 
+Where the value of the products is invoiced or declared in a currency other than those 
+mentioned in paragraphs 3 and 4 the amount equivalent to the amount expressed in the 
+national currency of the importing Party shall be applied. 
+ 
+ 
+Article 21 
+ 
+Supporting Documents 
+ 
+- 17 - 
+ 
+ 
+The documents referred to in Article 16(8) used for the purpose of proving that 
+products covered by an origin declaration can be considered as products originating in a Party 
+and fulfil the other requirements of this Annex may consist of inter alia the following: 
+ 
+(a) 
+direct evidence of the processes carried out by the exporter or supplier to 
+obtain the goods concerned, contained for example in his accounts or internal 
+bookkeeping; 
+ 
+(b) 
+documents proving the originating status of materials used, issued or made out 
+in a Party where these documents are used, as provided for in their domestic 
+law; 
+ 
+(c) 
+documents proving the working or processing of materials in a Party, issued or 
+made out in a Party where these documents are used, as provided for in their 
+domestic law; 
+ 
+(d) 
+origin declarations proving the originating status of materials used, completed 
+in a Party; or 
+ 
+(e) 
+appropriate evidence concerning working or processing undergone outside the 
+territories of the Parties by application of Article 13, proving that the 
+requirements of that Article have been satisfied. 
+ 
+ 
+Article 22 
+ 
+Preservation of Origin Declarations and Supporting Documents 
+ 
+The exporter making out an origin declaration shall keep for at least three years a copy 
+of the origin declaration in question as well as the documents referred to in  
+Article 16(8). 
+ 
+Article 23 
+ 
+Discrepancies and Formal Errors 
+ 
+1. 
+The discovery of slight discrepancies between the statements made in the origin 
+declaration and those made in the documents submitted to the customs office for the purpose 
+of carrying out the formalities for importing the products shall not ipso facto render the origin 
+declaration null and void if it is duly established that such document does correspond to the 
+products submitted. 
+ 
+2. 
+Obvious formal errors such as typing errors in an origin declaration should not cause 
+this document to be rejected if these errors are not such as to create doubts concerning the 
+correctness of the statements made in this document. 
+ 
+- 18 - 
+ 
+ 
+ 
+ 
+TITLE V 
+ 
+ARRANGEMENTS FOR ADMINISTRATIVE CO-OPERATION 
+ 
+ 
+Article 24 
+ 
+Notifications 
+ 
+The customs authorities of the Parties shall provide each other, through the EFTA 
+Secretariat, with information on the composition of the authorization number for approved 
+exporters, where established by a Party, and with the addresses of the customs authorities of 
+the Parties responsible for verifying origin declarations. 
+ 
+ 
+Article 25 
+ 
+Verification of Origin Declarations 
+ 
+1. 
+In order to ensure the proper application of this Annex, the Parties shall assist each 
+other, through the respective customs authorities of the Parties, to verify the authenticity of the 
+origin declarations and the correctness of the information given in these documents. 
+ 
+2. 
+Subsequent verifications of origin declarations shall be carried out whenever the 
+customs authority of the importing Party wants to verify the authenticity of such documents, the 
+originating status of the products concerned or the fulfilment of the other requirements of this 
+Annex. 
+ 
+3. 
+For the purpose of implementing the provisions of paragraph 1, the customs authority 
+of the importing Party shall return the origin declaration, or a copy of this document, to the 
+customs authority of the exporting Party, as the case may be, giving the reasons for the inquiry. 
+Any documents and information obtained suggesting that the information given on the origin 
+declaration is incorrect shall be forwarded in support of the request for verification. 
+ 
+4. 
+The verification shall be carried out by the customs authority of the exporting EFTA 
+State concerned or the competent authority of Singapore.  For this purpose, they shall have 
+the right to request any evidence and to carry out any inspection of the exporter's accounts or 
+any other control considered appropriate. 
+ 
+5. 
+The customs authority of the importing Party may decide to suspend the granting of 
+preferential tariff treatment to the products covered by the origin declaration concerned while 
+awaiting the results of the verification.  The release of the products shall be offered to the 
+importer subject to any precautionary measures judged necessary. 
+ 
+- 19 - 
+ 
+ 
+6. 
+The customs authority requesting the verification shall be informed of the results of this 
+verification as soon as possible.  These results shall indicate clearly whether the documents are 
+authentic and whether the products concerned can be considered as products originating in a 
+Party and fulfil the other requirements of this Annex. 
+ 
+7. 
+If there is no reply within 10 months of the date of the verification request or if the 
+reply does not contain sufficient information to be able to determine the authenticity of the 
+document in question or the origin of the products, the requesting customs authorities shall be 
+entitled, save in exceptional circumstances, to refuse to grant preferential tariff treatment. 
+ 
+ 
+Article 26 
+ 
+Dispute Settlement 
+ 
+Disputes between the Parties arising in relation to the verification procedures pursuant 
+to Article 25, which cannot be settled between the customs authorities of the Parties, or which 
+raise a question as to the interpretation of this Annex, shall be referred to the Sub-Committee 
+on Customs and Origin Matters. The Sub-Committee shall present a report to the Joint 
+Committee containing its conclusions. 
+ 
+ 
+Article 27 
+ 
+Origin and Classification Information 
+ 
+Upon request of an importer, exporter or producer, the customs authority of a Party 
+or the competent authority of Singapore, as the case may be, shall provide an opinion 
+concerning the originating status and tariff classification of a product.  They shall seek to 
+answer within 90 days after having received the request. 
+ 
+- 20 - 
+ 
+ 
+ 
+Article 28 
+ 
+Confidentiality 
+ 
+All information which is by nature confidential or which is provided on a confidential 
+basis shall be covered by the obligation of professional secrecy, in accordance with the 
+respective laws of each Party. It shall not be disclosed by the Parties’ authorities without the 
+express permission of the person or authority providing it. 
+ 
+ 
+Article 29 
+ 
+Penalties 
+ 
+Each Party shall provide for penalties to be imposed on any person who draws up or 
+causes to be drawn up, a document which contains incorrect information for the purpose of 
+obtaining preferential tariff treatment.  
+ 
+ 
+Article 30 
+ 
+Free Zones 
+ 
+1. 
+An exporter in a Party shall ensure that products traded under cover of an origin 
+declaration which in the course of transport use a free zone situated in a Party, are not 
+substituted by other goods and do not undergo handling other than normal operations designed 
+to prevent their deterioration. 
+ 
+2. 
+Notwithstanding paragraph 1, when products originating in a Party are imported into a 
+free zone under cover of an origin declaration and undergo treatment or processing, the 
+exporter concerned may complete a new origin declaration if the treatment or processing 
+undergone is in conformity with the provisions of this Annex. 
+ 
+ 
+ 
+TITLE VI 
+ 
+FINAL PROVISIONS 
+ 
+ 
+Article 31 
+ 
+Sub-Committee on Customs and Origin Matters 
+ 
+- 21 - 
+ 
+ 
+1. 
+A Sub-Committee of the Joint Committee on Customs and Origin Matters is hereby 
+established. 
+ 
+2. 
+The functions of the Sub-Committee shall be to exchange information and review the 
+rules of origin in light of changed circumstances, such as technological advances, changes in 
+market conditions or other international developments.  Furthermore, the Sub-Committee shall 
+prepare and co-ordinate positions, prepare amendments to the rules of origin and assist the 
+Joint Committee regarding: 
+ 
+(a) 
+general rules of origin and administrative co-operation as set out in this Annex; 
+ 
+(b) 
+product-specific rules of origin set out in Appendices 2 and 3 to this Annex; 
+ 
+(c) 
+other matters referred to the Sub-Committee by the Joint Committee.  
+ 
+3. 
+The Sub-Committee shall endeavour to resolve as soon as possible any dispute arising 
+in relation to the verification procedures, as referred to in Article 26 of this Annex. 
+ 
+4. 
+The Sub-Committee shall report to the Joint Committee.  The Sub-Committee may 
+make recommendations to the Joint Committee on matters related to its functions.  
+ 
+5. 
+The Sub-Committee shall act by consensus.  The Sub-Committee shall be chaired 
+alternatively by a representative of a Party for an agreed period of time. The chairperson shall 
+be elected at the first meeting of the Sub-Committee. 
+ 
+6. 
+The Sub-Committee shall meet as often as required.  It may be convened by the Joint 
+Committee, by the chairperson of the Sub-Committee on his/her own initiative or upon request 
+of any Party.  The venue shall alternate between Singapore and an EFTA State.  
+ 
+7. 
+A provisional agenda for each meeting shall be prepared by the chairperson in 
+consultation with all Parties, and forwarded to the Parties, as a general rule, not later than two 
+weeks before the meeting. 
+ 
+ 
+Article 32 
+ 
+Explanatory Notes 
+ 
+1. 
+The Parties shall within the Sub-Committee on Customs and Origin Matters elaborate 
+and agree on “Explanatory Notes” regarding the interpretation, application and administration 
+of this Annex. 
+ 
+2. 
+The Parties shall implement simultaneously the agreed Explanatory Notes, in 
+accordance with their respective internal procedures. 
+ 
+ 
+- 22 - 
+ 
+ 
+Article 33 
+ 
+Goods in Transit or Storage 
+ 
+The provisions of this Agreement may be applied to goods which comply with the 
+provisions of this Annex and which on the date of entry into force of this Agreement are either 
+in transit or are in a Party or, in temporary storage in bonded warehouse under customs 
+control or in free zones, subject to the submission to the customs authority of the importing 
+Party, within 4 months of that date, of an origin declaration completed retrospectively by the 
+exporter concerned after the entry into the force of the Agreement together with the 
+documents showing that the goods have been transported directly. 
+ 
+ 

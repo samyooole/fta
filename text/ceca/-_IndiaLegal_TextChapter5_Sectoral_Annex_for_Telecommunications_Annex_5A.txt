@@ -1,1 +1,471 @@
- 340 ANNEX 5A  SECTORAL ANNEX FOR TELECOMMUNICATIONS EQUIPMENT   Pursuant to Chapter 5, the Parties agree on this Sectoral Annex for Telecommunications Equipment.   1. Scope and Definitions  1.1 This Sectoral Annex applies to telecommunications equipment including wire and wireless equipment, and terrestrial and satellite equipment, whether or not connected to a Public Telecommunications Transport Network subject to the Regulations of each Party.   1.2 This Sectoral Annex covers two phases, namely:  (a) Phase I, which refers to the mutual recognition of test reports; and  (b) Phase II, which refers to the mutual recognition of equipment certification   1.3 The Mandatory Requirements governing the scope of telecommunications equipment and conformity assessment activities of this Sectoral Annex, as amended in accordance with paragraph 3 from time to time, are stipulated in Table 1 and Table 2 respectively.  1.4 For the purposes of this Sectoral Annex:  (a) Public Telecommunications Transport Network means public telecommunications infrastructure which permits telecommunications between and among defined network termination points.   (b) Mandatory Requirements means a Party’s applicable laws, regulations and administrative provisions, including licence conditions    (c) Conformity Assessment Bodies designated under this Sectoral Annex shall be:  (i)  Test Facilities; and/or  (ii) Certification Bodies  1.5 The conformity assessment activities for which Conformity Assessment Bodies may be designated under this Sectoral Annex are:  341   (a) testing by designated Test Facilities; and/or  (b) certification by designated Certification Bodies (hereinafter referred to as "equipment certification".)  that telecommunications equipment complies with relevant Mandatory   Requirements.  2. Obligations  2.1 Each Party shall accept test reports and/or equipment certification that demonstrate compliance with its Mandatory Requirements, provided that these test reports and/or equipment certification are issued by registered Conformity Assessment Bodies of the other Party.  3. Exchange of Information  3.1 The Parties’ Regulatory Authorities or responsible agencies shall, in writing, notify each other, the Mutual Recognition Joint Committee and, as appropriate, the relevant Designating Authorities, of any amendment to any Mandatory Requirements listed in Tables 1 to 4 of this Sectoral Annex and thereby amend the relevant portion of the Table. Except where considerations of health, safety and the environment warrant more urgent action, such notification shall take place at least 60 calendar days before the entry into force of the amendments.  3.2 For this purpose “amendment” shall include the following cases where:  (a)  a Party entirely or partially changes its Mandatory Requirements, whether or not those names are changed;  (b)  a Party repeals its Mandatory Requirements and adopts new Mandatory Requirements as a substitute for the former, whether or not the previous names are changed; and  (c) a Party incorporates the whole or a relevant part of its Mandatory Requirements into other laws, regulations, administrative provisions, measures and/or  practices.    342  4. Designated Authorities  4.1 The Designating Authority must have the legal mandate to perform designation as set out in Table 3. 4.2 For the purpose of this Sectoral Annex, India’s Designating Authority shall be the Department of Telecommunications, Ministry of Communications and Information Technology, Government of India (DOT). 4.3 For the purpose of this Sectoral Annex, Singapore's Designating Authority shall be the Infocomm Development Authority of Singapore (IDA).  5. Designation of Conformity Assessment Bodies and Stipulated Requirements  5.1 The designation and registration of Conformity Assessment Bodies shall be in accordance with Mandatory Requirements and meet with the stipulated criteria for designation as set out in Table 4.  5.2 Designating Authorities :  (a) shall specify the scope of the conformity assessment activities for which a Conformity Assessment Body has been designated.  When a Conformity Assessment Body is designated to undertake conformity assessment activities with regard to particular Mandatory Requirements, the relevant obligations of acceptance shall be limited to the results of assessments in relation to those particular Mandatory Requirements;  (b) shall only designate Conformity Assessment Bodies where the Conformity Assessment Body, or the organisation of which the Conformity Assessment Body is a part, is a legal person in the relevant jurisdiction;  (c) shall give advance notice of at least 7 calendar days of any changes, including suspension, to their list of designated Conformity Assessment Bodies; and  (d) shall not have any direct or undue influence on the decisions made by designated Conformity Assessment Bodies in certification of products under the MRA.   5.3   Designated Conformity Assessment Bodies shall not be influenced by a body that manufactures or trades in telecommunications equipment.  Furthermore, designated Conformity Assessment Bodies shall be impartial.  Any other services offered by a Conformity Assessment Body shall be provided in a manner that does not compromise the objectivity of its conformity assessment activities and decisions.   343 5.4 Designating Authorities shall only designate Conformity Assessment Bodies that are able to demonstrate that they understand, have experience relevant to and are technically competent to undertake the conformity assessment activities for which they are designated.  5.5 Demonstration of technical competence shall be based on:  (a) technological knowledge of the relevant products, processes or services;  (b) understanding of the technical standards and the general risk protection requirements for which designation is sought;  (c) the experience relevant to the applicable Mandatory Requirements;  (d) the physical capability to perform the relevant conformity assessment activities;  (e) an adequate management of the conformity assessment activities concerned; and  (f) any other circumstance necessary to give assurance that the conformity assessment activities shall be adequately performed on a consistent basis.  5.6 The basis for designating Test Facilities shall be accreditation to ISO/IEC 17025:1999 or its successor, which shall constitute sufficient proof of technical competence to undertake conformity assessment activities that demonstrate conformity with the Mandatory Requirements for which they are to be designated, provided that:  (a) the accreditation process is conducted in compliance with ISO/IEC Guide 58:1993 or its successor; and  (b) the accreditation body participates in mutual recognition arrangements, such as the Asia Pacific Laboratory Accreditation Cooperation (APLAC) Mutual Recognition Arrangement, where they are subject to peer evaluation of the competence of accreditation bodies and the Test Facilities accredited by them.  5.7 The basis for designating Certification Bodies shall be accreditation to ISO/IEC Guide 65:1996 or its successor, which shall constitute sufficient proof of technical competence to undertake conformity assessment activities that demonstrate conformity with the Mandatory Requirements, for which they are to be designated provided that:  344  (a) the accreditation process is conducted in compliance with ISO/IEC Guide 61:1996 or its successor; and  (b) the accreditation body is a member of the Pacific Accreditation Cooperation and is a signatory to a mutual recognition arrangement where they are subject to peer evaluation of the competence of accreditation bodies and the Certification Bodies accredited by them.  5.8 When designating a Conformity Assessment Body, the Designating Authority shall provide to the other Party the following details in respect of each Conformity Assessment Body it designates:  (a) the name;  (b) the postal address;  (c) the facsimile (fax) number;  (d) email address (if available);  (e) name and telephone number of the contact person;  (f) scope of designation detailing range of products, reference standards, methods of certification, capability and other relevant details;  (g) designating procedure used, if there is any changed from Table 4 of the Sectoral Annex; and  (h) date of effect of designation.  5.9 Designated Conformity Assessment Bodies shall maintain a list of telecommunications equipment they have assessed and, on a request of a Party, shall provide the list to that Party.  6. Verification, Suspension and Withdrawal of Conformity Assessment Bodies  6.1 For the purpose of this Sectoral Annex, the time period specified in Article 5.5 shall be 70 calendar days.   7. Review  7.1 In accordance with the review procedures under Article 16.3, the Parties shall commence discussions with the view to:   345 (a) expanding the scope of telecommunications equipment covered under Table 1 of this Sectoral Annex; and  (b) implementing Phase II of this Sectoral Annex.  8. Entry into Force  8.1 The implementation of Phase I of this Sectoral Annex shall take place within one year of the entry into force of this Agreement.  8.2 The Parties shall discuss the implementation of Phase II in accordance with paragraph 7 of this Sectoral Annex.      346   TABLE 1  MANDATORY REQUIREMENTS STIPULATING TELECOMMUNICATIONS EQUIPMENT COVERED BY THIS SECTORAL ANNEX  INDIA SINGAPORE List of Generic requirements (Updated) (No. BR/GEN-01/29. APR 2004) Scheme for Recognising Foreign Testing Laboratories and Certification Bodies for Conformity Assessment of Telecommunication Equipment Annex 2     347 TABLE 2  MANDATORY REQUIREMENTS STIPULATING CONFORMITY ASSESSMENT ACTIVITIES COVERED BY THIS SECTORAL ANNEX  INDIA SINGAPORE To be developed Scheme for Recognising Foreign Testing Laboratories and Certification Bodies for Conformity Assessment of Telecommunication Equipment    348 TABLE 3  MANDATORY REQUIREMENTS PROVIDING LEGAL MANDATE FOR DESIGNATING AUTHORITIES  INDIA SINGAPORE Designating Authority of India is the following authority or authority succeeding it:  Department of Telecommunications, Government of India  The Government of India (Allocation of Business) Rules, 1961 Rule 3.(1) Second Schedule – Distribution of subjects among the departments Ministry of Communications and Information technology – Department of Telecommunications  Indian Telegraph Act, 1885     Designating Authority of Singapore is the following authority or authority succeeding it:  Info-communications Development Authority of Singapore Act (Cap. 137A) Section 6(h) and (u) Second Schedule Article 12 and Article 41  The Telecommunication Act (Cap. 323) Section 2 and 74  Infocomm Development Authority of Singapore    349 TABLE 4  MANDATORY REQUIREMENTS STIPULATING THE CRITERIA FOR DESIGNATION  THE CRITERIA TO BE APPLIED BY SINGAPORE IN DESIGNATING CONFORMITY ASSESSMENT BODIES TO ASSESS PRODUCTS AGAINST INDIA'S REQUIREMENTS THE CRITERIA TO BE APPLIED BY INDIA IN DESIGNATING CONFORMITY ASSESSMENT BODIES TO ASSESS PRODUCTS AGAINST SINGAPORE'S REQUIREMENTS (to be developed) Scheme for Recognizing Foreign Testing Laboratories and Certification Bodies for Conformity Assessment of Telecommunication Equipment      
+ 
+340 
+ANNEX 5A 
+ 
+SECTORAL ANNEX FOR TELECOMMUNICATIONS EQUIPMENT 
+ 
+ 
+Pursuant to Chapter 5, the Parties agree on this Sectoral Annex for Telecommunications 
+Equipment. 
+ 
+ 
+1. 
+Scope and Definitions 
+ 
+1.1 
+This Sectoral Annex applies to telecommunications equipment including wire and 
+wireless equipment, and terrestrial and satellite equipment, whether or not 
+connected to a Public Telecommunications Transport Network subject to the 
+Regulations of each Party.  
+ 
+1.2 
+This Sectoral Annex covers two phases, namely: 
+ 
+(a) 
+Phase I, which refers to the mutual recognition of test reports; and 
+ 
+(b) 
+Phase II, which refers to the mutual recognition of equipment certification 
+ 
+ 
+1.3 
+The Mandatory Requirements governing the scope of telecommunications 
+equipment and conformity assessment activities of this Sectoral Annex, as 
+amended in accordance with paragraph 3 from time to time, are stipulated in 
+Table 1 and Table 2 respectively. 
+ 
+1.4 
+For the purposes of this Sectoral Annex: 
+ 
+(a) 
+Public 
+Telecommunications 
+Transport 
+Network 
+means 
+public 
+telecommunications infrastructure which permits telecommunications 
+between and among defined network termination points. 
+ 
+ 
+(b) 
+Mandatory Requirements means a Party’s applicable laws, regulations 
+and administrative provisions, including licence conditions  
+ 
+ 
+(c) 
+Conformity Assessment Bodies designated under this Sectoral Annex 
+shall be: 
+ 
+(i)  
+Test Facilities; and/or 
+ 
+(ii) 
+Certification Bodies 
+ 
+1.5 
+The conformity assessment activities for which Conformity Assessment Bodies 
+may be designated under this Sectoral Annex are: 
+ 
+341 
+ 
+ 
+(a) 
+testing by designated Test Facilities; and/or 
+ 
+(b) 
+certification by designated Certification Bodies (hereinafter referred to as 
+"equipment certification".) 
+ 
+that telecommunications equipment complies with relevant Mandatory   
+Requirements. 
+ 
+2. 
+Obligations 
+ 
+2.1 
+Each Party shall accept test reports and/or equipment certification that 
+demonstrate compliance with its Mandatory Requirements, provided that these 
+test reports and/or equipment certification are issued by registered Conformity 
+Assessment Bodies of the other Party. 
+ 
+3. 
+Exchange of Information 
+ 
+3.1 
+The Parties’ Regulatory Authorities or responsible agencies shall, in writing, 
+notify each other, the Mutual Recognition Joint Committee and, as appropriate, 
+the relevant Designating Authorities, of any amendment to any Mandatory 
+Requirements listed in Tables 1 to 4 of this Sectoral Annex and thereby amend the 
+relevant portion of the Table. Except where considerations of health, safety and 
+the environment warrant more urgent action, such notification shall take place at 
+least 60 calendar days before the entry into force of the amendments. 
+ 
+3.2 
+For this purpose “amendment” shall include the following cases where: 
+ 
+(a)  
+a Party entirely or partially changes its Mandatory Requirements, whether 
+or not those names are changed; 
+ 
+(b)  
+a Party repeals its Mandatory Requirements and adopts new Mandatory 
+Requirements as a substitute for the former, whether or not the previous 
+names are changed; and 
+ 
+(c) 
+a Party incorporates the whole or a relevant part of its Mandatory 
+Requirements into other laws, regulations, administrative provisions, 
+measures and/or  practices. 
+ 
+ 
+ 
+342 
+ 
+4. 
+Designated Authorities  
+4.1 
+The Designating Authority must have the legal mandate to perform designation as 
+set out in Table 3. 
+4.2 
+For the purpose of this Sectoral Annex, India’s Designating Authority shall be the 
+Department of Telecommunications, Ministry of Communications and 
+Information Technology, Government of India (DOT). 
+4.3 
+For the purpose of this Sectoral Annex, Singapore's Designating Authority shall 
+be the Infocomm Development Authority of Singapore (IDA). 
+ 
+5. 
+Designation of Conformity Assessment Bodies and Stipulated Requirements 
+ 
+5.1 
+The designation and registration of Conformity Assessment Bodies shall be in 
+accordance with Mandatory Requirements and meet with the stipulated criteria for 
+designation as set out in Table 4. 
+ 
+5.2 
+Designating Authorities : 
+ 
+(a) 
+shall specify the scope of the conformity assessment activities for which a 
+Conformity Assessment Body has been designated.  When a Conformity 
+Assessment Body is designated to undertake conformity assessment 
+activities with regard to particular Mandatory Requirements, the relevant 
+obligations of acceptance shall be limited to the results of assessments in 
+relation to those particular Mandatory Requirements; 
+ 
+(b) 
+shall only designate Conformity Assessment Bodies where the Conformity 
+Assessment Body, or the organisation of which the Conformity 
+Assessment Body is a part, is a legal person in the relevant jurisdiction; 
+ 
+(c) 
+shall give advance notice of at least 7 calendar days of any changes, 
+including suspension, to their list of designated Conformity Assessment 
+Bodies; and 
+ 
+(d) 
+shall not have any direct or undue influence on the decisions made by 
+designated Conformity Assessment Bodies in certification of products 
+under the MRA.  
+ 
+5.3   
+Designated Conformity Assessment Bodies shall not be influenced by a body that 
+manufactures or trades in telecommunications equipment.  Furthermore, 
+designated Conformity Assessment Bodies shall be impartial.  Any other services 
+offered by a Conformity Assessment Body shall be provided in a manner that 
+does not compromise the objectivity of its conformity assessment activities and 
+decisions. 
+ 
+ 
+343 
+5.4 
+Designating Authorities shall only designate Conformity Assessment Bodies that 
+are able to demonstrate that they understand, have experience relevant to and are 
+technically competent to undertake the conformity assessment activities for which 
+they are designated. 
+ 
+5.5 
+Demonstration of technical competence shall be based on: 
+ 
+(a) 
+technological knowledge of the relevant products, processes or services; 
+ 
+(b) 
+understanding of the technical standards and the general risk protection 
+requirements for which designation is sought; 
+ 
+(c) 
+the experience relevant to the applicable Mandatory Requirements; 
+ 
+(d) 
+the physical capability to perform the relevant conformity assessment 
+activities; 
+ 
+(e) 
+an adequate management of the conformity assessment activities 
+concerned; and 
+ 
+(f) 
+any other circumstance necessary to give assurance that the conformity 
+assessment activities shall be adequately performed on a consistent basis. 
+ 
+5.6 
+The basis for designating Test Facilities shall be accreditation to ISO/IEC 
+17025:1999 or its successor, which shall constitute sufficient proof of technical 
+competence to undertake conformity assessment activities that demonstrate 
+conformity with the Mandatory Requirements for which they are to be designated, 
+provided that: 
+ 
+(a) 
+the accreditation process is conducted in compliance with ISO/IEC Guide 
+58:1993 or its successor; and 
+ 
+(b) 
+the accreditation body participates in mutual recognition arrangements, 
+such as the Asia Pacific Laboratory Accreditation Cooperation (APLAC) 
+Mutual Recognition Arrangement, where they are subject to peer 
+evaluation of the competence of accreditation bodies and the Test 
+Facilities accredited by them. 
+ 
+5.7 
+The basis for designating Certification Bodies shall be accreditation to ISO/IEC 
+Guide 65:1996 or its successor, which shall constitute sufficient proof of technical 
+competence to undertake conformity assessment activities that demonstrate 
+conformity with the Mandatory Requirements, for which they are to be designated 
+provided that: 
+ 
+344 
+ 
+(a) 
+the accreditation process is conducted in compliance with ISO/IEC Guide 
+61:1996 or its successor; and 
+ 
+(b) 
+the accreditation body is a member of the Pacific Accreditation 
+Cooperation and is a signatory to a mutual recognition arrangement where 
+they are subject to peer evaluation of the competence of accreditation 
+bodies and the Certification Bodies accredited by them. 
+ 
+5.8 
+When designating a Conformity Assessment Body, the Designating Authority 
+shall provide to the other Party the following details in respect of each 
+Conformity Assessment Body it designates: 
+ 
+(a) 
+the name; 
+ 
+(b) 
+the postal address; 
+ 
+(c) 
+the facsimile (fax) number; 
+ 
+(d) 
+email address (if available); 
+ 
+(e) 
+name and telephone number of the contact person; 
+ 
+(f) 
+scope of designation detailing range of products, reference standards, 
+methods of certification, capability and other relevant details; 
+ 
+(g) 
+designating procedure used, if there is any changed from Table 4 of the 
+Sectoral Annex; and 
+ 
+(h) 
+date of effect of designation. 
+ 
+5.9 
+Designated 
+Conformity 
+Assessment 
+Bodies 
+shall 
+maintain 
+a list 
+of 
+telecommunications equipment they have assessed and, on a request of a Party, 
+shall provide the list to that Party. 
+ 
+6. 
+Verification, Suspension and Withdrawal of Conformity Assessment Bodies 
+ 
+6.1 
+For the purpose of this Sectoral Annex, the time period specified in Article 5.5 
+shall be 70 calendar days.  
+ 
+7. 
+Review 
+ 
+7.1 
+In accordance with the review procedures under Article 16.3, the Parties shall 
+commence discussions with the view to: 
+ 
+ 
+345 
+(a) 
+expanding the scope of telecommunications equipment covered under 
+Table 1 of this Sectoral Annex; and 
+ 
+(b) 
+implementing Phase II of this Sectoral Annex. 
+ 
+8. 
+Entry into Force 
+ 
+8.1 
+The implementation of Phase I of this Sectoral Annex shall take place within one 
+year of the entry into force of this Agreement.  
+8.2 
+The Parties shall discuss the implementation of Phase II in accordance with 
+paragraph 7 of this Sectoral Annex. 
+ 
+ 
+ 
+ 
+ 
+346 
+ 
+ 
+TABLE 1 
+ 
+MANDATORY REQUIREMENTS STIPULATING 
+TELECOMMUNICATIONS EQUIPMENT COVERED BY THIS 
+SECTORAL ANNEX 
+ 
+INDIA 
+SINGAPORE 
+List of Generic requirements (Updated) 
+(No. BR/GEN-01/29. APR 2004) 
+Scheme for Recognising Foreign Testing 
+Laboratories and Certification Bodies for 
+Conformity 
+Assessment 
+of 
+Telecommunication Equipment 
+Annex 2 
+ 
+ 
+ 
+ 
+347 
+TABLE 2 
+ 
+MANDATORY REQUIREMENTS STIPULATING CONFORMITY 
+ASSESSMENT ACTIVITIES COVERED BY THIS SECTORAL 
+ANNEX 
+ 
+INDIA 
+SINGAPORE 
+To be developed 
+Scheme for Recognising Foreign Testing 
+Laboratories and Certification Bodies for 
+Conformity 
+Assessment 
+of 
+Telecommunication Equipment 
+ 
+ 
+ 
+348 
+TABLE 3 
+ 
+MANDATORY REQUIREMENTS PROVIDING LEGAL MANDATE FOR 
+DESIGNATING AUTHORITIES 
+ 
+INDIA 
+SINGAPORE 
+Designating Authority of India is the 
+following authority or authority succeeding 
+it: 
+ 
+Department 
+of 
+Telecommunications, 
+Government of India 
+ 
+The Government of India (Allocation of 
+Business) Rules, 1961 
+Rule 3.(1) 
+Second Schedule – 
+Distribution 
+of 
+subjects 
+among 
+the 
+departments 
+Ministry 
+of 
+Communications 
+and 
+Information technology – Department of 
+Telecommunications 
+ 
+Indian Telegraph Act, 1885 
+ 
+ 
+ 
+ 
+Designating Authority of Singapore is the 
+following authority or authority succeeding 
+it: 
+ 
+Info-communications 
+Development 
+Authority of Singapore Act (Cap. 137A) 
+Section 6(h) and (u) 
+Second Schedule Article 12 and Article 41 
+ 
+The Telecommunication Act (Cap. 323) 
+Section 2 and 74 
+ 
+Infocomm Development Authority of 
+Singapore 
+ 
+ 
+ 
+349 
+TABLE 4 
+ 
+MANDATORY REQUIREMENTS STIPULATING THE CRITERIA FOR 
+DESIGNATION 
+ 
+THE CRITERIA TO BE APPLIED BY 
+SINGAPORE 
+IN 
+DESIGNATING 
+CONFORMITY 
+ASSESSMENT 
+BODIES 
+TO 
+ASSESS 
+PRODUCTS 
+AGAINST INDIA'S REQUIREMENTS 
+THE CRITERIA TO BE APPLIED BY 
+INDIA 
+IN 
+DESIGNATING 
+CONFORMITY 
+ASSESSMENT 
+BODIES 
+TO 
+ASSESS 
+PRODUCTS 
+AGAINST 
+SINGAPORE'S 
+REQUIREMENTS 
+(to be developed) 
+Scheme for Recognizing Foreign Testing 
+Laboratories and Certification Bodies for 
+Conformity 
+Assessment 
+of 
+Telecommunication Equipment 
+ 
+ 
+ 
+ 
+ 

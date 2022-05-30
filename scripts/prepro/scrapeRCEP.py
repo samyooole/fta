@@ -55,11 +55,11 @@ for page in motherpdf.pages():
         sub_fta_text = linkClicker(sub_fta)
         #simple cleaning: NOTE should try to be less brute force? very manual rn based on observations
         
-        try:
-            sub_fta_text = str.replace(sub_fta_text, "\n", "")
-        except:
-            continue
-        sub_fta_text = str.replace(sub_fta_text, "™", "'")
+        #try:
+        #    sub_fta_text = str.replace(sub_fta_text, "\n", "")
+        #except:
+        #    continue
+        #sub_fta_text = str.replace(sub_fta_text, "™", "'")
         #finding a name
         sub_fta_name = re.sub(pattern = 'rcep', repl = '', string = sub_fta, flags = re.IGNORECASE)
         sub_fta_name = re.sub(pattern = "https", repl = '', string = sub_fta_name, flags = re.IGNORECASE)

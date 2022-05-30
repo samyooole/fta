@@ -1,1 +1,52 @@
-- Page 372 -ANNEX IIBMINIMUM DATA REQUIREMENT FOR CERTIFICATE OF ORIGIN1.ExporterThe name and address of the exporter2.ConsigneeThe name and address of the importer3.Means of Transport(1)Departure DateThe departure date when the vessel/aircraft left port/airport (ifknown)(2)Vessel’s Name/Flight No.The vessel’s name or the aircraft’s flight number (if known)(3)Port of dischargeThe final port where the goods will be discharged (if known)(4)Route in case of not being directly transported from exportingcountry to importing country4.Country of Final Destination5.Country of Origin of Goods6. Marks and NumbersThe marks and numbers of the goods, to be attached in separatesheet, where necessary7. Number and kind of packages; description of goods including its HScode8.QuantityThe quantity and its unit of measurement (such as pieces, kg) of thegoods9.Number and Date of InvoicesThe relevant invoice number and date for the consignment10.Declaration by the Exporter11. Certification by Certification BodySignature and seal or stamp of the certification body of the exportingParty12.Certificate Reference NumberA unique number will be assigned to each certificate issued by thecertification body designated by the exporting Party.
+- Page 372 -
+ANNEX IIB
+MINIMUM DATA REQUIREMENT FOR CERTIFICATE OF ORIGIN
+1.
+Exporter
+The name and address of the exporter
+2.
+Consignee
+The name and address of the importer
+3.
+Means of Transport
+(1)
+Departure Date
+The departure date when the vessel/aircraft left port/airport (if
+known)
+(2)
+Vessel’s Name/Flight No.
+The vessel’s name or the aircraft’s flight number (if known)
+(3)
+Port of discharge
+The final port where the goods will be discharged (if known)
+(4)
+Route in case of not being directly transported from exporting
+country to importing country
+4.
+Country of Final Destination
+5.
+Country of Origin of Goods
+6. 
+Marks and Numbers
+The marks and numbers of the goods, to be attached in separate
+sheet, where necessary
+7. 
+Number and kind of packages; description of goods including its HS
+code
+8.
+Quantity
+The quantity and its unit of measurement (such as pieces, kg) of the
+goods
+9.
+Number and Date of Invoices
+The relevant invoice number and date for the consignment
+10.
+Declaration by the Exporter
+11. 
+Certification by Certification Body
+Signature and seal or stamp of the certification body of the exporting
+Party
+12.
+Certificate Reference Number
+A unique number will be assigned to each certificate issued by the
+certification body designated by the exporting Party.

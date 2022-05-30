@@ -1,1 +1,465 @@
- EUSFTA Annex 9-F - 1 ANNEX 9-F   CONSTRUCTION SERVICES AND WORKS CONCESSIONS   PART 1  SINGAPORE'S COMMITMENTS  Chapter Nine (Puplic Procurement) covers the procurement by the entities covered by Annexes 9-A to 9-C of the following construction services in the sense of Division 51 of the Central Product Classification as contained in document MTN.GNS/W/120:  List of construction services committed:  CPC Description 512 General construction work for buildings 513 General construction work for civil engineering 514, 516 Installation and assembly work 517 Building completion and finishing work 511, 515, 518 Others   EUSFTA Annex 9-F - 2 Notes to Part 1 of Annex 9-F:  1. The committed construction services are subject to the limitations and conditions specified in Annex 8-B and the Appendices thereto.  2. Chapter Nine (Government Procurement) does not apply to any procurement made by a covered entity on behalf of a non-covered entity.   PART 2  UNION'S COMMITMENTS   A. Construction services  Chapter Nine (Public Procurement) covers all construction services listed in Division 51 of CPC procured by the entities specified in Annexes 9-A to 9-C.   B. Works concessions  Work concessions contracts, when awarded by entities specified in Annexes 9-A and 9-B are included under the national treatment regime, provided the value of the work concession contracts equals or exceeds 5 000 000 SDR.   EUSFTA Annex 9-F - 3 Notes to Part 2 of Annex 9-F:  1. When awarding work concessions contracts, the Union's procuring entities listed in Annexes 9-A and 9-B shall accord services and suppliers of Singapore, including locally established suppliers of Singapore, treatment no less favourable than treatment they accord to domestic services and suppliers under the Union's domestic regime for works concessions, (herein referred to as "national treatment regime"), provided the value of such contracts equals or exceeds 5 000 000 SDR.  Under the national treatment regime, the Union, including its Member States and its procuring entities, shall:  (a) ensure transparency in the award of works concessions contracts, including by the publication of notice of intended work concessions; and  (b) ensure that there is an effective review procedure through which supplier, including suppliers from the other Party may challenge decisions relating to the award of work concessions contracts.  2. Should the revision of Union's legislation on public procurement result in a further clarification or development of rules applicable to works concessions, the Union will, at the request of Singapore, review the possibility to reflect these developments in this Annex. Following such review the Parties may, by decision of the Committee on Trade in Services, Investment and Government Procurement, adapt the provisions applicable to works concessions in Chapter Nine (Government Procurement) or in their commitments set out in this Annex.   EUSFTA Annex 9-F - 4 List of Division 51, CPC  Group Class Subclass Title Corresponding ISCI SECTION 5   CONSTRUCTION WORK AND CONSTRUCTIONS: LAND  DIVISION 51   CONSTRUCTION WORK  511   Pre-erection work at construction sites   5111 51110 Site investigation work 4510  5112 51120 Demolition work 4510  5113 51130 Site formation and clearance work 4510  5114 51140 Excavating and earthmoving work 4510  5115 51150 Site preparation work for mining 4510  5116 51160 Scaffolding work 4520 512   Construction work for buildings   5121 51210 For one- and two-dwelling buildings 4520  5122 51220 For multi-dwelling buildings 4520  5123 51230 For warehouses and industrial buildings 4520  EUSFTA Annex 9-F - 5 Group Class Subclass Title Corresponding ISCI  5124 51240 For commercial buildings 4520  5125 51250 For public entertainment buildings 4520  5126 51260 For hotel, restaurant and similar buildings 4520  5127 51270 For educational buildings 4520  5128 51280 For health buildings 4520  5129 51290 For other buildings 4520 513   Construction work for civil engineering   5131 51310 For highways (except elevated highways), street, roads, railways and airfield runways 4520  5132 51320 For bridges, elevated highways, tunnels and subways 4520  5133 51330 For waterways, harbours, dams and other water works 4520  5134 51340 For long distance pipelines, communication and power lines (cables) 4520  5135 51350 For local pipelines and cables; ancillary works 4520  5136 51360 For constructions for mining and manufacturing 4520  5137  For constructions for sport and recreation   EUSFTA Annex 9-F - 6 Group Class Subclass Title Corresponding ISCI   51371 For stadia and sports grounds 4520   51372 For other sport and recreation installations (e.g. swimming pools, tennis courts, golf courses) 4520  5139 51390 For engineering works n.e.c. 4520 514 5140 51400 Assembly and erection of prefabricated constructions 4520 515   Special trade construction work   5151 51510 Foundation work, including pile driving 4520  5152 51520 Water well drilling 4520  5153 51530 Roofing and water proofing 4520  5154 51540 Concrete work 4520  5155 51550 Steel bending and erection (including welding) 4520  5156 51560 Masonry work 4520  5159 51590 Other special trade construction work 4520 516   Installation work   5161 51610 Heating, ventilation and air conditioning work 4530  EUSFTA Annex 9-F - 7 Group Class Subclass Title Corresponding ISCI  5162 51620 Water plumbing and drain laying work 4530  5163 51630 Gas fitting construction work 4530  5164  Electrical work    51641 Electrical wiring and fitting work 4530   51642 Fire alarm construction work 4530   51643 Burglar alarm system construction work 4530   51644 Residential antenna construction work 4530   51649 Other electrical construction work 4530  5165 51650 Insulation work (electrical wiring, water,heat, sound) 4530  5166 51660 Fencing and railing construction work 4530  5169  Other installation work    51691 Lift and escalator construction work 4530   51699 Other installation work n.e.c. 4530  EUSFTA Annex 9-F - 8 Group Class Subclass Title Corresponding ISCI 517   Building completion and finishing work   5171 51710 Glazing work and window glass installation work 4540  5172 51720 Plastering work 4540  5173 51730 Painting work 4540  5174 51740 Floor and wall tiling work 4540  5175 51750 Other floor laying, wall covering and wall papering work 4540  5176 51760 Wood and metal joinery and carpentry work 4540  5177 51770 Interior fitting decoration work 4540  5178 51780 Ornamentation fitting work 4540  5179 51790 Other building completion and finishing work 4540 518 5180 51800 Renting services related to equipment for construction or demolition of buildings or civil engineering works, with operator 4550   ________________  
+ 
+EUSFTA Annex 9-F - 1 
+ANNEX 9-F 
+ 
+ 
+CONSTRUCTION SERVICES AND WORKS CONCESSIONS 
+ 
+ 
+PART 1 
+ 
+SINGAPORE'S COMMITMENTS 
+ 
+Chapter Nine (Puplic Procurement) covers the procurement by the entities covered by Annexes 9-A 
+to 9-C of the following construction services in the sense of Division 51 of the Central Product 
+Classification as contained in document MTN.GNS/W/120: 
+ 
+List of construction services committed: 
+ 
+CPC 
+Description 
+512 
+General construction work for buildings 
+513 
+General construction work for civil engineering 
+514, 516 
+Installation and assembly work 
+517 
+Building completion and finishing work 
+511, 515, 518 
+Others 
+ 
+ 
+EUSFTA Annex 9-F - 2 
+Notes to Part 1 of Annex 9-F: 
+ 
+1. 
+The committed construction services are subject to the limitations and conditions specified 
+in Annex 8-B and the Appendices thereto. 
+ 
+2. 
+Chapter Nine (Government Procurement) does not apply to any procurement made by a 
+covered entity on behalf of a non-covered entity. 
+ 
+ 
+PART 2 
+ 
+UNION'S COMMITMENTS 
+ 
+ 
+A. 
+Construction services 
+ 
+Chapter Nine (Public Procurement) covers all construction services listed in Division 51 of CPC 
+procured by the entities specified in Annexes 9-A to 9-C. 
+ 
+ 
+B. 
+Works concessions 
+ 
+Work concessions contracts, when awarded by entities specified in Annexes 9-A and 9-B are 
+included under the national treatment regime, provided the value of the work concession contracts 
+equals or exceeds 5 000 000 SDR. 
+ 
+ 
+EUSFTA Annex 9-F - 3 
+Notes to Part 2 of Annex 9-F: 
+ 
+1. 
+When awarding work concessions contracts, the Union's procuring entities listed in 
+Annexes 9-A and 9-B shall accord services and suppliers of Singapore, including locally 
+established suppliers of Singapore, treatment no less favourable than treatment they accord 
+to domestic services and suppliers under the Union's domestic regime for works concessions, 
+(herein referred to as "national treatment regime"), provided the value of such contracts 
+equals or exceeds 5 000 000 SDR. 
+ 
+Under the national treatment regime, the Union, including its Member States and its 
+procuring entities, shall: 
+ 
+(a) 
+ensure transparency in the award of works concessions contracts, including by the 
+publication of notice of intended work concessions; and 
+ 
+(b) 
+ensure that there is an effective review procedure through which supplier, including 
+suppliers from the other Party may challenge decisions relating to the award of work 
+concessions contracts. 
+ 
+2. 
+Should the revision of Union's legislation on public procurement result in a further 
+clarification or development of rules applicable to works concessions, the Union will, at the 
+request of Singapore, review the possibility to reflect these developments in this Annex. 
+Following such review the Parties may, by decision of the Committee on Trade in Services, 
+Investment and Government Procurement, adapt the provisions applicable to works 
+concessions in Chapter Nine (Government Procurement) or in their commitments set out in 
+this Annex. 
+ 
+ 
+EUSFTA Annex 9-F - 4 
+List of Division 51, CPC 
+ 
+Group 
+Class 
+Subclass 
+Title 
+Corresponding ISCI 
+SECTION 5 
+ 
+ 
+CONSTRUCTION WORK AND CONSTRUCTIONS: LAND 
+ 
+DIVISION 51 
+ 
+ 
+CONSTRUCTION WORK 
+ 
+511 
+ 
+ 
+Pre-erection work at construction sites 
+ 
+ 
+5111 
+51110 
+Site investigation work 
+4510 
+ 
+5112 
+51120 
+Demolition work 
+4510 
+ 
+5113 
+51130 
+Site formation and clearance work 
+4510 
+ 
+5114 
+51140 
+Excavating and earthmoving work 
+4510 
+ 
+5115 
+51150 
+Site preparation work for mining 
+4510 
+ 
+5116 
+51160 
+Scaffolding work 
+4520 
+512 
+ 
+ 
+Construction work for buildings 
+ 
+ 
+5121 
+51210 
+For one- and two-dwelling buildings 
+4520 
+ 
+5122 
+51220 
+For multi-dwelling buildings 
+4520 
+ 
+5123 
+51230 
+For warehouses and industrial buildings 
+4520 
+ 
+EUSFTA Annex 9-F - 5 
+Group 
+Class 
+Subclass 
+Title 
+Corresponding ISCI 
+ 
+5124 
+51240 
+For commercial buildings 
+4520 
+ 
+5125 
+51250 
+For public entertainment buildings 
+4520 
+ 
+5126 
+51260 
+For hotel, restaurant and similar buildings 
+4520 
+ 
+5127 
+51270 
+For educational buildings 
+4520 
+ 
+5128 
+51280 
+For health buildings 
+4520 
+ 
+5129 
+51290 
+For other buildings 
+4520 
+513 
+ 
+ 
+Construction work for civil engineering 
+ 
+ 
+5131 
+51310 
+For highways (except elevated highways), street, roads, railways and airfield 
+runways 
+4520 
+ 
+5132 
+51320 
+For bridges, elevated highways, tunnels and subways 
+4520 
+ 
+5133 
+51330 
+For waterways, harbours, dams and other water works 
+4520 
+ 
+5134 
+51340 
+For long distance pipelines, communication and power lines (cables) 
+4520 
+ 
+5135 
+51350 
+For local pipelines and cables; ancillary works 
+4520 
+ 
+5136 
+51360 
+For constructions for mining and manufacturing 
+4520 
+ 
+5137 
+ 
+For constructions for sport and recreation 
+ 
+ 
+EUSFTA Annex 9-F - 6 
+Group 
+Class 
+Subclass 
+Title 
+Corresponding ISCI 
+ 
+ 
+51371 
+For stadia and sports grounds 
+4520 
+ 
+ 
+51372 
+For other sport and recreation installations (e.g. swimming pools, tennis courts, 
+golf courses) 
+4520 
+ 
+5139 
+51390 
+For engineering works n.e.c. 
+4520 
+514 
+5140 
+51400 
+Assembly and erection of prefabricated constructions 
+4520 
+515 
+ 
+ 
+Special trade construction work 
+ 
+ 
+5151 
+51510 
+Foundation work, including pile driving 
+4520 
+ 
+5152 
+51520 
+Water well drilling 
+4520 
+ 
+5153 
+51530 
+Roofing and water proofing 
+4520 
+ 
+5154 
+51540 
+Concrete work 
+4520 
+ 
+5155 
+51550 
+Steel bending and erection (including welding) 
+4520 
+ 
+5156 
+51560 
+Masonry work 
+4520 
+ 
+5159 
+51590 
+Other special trade construction work 
+4520 
+516 
+ 
+ 
+Installation work 
+ 
+ 
+5161 
+51610 
+Heating, ventilation and air conditioning work 
+4530 
+ 
+EUSFTA Annex 9-F - 7 
+Group 
+Class 
+Subclass 
+Title 
+Corresponding ISCI 
+ 
+5162 
+51620 
+Water plumbing and drain laying work 
+4530 
+ 
+5163 
+51630 
+Gas fitting construction work 
+4530 
+ 
+5164 
+ 
+Electrical work 
+ 
+ 
+ 
+51641 
+Electrical wiring and fitting work 
+4530 
+ 
+ 
+51642 
+Fire alarm construction work 
+4530 
+ 
+ 
+51643 
+Burglar alarm system construction work 
+4530 
+ 
+ 
+51644 
+Residential antenna construction work 
+4530 
+ 
+ 
+51649 
+Other electrical construction work 
+4530 
+ 
+5165 
+51650 
+Insulation work (electrical wiring, water,heat, sound) 
+4530 
+ 
+5166 
+51660 
+Fencing and railing construction work 
+4530 
+ 
+5169 
+ 
+Other installation work 
+ 
+ 
+ 
+51691 
+Lift and escalator construction work 
+4530 
+ 
+ 
+51699 
+Other installation work n.e.c. 
+4530 
+ 
+EUSFTA Annex 9-F - 8 
+Group 
+Class 
+Subclass 
+Title 
+Corresponding ISCI 
+517 
+ 
+ 
+Building completion and finishing work 
+ 
+ 
+5171 
+51710 
+Glazing work and window glass installation work 
+4540 
+ 
+5172 
+51720 
+Plastering work 
+4540 
+ 
+5173 
+51730 
+Painting work 
+4540 
+ 
+5174 
+51740 
+Floor and wall tiling work 
+4540 
+ 
+5175 
+51750 
+Other floor laying, wall covering and wall papering work 
+4540 
+ 
+5176 
+51760 
+Wood and metal joinery and carpentry work 
+4540 
+ 
+5177 
+51770 
+Interior fitting decoration work 
+4540 
+ 
+5178 
+51780 
+Ornamentation fitting work 
+4540 
+ 
+5179 
+51790 
+Other building completion and finishing work 
+4540 
+518 
+5180 
+51800 
+Renting services related to equipment for construction or demolition of buildings 
+or civil engineering works, with operator 
+4550 
+ 
+ 
+________________ 
+ 

@@ -1,1 +1,405 @@
- 7-23  Annex 7.2.2: Limitations of Singapore   A. Services     Type of Limitation: Most favoured nation status (Article 7.3)   National treatment (Article 7.4)  Legal Citation:   Description: 1. Most favoured nation status and national treatment shall not apply where a services sector is not scheduled under Chapter 8 (Services).   2. Where a services sector is scheduled under Chapter 8 (Services), the terms, limitations, conditions and qualifications stated therein shall apply to investments in that sector.   3. Any horizontal commitments, limitations, conditions and qualifications scheduled under Chapter 8 (Services) shall apply to investments in the services sector concerned.    7-24  B. All Sectors  Type of Limitation: National treatment (Article 7.4)  Legal Citation:   Description: More favourable treatment may be accorded to Singapore nationals and permanent residents in the form of incentives or other programmes to help develop local entrepreneurs/technopreneurs and assist local companies to expand and upgrade their operations.     7-25  C. All Sectors  Type of Limitation: National treatment (Article 7.4)  Legal Citation: Companies Act, Cap 50 (1994)  Description: Compliance by Foreign Companies with the Companies Act as in establishing, reporting and filing of accounts.  (a) Commercial presence, right of establishment and movement of juridical persons are subject to compliance with the following provisions:  (i) a foreigner who wishes to register a business firm must have a local manager who should be:   (A) a Singapore citizen; (B) a Singapore permanent resident; (C) a Singapore employment pass holder; or (D) a dependent’s pass holder and have written permission from the Singapore Immigration and Registration (SIR).  Provided that a foreigner who is a Singapore permanent resident or a Singapore employment pass holder or a dependent’s pass holder with written permission from SIR can register a business without appointing a local manager;  (ii) every company must have at least two directors, and one of whom must be locally resident;  (iii) all branches of foreign companies registered in Singapore must have at least two locally resident agents.  (To qualify as locally resident, a person should be either a Singapore citizen or Singapore permanent resident or Singapore employment pass  holder or dependent’s pass holder with written permission from SIR);  (b) establishment of a foreign company’s branch is subject to the filing of necessary documents.     7-26   D. All Sectors  Type of Limitation: National treatment (Article 7.4)  Legal Citation: Banking Act, Cap 19 (1985)  Directive on Housing Loans to Financial Institutions issued by the Monetary Authority of Singapore (MAS)  Residential Property Act, Cap 274 (1985)   Description: 1. Ownership of land:  (a) non-citizens cannot own land.   2. Ownership of property:  (a) non-citizens are restricted from purchasing landed property and residential property in a building of less than six levels;  (b) there are also restrictions on non-citizens owning Housing & Development Board (HDB) flats;  3. Housing loans:  (a) banks are:  (i) not allowed to extend Singapore Dollar (S$) loans to non-Singapore citizens (excluding permanent residents) and non-Singapore companies for the purpose of purchasing residential properties in Singapore. A company incorporated outside Singapore or majority-owned by non-Singapore citizens and/or permanent residents is considered a non-Singapore company;  (ii) allowed to extend only one S$ loan to permanent residents for the purchase of residential property which must be owner-occupied.     7-27  E. All Sectors  Type of Limitation: National treatment (Article 7.4)   Legal Citation: Banking Act, Cap 19 (1985)   MAS Notice No. 757  Description: 1. Banks are not allowed to extend S$ credit facilities to non-residents1 for the following purposes:   (a) speculating in the S$ currency and interest rate markets;  (b) financing third-party trade between countries not involving Singapore;  (c) financing the acquisition of shares of companies not listed on the Stock Exchange of Singapore or Central Limit Order Book (CLOB);  (d) financing activities outside Singapore except when approved by MAS.   2. Banks must consult MAS before extending S$ credit facilities to non-residents2 for, inter alia:  (a) amounts exceeding S$5 million for financing investments such as shares, bonds, deposits, and commercial properties;  (b) amounts exceeding S$20 million via repurchase agreements of Singapore Government Securities with full delivery of collateral; and  (c) all activities not explicitly mentioned in the MAS Notice 757.                                                                1 For the purposes of this MAS Notice 757, Singapore residents are: (i) Singapore citizens; (ii) individuals who are Singapore tax-residents; (iii) companies incorporated in Singapore which are jointly-owned or majority-owned by Singapore citizens; or (iv) overseas subsidiaries which are jointly-owned or majority-owned by Singapore citizens.  All other persons are considered non-residents.    7-28  F. Printing & Publishing Manufacture & Repair of Transport Equipment Power/Energy    Type of Limitation: National treatment (Article 7.4)   Legal Citation:  Description: More favourable treatment may be accorded to Singapore nationals and permanent residents in the above sectors.      7-29  G.    Privatisation  Type of Limitation: National treatment (Article 7.4)   Legal Citation:   Description: More favourable treatment may be accorded to Singapore nationals and permanent residents in respect of ownership of enterprises currently in Government ownership.     7-30  H. Government-Linked Companies  Type of Limitation: Most favoured nation status (Article 7.3)   National treatment (Article 7.4)  Legal Citation:   Description: 1. Most favoured nation status and national treatment shall not apply to any corporate entities in which the Singapore Government is the majority shareholder or has a special share.  Such corporate entities shall be permitted to limit the participation of foreign capital in terms of maximum percentage limit on foreign shareholding or the total value of individual or aggregate foreign investment.    2. The term ‘special share’ whether created by a corporate entity’s articles of association, or by domestic law or administrative action, includes a paid-up share or any other share (whether ordinary, equity or otherwise) and any share that has special voting or veto rights in respect of or entitles the holder to give or withhold consent or object to:    (a) the disposal of the whole or substantial part of the corporate entity’s undertaking;  (b) the acquisition by any person of any specified percentage of the issued share capital of the corporate entity;  (c) the appointment of the board of directors, management and/or executive staff of the corporate entity;  (d) the winding up or dissolution of the corporate entity; or  (e) any change to the memorandum of association and/or articles of association of a corporate entity relating to the issue, ownership, transfer, cancellation and acquisition of shares of the corporate entity, appointment and dismissal of the board of directors, management and/or executive staff of the corporate entity.    7-31   I.    Manufacturing Sector  Type of Limitation: Most favoured nation status (Article 7.3)   National treatment (Article 7.4)    Legal Citation: Control of Manufacture Act, Cap 57 (1985)  Description: Statutory licensing requirements for the manufacture of goods, such as:   (a) firecrackers; (b) drawn steel products; (c) pig iron and sponge iron; (d) rolled steel products; (e) steel ingots, billets, blooms and slabs; (f) beer and stout; (g) CD, CD-ROM, VCD; (h) DVD, DVD-ROM; (i) chewing gum, bubble gum, dental chewing gum or any like substance; (j) cigarettes; (k) matches; (l) cigars. 
+ 
+7-23 
+ 
+Annex 7.2.2: Limitations of Singapore  
+ 
+A. 
+Services  
+ 
+ 
+ 
+Type of Limitation: 
+Most favoured nation status (Article 7.3)  
+ 
+National treatment (Article 7.4) 
+ 
+Legal Citation: 
+ 
+ 
+Description: 
+1. 
+Most favoured nation status and national treatment shall 
+not apply where a services sector is not scheduled under Chapter 8 
+(Services). 
+ 
+ 
+2. 
+Where a services sector is scheduled under Chapter 8 
+(Services), the terms, limitations, conditions and qualifications 
+stated therein shall apply to investments in that sector. 
+ 
+ 
+3. 
+Any horizontal commitments, limitations, conditions and 
+qualifications scheduled under Chapter 8 (Services) shall apply to 
+investments in the services sector concerned. 
+ 
+ 
+ 
+7-24 
+ 
+B. 
+All Sectors 
+ 
+Type of Limitation: 
+National treatment (Article 7.4) 
+ 
+Legal Citation: 
+ 
+ 
+Description: 
+More favourable treatment may be accorded to Singapore nationals 
+and permanent residents in the form of incentives or other 
+programmes to help develop local entrepreneurs/technopreneurs 
+and assist local companies to expand and upgrade their operations.  
+ 
+ 
+ 
+7-25 
+ 
+C. 
+All Sectors 
+ 
+Type of Limitation: 
+National treatment (Article 7.4) 
+ 
+Legal Citation: 
+Companies Act, Cap 50 (1994) 
+ 
+Description: 
+Compliance by Foreign Companies with the Companies Act as in 
+establishing, reporting and filing of accounts. 
+ 
+(a) 
+Commercial 
+presence, 
+right 
+of 
+establishment 
+and 
+movement of juridical persons are subject to compliance 
+with the following provisions: 
+ 
+(i) 
+a foreigner who wishes to register a business firm 
+must have a local manager who should be:  
+ 
+(A) 
+a Singapore citizen; 
+(B) 
+a Singapore permanent resident; 
+(C) 
+a Singapore employment pass holder; or 
+(D) 
+a dependent’s pass holder and have written 
+permission from the Singapore Immigration 
+and Registration (SIR). 
+ 
+Provided that a foreigner who is a Singapore 
+permanent resident or a Singapore employment 
+pass holder or a dependent’s pass holder with 
+written permission from SIR can register a 
+business without appointing a local manager; 
+ 
+(ii) 
+every company must have at least two directors, and 
+one of whom must be locally resident; 
+ 
+(iii) 
+all branches of foreign companies registered in 
+Singapore must have at least two locally resident 
+agents.  (To qualify as locally resident, a person 
+should be either a Singapore citizen or Singapore 
+permanent resident or Singapore employment pass  
+holder or dependent’s pass holder with written 
+permission from SIR); 
+ 
+(b) 
+establishment of a foreign company’s branch is subject to 
+the filing of necessary documents. 
+ 
+ 
+ 
+ 
+7-26 
+ 
+ 
+D. 
+All Sectors 
+ 
+Type of Limitation: 
+National treatment (Article 7.4) 
+ 
+Legal Citation: 
+Banking Act, Cap 19 (1985)  
+Directive on Housing Loans to Financial Institutions issued by the 
+Monetary Authority of Singapore (MAS) 
+ 
+Residential Property Act, Cap 274 (1985)  
+ 
+Description: 
+1. 
+Ownership of land: 
+ 
+(a) 
+non-citizens cannot own land.  
+ 
+2. 
+Ownership of property: 
+ 
+(a) 
+non-citizens are restricted from purchasing 
+landed property and residential property in a 
+building of less than six levels; 
+ 
+(b) 
+there are also restrictions on non-citizens owning 
+Housing & Development Board (HDB) flats; 
+ 
+3. 
+Housing loans: 
+ 
+(a) 
+banks are: 
+ 
+(i) 
+not allowed to extend Singapore Dollar 
+(S$) loans to non-Singapore citizens 
+(excluding permanent residents) and non-
+Singapore companies for the purpose of 
+purchasing 
+residential 
+properties 
+in 
+Singapore. A company incorporated 
+outside Singapore or majority-owned by 
+non-Singapore citizens and/or permanent 
+residents is considered a non-Singapore 
+company; 
+ 
+(ii) 
+allowed to extend only one S$ loan to 
+permanent residents for the purchase of 
+residential property which must be 
+owner-occupied. 
+ 
+ 
+ 
+ 
+7-27 
+ 
+E. 
+All Sectors 
+ 
+Type of Limitation: 
+National treatment (Article 7.4) 
+ 
+ 
+Legal Citation: 
+Banking Act, Cap 19 (1985)  
+ 
+MAS Notice No. 757 
+ 
+Description: 
+1. 
+Banks are not allowed to extend S$ credit facilities to non-
+residents1 for the following purposes:  
+ 
+(a) 
+speculating in the S$ currency and interest rate 
+markets; 
+ 
+(b) 
+financing third-party trade between countries not 
+involving Singapore; 
+ 
+(c) 
+financing the acquisition of shares of companies 
+not listed on the Stock Exchange of Singapore or 
+Central Limit Order Book (CLOB); 
+ 
+(d) 
+financing activities outside Singapore except 
+when approved by MAS. 
+ 
+ 
+2. 
+Banks must consult MAS before extending S$ credit 
+facilities to non-residents2 for, inter alia: 
+ 
+(a) 
+amounts exceeding S$5 million for financing 
+investments such as shares, bonds, deposits, and 
+commercial properties; 
+ 
+(b) 
+amounts exceeding S$20 million via repurchase 
+agreements of Singapore Government Securities 
+with full delivery of collateral; and 
+ 
+(c) 
+all activities not explicitly mentioned in the 
+MAS Notice 757. 
+ 
+ 
+ 
+ 
+                                                           
+1 For the purposes of this MAS Notice 757, Singapore residents are: (i) Singapore citizens; (ii) individuals who are 
+Singapore tax-residents; (iii) companies incorporated in Singapore which are jointly-owned or majority-owned by 
+Singapore citizens; or (iv) overseas subsidiaries which are jointly-owned or majority-owned by Singapore citizens.  
+All other persons are considered non-residents. 
+ 
+ 
+ 
+7-28 
+ 
+F. 
+Printing & Publishing 
+Manufacture & Repair of Transport Equipment 
+Power/Energy   
+ 
+Type of Limitation: 
+National treatment (Article 7.4) 
+ 
+ 
+Legal Citation: 
+ 
+Description: 
+More favourable treatment may be accorded to Singapore nationals 
+and permanent residents in the above sectors.  
+ 
+ 
+ 
+ 
+7-29 
+ 
+G. 
+ 
+ 
+ 
+Privatisation 
+ 
+Type of Limitation: 
+National treatment (Article 7.4) 
+ 
+ 
+Legal Citation: 
+ 
+ 
+Description: 
+More favourable treatment may be accorded to Singapore nationals 
+and permanent residents in respect of ownership of enterprises 
+currently in Government ownership. 
+ 
+ 
+ 
+ 
+7-30 
+ 
+H. 
+Government-Linked Companies 
+ 
+Type of Limitation: 
+Most favoured nation status (Article 7.3)  
+ 
+National treatment (Article 7.4) 
+ 
+Legal Citation: 
+ 
+ 
+Description: 
+1. 
+Most favoured nation status and national treatment shall 
+not apply to any corporate entities in which the Singapore 
+Government is the majority shareholder or has a special share.  
+Such corporate entities shall be permitted to limit the participation 
+of foreign capital in terms of maximum percentage limit on foreign 
+shareholding or the total value of individual or aggregate foreign 
+investment.   
+ 
+2. 
+The term ‘special share’ whether created by a corporate 
+entity’s articles of association, or by domestic law or 
+administrative action, includes a paid-up share or any other share 
+(whether ordinary, equity or otherwise) and any share that has 
+special voting or veto rights in respect of or entitles the holder to 
+give or withhold consent or object to:   
+ 
+(a) 
+the disposal of the whole or substantial part of 
+the corporate entity’s undertaking; 
+ 
+(b) 
+the acquisition by any person of any specified 
+percentage of the issued share capital of the 
+corporate entity; 
+ 
+(c) 
+the appointment of the board of directors, 
+management and/or executive staff of the 
+corporate entity; 
+ 
+(d) 
+the winding up or dissolution of the corporate 
+entity; or 
+ 
+(e) 
+any change to the memorandum of association 
+and/or articles of association of a corporate 
+entity relating to the issue, ownership, transfer, 
+cancellation and acquisition of shares of the 
+corporate entity, appointment and dismissal of 
+the board of directors, management and/or 
+executive staff of the corporate entity. 
+ 
+ 
+ 
+7-31 
+ 
+ 
+I. 
+ 
+ 
+ 
+Manufacturing Sector 
+ 
+Type of Limitation: 
+Most favoured nation status (Article 7.3)  
+ 
+National treatment (Article 7.4) 
+ 
+ 
+ 
+Legal Citation: 
+Control of Manufacture Act, Cap 57 (1985) 
+ 
+Description: 
+Statutory licensing requirements for the manufacture of goods, 
+such as:  
+ 
+(a) 
+firecrackers; 
+(b) 
+drawn steel products; 
+(c) 
+pig iron and sponge iron; 
+(d) 
+rolled steel products; 
+(e) 
+steel ingots, billets, blooms and slabs; 
+(f) 
+beer and stout; 
+(g) 
+CD, CD-ROM, VCD; 
+(h) 
+DVD, DVD-ROM; 
+(i) 
+chewing gum, bubble gum, dental chewing gum or 
+any like substance; 
+(j) 
+cigarettes; 
+(k) 
+matches; 
+(l) 
+cigars. 

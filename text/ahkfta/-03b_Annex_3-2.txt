@@ -1,1 +1,1250 @@
-62  ANNEX 3-2   PRODUCT SPECIFIC RULES    Headnote  1. Where a tariff heading or subheading is subject to a choice of Product Specific Rules, it shall be sufficient to comply with one of the rules.  A Party shall permit the exporter of a good to decide which rule to use in determining if the good is originating.    2. A requirement of a change in tariff classification applies only to non-originating materials.  3. Where the change in tariff classification rule expressly excludes a change from other tariff classifications, the exclusion applies only to non-originating materials.   4. For the purposes of the column entitled “Origin Criteria” of this Annex:   WO means that the good must be wholly obtained or produced in accordance with subparagraph (a) of Article 3 (Origin Criteria) of Chapter 3 (Rules of Origin);   RVC(XX) means that the good must have a regional value content of not less than XX per cent as calculated under Article 6 (Calculation of Regional Value Content) of Chapter 3 (Rules of Origin);   CC means that all non-originating materials used in the production of the good have undergone a 63  change in tariff classification at the 2-digit level (i.e. a change in chapter) of the Harmonized System;   CTH means that all non-originating materials used in the production of the good have undergone a change in tariff classification at the 4-digit level (i.e. a change in heading) of the Harmonized System; and   CTSH means that all non-originating materials used in the production of the good have undergone a change in tariff classification at the 6-digit level (i.e. a change in subheading) of the Harmonized System.   64  Serial No.  HS Code (HS2012) Product Description Origin Criteria 01 0101.21 - Horses: pure-bred breeding animals WO 02 0101.29 - Horses: other WO 03 0101.30 - Asses WO 04 0101.90 - Other WO 05 0102.21 - Cattel: pure-bred breeding animals WO 06 0102.29 - Cattle: other WO 07 0102.31 - Buffalo: pure-bred breeding animals WO 08 0102.39 - Buffalo: other WO 09 0102.90 - Other WO 10 0103.10 - Pure-bred breeding animals WO 11 0103.91 - Other: weighing less than 50 kg WO 12 0103.92 - Other: weighing 50 kg or more WO 13 0104.10 - Sheep WO 14 0104.20 - Goats WO 15 0105.11 - Weighing not more than 185 g: fowls of the species Gallus domesticus WO 65  Serial No.  HS Code (HS2012) Product Description Origin Criteria 16 0105.12 - Weighing not more than 185 g: turkeys WO 17 0105.13 - Weighing not more than 185 g: ducks WO 18 0105.14 - Weighing not more than 185 g: geese WO 19 0105.15 - Weighing not more than 185 g: guinea fowls WO 20 0105.94 - Other: fowls of the species Gallus domesticus WO 21 0105.99 - Other: other WO 22 0106.11 - Mammals: primates WO 23 0106.12 - Mammals: whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia); seals, sea lions and walruses(mammals of the suborder Pinnipedia) WO 24 0106.13 - Mammals: camels and other camelids (Camelidae) WO 25 0106.14 - Mammals: rabbits and hares WO 26 0106.19 - Mammals: other WO 27 0106.20 - Reptiles (including snakes and turtles) WO 66  Serial No.  HS Code (HS2012) Product Description Origin Criteria 28 0106.31 - Birds: birds of prey WO 29 0106.32 - Birds: psittaciformes (including parrots, parakeets, macaws and cockatoos) WO 30 0106.33 - Birds: ostriches; emus (Dromaius novaehollandiae) WO 31 0106.39 - Birds: other WO 32 0106.41 - Insects: bees WO 33 0106.49 - Insects: other WO 34 0106.90 - Other WO 35 0301.11 - Ornamental fish: freshwater WO 36 0301.19 - Ornamental fish: other WO 37 0301.91 - Other live fish: trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster) WO 38 0301.92 - Other live fish: eels (Anguilla spp.) WO 39 0301.93 - Other live fish: carp(Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus) WO 67  Serial No.  HS Code (HS2012) Product Description Origin Criteria 40 0301.94 - Other live fish: Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis) WO 41 0301.95 - Other live fish: southern bluefin tunas (Thunnus maccoyii) WO 42 0301.99 - Other live fish: other WO 43 0407.11 - Fertilised eggs for incubation: of fowls of the species Gallus domesticus WO 44 0407.19 - Fertilised eggs for incubation: other WO 45 0407.21 - Other fresh eggs: of fowls of the species Gallus domesticus WO 46 0407.29 - Other fresh eggs: other WO 47 0407.90 - Others WO 48 0409.00 Natural honey. WO 49 0501.00 Human hair, unworked, whether or not washed or scoured; waste of human hair WO 50 0701.10 - Seed WO 51 0701.90 - Other WO 52 0702.00 Tomatoes, fresh or chilled. WO 53 0703.10 - Onions and shallots WO 68  Serial No.  HS Code (HS2012) Product Description Origin Criteria 54 0703.20 - Garlic WO 55 0703.90 - Leeks and other alliaceous vegetables WO 56 0704.10 - Cauliflowers and headed broccoli WO 57 0704.20 - Brussels sprouts WO 58 0704.90 - Other WO 59 0705.11 - Lettuce: cabbage lettuce (head lettuce) WO 60 0705.19 - Lettuce: other WO 61 0705.21 - Chicory: Witloof chicory (Cichorium intybus var. foliosum) WO 62 0705.29 - Chicory: other WO 63 0706.10 - Carrots and turnips WO 64 0706.90 - Other WO 65 0707.00 Cucumbers and gherkins, fresh or chilled. WO 66 0708.10 - Peas (Pisum sativum) WO 67 0708.20 - Beans (Vigna spp., Phaseolus spp.) WO 69  Serial No.  HS Code (HS2012) Product Description Origin Criteria 68 0708.90 - Other leguminous vegetables WO 69 0709.20 - Asparagus WO 70 0709.30 - Aubergines (egg-plants) WO 71 0709.40 - Celery other than celeriac WO 72 0709.51 - Mushrooms and truffles: mushrooms of the genus Agaricus WO 73 0709.59 - Mushrooms and truffles: other WO 74 0709.60 - Fruits of the genus Capsicum or of the genus Pimenta WO 75 0709.70 - Spinach, New Zealand spinach and orache spinach (garden spinach) WO 76 0709.91 - Other: Globe artichokes WO 77 0709.92 - Other: Olives WO 78 0709.93 - Other: pumpkins, squash and gourds (Cucurbita spp.) WO 79 0709.99 - Other: other WO 80 0710.10 - Potatoes WO 81 0710.29 - Leguminous vegetables, shelled or unshelled: other WO 70  Serial No.  HS Code (HS2012) Product Description Origin Criteria 82 0710.30 - Spinach, New Zealand spinach and orache spinach (garden spinach) WO 83 0710.40 - Sweet corn WO 84 0710.80 - Other vegetables WO 85 0710.90 - Mixtures of vegetables WO 86 0714.10 - Manioc (cassava) WO 87 0801.21 - Brazil nuts: in shell WO 88 0801.31 - Cashew nuts: in shell WO 89 0802.11 - Almonds: in shell WO 90 0802.21 - Hazelnuts or filberts (Corylus spp.): in shell WO 91 0802.31 - Walnuts: in shell WO 92 0804.10 - Dates WO 93 0804.20 - Figs WO 94 0804.30 - Pineapples WO 95 0804.40 - Avocados WO 71  Serial No.  HS Code (HS2012) Product Description Origin Criteria 96 0804.50 - Guavas, mangoes and mangosteens WO 97 0805.10 - Oranges WO 98 0805.20 - Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids WO 99 0805.40 - Grapefruit, including pomelos WO 100 0805.50 - Lemons (Citrus limon, Citrus limonum) and limes (Citrus aurantifolia, Citrus latifolia) WO 101 0805.90 - Other WO 102 0806.10 - Fresh WO 103 0806.20 - Dried WO 104 0807.11 - Melons (including watermelons): watermelons WO 105 0807.19 - Melons (including watermelons): other WO 106 0807.20 - Papaws (papayas) WO 107 0808.10 - Apples WO 108 0808.30 - Pears WO 109 0808.40 - Quinces WO 72  Serial No.  HS Code (HS2012) Product Description Origin Criteria 110 0809.10 - Apricots WO 111 0809.21 - Cherries: sour cherries (Prunus cerasus) WO 112 0809.29 - Cherries: other WO 113 0809.30 - Peaches, including nectarines WO 114 0809.40 - Plums and sloes WO 115 0810.10 - Strawberries WO 116 0810.20 - Raspberries, blackberries, mulberries and loganberries WO 117 0810.30 - Black, white or red currants and gooseberries WO 118 0810.40 - Cranberries, bilberries and other fruits of the genus Vaccinium WO 119 0810.50 - Kiwifruit WO 120 0810.60 - Durians WO 121 0810.70 - Persimmons WO 122 0810.90 - Other WO 123 1001.11 - Durum wheat: seed WO 73  Serial No.  HS Code (HS2012) Product Description Origin Criteria 124 1001.19 - Durum wheat: other WO 125 1001.91 - Other: seed WO 126 1001.99 - Other: other WO 127 1002.10 - Seed WO 128 1002.90 - Other WO 129 1003.10 - Seed WO 130 1003.90 - Other WO 131 1004.10 - Seed WO 132 1004.90 - Other WO 133 1005.10 - Seed WO 134 1005.90 - Other WO 135 1006.10 - Rice in the husk (paddy or rough) WO 136 1006.20 - Husked (brown) rice WO 137 1006.30 - Semi-milled or wholly milled rice, whether or not polished or glazed WO 74  Serial No.  HS Code (HS2012) Product Description Origin Criteria 138 1006.40 - Broken rice WO 139 1007.10 - Seed WO 140 1007.90 - Other WO 141 1008.10 - Buckwheat WO 142 1008.21 - Millet: seed WO 143 1008.29 - Millet: other WO 144 1008.30 - Canary seeds WO 145 1008.40 - Fonio (Digitaria spp.) WO 146 1008.50 - Quinoa (Chenopodium quinoa) WO 147 1008.60 - Triticale WO 148 1008.90 - Other cereals WO 149 1201.10 - Seed WO 150 1201.90 - Other WO 151 1202.30 - Seed WO 75  Serial No.  HS Code (HS2012) Product Description Origin Criteria 152 1202.41 - Other: in shell WO 153 1203.00 Copra. WO 154 1205.10 - Low erucic acid rape or colza seeds WO 155 1205.90 - Other WO 156 1206.00 Sunflower seeds, whether or not broken. WO 157 1207.10 - Palm nuts and kernels WO 158 1207.21 - Cotton seeds: seed WO 159 1207.29 - Cotton seeds: other WO 160 1207.30 - Castor oil seeds WO 161 1207.40 - Sesamum seeds WO 162 1207.50 - Mustard seeds WO 163 1207.60 - Safflower (Carthamus tinctorius) seeds WO 164 1207.70 - Melon seeds WO 165 1207.91 - Other: poppy seeds WO 76  Serial No.  HS Code (HS2012) Product Description Origin Criteria 166 1207.99 - Other: other WO 167 1210.10 -Hop cones, neither ground nor powdered nor in the form of pellets WO 168 1211.20 - Ginseng roots WO 169 1211.30 - Coca leaf WO 170 1211.40 - Poppy straw WO 171 1211.90 - Other WO 172 1212.21 - Seaweeds and other algae: fit for human consumption WO 173 1212.29 - Seaweeds and other algae: other WO 174 1212.91 - Other: sugar beet WO 175 1213.00 Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets. WO 176 1301.20 - Gum Arabic WO 177 1301.90 - Other WO 178 1401.10 - Bamboos WO 179 1401.20 - Rattans WO 77  Serial No.  HS Code (HS2012) Product Description Origin Criteria 180 1401.90 - Other WO 181 1517.90 - Other WO 182 1902.30 - Other pasta RVC(40) or CC 183 1905.90 - Other RVC(40) or CTH 184 2103.90 - Other RVC(40) or CTH 185 2525.30 - Mica waste WO 186 2619.00 Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel. WO 187 2620.11 - Containing mainly zinc: hard zinc spelter WO 188 2620.19 - Containing mainly zinc: other WO 189 2620.21 - Containing mainly lead: leaded gasoline sludges and leaded anti-knock compound sludges WO 190 2620.29 - Containing mainly lead: other WO 191 2620.30 - Containing mainly copper WO 192 2620.60 - Containing arsenic, mercury, thallium or their mixtures, of a kind used for the extraction of arsenic or those metals or for WO 78  Serial No.  HS Code (HS2012) Product Description Origin Criteria the manufacture of their chemical compounds 193 2620.91 - Other: containing antimony, beryllium, cadmium, chromium or their mixtures WO 194 2620.99 - Other: other WO 195 2621.10 - Ash and residues from the incineration of municipal waste WO 196 2621.90 - Other WO 197 5103.20 - Other waste of wool or of fine animal hair Obtained from sheep, lambs or other animals raised in either Party under AHKFTA  198 5103.30 - Waste of coarse animal hair Obtained from sheep, lambs or other animals raised in either Party under AHKFTA  199 6309.00 Worn clothing and other worn articles. WO 200 6310.10 - Sorted WO 201 6310.90 - Other WO 202 7101.10 - Natural pearls WO 79  Serial No.  HS Code (HS2012) Product Description Origin Criteria 203 7101.21 - Cultured pearls:  unworked WO 204 7108.12 - Non-monetary: other unwrought forms RVC(40) or CTH 205 7112.30 - Ash containing precious metal or precious metal compounds WO 206 7112.91 - Other: of gold, including metal clad with gold but excluding sweepings containing other precious metals WO 207 7112.92 - Other: of platinum, including metal clad with platinum but excluding sweepings containing other precious metals WO 208 7112.99 - Other: other WO 209 7404.00 Copper waste and scrap. WO 210 7503.00 Nickel waste and scrap. WO 211 7602.00 Aluminium waste and scrap. WO 212 7606.11 - Rectangular (including square): of aluminium, not alloyed RVC(40) or CTH 213 7606.12 - Rectangular (including square): of aluminium alloys RVC(40) or CTH 214 7606.91 - Other: of aluminium, not alloyed RVC(40) or CTH 215 7802.00 Lead waste and scrap. WO 80  Serial No.  HS Code (HS2012) Product Description Origin Criteria 216 7902.00 Zinc waste and scrap. WO 217 8002.00 Tin waste and scrap. WO 218 8101.97 - Other: waste and scrap WO 219 8102.97 - Other: waste and scrap WO 220 8103.30 - Waste and scrap WO 221 8104.20 - Waste and scrap WO 222 8105.30 - Waste and scrap WO 223 8107.30 - Waste and scrap WO 224 8108.30 - Waste and scrap WO 225 8109.30 - Waste and scrap WO 226 8110.20 - Waste and scrap WO 227 8112.13 - Beryllium: waste and scrap WO 228 8112.22 - Chromium: waste and scrap WO 229 8112.52 - Thallium: waste and scrap WO 81  Serial No.  HS Code (HS2012) Product Description Origin Criteria 230 8412.21 - Hydraulic power engines and motors: linear acting (cylinders) RVC(40) or CTSH 231 8462.10 -Forging or die-stamping machines (including presses) and hammers RVC(40) or CTH 232 8486.40 - Machines and apparatus specified in Note 9 (C) to this Chapter RVC(40) or CTSH 233 8523.41 - Optical media: unrecorded RVC(40) or CTH 234 8534.00 Printed circuits. RVC(40) or CTH 235 8542.39 - Electronic integrated circuits: other RVC(40) or CTSH 236 8542.90 - Parts RVC(40) or CTH 237 8548.10 - Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators WO    
+62 
+ 
+ANNEX 3-2 
+ 
+ 
+PRODUCT SPECIFIC RULES  
+ 
+ 
+Headnote 
+ 
+1. 
+Where a tariff heading or subheading is subject 
+to a choice of Product Specific Rules, it shall be 
+sufficient to comply with one of the rules.  A Party shall 
+permit the exporter of a good to decide which rule to 
+use in determining if the good is originating.   
+ 
+2. 
+A requirement of a change in tariff classification 
+applies only to non-originating materials. 
+ 
+3. 
+Where the change in tariff classification rule 
+expressly excludes a change from other tariff 
+classifications, the exclusion applies only to non-
+originating materials.  
+ 
+4. 
+For the purposes of the column entitled “Origin 
+Criteria” of this Annex: 
+ 
+ 
+WO means that the good must be wholly obtained 
+or produced in accordance with subparagraph (a) 
+of Article 3 (Origin Criteria) of Chapter 3 (Rules of 
+Origin); 
+ 
+ 
+RVC(XX) means that the good must have a 
+regional value content of not less than XX per cent 
+as calculated under Article 6 (Calculation of 
+Regional Value Content) of Chapter 3 (Rules of 
+Origin); 
+ 
+ 
+CC means that all non-originating materials used 
+in the production of the good have undergone a 
+63 
+ 
+change in tariff classification at the 2-digit level (i.e. 
+a change in chapter) of the Harmonized System; 
+ 
+ 
+CTH means that all non-originating materials used 
+in the production of the good have undergone a 
+change in tariff classification at the 4-digit level (i.e. 
+a change in heading) of the Harmonized System; 
+and 
+ 
+ 
+CTSH means that all non-originating materials 
+used in the production of the good have 
+undergone a change in tariff classification at the 6-
+digit level (i.e. a change in subheading) of the 
+Harmonized System. 
+ 
+ 
+64 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+01 
+0101.21 
+- Horses: pure-bred breeding animals 
+WO 
+02 
+0101.29 
+- Horses: other 
+WO 
+03 
+0101.30 
+- Asses 
+WO 
+04 
+0101.90 
+- Other 
+WO 
+05 
+0102.21 
+- Cattel: pure-bred breeding animals 
+WO 
+06 
+0102.29 
+- Cattle: other 
+WO 
+07 
+0102.31 
+- Buffalo: pure-bred breeding animals 
+WO 
+08 
+0102.39 
+- Buffalo: other 
+WO 
+09 
+0102.90 
+- Other 
+WO 
+10 
+0103.10 
+- Pure-bred breeding animals 
+WO 
+11 
+0103.91 
+- Other: weighing less than 50 kg 
+WO 
+12 
+0103.92 
+- Other: weighing 50 kg or more 
+WO 
+13 
+0104.10 
+- Sheep 
+WO 
+14 
+0104.20 
+- Goats 
+WO 
+15 
+0105.11 
+- Weighing not more than 185 g: fowls of the 
+species Gallus domesticus 
+WO 
+65 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+16 
+0105.12 
+- Weighing not more than 185 g: turkeys 
+WO 
+17 
+0105.13 
+- Weighing not more than 185 g: ducks 
+WO 
+18 
+0105.14 
+- Weighing not more than 185 g: geese 
+WO 
+19 
+0105.15 
+- Weighing not more than 185 g: guinea 
+fowls 
+WO 
+20 
+0105.94 
+- Other: fowls of the species Gallus 
+domesticus 
+WO 
+21 
+0105.99 
+- Other: other 
+WO 
+22 
+0106.11 
+- Mammals: primates 
+WO 
+23 
+0106.12 
+- Mammals: whales, dolphins and porpoises 
+(mammals of the order Cetacea); manatees 
+and dugongs (mammals of the order 
+Sirenia); seals, sea lions and 
+walruses(mammals of the suborder 
+Pinnipedia) 
+WO 
+24 
+0106.13 
+- Mammals: camels and other camelids 
+(Camelidae) 
+WO 
+25 
+0106.14 
+- Mammals: rabbits and hares 
+WO 
+26 
+0106.19 
+- Mammals: other 
+WO 
+27 
+0106.20 
+- Reptiles (including snakes and turtles) 
+WO 
+66 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+28 
+0106.31 
+- Birds: birds of prey 
+WO 
+29 
+0106.32 
+- Birds: psittaciformes (including parrots, 
+parakeets, macaws and cockatoos) 
+WO 
+30 
+0106.33 
+- Birds: ostriches; emus (Dromaius 
+novaehollandiae) 
+WO 
+31 
+0106.39 
+- Birds: other 
+WO 
+32 
+0106.41 
+- Insects: bees 
+WO 
+33 
+0106.49 
+- Insects: other 
+WO 
+34 
+0106.90 
+- Other 
+WO 
+35 
+0301.11 
+- Ornamental fish: freshwater 
+WO 
+36 
+0301.19 
+- Ornamental fish: other 
+WO 
+37 
+0301.91 
+- Other live fish: trout (Salmo trutta, 
+Oncorhynchus mykiss, Oncorhynchus clarki, 
+Oncorhynchus aguabonita, Oncorhynchus 
+gilae, Oncorhynchus apache and 
+Oncorhynchus chrysogaster) 
+WO 
+38 
+0301.92 
+- Other live fish: eels (Anguilla spp.) 
+WO 
+39 
+0301.93 
+- Other live fish: carp(Cyprinus carpio, 
+Carassius carassius, Ctenopharyngodon 
+idellus, Hypophthalmichthys spp., Cirrhinus 
+spp., Mylopharyngodon piceus) 
+WO 
+67 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+40 
+0301.94 
+- Other live fish: Atlantic and Pacific bluefin 
+tunas (Thunnus thynnus, Thunnus orientalis) 
+WO 
+41 
+0301.95 
+- Other live fish: southern bluefin tunas 
+(Thunnus maccoyii) 
+WO 
+42 
+0301.99 
+- Other live fish: other 
+WO 
+43 
+0407.11 
+- Fertilised eggs for incubation: of fowls of 
+the species Gallus domesticus 
+WO 
+44 
+0407.19 
+- Fertilised eggs for incubation: other 
+WO 
+45 
+0407.21 
+- Other fresh eggs: of fowls of the species 
+Gallus domesticus 
+WO 
+46 
+0407.29 
+- Other fresh eggs: other 
+WO 
+47 
+0407.90 
+- Others 
+WO 
+48 
+0409.00 
+Natural honey. 
+WO 
+49 
+0501.00 
+Human hair, unworked, whether or not 
+washed or scoured; waste of human hair 
+WO 
+50 
+0701.10 
+- Seed 
+WO 
+51 
+0701.90 
+- Other 
+WO 
+52 
+0702.00 
+Tomatoes, fresh or chilled. 
+WO 
+53 
+0703.10 
+- Onions and shallots 
+WO 
+68 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+54 
+0703.20 
+- Garlic 
+WO 
+55 
+0703.90 
+- Leeks and other alliaceous vegetables 
+WO 
+56 
+0704.10 
+- Cauliflowers and headed broccoli 
+WO 
+57 
+0704.20 
+- Brussels sprouts 
+WO 
+58 
+0704.90 
+- Other 
+WO 
+59 
+0705.11 
+- Lettuce: cabbage lettuce (head lettuce) 
+WO 
+60 
+0705.19 
+- Lettuce: other 
+WO 
+61 
+0705.21 
+- Chicory: Witloof chicory (Cichorium intybus 
+var. foliosum) 
+WO 
+62 
+0705.29 
+- Chicory: other 
+WO 
+63 
+0706.10 
+- Carrots and turnips 
+WO 
+64 
+0706.90 
+- Other 
+WO 
+65 
+0707.00 
+Cucumbers and gherkins, fresh or chilled. 
+WO 
+66 
+0708.10 
+- Peas (Pisum sativum) 
+WO 
+67 
+0708.20 
+- Beans (Vigna spp., Phaseolus spp.) 
+WO 
+69 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+68 
+0708.90 
+- Other leguminous vegetables 
+WO 
+69 
+0709.20 
+- Asparagus 
+WO 
+70 
+0709.30 
+- Aubergines (egg-plants) 
+WO 
+71 
+0709.40 
+- Celery other than celeriac 
+WO 
+72 
+0709.51 
+- Mushrooms and truffles: mushrooms of the 
+genus Agaricus 
+WO 
+73 
+0709.59 
+- Mushrooms and truffles: other 
+WO 
+74 
+0709.60 
+- Fruits of the genus Capsicum or of the 
+genus Pimenta 
+WO 
+75 
+0709.70 
+- Spinach, New Zealand spinach and orache 
+spinach (garden spinach) 
+WO 
+76 
+0709.91 
+- Other: Globe artichokes 
+WO 
+77 
+0709.92 
+- Other: Olives 
+WO 
+78 
+0709.93 
+- Other: pumpkins, squash and gourds 
+(Cucurbita spp.) 
+WO 
+79 
+0709.99 
+- Other: other 
+WO 
+80 
+0710.10 
+- Potatoes 
+WO 
+81 
+0710.29 
+- Leguminous vegetables, shelled or 
+unshelled: other 
+WO 
+70 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+82 
+0710.30 
+- Spinach, New Zealand spinach and orache 
+spinach (garden spinach) 
+WO 
+83 
+0710.40 
+- Sweet corn 
+WO 
+84 
+0710.80 
+- Other vegetables 
+WO 
+85 
+0710.90 
+- Mixtures of vegetables 
+WO 
+86 
+0714.10 
+- Manioc (cassava) 
+WO 
+87 
+0801.21 
+- Brazil nuts: in shell 
+WO 
+88 
+0801.31 
+- Cashew nuts: in shell 
+WO 
+89 
+0802.11 
+- Almonds: in shell 
+WO 
+90 
+0802.21 
+- Hazelnuts or filberts (Corylus spp.): in shell 
+WO 
+91 
+0802.31 
+- Walnuts: in shell 
+WO 
+92 
+0804.10 
+- Dates 
+WO 
+93 
+0804.20 
+- Figs 
+WO 
+94 
+0804.30 
+- Pineapples 
+WO 
+95 
+0804.40 
+- Avocados 
+WO 
+71 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+96 
+0804.50 
+- Guavas, mangoes and mangosteens 
+WO 
+97 
+0805.10 
+- Oranges 
+WO 
+98 
+0805.20 
+- Mandarins (including tangerines and 
+satsumas); clementines, wilkings and similar 
+citrus hybrids 
+WO 
+99 
+0805.40 
+- Grapefruit, including pomelos 
+WO 
+100 
+0805.50 
+- Lemons (Citrus limon, Citrus limonum) and 
+limes (Citrus aurantifolia, Citrus latifolia) 
+WO 
+101 
+0805.90 
+- Other 
+WO 
+102 
+0806.10 
+- Fresh 
+WO 
+103 
+0806.20 
+- Dried 
+WO 
+104 
+0807.11 
+- Melons (including watermelons): 
+watermelons 
+WO 
+105 
+0807.19 
+- Melons (including watermelons): other 
+WO 
+106 
+0807.20 
+- Papaws (papayas) 
+WO 
+107 
+0808.10 
+- Apples 
+WO 
+108 
+0808.30 
+- Pears 
+WO 
+109 
+0808.40 
+- Quinces 
+WO 
+72 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+110 
+0809.10 
+- Apricots 
+WO 
+111 
+0809.21 
+- Cherries: sour cherries (Prunus cerasus) 
+WO 
+112 
+0809.29 
+- Cherries: other 
+WO 
+113 
+0809.30 
+- Peaches, including nectarines 
+WO 
+114 
+0809.40 
+- Plums and sloes 
+WO 
+115 
+0810.10 
+- Strawberries 
+WO 
+116 
+0810.20 
+- Raspberries, blackberries, mulberries and 
+loganberries 
+WO 
+117 
+0810.30 
+- Black, white or red currants and 
+gooseberries 
+WO 
+118 
+0810.40 
+- Cranberries, bilberries and other fruits of 
+the genus Vaccinium 
+WO 
+119 
+0810.50 
+- Kiwifruit 
+WO 
+120 
+0810.60 
+- Durians 
+WO 
+121 
+0810.70 
+- Persimmons 
+WO 
+122 
+0810.90 
+- Other 
+WO 
+123 
+1001.11 
+- Durum wheat: seed 
+WO 
+73 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+124 
+1001.19 
+- Durum wheat: other 
+WO 
+125 
+1001.91 
+- Other: seed 
+WO 
+126 
+1001.99 
+- Other: other 
+WO 
+127 
+1002.10 
+- Seed 
+WO 
+128 
+1002.90 
+- Other 
+WO 
+129 
+1003.10 
+- Seed 
+WO 
+130 
+1003.90 
+- Other 
+WO 
+131 
+1004.10 
+- Seed 
+WO 
+132 
+1004.90 
+- Other 
+WO 
+133 
+1005.10 
+- Seed 
+WO 
+134 
+1005.90 
+- Other 
+WO 
+135 
+1006.10 
+- Rice in the husk (paddy or rough) 
+WO 
+136 
+1006.20 
+- Husked (brown) rice 
+WO 
+137 
+1006.30 
+- Semi-milled or wholly milled rice, whether 
+or not polished or glazed 
+WO 
+74 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+138 
+1006.40 
+- Broken rice 
+WO 
+139 
+1007.10 
+- Seed 
+WO 
+140 
+1007.90 
+- Other 
+WO 
+141 
+1008.10 
+- Buckwheat 
+WO 
+142 
+1008.21 
+- Millet: seed 
+WO 
+143 
+1008.29 
+- Millet: other 
+WO 
+144 
+1008.30 
+- Canary seeds 
+WO 
+145 
+1008.40 
+- Fonio (Digitaria spp.) 
+WO 
+146 
+1008.50 
+- Quinoa (Chenopodium quinoa) 
+WO 
+147 
+1008.60 
+- Triticale 
+WO 
+148 
+1008.90 
+- Other cereals 
+WO 
+149 
+1201.10 
+- Seed 
+WO 
+150 
+1201.90 
+- Other 
+WO 
+151 
+1202.30 
+- Seed 
+WO 
+75 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+152 
+1202.41 
+- Other: in shell 
+WO 
+153 
+1203.00 
+Copra. 
+WO 
+154 
+1205.10 
+- Low erucic acid rape or colza seeds 
+WO 
+155 
+1205.90 
+- Other 
+WO 
+156 
+1206.00 
+Sunflower seeds, whether or not broken. 
+WO 
+157 
+1207.10 
+- Palm nuts and kernels 
+WO 
+158 
+1207.21 
+- Cotton seeds: seed 
+WO 
+159 
+1207.29 
+- Cotton seeds: other 
+WO 
+160 
+1207.30 
+- Castor oil seeds 
+WO 
+161 
+1207.40 
+- Sesamum seeds 
+WO 
+162 
+1207.50 
+- Mustard seeds 
+WO 
+163 
+1207.60 
+- Safflower (Carthamus tinctorius) seeds 
+WO 
+164 
+1207.70 
+- Melon seeds 
+WO 
+165 
+1207.91 
+- Other: poppy seeds 
+WO 
+76 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+166 
+1207.99 
+- Other: other 
+WO 
+167 
+1210.10 
+-Hop cones, neither ground nor powdered 
+nor in the form of pellets 
+WO 
+168 
+1211.20 
+- Ginseng roots 
+WO 
+169 
+1211.30 
+- Coca leaf 
+WO 
+170 
+1211.40 
+- Poppy straw 
+WO 
+171 
+1211.90 
+- Other 
+WO 
+172 
+1212.21 
+- Seaweeds and other algae: fit for human 
+consumption 
+WO 
+173 
+1212.29 
+- Seaweeds and other algae: other 
+WO 
+174 
+1212.91 
+- Other: sugar beet 
+WO 
+175 
+1213.00 
+Cereal straw and husks, unprepared, 
+whether or not chopped, ground, pressed or 
+in the form of pellets. 
+WO 
+176 
+1301.20 
+- Gum Arabic 
+WO 
+177 
+1301.90 
+- Other 
+WO 
+178 
+1401.10 
+- Bamboos 
+WO 
+179 
+1401.20 
+- Rattans 
+WO 
+77 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+180 
+1401.90 
+- Other 
+WO 
+181 
+1517.90 
+- Other 
+WO 
+182 
+1902.30 
+- Other pasta 
+RVC(40) or CC 
+183 
+1905.90 
+- Other 
+RVC(40) or 
+CTH 
+184 
+2103.90 
+- Other 
+RVC(40) or 
+CTH 
+185 
+2525.30 
+- Mica waste 
+WO 
+186 
+2619.00 
+Slag, dross (other than granulated slag), 
+scalings and other waste from the 
+manufacture of iron or steel. 
+WO 
+187 
+2620.11 
+- Containing mainly zinc: hard zinc spelter 
+WO 
+188 
+2620.19 
+- Containing mainly zinc: other 
+WO 
+189 
+2620.21 
+- Containing mainly lead: leaded gasoline 
+sludges and leaded anti-knock compound 
+sludges 
+WO 
+190 
+2620.29 
+- Containing mainly lead: other 
+WO 
+191 
+2620.30 
+- Containing mainly copper 
+WO 
+192 
+2620.60 
+- Containing arsenic, mercury, thallium or 
+their mixtures, of a kind used for the 
+extraction of arsenic or those metals or for 
+WO 
+78 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+the manufacture of their chemical 
+compounds 
+193 
+2620.91 
+- Other: containing antimony, beryllium, 
+cadmium, chromium or their mixtures 
+WO 
+194 
+2620.99 
+- Other: other 
+WO 
+195 
+2621.10 
+- Ash and residues from the incineration of 
+municipal waste 
+WO 
+196 
+2621.90 
+- Other 
+WO 
+197 
+5103.20 
+- Other waste of wool or of fine animal hair 
+Obtained from 
+sheep, lambs 
+or other 
+animals raised 
+in either Party 
+under AHKFTA  
+198 
+5103.30 
+- Waste of coarse animal hair 
+Obtained from 
+sheep, lambs 
+or other 
+animals raised 
+in either Party 
+under AHKFTA  
+199 
+6309.00 
+Worn clothing and other worn articles. 
+WO 
+200 
+6310.10 
+- Sorted 
+WO 
+201 
+6310.90 
+- Other 
+WO 
+202 
+7101.10 
+- Natural pearls 
+WO 
+79 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+203 
+7101.21 
+- Cultured pearls:  unworked 
+WO 
+204 
+7108.12 
+- Non-monetary: other unwrought forms 
+RVC(40) or 
+CTH 
+205 
+7112.30 
+- Ash containing precious metal or precious 
+metal compounds 
+WO 
+206 
+7112.91 
+- Other: of gold, including metal clad with 
+gold but excluding sweepings containing 
+other precious metals 
+WO 
+207 
+7112.92 
+- Other: of platinum, including metal clad with 
+platinum but excluding sweepings containing 
+other precious metals 
+WO 
+208 
+7112.99 
+- Other: other 
+WO 
+209 
+7404.00 
+Copper waste and scrap. 
+WO 
+210 
+7503.00 
+Nickel waste and scrap. 
+WO 
+211 
+7602.00 
+Aluminium waste and scrap. 
+WO 
+212 
+7606.11 
+- Rectangular (including square): of 
+aluminium, not alloyed 
+RVC(40) or 
+CTH 
+213 
+7606.12 
+- Rectangular (including square): of 
+aluminium alloys 
+RVC(40) or 
+CTH 
+214 
+7606.91 
+- Other: of aluminium, not alloyed 
+RVC(40) or 
+CTH 
+215 
+7802.00 
+Lead waste and scrap. 
+WO 
+80 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+216 
+7902.00 
+Zinc waste and scrap. 
+WO 
+217 
+8002.00 
+Tin waste and scrap. 
+WO 
+218 
+8101.97 
+- Other: waste and scrap 
+WO 
+219 
+8102.97 
+- Other: waste and scrap 
+WO 
+220 
+8103.30 
+- Waste and scrap 
+WO 
+221 
+8104.20 
+- Waste and scrap 
+WO 
+222 
+8105.30 
+- Waste and scrap 
+WO 
+223 
+8107.30 
+- Waste and scrap 
+WO 
+224 
+8108.30 
+- Waste and scrap 
+WO 
+225 
+8109.30 
+- Waste and scrap 
+WO 
+226 
+8110.20 
+- Waste and scrap 
+WO 
+227 
+8112.13 
+- Beryllium: waste and scrap 
+WO 
+228 
+8112.22 
+- Chromium: waste and scrap 
+WO 
+229 
+8112.52 
+- Thallium: waste and scrap 
+WO 
+81 
+ 
+Serial 
+No.  
+HS Code 
+(HS2012) 
+Product Description 
+Origin Criteria 
+230 
+8412.21 
+- Hydraulic power engines and motors: linear 
+acting (cylinders) 
+RVC(40) or 
+CTSH 
+231 
+8462.10 
+-Forging or die-stamping machines (including 
+presses) and hammers 
+RVC(40) or 
+CTH 
+232 
+8486.40 
+- Machines and apparatus specified in Note 9 
+(C) to this Chapter 
+RVC(40) or 
+CTSH 
+233 
+8523.41 
+- Optical media: unrecorded 
+RVC(40) or 
+CTH 
+234 
+8534.00 
+Printed circuits. 
+RVC(40) or 
+CTH 
+235 
+8542.39 
+- Electronic integrated circuits: other 
+RVC(40) or 
+CTSH 
+236 
+8542.90 
+- Parts 
+RVC(40) or 
+CTH 
+237 
+8548.10 
+- Waste and scrap of primary cells, primary 
+batteries and electric accumulators; spent 
+primary cells, spent primary batteries and 
+spent electric accumulators 
+WO 
+ 
+ 
+ 

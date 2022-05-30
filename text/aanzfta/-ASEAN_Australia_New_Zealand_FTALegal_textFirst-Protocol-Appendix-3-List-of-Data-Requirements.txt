@@ -1,1 +1,77 @@
-              APPENDIX 3  LIST OF DATA REQUIREMENTS  LIST OF DATA REQUIREMENTS  1.  Exporter details The name and address and contact details of the exporter 2. Shipment details (a Certificate of Origin can only apply to a single shipment of goods) (i) Consignee name and address (ii) Sufficient details to identify the consignment, such as importer’s purchase order number, invoice number and date and Air Way Bill or Sea Way Bill or Bill of Lading (iii) Port of Discharge, if known 3. Full description of goods (i) Detailed description of the goods, including HS Code (6-digit level), and if applicable, product number and brand name (ii) The relevant origin conferring criteria  (iii) FOB value when the regional value content origin criteria is used1 4. Certification by Issuing Authority/ Body Certification by the Issuing Authority/Body that  the goods specified in the Certificate of Origin meet all the relevant requirements of Chapter 3 (Rules of Origin) based on the evidence provided 5. Certificate of Origin number A unique number assigned to the Certificate of Origin by the Issuing Authority/Body                                                             1  In the case of goods exported from and imported by Cambodia and Myanmar, the FOB value shall be included in the Certificate of Origin or the back-to-back Certificate of Origin for all goods, irrespective of the origin criteria used, for two (2) years from the date of entry into force of the First Protocol or an earlier date as endorsed by the Committee on Trade in Goods.  The FOB value, where required to be included in the back-to-back Certificate of Origin, shall be the FOB value of the goods exported from the intermediate Party. In the case of Australia and New Zealand, a Certificate of Origin or back-to-back Certificate of Origin which does not state the FOB value, in cases where this would otherwise be required, shall be accompanied by a declaration made by the exporter stating the FOB value of each good described in the Certificate of Origin. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX 3 
+ 
+LIST OF DATA REQUIREMENTS 
+ 
+LIST OF DATA REQUIREMENTS 
+ 
+1.  Exporter details 
+The name and address and contact details of the 
+exporter 
+2. Shipment details 
+(a Certificate of 
+Origin can only 
+apply to a single 
+shipment of 
+goods) 
+(i) 
+Consignee name and address 
+(ii) 
+Sufficient 
+details 
+to 
+identify 
+the 
+consignment, such as importer’s purchase 
+order number, invoice number and date 
+and Air Way Bill or Sea Way Bill or Bill of 
+Lading 
+(iii) Port of Discharge, if known 
+3. Full description 
+of goods 
+(i) 
+Detailed description of the goods, including 
+HS Code (6-digit level), and if applicable, 
+product number and brand name 
+(ii) 
+The relevant origin conferring criteria  
+(iii) FOB value when the regional value content 
+origin criteria is used1 
+4. Certification by 
+Issuing Authority/ 
+Body 
+Certification by the Issuing Authority/Body that  
+the goods specified in the Certificate of Origin 
+meet all the relevant requirements of Chapter 3 
+(Rules of Origin) based on the evidence 
+provided 
+5. Certificate of 
+Origin number 
+A unique number assigned to the Certificate of 
+Origin by the Issuing Authority/Body 
+ 
+                                                           
+1  In the case of goods exported from and imported by Cambodia and Myanmar, the 
+FOB value shall be included in the Certificate of Origin or the back-to-back Certificate 
+of Origin for all goods, irrespective of the origin criteria used, for two (2) years from 
+the date of entry into force of the First Protocol or an earlier date as endorsed by the 
+Committee on Trade in Goods.  
+The FOB value, where required to be included in the back-to-back Certificate of 
+Origin, shall be the FOB value of the goods exported from the intermediate Party. 
+In the case of Australia and New Zealand, a Certificate of Origin or back-to-back 
+Certificate of Origin which does not state the FOB value, in cases where this would 
+otherwise be required, shall be accompanied by a declaration made by the exporter 
+stating the FOB value of each good described in the Certificate of Origin. 

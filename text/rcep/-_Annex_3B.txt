@@ -1,1 +1,114 @@
- 3B-1 ANNEX 3B  MINIMUM INFORMATION REQUIREMENTS    1. Certificate of Origin  (a) exporter’s name and address;   (b) producer’s name and address, if known;  (c) importer’s or consignee’s name and address;  (d) description of the goods and the HS Code of the goods (six - digit level);  (e) Certificate of Origin number;  (f) origin conferring criterion;  (g) declaration by the exporter or producer;  (h) certification by the issuing body that the goods specified in the Certificate of Origin meet all the relevant requirements of Chapter 3 (Rules of Origin) based on the evidence provided with the authorised signature and official seal of the issuing body;  (i) RCEP country of origin referred to in Article 2.6 (Tariff Differentials);  (j) details to identify the consignment such as invoice number, departure date, vessel name or aircraft flight number, and port of discharge;  (k) FOB value, if the regional value content origin conferring criterion is used;  (l) quantity of the goods;   (m) in the case of a back-to-back Certificate of Origin, original Proof of Origin reference number, date of issuance, RCEP country of origin of the first exporting Party, and, if applicable, approved exporter authorisation code of the first exporting Party.   3B-2 2. Declaration of Origin  (a) exporter’s name and address;  (b) producer’s name and address, if known;  (c) importer’s or consignee’s name and address;  (d) description of the goods and the HS Code of the goods (six - digit level);  (e) in the case of an approved exporter, authorisation code or identification code of the exporter or producer;  (f) unique reference number;  (g) origin conferring criterion;  (h) certification by an authorised signatory that the goods specified in the Declaration of Origin meet all the relevant requirements of Chapter 3 (Rules of Origin);  (i) RCEP country of origin referred to in Article 2.6 (Tariff Differentials);  (j) FOB value, if the regional value content origin conferring criterion is used;  (k) quantity of the goods;  (l) in the case of a back-to-back Declaration of Origin, original Proof of Origin reference number, date of issuance, RCEP country of origin of the first exporting Party, and, if applicable, approved exporter authorisation code of the first exporting Party.   
+ 
+3B-1 
+ANNEX 3B 
+ 
+MINIMUM INFORMATION REQUIREMENTS  
+ 
+ 
+1. 
+Certificate of Origin 
+ 
+(a) 
+exporter’s name and address;  
+ 
+(b) 
+producer’s name and address, if known; 
+ 
+(c) 
+importer’s or consignee’s name and address; 
+ 
+(d) 
+description of the goods and the HS Code of the goods (six 
+- digit level); 
+ 
+(e) 
+Certificate of Origin number; 
+ 
+(f) 
+origin conferring criterion; 
+ 
+(g) 
+declaration by the exporter or producer; 
+ 
+(h) 
+certification by the issuing body that the goods specified in 
+the Certificate of Origin meet all the relevant requirements 
+of Chapter 3 (Rules of Origin) based on the evidence 
+provided with the authorised signature and official seal of 
+the issuing body; 
+ 
+(i) 
+RCEP country of origin referred to in Article 2.6 (Tariff 
+Differentials); 
+ 
+(j) 
+details to identify the consignment such as invoice number, 
+departure date, vessel name or aircraft flight number, and 
+port of discharge; 
+ 
+(k) 
+FOB value, if the regional value content origin conferring 
+criterion is used; 
+ 
+(l) 
+quantity of the goods;  
+ 
+(m) 
+in the case of a back-to-back Certificate of Origin, original 
+Proof of Origin reference number, date of issuance, RCEP 
+country of origin of the first exporting Party, and, if 
+applicable, approved exporter authorisation code of the 
+first exporting Party. 
+ 
+ 
+3B-2 
+2. 
+Declaration of Origin 
+ 
+(a) 
+exporter’s name and address; 
+ 
+(b) 
+producer’s name and address, if known; 
+ 
+(c) 
+importer’s or consignee’s name and address; 
+ 
+(d) 
+description of the goods and the HS Code of the goods (six 
+- digit level); 
+ 
+(e) 
+in the case of an approved exporter, authorisation code or 
+identification code of the exporter or producer; 
+ 
+(f) 
+unique reference number; 
+ 
+(g) 
+origin conferring criterion; 
+ 
+(h) 
+certification by an authorised signatory that the goods 
+specified in the Declaration of Origin meet all the relevant 
+requirements of Chapter 3 (Rules of Origin); 
+ 
+(i) 
+RCEP country of origin referred to in Article 2.6 (Tariff 
+Differentials); 
+ 
+(j) 
+FOB value, if the regional value content origin conferring 
+criterion is used; 
+ 
+(k) 
+quantity of the goods; 
+ 
+(l) 
+in the case of a back-to-back Declaration of Origin, original 
+Proof of Origin reference number, date of issuance, RCEP 
+country of origin of the first exporting Party, and, if 
+applicable, approved exporter authorisation code of the 
+first exporting Party. 
+ 
+ 

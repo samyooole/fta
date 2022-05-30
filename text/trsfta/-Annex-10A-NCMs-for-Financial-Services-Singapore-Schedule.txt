@@ -1,1 +1,1598 @@
-Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   1   ANNEX 10-A NON-CONFORMING MEASURES FOR FINANCIAL SERVICES SCHEDULE OF SINGAPORE  Explanatory Note  1.  The Schedule of Singapore to this Annex sets out, pursuant to Article 10.6 (Non-Conforming Measures) of Chapter 10 (Financial Services), the reservations taken by Singapore with respect to measures that do not conform to some or all of the obligations imposed by:  (a) Article 10.3 (National Treatment) of Chapter 10 (Financial Services);   (b) Article 10.4 (Market Access for Financial Institutions) of Chapter 10 (Financial Services); or   (c) Article 10.5 (Cross-Border Trade in Financial Services) of Chapter 10 (Financial Services).    2. All measures affecting Article 10.3 (National Treatment), Article 10.4 (Market Access for Financial Services) and Article 10.5 (Cross-Border Trade in Financial Services) of Chapter 10 (Financial Services) shall be stated in the Description of Reservation element. In the interpretation of a reservation, all elements of the reservations shall be considered in their totality.  3.  Each Schedule entry sets out the following elements:  (a)  Sector refers to the general sector for which the entry is made,  (b)  Sub-sector, for Singapore, refers to the specific sector for which the entry is made,  (c)   Industry Classification refers, for Singapore, where applicable, to the activity covered by the non-conforming measure, according to the provisional CPC codes as used in the Provisional Central Product Classification (Statistical Papers Series M No. 77, Department of International Economic and Social Affairs, Statistical Office of the United Nations, New York, 1991);   (d) Type of Reservation specifies the obligation(s) referred to in paragraph 1(a) of Article 10.6 (Non-Conforming Measures) of Chapter 10 (Financial Services for which a reservation is taken;    (e) Source of Measure identifies the laws, regulations, rules, procedures, administrative actions or any other form in which the reservation is taken. A measure cited in the Source of Measure element: Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     2   (A) means the measure as amended, continued, or renewed as of the date of entry into force of this Agreement; and  (B) includes any subordinate measure adopted or maintained under the authority of and consistent with the measure; and     (f) Description of Reservation, for Singapore, sets out the non-conforming measures to which the reservation applies.    Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     3   1. Sector Financial Services  Sub-Sector Banking  Industry Classification CPC 811 Financial Intermediation Services, except insurance and pension fund services  Type of Reservation  National Treatment (Article 10.3) Market Access for Financial Institutions  (Article 10.4)  Source of Measure  Banking Act, Cap. 19 Monetary Authority of Singapore Act, Cap 186 Finance Companies Act, Cap 108 MAS Notice 636  Guidelines for Operation of Wholesale Banks, Guidelines for Operation of Offshore Banks, Guidelines for Operation of Merchant Banks  Description of Reservation Only institutions licensed or approved by the Monetary Authority of Singapore or its successor (hereinafter referred to as MAS) as banks, merchant banks or finance companies can accept deposits.  Foreign banks may only establish as Singapore branch offices of a corporation or Singapore-incorporated companies.   Foreign banks can operate from only one office (excluding back office operations). They cannot establish off-premise ATMs and ATM networking and new sub-branches.  Location of banks and relocation of banks and sub-branches require prior approval from MAS.  No new full bank licences will be granted to foreign banks. New foreign banks may only establish as wholesale banks or offshore banks.  MAS may exercise appropriate differentiated measures to specific financial institutions in Singapore to safeguard the interest of Singapore depositors.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     4  A bank may only operate foreign currency savings accounts for non-residents if MAS' approval has been obtained. A bank shall not operate foreign currency savings accounts in any other cases.  A single or related group of foreign shareholders can only hold up to 5% of a local bank’s shares. The limit on aggregate foreign ownership of each domestic bank’s shares is 40%.  Wholesale Banks    Wholesale banks are not permitted to:    (a) operate savings accounts denominated in Singapore dollars, except with the prior approval of MAS;  (b) accept Singapore dollar fixed deposits of less than S$250,000 or allow the outstanding deposits (including interest) to be  less than S$250,000 at all times, except on termination of the account or the withdrawal of all deposits standing to the credit of the depositor;   (c) operate  Singapore  dollar  current  accounts  for natural persons who are Singapore residents, except with the prior approval of MAS;   (d) issue, in Singapore, bonds and negotiable certificates of deposit, unless the requirements pertaining to minimum maturity period, minimum denomination or class of investors contained in the Guidelines for Operation of Wholesale Banks  issued by MAS and/or  its successor body are complied with; or  (e) operate from more than one place of business in Singapore.    Offshore banks    Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     5  Offshore banks can accept foreign currency fixed deposits from residents and non-residents. For Singapore dollar deposits, they can only accept fixed deposits of S$250,000 or more per deposit from non-residents.  Offshore banks shall not operate savings accounts or accept fixed deposits denominated in Singapore dollars for Singapore residents.  Offshore banks are not permitted to:   (a) when transacting banking business with persons that are not approved financial institutions, and when such persons are residents of Singapore:   (i) operate savings accounts or accept fixed deposits denominated in Singapore dollars;  (ii) operate accounts other than in connection with credit facilities granted to or other business dealings with the customer, or to a customer who has an existing banking relationship with the bank’s head office or any overseas branch, and provided always that if the customer is a natural person, the Singapore dollar account shall not be interest-bearing; or  (iii) provide credit  facilities to residents of Singapore which are not approved financial institutions (but excluding credit facilities granted to the bank’s employees) exceeding a total of S$500 million at any one time, except with the prior approval of MAS;   (b) when transacting banking business with persons that are not approved financial institutions, and when such persons are not residents of Singapore,   (i) operate savings accounts denominated in Singapore dollars;   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     6  (ii) accept fixed deposits, in respect of Singapore dollar fixed deposits, which is less than S$250,000 for the initial deposit or the outstanding deposits (including interest) at all times except on termination of the account or the withdrawal of all deposits standing to the credit of the depositor;  (c) issue, in Singapore,  bonds  and negotiable certificates  of deposit, unless the requirements pertaining to the issuing currency, minimum maturity period, minimum denomination or class of investors contained in the Guidelines  for Operation of Offshore Banks  issued  by MAS and/or  its successor body are complied with;  (d) enter into any transaction or series of transactions (whether these be swaps or other type of financial instruments) that will enable it to receive, directly or indirectly, what is in effect a deposit of Singapore dollar funds; and  (e) operate from more than one place of business in Singapore.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   7  2. Sector Financial Services  Sub-Sector Banking  Industrial Classification CPC 811 Financial Intermediation Services, except insurance and pension fund services  Type of Reservation National Treatment (Article 10.3)  Market Access for Financial Institutions (Article 10.4)   Source of Measure Finance Companies Act, Cap. 108  Description of Reservation No new finance company licences will be granted.   Finance companies may only establish as Singapore-incorporated companies.  Foreign persons shall not acquire shares in finance companies incorporated in Singapore, or transfer or sell shares in existing finance companies.  All finance companies, local and foreign-owned, can only conduct Singapore dollar business. Finance companies shall not deal in foreign currencies, gold, or other precious metals, and acquire foreign currency stocks, shares or debt or convertible securities, except with MAS’ prior approval.  Finance companies may not, unless there is prior approval from MAS:  (a)  offer deposit accounts which are repayable on demand by cheque, draft or order;  (b) deal in any foreign currency, gold or other precious metals, or acquire foreign currency stocks, shares or debt/convertible securities;  (c) grant or permit to be outstanding to any one person or to any group of persons under the control or influence of any one person, any credit facilities if the aggregate amount of such credit facilities exceeds 25% of its capital funds or such other percentage not exceeding 100% of its capital funds as MAS may approve;  Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     8  (d) grant substantial loans which in the aggregate exceed 50% of its total credit facilities or such other percentage as MAS may from time to time determine;   (e) grant unsecured advances, unsecured loans or unsecured credit facilities —  (i) to any person or body of persons, whether incorporated or not, which in the aggregate and outstanding at any one time exceeds $5,000, and  (ii)  which in the aggregate and outstanding at any one time exceeds 10% of the capital funds of the finance company;  (f) establish off-premise ATMs, ATM networking or allow their accounts to be debited through an Electronic Funds Transfer at Point of Sale (EFTPOS); or  (g) open or relocate place of business including sub-branches.  Location of finance companies and relocation of sub-branches require MAS’ prior approval.  Foreign owned finance companies are not permitted to establish off-premise ATMs, ATM networking and new sub-branches.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   9  3.  Sector Financial Services  Sub-Sector Banking  Industrial Classification CPC 8111 Services of Monetary Intermediaries  Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions (Article 10.4)    Source of Measure Monetary Authority of Singapore Act, Cap. 186  Description of Reservation Merchant banks may only establish as Singapore branch offices of a corporation or Singapore-incorporated company.  A merchant bank shall operate only from one office (excluding back-office operations). Location and relocation of merchant banks require MAS’ prior approval.  Merchant banks require MAS’ authorisation to raise foreign currency funds from residents and non-residents, operate foreign currency savings accounts for non-residents and raise Singapore dollar funds from their shareholders and companies controlled by their shareholders, banks, other merchant banks and finance companies.    Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   10  4.Sector Financial Services  Sub-Sector Lending of all types, including consumer credit, mortgage credit, factoring and financing of commercial transaction  Type of Reservation National Treatment(Article 10.3)  Market Access for Financial Institutions (Article 10.4)   Source of Measure  Banking Act, Cap. 19 Description of Reservation Credit and charge cards shall only be issued by card issuers approved by MAS, subject to MAS guidelines.    Singapore dollar loans by local and foreign-owned financial institutions, to non-residents, non-resident controlled companies and to residents for use outside Singapore require MAS’ approval.  An offshore bank’s aggregate lending in Singapore dollars to residents shall not exceed S$200m.   Offshore banks shall not use their related merchant banks to circumvent the S$200m lending limit.    Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     11  5.Sector Financial Services  Sub-Sector Payment and money transmission services, including credit, charge and debit cards, travellers cheques  Type of Reservation National Treatment (Article 10.3)  Market Access for Financial Institutions(Article 10.4)   Source of Measure  Banking Act, Cap. 19 Description of Reservation Remittance shops, except where the remittance business is conducted by banks and merchant banks, are required to be majority owned by Singapore citizens.  Only banks, and no other person, may issue bankers' drafts..  Only the following person may issue stored value cards:  (a) a bank in Singapore licensed by MAS; and   (b) a juridical person for the payment only of goods or services or both goods and services provided by that person.     Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   12  6. Sector Financial Services  Sub-Sector Settlement and clearing services for financial assets, including securities, derivative products and other negotiable instruments  Industry Classification CPC 813 Services auxiliary to financial intermediation other than to insurance and pension funding  Type of Reservation Market Access for Financial Institutions(Article 10.4)   Source of Measure  Banking Act, Cap. 19 Description of Reservation Only a clearing house established under the Banking Act may provide clearing services for cheques and other credit instruments which are drawn on a bank in Singapore (whether payable in Singapore dollars or other currency), and services for interbank GIRO transfers.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   13  7. Sector Financial Services  Sub-Sector -   Industry Classification CPC 8131 Services related to the administrative of financial markets CPC 8132 Services related to securities markets  Type of Reservation National Treatment (Article 10.3)   Market Access for Financial Institutions(Article 10.4)  Source of Measure Securities and Futures Act, Cap. 289 Description of Reservation The establishment or operation of securities and futures markets as exchanges, exempt exchanges or recognised trading system providers, is subject to the authorisation, including the imposition of conditions for authorisation, by the MAS.     Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   14  8. Sector  Financial Services Sub-Sector Trading for own account or for account of customers, whether on an exchange, in an over-the-counter market or otherwise, the following: money market instruments (including cheques, bills, certificates of deposit), foreign exchange, derivative products, including financial futures and options, exchange rates and interest rate instruments, including swaps and forward rate agreements, transferable securities or other negotiable instruments and financial assets including bullion.   Industry Classification  CPC 8132 Services related to securities markets Type of Reservation  Market Access for Financial Institutions (Article 10.4)  Source of Measure   Securities and Futures Act Cap. 289 Description of Reservation  Trading in money market instruments, foreign exchange, as well as exchange rate and interest rate instruments can be conducted with financial institutions only.  Banks and merchant banks are required to set up separate subsidiaries to trade financial futures for customers. Financial futures brokers can establish as branches or subsidiaries.   The offer of derivative products by both local and foreign-owned financial institutions is allowed provided:  (a) the product has been offered by the financial institution in other internationally-reputable financial centres and the supervisory authorities of those centres agree to the offer of such products in their markets;  (b) the financial institution’s parent supervisor and its head office must be aware and have no objection to the offer of such products in the Singapore branch or subsidiary; and   (c) MAS is satisfied that the financial institution has and continues to have the financial strength and adequate internal controls and Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     15  risk management systems to trade in these products.  The offer of derivative products involving the Singapore dollar is subject to the requirement that Singapore dollar loans by local and foreign-owned financial institutions, to non-residents, non-resident controlled companies and to residents for use outside Singapore require MAS’ prior approval.  Money-changers, except where the money-changing business is conducted by banks and merchant banks, are required to be majority owned by Singapore citizens.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   16   9. Sector Financial Services  Sub-Sector Asset management  Industry Classification CPC 8132 Services related to securities market  Type of Reservation National Treatment (Article 10.3)    Source of Measure Admission Criteria, Guidelines and Application Forms for Fund Management and Insurance Companies included under CPFIS  Description of Reservation 1. In considering the admission of Fund Management Companies (FMCs) under the Central Provident Fund Investment Scheme (CPFIS), the Central Provident Fund Board and/or its successor body may take into consideration the following factors:  (a)  whether the FMC holds a capital markets services (CMS) licence for Fund Management under the Securities and Futures Act , Cap 289 or is exempted from licensing under section 99(1)(a) to (c) of the Act. For the foreign FMC of a recognised fund, whether the foreign FMC holds the equivalent licence in the jurisdiction of its principal place of business;          (b)   whether the FMC has a minimum one-year track record as a CMS licence holder under the Securities Futures Act, Cap 289 in the fund management industry in Singapore while the group as a whole has a minimum of three years track record in fund management. For the foreign FMC of a recognised fund, whether it has a minimum of three years track record in fund management;        (c)   whether the FMC and its related group of companies manage at least S$500 million worth of funds in Singapore. For the FMC that intends to offer funds that would be sub-managed by another FMC, or offer funds that feed into Collective Investment Schemes (CIS) constituted outside Singapore, or offer Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     17  recognised funds constituted outside Singapore directly; whether the FMC and its related group of companies manages at least S$1 billion of discretionary funds globally;         (d)  whether the FMC has a minimum of three fund managers, one of whom must have at least five years of fund management experience. The definition of “fund manager” shall include portfolio managers, research analysts and traders;         (e)   whether the FMC and its related group of companies have a sound financial position;        (f)   whether the FMC and its related companies have a good regulatory compliance record in Singapore or in the jurisdiction of its place of business;         (g)   whether the FMC is a member or associate member of the Investment Management Association of Singapore (IMAS) and subject to the Code of Ethics of IMAS. For recognised funds, the local representative of a foreign FMC should be a member of IMAS.  2. The factors listed above are the basic criteria for FMCs to be included under CPFIS. The Central Provident Fund Board or its successor body (hereinafter referred to as the CPF Board), in consultation with MAS, may consider the FMC for admission, on case-by-case basis, if the FMC does not meet a specific criterion but has other strengths.         3. The FMC that passes the qualifying criteria stated in paragraph 1 would be able to manage Collective Investment Schemes (CIS) and Investment-Linked Product (ILP) sub-funds, as well as offer fund management account services under CPFIS.            4. For FMCs domiciled outside Singapore, the Singapore-registered Representative or Agent of the FMC has to ensure timely submission of reports on compliance with the CPFIS Terms and Conditions for Fund Management Companies (CPFIS T&C), including the CPF Investment Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     18  Guidelines (CPFIG), for the FMC's funds that are included under CPFIS. Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   19  10. Sector Financial Services  Sub-Sector Participation in all kinds of securities, including underwriting and placement as agent and provision of service related to such issues  Industry Classification CPC 8132 Services related to securities markets  Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions (Article 10.4)   Source of Measure Securities and Futures Act (Cap. 289) Description of Reservation Banks' and merchant banks' membership on any securities exchange or futures exchange established in Singapore must be held through subsidiaries.  An entity is required to be present in Singapore for the supply of securities, including underwriting and placement as agent and provision of service related to such issues except for participation in issues of securities for own account, and underwriting and placement of securities through stockbroking companies, banks or merchant banks in Singapore.  Foreign stockbroking companies can establish only as non-members of the Singapore Exchange (SGX).  Non-members of the SGX can apply to become Approved Foreign Brokers (AFBs) of SGX to trade directly in non-Singapore dollar denominated securities quoted on SGX through terminals provided by SGX to such AFBs.  Representative offices shall not conduct business or act as agents.  No membership, including international membership, on SGX will be granted.  No foreign acquisition of new or existing equity interests in SGX member companies will be permitted.  International members can deal in foreign securities and SGX-quoted securities with non-residents and resident companies which are substantially or beneficially owned by non-residents. They can also deal with residents in foreign currency-denominated securities quoted on SGX. They shall not deal with residents in Singapore dollar-denominated Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     20  securities quoted on SGX for transactions below S$5 million each.  Only existing appointed primary dealers may carry on the business of either or both of the following:  (a)  applying to MAS to purchase Government securities on behalf of another person pursuant to a public invitation;   (b)   offering to redeem any Government securities on behalf of another person pursuant to a public invitation.  Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   21  11. Sector Financial Services  Sub-Sector Asset management, such as cash or portfolio management, all forms of collective investment management, pension fund management, custodial, depository and trust services   Industry Classification CPC 9119 Other financial intermediation services, other than insurance and pension fund services CPC 8131 Services related to the administration of financial markets CPC 8132 Services related to securities markets  Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions (Article 10.4)   Source of Measure Companies Act, Cap. 50  Description of Reservation Asset management companies, custodial depositories, and trust services companies may only establish as branches or subsidiaries.   A Fund Management Company should be a Singapore incorporated entity or a Singapore branch of a foreign corporation.   A holder of a trust business licence must be either: (a) a company incorporated under the Companies Act; or  (b)   a foreign company registered under Division 2 of Part XI of the Companies Act.  Both local and foreign companies (established in the permitted juridical forms above) will be assessed based on the same admission criteria.  Only the Central Depository Pte Ltd and/or its successor body is authorised to provide securities custodial depository services under the scripless trading system.    Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   22  12. Sector Financial Services  Sub-Sector Securities  Industry classification CPC 8132 Services related to securities markets Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions (Article 10.4)  Source of Measure Securities and Futures Act, Cap. 289 Description of Reservation Holders of a capital markets services licence may only establish as Singapore-incorporated companies or Singapore branch offices of a corporation.  Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   23  13.Sector Financial Services  Sub-Sector Payment and non-money transmission services  Industry Classification CPC 811 Financial Intermediation Services, except insurance and pension fund services  Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions (Article 10.4)   Source of Measure Money-Changing and Remittance Businesses Act, Cap. 187 Description of Reservation Remittance businesses and money-changing businesses, except where the remittance business or money-changing business is conducted by banks, merchant banks and finance companies, must be majority-owned by Singapore citizens (i.e. ownership of more than 50% shareholding).  MAS’ approval is required for a person to be a shareholder of a licensee.     Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     24  14. Sector Financial Services  Sub-Sector Money Broking  Type of Reservation National Treatment (Article 10.3)   Market Access for Financial Institutions (Article 10.4)   Source of Measure Monetary Authority of Singapore Act, Cap. 186 Description of Reservation Only existing approved money brokers may carry on the business of money broking.    Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   25  15. Sector Financial Services  Sub-Sector Advisory and other auxiliary financial services, including credit reference and analysis, investment and portfolio research and advice, advice on acquisitions and on corporate restructuring and strategy  Type of Reservation Market Access for Financial Institutions (Article 10.4)  Source of Measure Financial Advisers Act (Cap. 110) Description of Reservation Investment advisers may not provide investment and portfolio research and advice unless they have a commercial presence in Singapore. They can establish as branches, subsidiaries or representative offices. However, representative offices shall not conduct business or act as agents for Investment Advisers.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   26  16. Sector Financial Services  Sub-Sector Provision and transfer of financial information, and financial information, and financial data processing and related software by providers of other financial services  Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions (Article 10.4)   Source of Measure Banking Act (Cap. 19)  Description of Reservation Singapore branches of foreign banks may not transmit data to their head offices and sister branches for processing unless proper controls exist, the integrity and confidentiality of the data and information are safeguarded, and MAS is allowed on-site access to the data/information at the place where the data/information is processed.  Only the provision of financial information by providers such as Reuters and Bloomberg is allowed. The provision of financial data processing services to banks and merchant banks is subject to domestic laws on protection of confidentiality of information of customers of banks and merchant banks.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   27  17. Sector Financial Services  Sub-Sector All subsectors  Type of Reservation National Treatment (Article 10.3)  Market Access for Financial Institutions  (Article 10.4)  Source of Measure Banking Act (Cap. 19); Companies Act, Cap. 50;  Financial Advisers Act, Cap. 110 Finance Companies Act, Cap. 108; Insurance Act (Cap. 142); MAS Act, Cap. 186 Money-Changers and Remittance Businesses Act, Cap. 187 Payment Systems (Oversight) Act, Cap. 222A Securities and Futures Act (Cap. 289)  Description of Reservation An entity is required to be present in Singapore to supply  the following financial services:  life insurance; non-life insurance; insurance intermediation; acceptance of deposits; lending of all types; financial leasing; payment and money transmission services; trading for own account or for account of customers; money broking; asset management; and settlement and clearing services.    Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   28  18. Sector Financial Services  Sub-Sector Insurance  Industry Classification CPC 812 Insurance (including reinsurance) and pension fund services except compulsory social security services  Type of Reservation National Treatment (Article 10.3)  Source of Measure Admission Criteria, Guidelines and Application Forms for Fund Management and Insurance Companies included under CPFIS  Description of Reservation In considering the admission of Insurers under the Central Provident Fund Investment Scheme (CPFIS), the Board  may take into consideration the following factors:      (a)   whether the insurer is registered under the Insurance Act to carry on life insurance business.         (b)   whether the insurer has a minimum one-year track record as a registered insurer in Singapore.         (c)  whether the insurer employs a minimum of three fund management staff, one of whom must have at least five years of fund management experience. The other two may only have two years of fund management experience if he or she:         (i)  is a fully qualified Chartered Financial Analyst (CFA),       (ii)  is an Associate of the Society of Actuaries,      (iii)  holds a Certificate in Finance and Investments from the Institute of Actuaries, or        (iv)  holds an equivalent qualification from any of the professional actuarial bodies recognised in Singapore.              Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)     29  (d)   whether the insurer and its related group of companies have a sound financial position.         (e)   whether the insurer and its related group of companies have a good regulatory compliance record in Singapore and in other countries where they operate.  The factors listed above are the basic criteria for Insurers to be included under CPFIS. The CPF Board, in consultation with MAS, may consider an applicant for admission, on case by case basis, if the applicant does not meet a specific criterion but has other strengths.     “Fund management staff” in (c) shall include portfolio managers, research analysts and traders.     The insurer that passes the qualifying criteria will be allowed to offer new Investment-Linked Products (ILP) and manage ILP sub-funds. The insurer that is included under CPFIS but does not pass the quality screening test to manage ILP sub-funds themselves will still be allowed to market new ILPs provided they employ FMCs allowed under the CPFIS to manage the ILP sub-funds. If the insurer that does not pass the quality screening test to manage funds themselves wishes to employ an FMC that is not already included under the CPFIS, the insurer will need to apply to the CPF Board on a case-by-case basis. The insurer that does not pass the quality screening test to manage ILP sub-funds themselves will not be allowed to make any investment decisions, including asset allocation decisions for the sub-funds.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   30  19. Sector Financial Services  Sub-Sector Insurance  Industry Classification CPC 814 Services auxiliary to insurance and pension funding Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions  (Article 10.4)  Source of Measure  Insurance Act, Cap 142  Description of Reservation All insurance brokers (including reinsurance brokers) must establish as Singapore incorporated companies.    Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   31  20. Sector Financial Services  Sub-Sector Life insurance services including annuity, disability income, accident and health insurance services  Type of Reservation Market Access for Financial Institutions (Article 10.4)  Source of Measure  Insurance Act, Cap 142  Description of Reservation No new insurance licenses will be granted. No new representative office shall be established.  Foreign persons can only acquire an equity stake not exceeding 49% in aggregate in locally-owned insurance companies provided the acquisition does not result in any foreign party being the largest shareholder.     Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   32  21. Sector Financial Services  Sub-Sector Insurance  Industry Classification CPC 812 Insurance (including reinsurance) and pension fund services except compulsory social security services  Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions (Article 10.4)   Source of Measure  Insurance Act, Cap. 142 Description of Reservation Direct life insurers may only establish as Singapore-incorporated companies.  Reinsurance companies may only establish as branches or Singapore-incorporated companies.   Captive insurers may only establish as Singapore incorporated companies.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   33  22. Sector Financial Services  Sub-Sector Non-life insurance services including disability income, accident and health insurance and contracts of fidelity bonds, performance bonds or similar contracts of guarantee   Industry Classification CPC 812 – Insurance (including reinsurance) and pension fund services except compulsory social security services  Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions (Article 10.4) Cross Border Trade in Financial Services (Article 10.5)   Source of Measure Motor Vehicles (Third Party Risks and Compensation) Act, Cap. 189 Workmen's Compensation Act, Cap. 354  Description of Reservation Compulsory insurance of Motor Third Party Liability under the Motor Vehicles (Third-Party Risks and Compensation) Act and Work Injury Compensation Act can only be purchased from licensed insurance companies in Singapore.  Foreign persons can only acquire equity stakes not exceeding 49% in aggregate in locally-owned insurance companies provided the acquisition does not result in any foreign party being the largest shareholder.   No new insurance licenses will be granted. No new representative office shall be established.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   34  23. Sector Financial Services  Sub-Sector Insurance intermediation comprising broking and agency services  Industry Classification  CPC 814 – Services auxiliary to insurance and pension funding Type of Reservation  National Treatment (Article 10.3)    Source of Measure Insurance Act, Cap 142,  Financial Advisers Act, Cap. 110   Description of Reservation Agents shall not be allowed to act for unlicensed insurers. With the exception of reinsurance risks and risks insured by protection and indemnity club, placement of domestic risks outside Singapore by brokers is subject to approval by MAS.      Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   35  24. Sector Financial Services  Sub-Sector Insurance intermediation comprising  broking and agency services  Settlement and clearing services for financial assets, including securities, derivative products and other negotiable instrument  Type of Reservation  National Treatment (Article 10.3)  Source of Measure Financial Advisers Act, Cap. 110]; Securities and Futures Act, Cap. 289; Banking Act, Cap. 19 Description of Reservation Foreign entities are not allowed to supply the following financial services in the territory of Singapore:  (a) insurance intermediation; or  (b) settlement and clearing services for financial assets, including securities, derivative products and other negotiable instrument.   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   36  25. Sector Financial Services  Sub-Sector Insurance  Industry Classification CPC 812  Insurance (including reinsurance) and pension fund services, except compulsory social security service  Type of Reservation National Treatment  (Article 10.3)  Description of Reservation Singapore requires product filing for life insurance business, as well as product approval for Central Provident Fund-related products, investment-linked products and insurance products new to the Singapore market.  Existing Measures Admission criteria set by CPF Board and Ministry of Health   Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore)   37  26. Sector Financial Services  Sub-Sector All sectors  Type of Reservation National Treatment (Article 10.3) Market Access for Financial Institutions (Article 10.4)  Source of Measure Insurance Act, Cap. 142 MAS Notice 109 Banking Act, Cap 19 MAS Notice 757 Finance Companies Act, Cap. 108 MAS Notice 816 Monetary Authority of Singapore Act, Cap. 186. MAS Notice 1105 Securities and Futures Act, Cap. 289     Description of Reservation Financial Institutions extending Singapore dollar (S$) credit facilities exceeding $5 million per entity to non-resident financial entities or arranging S$ equity or bond issues for non-residents, must ensure that where the S$ proceeds are to be used outside Singapore, they are swapped or converted into foreign currency upon draw-down or before remittance abroad.  Financial Institutions shall not extend S$ credit facilities to non-resident financial entities if there is reason to believe that the S$ proceeds may be used for S$ currency speculation. The term “non-resident” is as defined in MAS Notice 757 issued under the Banking Act.     
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+1 
+ 
+ 
+ANNEX 10-A 
+NON-CONFORMING MEASURES FOR FINANCIAL SERVICES 
+SCHEDULE OF SINGAPORE 
+ 
+Explanatory Note 
+ 
+1. 
+ The Schedule of Singapore to this Annex sets out, pursuant to Article 10.6 (Non-
+Conforming Measures) of Chapter 10 (Financial Services), the reservations taken 
+by Singapore with respect to measures that do not conform to some or all of the 
+obligations imposed by: 
+ 
+(a) 
+Article 10.3 (National Treatment) of Chapter 10 (Financial Services);  
+ 
+(b) 
+Article 10.4 (Market Access for Financial Institutions) of Chapter 10 
+(Financial Services); or  
+ 
+(c) 
+Article 10.5 (Cross-Border Trade in Financial Services) of Chapter 10 
+(Financial Services). 
+   
+2. 
+All measures affecting Article 10.3 (National Treatment), Article 10.4 (Market 
+Access for Financial Services) and Article 10.5 (Cross-Border Trade in Financial 
+Services) of Chapter 10 (Financial Services) shall be stated in the Description of 
+Reservation element. In the interpretation of a reservation, all elements of the 
+reservations shall be considered in their totality. 
+ 
+3. 
+ Each Schedule entry sets out the following elements: 
+ 
+(a)  
+Sector refers to the general sector for which the entry is made, 
+ 
+(b)  
+Sub-sector, for Singapore, refers to the specific sector for which the entry 
+is made, 
+ 
+(c)   
+Industry Classification refers, for Singapore, where applicable, to the 
+activity covered by the non-conforming measure, according to the 
+provisional CPC codes as used in the Provisional Central Product 
+Classification (Statistical Papers Series M No. 77, Department of 
+International Economic and Social Affairs, Statistical Office of the United 
+Nations, New York, 1991);  
+ 
+(d) 
+Type of Reservation specifies the obligation(s) referred to in paragraph 
+1(a) of Article 10.6 (Non-Conforming Measures) of Chapter 10 (Financial 
+Services for which a reservation is taken;   
+ 
+(e) 
+Source of Measure identifies the laws, regulations, rules, procedures, 
+administrative actions or any other form in which the reservation is taken. 
+A measure cited in the Source of Measure element: 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+(A) 
+means the measure as amended, continued, or renewed as of the date 
+of entry into force of this Agreement; and 
+ 
+(B) 
+includes any subordinate measure adopted or maintained under the 
+authority of and consistent with the measure; and 
+ 
+  
+ 
+(f) 
+Description of Reservation, for Singapore, sets out the non-conforming 
+measures to which the reservation applies. 
+ 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+1. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Banking 
+ 
+Industry Classification 
+CPC 811 Financial Intermediation Services, except 
+insurance and pension fund services 
+ 
+Type of Reservation 
+ 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions  (Article 10.4) 
+ 
+Source of Measure 
+ 
+Banking Act, Cap. 19 
+Monetary Authority of Singapore Act, Cap 186 
+Finance Companies Act, Cap 108 
+MAS Notice 636 
+ 
+Guidelines for Operation of Wholesale Banks, Guidelines 
+for Operation of Offshore Banks, Guidelines for Operation 
+of Merchant Banks 
+ 
+Description of 
+Reservation 
+Only institutions licensed or approved by the Monetary 
+Authority of Singapore or its successor (hereinafter referred 
+to as MAS) as banks, merchant banks or finance companies 
+can accept deposits. 
+ 
+Foreign banks may only establish as Singapore branch 
+offices of a corporation or Singapore-incorporated 
+companies.  
+ 
+Foreign banks can operate from only one office (excluding 
+back office operations). They cannot establish off-premise 
+ATMs and ATM networking and new sub-branches. 
+ 
+Location of banks and relocation of banks and sub-branches 
+require prior approval from MAS. 
+ 
+No new full bank licences will be granted to foreign banks. 
+New foreign banks may only establish as wholesale banks or 
+offshore banks. 
+ 
+MAS may exercise appropriate differentiated measures to 
+specific financial institutions in Singapore to safeguard the 
+interest of Singapore depositors. 
+  
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+4 
+ 
+A bank may only operate foreign currency savings accounts 
+for non-residents if MAS' approval has been obtained. A 
+bank shall not operate foreign currency savings accounts in 
+any other cases. 
+ 
+A single or related group of foreign shareholders can only 
+hold up to 5% of a local bank’s shares. The limit on 
+aggregate foreign ownership of each domestic bank’s shares 
+is 40%. 
+ 
+Wholesale Banks  
+  
+Wholesale banks are not permitted to:   
+ 
+(a) 
+operate savings accounts denominated in 
+Singapore dollars, except with the prior 
+approval of MAS; 
+ 
+(b) 
+accept Singapore dollar fixed deposits of less 
+than S$250,000 or allow the outstanding 
+deposits (including interest) to be  less than 
+S$250,000 at all times, except on termination 
+of the account or the withdrawal of all 
+deposits standing to the credit of the 
+depositor;  
+ 
+(c) 
+operate  Singapore  dollar  current  accounts  
+for natural persons who are Singapore 
+residents, except with the prior approval of 
+MAS;  
+ 
+(d) 
+issue, in Singapore, bonds and negotiable 
+certificates 
+of 
+deposit, 
+unless 
+the 
+requirements 
+pertaining 
+to 
+minimum 
+maturity period, minimum denomination or 
+class of investors contained in the Guidelines 
+for Operation of Wholesale Banks  issued by 
+MAS and/or  its successor body are complied 
+with; or 
+ 
+(e) 
+operate from more than one place of business 
+in Singapore.  
+  
+Offshore banks  
+  
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+5 
+ 
+Offshore banks can accept foreign currency fixed deposits 
+from residents and non-residents. For Singapore dollar 
+deposits, they can only accept fixed deposits of S$250,000 
+or more per deposit from non-residents.  Offshore banks 
+shall not operate savings accounts or accept fixed deposits 
+denominated in Singapore dollars for Singapore residents. 
+ 
+Offshore banks are not permitted to:  
+ 
+(a) 
+when transacting banking business with 
+persons that are not approved financial 
+institutions, and when such persons are 
+residents of Singapore:  
+ 
+(i) 
+operate savings accounts or accept 
+fixed 
+deposits 
+denominated 
+in 
+Singapore dollars; 
+ 
+(ii) 
+operate accounts other than in 
+connection with 
+credit facilities 
+granted to or other business dealings 
+with the customer, or to a customer 
+who 
+has 
+an 
+existing 
+banking 
+relationship with the bank’s head 
+office or any overseas branch, and 
+provided always that if the customer 
+is a natural person, the Singapore 
+dollar account shall not be interest-
+bearing; or 
+ 
+(iii) 
+provide credit  facilities to residents 
+of Singapore which are not approved 
+financial institutions (but excluding 
+credit facilities granted to the bank’s 
+employees) exceeding a total of 
+S$500 million at any one time, except 
+with the prior approval of MAS;  
+ 
+(b) 
+when transacting banking business with 
+persons that are not approved financial 
+institutions, and when such persons are not 
+residents of Singapore,  
+ 
+(i) 
+operate 
+savings 
+accounts 
+denominated in Singapore dollars;  
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+6 
+ 
+(ii) 
+accept fixed deposits, in respect of 
+Singapore dollar fixed deposits, 
+which is less than S$250,000 for the 
+initial deposit or the outstanding 
+deposits (including interest) at all 
+times except on termination of the 
+account or the withdrawal of all 
+deposits standing to the credit of the 
+depositor; 
+ 
+(c) 
+issue, in Singapore,  bonds  and negotiable 
+certificates 
+ 
+of 
+deposit, 
+unless 
+the 
+requirements pertaining to the issuing 
+currency, 
+minimum 
+maturity 
+period, 
+minimum denomination or class of investors 
+contained in the Guidelines  for Operation of 
+Offshore Banks  issued  by MAS and/or  its 
+successor body are complied with; 
+ 
+(d) 
+enter into any transaction or series of 
+transactions (whether these be swaps or other 
+type of financial instruments) that will enable 
+it to receive, directly or indirectly, what is in 
+effect a deposit of Singapore dollar funds; 
+and 
+ 
+(e) 
+operate from more than one place of business 
+in Singapore. 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+7 
+ 
+2. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Banking 
+ 
+Industrial Classification 
+CPC 811 Financial Intermediation Services, except 
+insurance and pension fund services 
+ 
+Type of Reservation 
+National Treatment (Article 10.3)  
+Market Access for Financial Institutions (Article 10.4)  
+ 
+Source of Measure 
+Finance Companies Act, Cap. 108  
+Description of 
+Reservation 
+No new finance company licences will be granted.  
+ 
+Finance companies may only establish as Singapore-
+incorporated companies. 
+ 
+Foreign persons shall not acquire shares in finance 
+companies incorporated in Singapore, or transfer or sell 
+shares in existing finance companies. 
+ 
+All finance companies, local and foreign-owned, can only 
+conduct Singapore dollar business. Finance companies shall 
+not deal in foreign currencies, gold, or other precious metals, 
+and acquire foreign currency stocks, shares or debt or 
+convertible securities, except with MAS’ prior approval. 
+ 
+Finance companies may not, unless there is prior approval 
+from MAS: 
+ 
+(a) 
+ offer deposit accounts which are repayable 
+on demand by cheque, draft or order; 
+ 
+(b) 
+deal in any foreign currency, gold or other 
+precious metals, or acquire foreign currency 
+stocks, shares or debt/convertible securities; 
+ 
+(c) 
+grant or permit to be outstanding to any one 
+person or to any group of persons under the 
+control or influence of any one person, any 
+credit facilities if the aggregate amount of 
+such credit facilities exceeds 25% of its 
+capital funds or such other percentage not 
+exceeding 100% of its capital funds as MAS 
+may approve; 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+8 
+ 
+(d) 
+grant substantial loans which in the aggregate 
+exceed 50% of its total credit facilities or 
+such other percentage as MAS may from time 
+to time determine;  
+ 
+(e) 
+grant unsecured advances, unsecured loans or 
+unsecured credit facilities — 
+ 
+(i) 
+to any person or body of persons, 
+whether incorporated or not, which in 
+the aggregate and outstanding at any 
+one time exceeds $5,000, and 
+ 
+(ii)  
+which 
+in 
+the 
+aggregate 
+and 
+outstanding at any one time exceeds 
+10% of the capital funds of the 
+finance company; 
+ 
+(f) 
+establish 
+off-premise 
+ATMs, 
+ATM 
+networking or allow their accounts to be 
+debited through an Electronic Funds Transfer 
+at Point of Sale (EFTPOS); or 
+ 
+(g) 
+open or relocate place of business including 
+sub-branches. 
+ 
+Location of finance companies and relocation of sub-
+branches require MAS’ prior approval.  Foreign owned 
+finance companies are not permitted to establish off-premise 
+ATMs, ATM networking and new sub-branches. 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+9 
+ 
+3.  
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Banking 
+ 
+Industrial Classification 
+CPC 8111 Services of Monetary Intermediaries 
+ 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions (Article 10.4)  
+ 
+ 
+Source of Measure 
+Monetary Authority of Singapore Act, Cap. 186 
+ 
+Description of 
+Reservation 
+Merchant banks may only establish as Singapore branch 
+offices of a corporation or Singapore-incorporated company. 
+ 
+A merchant bank shall operate only from one office 
+(excluding back-office operations). Location and relocation 
+of merchant banks require MAS’ prior approval. 
+ 
+Merchant banks require MAS’ authorisation to raise foreign 
+currency funds from residents and non-residents, operate 
+foreign currency savings accounts for non-residents and raise 
+Singapore dollar funds from their shareholders and 
+companies controlled by their shareholders, banks, other 
+merchant banks and finance companies.  
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+10 
+ 
+4.Sector 
+Financial Services 
+ 
+Sub-Sector 
+Lending of all types, including consumer credit, mortgage 
+credit, factoring and financing of commercial transaction 
+ 
+Type of Reservation 
+National Treatment(Article 10.3)  
+Market Access for Financial Institutions (Article 10.4)  
+ 
+Source of Measure 
+ 
+Banking Act, Cap. 19 
+Description of 
+Reservation 
+Credit and charge cards shall only be issued by card issuers 
+approved by MAS, subject to MAS guidelines.   
+ 
+Singapore dollar loans by local and foreign-owned financial 
+institutions, to non-residents, non-resident controlled 
+companies and to residents for use outside Singapore require 
+MAS’ approval. 
+ 
+An offshore bank’s aggregate lending in Singapore dollars 
+to residents shall not exceed S$200m.  
+ 
+Offshore banks shall not use their related merchant banks to 
+circumvent the S$200m lending limit. 
+ 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+11 
+ 
+5.Sector 
+Financial Services 
+ 
+Sub-Sector 
+Payment and money transmission services, including credit, 
+charge and debit cards, travellers cheques 
+ 
+Type of Reservation 
+National Treatment (Article 10.3)  
+Market Access for Financial Institutions(Article 10.4)  
+ 
+Source of Measure 
+ 
+Banking Act, Cap. 19 
+Description of 
+Reservation 
+Remittance shops, except where the remittance business is 
+conducted by banks and merchant banks, are required to be 
+majority owned by Singapore citizens. 
+ 
+Only banks, and no other person, may issue bankers' drafts.. 
+ 
+Only the following person may issue stored value cards: 
+ 
+(a) 
+a bank in Singapore licensed by MAS; and  
+ 
+(b) 
+a juridical person for the payment only of 
+goods or services or both goods and services 
+provided by that person.  
+ 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+12 
+ 
+6. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Settlement and clearing services for financial assets, 
+including securities, derivative products and other negotiable 
+instruments 
+ 
+Industry Classification 
+CPC 813 Services auxiliary to financial intermediation other 
+than to insurance and pension funding 
+ 
+Type of Reservation 
+Market Access for Financial Institutions(Article 10.4)  
+ 
+Source of Measure 
+ 
+Banking Act, Cap. 19 
+Description of 
+Reservation 
+Only a clearing house established under the Banking Act 
+may provide clearing services for cheques and other credit 
+instruments which are drawn on a bank in Singapore 
+(whether payable in Singapore dollars or other currency), 
+and services for interbank GIRO transfers. 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+13 
+ 
+7. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+-  
+ 
+Industry Classification 
+CPC 8131 Services related to the administrative of financial 
+markets 
+CPC 8132 Services related to securities markets 
+ 
+Type of Reservation 
+National Treatment (Article 10.3)   
+Market Access for Financial Institutions(Article 10.4)  
+Source of Measure 
+Securities and Futures Act, Cap. 289 
+Description of Reservation The establishment or operation of securities and futures 
+markets as exchanges, exempt exchanges or recognised 
+trading system providers, is subject to the authorisation, 
+including the imposition of conditions for authorisation, by 
+the MAS.  
+ 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+14 
+ 
+8. 
+Sector 
+ 
+Financial Services 
+Sub-Sector 
+Trading for own account or for account of customers, 
+whether on an exchange, in an over-the-counter market or 
+otherwise, the following: money market instruments 
+(including cheques, bills, certificates of deposit), foreign 
+exchange, derivative products, including financial futures 
+and options, exchange rates and interest rate instruments, 
+including swaps and forward rate agreements, transferable 
+securities or other negotiable instruments and financial 
+assets including bullion.  
+ 
+Industry Classification 
+ 
+CPC 8132 Services related to securities markets 
+Type of Reservation 
+ 
+Market Access for Financial Institutions (Article 10.4)  
+Source of Measure 
+ 
+ Securities and Futures Act Cap. 289 
+Description of 
+Reservation 
+ 
+Trading in money market instruments, foreign exchange, as 
+well as exchange rate and interest rate instruments can be 
+conducted with financial institutions only. 
+ 
+Banks and merchant banks are required to set up separate 
+subsidiaries to trade financial futures for customers. 
+Financial futures brokers can establish as branches or 
+subsidiaries.  
+ 
+The offer of derivative products by both local and foreign-
+owned financial institutions is allowed provided: 
+ 
+(a) 
+the product has been offered by the financial 
+institution in other internationally-reputable 
+financial 
+centres 
+and 
+the 
+supervisory 
+authorities of those centres agree to the offer 
+of such products in their markets; 
+ 
+(b) 
+the financial institution’s parent supervisor 
+and its head office must be aware and have no 
+objection to the offer of such products in the 
+Singapore branch or subsidiary; and  
+ 
+(c) 
+MAS is satisfied that the financial institution 
+has and continues to have the financial 
+strength and adequate internal controls and 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+15 
+ 
+risk management systems to trade in these 
+products. 
+ 
+The offer of derivative products involving the Singapore 
+dollar is subject to the requirement that Singapore dollar 
+loans by local and foreign-owned financial institutions, to 
+non-residents, non-resident controlled companies and to 
+residents for use outside Singapore require MAS’ prior 
+approval. 
+ 
+Money-changers, except where the money-changing 
+business is conducted by banks and merchant banks, are 
+required to be majority owned by Singapore citizens.  
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+16 
+ 
+ 9. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Asset management 
+ 
+Industry Classification 
+CPC 8132 Services related to securities market 
+ 
+Type of Reservation 
+National Treatment (Article 10.3)   
+ 
+Source of Measure 
+Admission Criteria, Guidelines and Application Forms for 
+Fund Management and Insurance Companies included under 
+CPFIS 
+ 
+Description of 
+Reservation 
+1. In considering the admission of Fund Management 
+Companies (FMCs) under the Central Provident Fund 
+Investment Scheme (CPFIS), the Central Provident Fund 
+Board and/or its successor body may take into consideration 
+the following factors: 
+ 
+(a)  
+whether the FMC holds a capital markets 
+services 
+(CMS) 
+licence 
+for 
+Fund 
+Management under the Securities and 
+Futures Act , Cap 289 or is exempted from 
+licensing under section 99(1)(a) to (c) of the 
+Act. For the foreign FMC of a recognised 
+fund, whether the foreign FMC holds the 
+equivalent licence in the jurisdiction of its 
+principal place of business;     
+     
+(b)   
+whether the FMC has a minimum one-year 
+track record as a CMS licence holder under 
+the Securities Futures Act, Cap 289 in the 
+fund management industry in Singapore 
+while the group as a whole has a minimum of 
+three years track record in fund management. 
+For the foreign FMC of a recognised fund, 
+whether it has a minimum of three years track 
+record in fund management;   
+     
+(c)   
+whether the FMC and its related group of 
+companies manage at least S$500 million 
+worth of funds in Singapore. For the FMC 
+that intends to offer funds that would be sub-
+managed by another FMC, or offer funds that 
+feed into Collective Investment Schemes 
+(CIS) constituted outside Singapore, or offer 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+17 
+ 
+recognised 
+funds 
+constituted 
+outside 
+Singapore directly; whether the FMC and its 
+related group of companies manages at least 
+S$1 billion of discretionary funds globally;    
+     
+(d)  
+whether the FMC has a minimum of three 
+fund managers, one of whom must have at 
+least five years of fund management 
+experience. The definition of “fund manager” 
+shall include portfolio managers, research 
+analysts and traders;    
+     
+(e)   
+whether the FMC and its related group of 
+companies have a sound financial position;   
+     
+(f)   
+whether the FMC and its related companies 
+have a good regulatory compliance record in 
+Singapore or in the jurisdiction of its place of 
+business;    
+     
+(g)   
+whether the FMC is a member or associate 
+member of the Investment Management 
+Association of Singapore (IMAS) and subject 
+to the Code of Ethics of IMAS. For 
+recognised funds, the local representative of 
+a foreign FMC should be a member of IMAS. 
+ 
+2. 
+The factors listed above are the basic criteria for 
+FMCs to be included under CPFIS. The Central Provident 
+Fund Board or its successor body (hereinafter referred to as 
+the CPF Board), in consultation with MAS, may consider the 
+FMC for admission, on case-by-case basis, if the FMC does 
+not meet a specific criterion but has other strengths.    
+     
+3. 
+The FMC that passes the qualifying criteria stated in 
+paragraph 1 would be able to manage Collective Investment 
+Schemes (CIS) and Investment-Linked Product (ILP) sub-
+funds, as well as offer fund management account services 
+under CPFIS.    
+       
+ 
+4. 
+For FMCs domiciled outside Singapore, the 
+Singapore-registered Representative or Agent of the FMC 
+has to ensure timely submission of reports on compliance 
+with the CPFIS Terms and Conditions for Fund Management 
+Companies (CPFIS T&C), including the CPF Investment 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+18 
+ 
+Guidelines (CPFIG), for the FMC's funds that are included 
+under CPFIS. 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+19 
+ 
+10. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Participation 
+in 
+all kinds 
+of 
+securities, 
+including 
+underwriting and placement as agent and provision of 
+service related to such issues 
+ 
+Industry Classification 
+CPC 8132 Services related to securities markets 
+ 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions (Article 10.4)  
+ 
+Source of Measure 
+Securities and Futures Act (Cap. 289) 
+Description of 
+Reservation 
+Banks' and merchant banks' membership on any securities 
+exchange or futures exchange established in Singapore must 
+be held through subsidiaries. 
+ 
+An entity is required to be present in Singapore for the 
+supply of securities, including underwriting and placement 
+as agent and provision of service related to such issues 
+except for participation in issues of securities for own 
+account, and underwriting and placement of securities 
+through stockbroking companies, banks or merchant banks 
+in Singapore. 
+ 
+Foreign stockbroking companies can establish only as non-
+members of the Singapore Exchange (SGX).  Non-members 
+of the SGX can apply to become Approved Foreign Brokers 
+(AFBs) of SGX to trade directly in non-Singapore dollar 
+denominated securities quoted on SGX through terminals 
+provided by SGX to such AFBs. 
+ 
+Representative offices shall not conduct business or act as 
+agents. 
+ 
+No membership, including international membership, on 
+SGX will be granted.  No foreign acquisition of new or 
+existing equity interests in SGX member companies will be 
+permitted. 
+ 
+International members can deal in foreign securities and 
+SGX-quoted securities with non-residents and resident 
+companies which are substantially or beneficially owned by 
+non-residents. They can also deal with residents in foreign 
+currency-denominated securities quoted on SGX. They shall 
+not deal with residents in Singapore dollar-denominated 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+20 
+ 
+securities quoted on SGX for transactions below S$5 million 
+each. 
+ 
+Only existing appointed primary dealers may carry on the 
+business of either or both of the following: 
+ 
+(a)  
+applying to MAS to purchase Government 
+securities on behalf of another person 
+pursuant to a public invitation;  
+ 
+(b)   
+offering 
+to 
+redeem 
+any 
+Government 
+securities on behalf of another person 
+pursuant to a public invitation.  
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+21 
+ 
+11. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Asset management, such as cash or portfolio management, 
+all forms of collective investment management, pension 
+fund management, custodial, depository and trust services  
+ 
+Industry Classification 
+CPC 9119 Other financial intermediation services, other than 
+insurance and pension fund services 
+CPC 8131 Services related to the administration of financial 
+markets 
+CPC 8132 Services related to securities markets 
+ 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions (Article 10.4)  
+ 
+Source of Measure 
+Companies Act, Cap. 50 
+ 
+Description of 
+Reservation 
+Asset management companies, custodial depositories, and 
+trust services companies may only establish as branches or 
+subsidiaries.  
+ 
+A Fund Management Company should be a Singapore 
+incorporated entity or a Singapore branch of a foreign 
+corporation.  
+ 
+A holder of a trust business licence must be either: 
+(a) 
+a 
+company 
+incorporated 
+under 
+the 
+Companies Act; or 
+ 
+(b)   
+a foreign company registered under Division 
+2 of Part XI of the Companies Act. 
+ 
+Both local and foreign companies (established in the 
+permitted juridical forms above) will be assessed based on 
+the same admission criteria. 
+ 
+Only the Central Depository Pte Ltd and/or its successor 
+body is authorised to provide securities custodial depository 
+services under the scripless trading system.  
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+22 
+ 
+12. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Securities 
+ 
+Industry classification 
+CPC 8132 Services related to securities markets 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions (Article 10.4) 
+ 
+Source of Measure 
+Securities and Futures Act, Cap. 289 
+Description of 
+Reservation 
+Holders of a capital markets services licence may only 
+establish as Singapore-incorporated companies or Singapore 
+branch offices of a corporation. 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+23 
+ 
+13.Sector 
+Financial Services 
+ 
+Sub-Sector 
+Payment and non-money transmission services 
+ 
+Industry Classification 
+CPC 811 Financial Intermediation Services, except 
+insurance and pension fund services 
+ 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions (Article 10.4)  
+ 
+Source of Measure 
+Money-Changing and Remittance Businesses Act, Cap. 187 
+Description of 
+Reservation 
+Remittance businesses and money-changing businesses, 
+except where the remittance business or money-changing 
+business is conducted by banks, merchant banks and finance 
+companies, must be majority-owned by Singapore citizens 
+(i.e. ownership of more than 50% shareholding).  MAS’ 
+approval is required for a person to be a shareholder of a 
+licensee. 
+ 
+ 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+24 
+ 
+14. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Money Broking 
+ 
+Type of Reservation 
+National Treatment (Article 10.3)   
+Market Access for Financial Institutions (Article 10.4)  
+ 
+Source of Measure 
+Monetary Authority of Singapore Act, Cap. 186 
+Description of 
+Reservation 
+Only existing approved money brokers may carry on the 
+business of money broking.  
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+25 
+ 
+15. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Advisory and other auxiliary financial services, including 
+credit reference and analysis, investment and portfolio 
+research and advice, advice on acquisitions and on corporate 
+restructuring and strategy 
+ 
+Type of Reservation 
+Market Access for Financial Institutions (Article 10.4) 
+ 
+Source of Measure 
+Financial Advisers Act (Cap. 110) 
+Description of 
+Reservation 
+Investment advisers may not provide investment and 
+portfolio research and advice unless they have a commercial 
+presence in Singapore. They can establish as branches, 
+subsidiaries 
+or 
+representative 
+offices. 
+However, 
+representative offices shall not conduct business or act as 
+agents for Investment Advisers. 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+26 
+ 
+16. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Provision and transfer of financial information, and financial 
+information, and financial data processing and related 
+software by providers of other financial services 
+ 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions (Article 10.4)  
+ 
+Source of Measure 
+Banking Act (Cap. 19) 
+ 
+Description of 
+Reservation 
+Singapore branches of foreign banks may not transmit data 
+to their head offices and sister branches for processing unless 
+proper controls exist, the integrity and confidentiality of the 
+data and information are safeguarded, and MAS is allowed 
+on-site access to the data/information at the place where the 
+data/information is processed. 
+ 
+Only the provision of financial information by providers 
+such as Reuters and Bloomberg is allowed. The provision of 
+financial data processing services to banks and merchant 
+banks is subject to domestic laws on protection of 
+confidentiality of information of customers of banks and 
+merchant banks.  
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+27 
+ 
+17. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+All subsectors 
+ 
+Type of Reservation 
+National Treatment (Article 10.3)  
+Market Access for Financial Institutions  (Article 10.4) 
+ 
+Source of Measure 
+Banking Act (Cap. 19); 
+Companies Act, Cap. 50;  
+Financial Advisers Act, Cap. 110 
+Finance Companies Act, Cap. 108; 
+Insurance Act (Cap. 142); 
+MAS Act, Cap. 186 
+Money-Changers and Remittance Businesses Act, Cap. 187 
+Payment Systems (Oversight) Act, Cap. 222A 
+Securities and Futures Act (Cap. 289) 
+ 
+Description of 
+Reservation 
+An entity is required to be present in Singapore to supply  the 
+following financial services:  life insurance; non-life 
+insurance; insurance intermediation; acceptance of deposits; 
+lending of all types; financial leasing; payment and money 
+transmission services; trading for own account or for account 
+of customers; money broking; asset management; and 
+settlement and clearing services. 
+ 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+28 
+ 
+18. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Insurance 
+ 
+Industry 
+Classification 
+CPC 812 Insurance (including reinsurance) and pension 
+fund services except compulsory social security services 
+ 
+Type of Reservation 
+National Treatment (Article 10.3)  
+Source of Measure 
+Admission Criteria, Guidelines and Application Forms for 
+Fund Management and Insurance Companies included under 
+CPFIS 
+ 
+Description of 
+Reservation 
+In considering the admission of Insurers under the Central 
+Provident Fund Investment Scheme (CPFIS), the Board  may 
+take into consideration the following factors: 
+     
+(a)   
+whether the insurer is registered under the 
+Insurance Act to carry on life insurance 
+business.    
+     
+(b)   
+whether the insurer has a minimum one-year 
+track record as a registered insurer in 
+Singapore.    
+     
+(c)  
+whether the insurer employs a minimum of 
+three fund management staff, one of whom 
+must have at least five years of fund 
+management experience. The other two may 
+only have two years of fund management 
+experience if he or she:    
+     
+(i)  
+is 
+a 
+fully 
+qualified 
+Chartered 
+Financial Analyst (CFA),     
+  
+(ii)  
+is an Associate of the Society of 
+Actuaries,     
+ 
+(iii)  
+holds a Certificate in Finance and 
+Investments from the Institute of 
+Actuaries, or     
+   
+(iv)  
+holds an equivalent qualification from 
+any of the professional actuarial 
+bodies recognised in Singapore.     
+         
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+ 
+ 
+29 
+ 
+(d)   
+whether the insurer and its related group of 
+companies have a sound financial position.    
+     
+(e)   
+whether the insurer and its related group of 
+companies 
+have 
+a 
+good 
+regulatory 
+compliance record in Singapore and in other 
+countries where they operate. 
+ 
+The factors listed above are the basic criteria for Insurers to 
+be included under CPFIS. The CPF Board, in consultation 
+with MAS, may consider an applicant for admission, on case 
+by case basis, if the applicant does not meet a specific 
+criterion but has other strengths.    
+ 
+“Fund management staff” in (c) shall include portfolio 
+managers, research analysts and traders.    
+ 
+The insurer that passes the qualifying criteria will be allowed 
+to offer new Investment-Linked Products (ILP) and manage 
+ILP sub-funds. The insurer that is included under CPFIS but 
+does not pass the quality screening test to manage ILP sub-
+funds themselves will still be allowed to market new ILPs 
+provided they employ FMCs allowed under the CPFIS to 
+manage the ILP sub-funds. If the insurer that does not pass 
+the quality screening test to manage funds themselves wishes 
+to employ an FMC that is not already included under the 
+CPFIS, the insurer will need to apply to the CPF Board on a 
+case-by-case basis. The insurer that does not pass the quality 
+screening test to manage ILP sub-funds themselves will not 
+be allowed to make any investment decisions, including 
+asset allocation decisions for the sub-funds. 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+30 
+ 
+19. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Insurance 
+ 
+Industry Classification 
+CPC 814 Services auxiliary to insurance and pension 
+funding 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions  (Article 10.4) 
+ 
+Source of Measure 
+ 
+Insurance Act, Cap 142 
+ 
+Description of 
+Reservation 
+All insurance brokers (including reinsurance brokers) must 
+establish as Singapore incorporated companies. 
+ 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+31 
+ 
+20. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Life insurance services including annuity, disability 
+income, accident and health insurance services 
+ 
+Type of Reservation 
+Market Access for Financial Institutions (Article 10.4) 
+ 
+Source of Measure 
+ 
+Insurance Act, Cap 142 
+ 
+Description of 
+Reservation 
+No new insurance licenses will be granted. No new 
+representative office shall be established. 
+ 
+Foreign persons can only acquire an equity stake not 
+exceeding 49% in aggregate in locally-owned insurance 
+companies provided the acquisition does not result in any 
+foreign party being the largest shareholder.  
+  
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+32 
+ 
+21. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Insurance 
+ 
+Industry Classification 
+CPC 812 Insurance (including reinsurance) and pension 
+fund services except compulsory social security services 
+ 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions (Article 10.4)  
+ 
+Source of Measure 
+ 
+Insurance Act, Cap. 142 
+Description of 
+Reservation 
+Direct life insurers may only establish as Singapore-
+incorporated companies. 
+ 
+Reinsurance companies may only establish as branches or 
+Singapore-incorporated companies.  
+ 
+Captive insurers may only establish as Singapore 
+incorporated companies. 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+33 
+ 
+22. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Non-life insurance services including disability income, 
+accident and health insurance and contracts of fidelity 
+bonds, performance bonds or similar contracts of guarantee  
+ 
+Industry Classification 
+CPC 812 – Insurance (including reinsurance) and pension 
+fund services except compulsory social security services 
+ 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions (Article 10.4) 
+Cross Border Trade in Financial Services (Article 10.5)  
+ 
+Source of Measure 
+Motor Vehicles (Third Party Risks and Compensation) Act, 
+Cap. 189 
+Workmen's Compensation Act, Cap. 354 
+ 
+Description of 
+Reservation 
+Compulsory insurance of Motor Third Party Liability under 
+the Motor Vehicles (Third-Party Risks and Compensation) 
+Act and Work Injury Compensation Act can only be 
+purchased from licensed insurance companies in Singapore. 
+ 
+Foreign persons can only acquire equity stakes not 
+exceeding 49% in aggregate in locally-owned insurance 
+companies provided the acquisition does not result in any 
+foreign party being the largest shareholder.  
+ 
+No new insurance licenses will be granted. No new 
+representative office shall be established. 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+34 
+ 
+23. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Insurance intermediation comprising broking and agency 
+services 
+ 
+Industry Classification 
+ 
+CPC 814 – Services auxiliary to insurance and pension 
+funding 
+Type of Reservation 
+ 
+National Treatment (Article 10.3)   
+ 
+Source of Measure 
+Insurance Act, Cap 142,  
+Financial Advisers Act, Cap. 110  
+ 
+Description of 
+Reservation 
+Agents shall not be allowed to act for unlicensed insurers. 
+With the exception of reinsurance risks and risks insured by 
+protection and indemnity club, placement of domestic risks 
+outside Singapore by brokers is subject to approval by 
+MAS.  
+ 
+ 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+35 
+ 
+24. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Insurance intermediation comprising  broking and agency 
+services 
+ 
+Settlement and clearing services for financial assets, 
+including securities, derivative products and other 
+negotiable instrument 
+ 
+Type of Reservation 
+ 
+National Treatment (Article 10.3)  
+Source of Measure 
+Financial Advisers Act, Cap. 110]; 
+Securities and Futures Act, Cap. 289; Banking Act, Cap. 19 
+Description of 
+Reservation 
+Foreign entities are not allowed to supply the following 
+financial services in the territory of Singapore: 
+ 
+(a) 
+insurance intermediation; or 
+ 
+(b) 
+settlement and clearing services for financial 
+assets, 
+including 
+securities, 
+derivative 
+products and other negotiable instrument. 
+ 
+ 
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+36 
+ 
+25. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+Insurance 
+ 
+Industry Classification 
+CPC 812  Insurance (including reinsurance) and pension 
+fund services, except compulsory social security service 
+ 
+Type of Reservation 
+National Treatment  (Article 10.3) 
+ 
+Description of 
+Reservation 
+Singapore requires product filing for life insurance 
+business, as well as product approval for Central 
+Provident Fund-related products, investment-linked 
+products and insurance products new to the Singapore 
+market. 
+ 
+Existing Measures 
+Admission criteria set by CPF Board and Ministry of 
+Health 
+  
+Annex 10-A Non-Conforming Measures for Financial Services (Schedule of Singapore) 
+ 
+ 
+37 
+ 
+26. 
+Sector 
+Financial Services 
+ 
+Sub-Sector 
+All sectors 
+ 
+Type of Reservation 
+National Treatment (Article 10.3) 
+Market Access for Financial Institutions (Article 10.4) 
+ 
+Source of Measure 
+Insurance Act, Cap. 142 MAS Notice 109 
+Banking Act, Cap 19 MAS Notice 757 
+Finance Companies Act, Cap. 108 MAS Notice 816 
+Monetary Authority of Singapore Act, Cap. 186. MAS 
+Notice 1105 
+Securities and Futures Act, Cap. 289    
+ 
+Description of 
+Reservation 
+Financial Institutions extending Singapore dollar (S$) 
+credit facilities exceeding $5 million per entity to non-
+resident financial entities or arranging S$ equity or bond 
+issues for non-residents, must ensure that where the S$ 
+proceeds are to be used outside Singapore, they are swapped 
+or converted into foreign currency upon draw-down or 
+before remittance abroad. 
+ 
+Financial Institutions shall not extend S$ credit facilities to 
+non-resident financial entities if there is reason to believe 
+that the S$ proceeds may be used for S$ currency 
+speculation. 
+The term “non-resident” is as defined in MAS Notice 757 
+issued under the Banking Act. 
+  
+ 
+ 

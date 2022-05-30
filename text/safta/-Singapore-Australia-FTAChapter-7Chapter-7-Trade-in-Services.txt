@@ -1,1 +1,947 @@
-1  07       CROSS-BORDER TRADE IN SERVICES   ARTICLE 1  Definitions  For the purposes of this Chapter:  (a) “cross-border trade in services” or “cross-border supply of services” means the supply of a service:  (i) from the territory of a Party into the territory of the other Party;  (ii) in the territory of a Party to a person of the other Party; or  (iii) by a natural person of a Party in the territory of the other Party,  but does not include the supply of a service in the territory of a Party by a covered investment;  (b) “enterprise” means:  (i) any entity constituted or organised under applicable law, whether or not for profit, and whether privately or governmentally owned or controlled, including any corporation, trust, partnership, sole proprietorship, joint venture, association or similar organisation; and  (ii) a branch of an enterprise;   (c) “existing measures” means measures in force as of the date of entry into force of this Agreement;  (d) “measure” includes any law, regulation, procedure, requirement or practice;   (e) “measures adopted or maintained by a Party” means measures adopted or maintained by:  (i) central, regional or local governments and authorities; or   (ii) non-governmental bodies in the exercise of powers delegated by central, regional or local governments or authorities;  (f) “monopoly supplier of a service” means any person, public or private, which in the relevant market of the territory of a Party is authorised or established formally or in effect by that Party as the sole supplier of that service;  2  (g) “natural person of a Party” means:  (i) for Australia, a natural person who is an Australian citizen as defined in the Australian Citizenship Act 2007 as amended from time to time, or any successor legislation;   (ii) for Singapore, a person who is a citizen of Singapore within the meaning of its Constitution and its domestic laws; or   (iii) a permanent resident of either Party;  (h) “new measures” means measures adopted after the date of entry into force of this Agreement;  (i) “person” means either a natural person or an enterprise;  (j) “person of a Party” means a natural person of a Party or an enterprise of a Party;  (k) “service consumer” means any person that receives or uses a service;   (l) “service of the other Party” means a service which is supplied:  (i) from or in the territory of the other Party, or in the case of maritime transport, by a vessel registered under the laws of the other Party, or by a person of the other Party which supplies the service through the operation of a vessel and/or its use in whole or in part; or  (ii) in the case of the supply of a service as defined in subparagraph (a)(iii), by a service supplier of the other Party;  (m) “service supplied in the exercise of governmental authority” means for each Party any service which is supplied neither on a commercial basis nor in competition with one or more service suppliers;  (n) “service supplier of a Party” means a person of a Party that seeks to supply or supplies a service; and   (o) “services” means all services including new and variant services in any sector except services supplied in the exercise of governmental authority.   ARTICLE 2  Scope  3  1. This Chapter shall apply to measures adopted or maintained by a Party affecting cross-border trade in services by a service supplier of the other Party. Such measures include measures affecting:   (a) the production, distribution, marketing, sale or delivery of a service;  (b) the purchase or use of, or payment for, a service;  (c) the access to and use of distribution, transport or telecommunications networks and services in connection with the supply of a service;  (d) the presence in a Party’s territory of a service supplier of the other Party; and  (e) the provision of a bond or other form of financial security as a condition for the supply of a service except to the extent that such bond or financial security is a covered investment.  2. In addition to paragraph 1, Articles 3 (Market Access), 9 (Transparency) and 11 (Domestic Regulation) shall also apply to measures adopted or maintained by a Party affecting the supply of a service in its territory by a covered investment.1  3. This Chapter shall not apply to:  (a) a “financial service” as defined in Article 1 (Definitions) of Chapter 9 (Financial Services), except that paragraph 2 shall apply if the financial service is supplied by a covered investment that is not a covered investment in a “financial institution” as defined in Article 1 (Definitions) of Chapter 9 (Financial Services) in the Party’s territory;  (b) subsidies or grants provided by a Party or to any conditions attached to the receipt or continued receipt of such subsidies or grants, including government-supported loans, guarantees and insurance;  (c) a service supplied in the exercise of governmental authority within the territory of each respective Party; and   (d) government procurement.  4. This Chapter shall not apply to measures affecting natural persons seeking access to the employment market of a Party, nor shall it apply to measures regarding citizenship, residence or employment on a permanent basis.  5. Nothing in this Chapter shall prevent a Party from applying measures to regulate the entry of natural persons of the other Party into, or their temporary stay in, its territory, including those measures necessary to protect the integrity of, and to ensure the orderly movement of natural persons across its borders, provided that such                                                  1 For greater certainty, nothing in this Chapter, including Annex 7-A (Professional Services), is subject to investor-State dispute settlement pursuant to Section B (Investor-State Dispute Settlement) of Chapter 8 (Investment).   4  measures are not applied in such a manner as to nullify or impair the benefits accruing to the other Party under this Chapter.   ARTICLE 3  Market Access  Neither Party shall adopt or maintain, either on the basis of a regional subdivision or on the basis of its entire territory:   (a) limitations on the number of service suppliers whether in the form of numerical quotas, monopolies, exclusive service suppliers or the requirements of an economic needs test;  (b) limitations on the total value of service transactions or assets in the form of numerical quotas or the requirement of an economic needs test;  (c) limitations on the total number of service operations or on the total quantity of service output expressed in terms of designated numerical units in the form of quotas or the requirement of an economic needs test;2  (d) limitations on the total number of natural persons that may be employed in a particular service sector or that a service supplier may employ and who are necessary for, and directly related to, the supply of a specific service in the form of numerical quotas or the requirement of an economic needs test; or  (e) measures which restrict or require specific types of legal entity or joint venture through which a service supplier may supply a service.   ARTICLE 4  National Treatment3  1. Each Party shall accord to services and service suppliers of the other Party, treatment no less favourable than that it accords, in like circumstances, to its own services and service suppliers.  2. For greater certainty, the treatment to be accorded by a Party under paragraph 1 means, with respect to a regional level of government, treatment no less favourable than the most favourable treatment accorded, in like circumstances, by that regional level of government to service suppliers of the Party of which it forms a part.                                                  2 This subparagraph does not cover measures of a Party which limit inputs for the supply of services.   3 For greater certainty, whether treatment is accorded in “like circumstances” under Articles 4 (National Treatment) or 5 (Most-Favoured-Nation Treatment) depends on the totality of the circumstances, including whether the relevant treatment distinguishes between services or service suppliers on the basis of legitimate public welfare objectives. 5    ARTICLE 5  Most-Favoured-Nation Treatment  Each Party shall accord to service suppliers of the other Party treatment no less favourable than that it accords, in like circumstances, to service suppliers of a non-Party.    ARTICLE 6  Local Presence  Neither Party shall require a service supplier of the other Party to establish or maintain a representative office or any form of enterprise, or to be resident, in its territory as a condition for the cross-border supply of a service.   ARTICLE 7  Reservations  1. Articles 3 (Market Access), 4 (National Treatment), 5 (Most-Favoured-Nation Treatment) and 6 (Local Presence) shall not apply to:  (a) any existing non-conforming measure that is maintained by a Party at:  (i) the central level of government or a regional level of government, as set out by that Party in its Schedule to Annex 4-I; or   (ii) a local level of government; or  (b) the continuation or prompt renewal of any non-conforming measure referred to in subparagraph (a); or  (c) an amendment to any non-conforming measure referred to in subparagraph (a), to the extent that the amendment does not decrease the conformity of the measure, as it existed immediately before the amendment, with Articles 3 (Market Access), 4 (National Treatment), 5 (Most-Favoured-Nation Treatment) or 6 (Local Presence).  2. Articles 3 (Market Access), 4 (National Treatment), 5 (Most-Favoured-Nation Treatment) and 6 (Local Presence) shall not apply to any measure that a Party adopts or maintains with respect to sectors, subsectors or activities as set out in Annex 4-II.  3. Article 11 (Domestic Regulation) shall not apply to:  6  (a) any existing non-conforming measure that is maintained by a Party as set out in Annex 4-I; or  (b) any existing or new measure that a Party adopts or maintains with respect to sectors, subsectors or activities as set out in Annex 4-II.   ARTICLE 8  Additional Commitments  The Parties shall set out their respective additional commitments in Annex 4-III of this Agreement with respect to measures affecting trade in services not covered by:  (a) Articles 3 (Market Access), 4 (National Treatment), 5 (Most-Favoured-Nation Treatment) and 6 (Local Presence); or  (b) Articles 4 (National Treatment), 5 (Most-Favoured-Nation Treatment), 7 (Prohibition of Performance Requirements) and 8 (Senior Management and Boards of Directors) of Chapter 8 (Investment)   including those regarding qualifications, standards or licensing matters and any other matters as may be mutually agreed.   ARTICLE 9  Transparency  1. Each Party shall publish promptly and, except in an emergency situation, at the latest by the date of their entry into force, all relevant measures of general application which pertain to or affect the operation of this Chapter. An international agreement pertaining to or affecting trade in services to which a Party is a signatory shall also be published.  2. Where publication as referred to in paragraph 1 is not practicable, such information shall be made otherwise publicly available.  3. Each Party shall respond promptly to all requests by the other Party for specific information on any of its measures of general application or international agreements within the meaning of paragraph 1. Each Party shall also establish one or more enquiry points to provide specific information to the other Party, upon request, on all such matters.  4. Each Party shall maintain or establish appropriate mechanisms for responding to inquiries from interested persons regarding its regulations that relate to the subject matter of this Chapter.  5. To the extent possible, each Party shall allow reasonable time between the publication of final regulations and the date they enter into effect. 7    ARTICLE 10  Disclosure of Confidential Information  Nothing in this Chapter shall require a Party to furnish or allow access to confidential information, the disclosure of which would be contrary to its law, impede law enforcement, or otherwise be contrary to the public interest, or which would prejudice legitimate commercial interests of particular enterprises, public or private.   ARTICLE 11  Domestic Regulation  1. Each Party shall ensure that all measures of general application affecting trade in services are administered in a reasonable, objective and impartial manner.  2. Each Party shall ensure that its judicial, arbitral or administrative tribunals or procedures which provide for the prompt review of, and where justified, appropriate remedies for, administrative decisions affecting trade in services are open on a non-discriminatory basis to a service supplier of the other Party. Where such procedures are not independent of the agency entrusted with the administrative decision concerned, the Party shall ensure that the procedures in fact provide for an objective and impartial review.  3. Paragraph 2 shall not be construed to require a Party to institute such tribunals or procedures where this would be inconsistent with its constitutional structure or the nature of its legal system.  4. If a Party requires authorisation for the supply of a service, it shall:  (a) where specific time periods exist for applications, allow an applicant a reasonable period for the submission of an application;  (b) initiate the processing of an application without undue delay;  (c) in the case of an application considered incomplete for processing under domestic laws and regulations, within a reasonable period of time, to the extent practicable:  (i) inform the applicant that the application is incomplete;  (ii) at the request of the applicant provide guidance on why the application is considered incomplete;   (iii) provide the applicant with the opportunity to provide the additional information that is required to complete the application; and 8   (iv) where none of the above is practicable, and the application is rejected due to incompleteness, ensure that the applicant is informed within a reasonable period of time;   (d) to the extent practicable, establish an indicative timeframe for the processing of an application;   (e) within a reasonable period of time after the submission of an application considered complete under its laws and regulations, inform the applicant of the decision concerning the application;   (f) on request of the applicant, provide, without undue delay, information concerning the status of the application;   (g) if an application is rejected, to the extent practicable, inform the applicant of the reasons for the rejection, either directly or on request, as appropriate;   (h) to the extent practicable, provide the applicant with the opportunity to correct any minor errors or omissions in the application and endeavour to provide guidance on the additional information required;   (i) if it deems appropriate, accept copies of documents that are authenticated in accordance with the Party’s laws in place of original documents; and   (j) to the extent practicable, ensure that authorisation, once granted, enters into effect without undue delay subject to the applicable terms and conditions.   5. Each Party shall ensure that any authorisation fee charged is reasonable, transparent and does not, in itself, restrict the supply of the relevant service.4    6. With a view to ensuring that measures relating to qualification requirements and procedures, technical standards and licensing requirements and procedures do not constitute unnecessary barriers to trade in services, while recognising the right to regulate and to introduce new regulations on the supply of a service in order to meet its policy objectives, each Party shall endeavour to ensure that any such measures that it adopts or maintains are:  (a) based on objective and transparent criteria, such as competence and the ability to supply the service; and  (b) in the case of licensing procedures, not in themselves a restriction on the supply of the service.                                                    4 For the purposes of this paragraph, authorisation fees do not include fees for the use of natural resources, payments for auction, tendering or other non-discriminatory means of awarding concessions, or mandated contributions to universal service provision.  9  7. In determining whether a Party is in conformity with its obligations under paragraph 6, account shall be taken of international standards of relevant international organisations applied by that Party.5  8. Each Party shall:  (a) explain, on request, the policy rationale of a measure, particularly of a new measure; and  (b) to the extent possible:   (i) publish in advance any measure referred to in paragraph 1 of Article 9 (Transparency) that it proposes to adopt;   (ii) provide interested persons with a reasonable opportunity to comment on those proposed measures; and  (iii) consider comments received under paragraph 8(b)(ii).  9. If licensing or qualification requirements include the completion of an examination, each Party shall ensure that:   (a) the examination is scheduled at reasonable intervals; and  (b) a reasonable period of time is provided to enable interested persons to submit an application.  10. Further to paragraph 9, each Party should explore, as appropriate, the possibility of:  (a) using electronic means for conducting such examinations;  (b) conducting such examinations orally; and   (c) providing opportunities for taking such examinations in the territory of the other Party.  11. Each Party shall ensure that there are procedures in place domestically to assess the competency of professionals of the other Party.  12. Subject to its laws and regulations, a Party shall permit service suppliers of the other Party to use the enterprise names under which they trade in the territory of the other Party and otherwise ensure that the use of enterprise names is not unduly restricted.  13. If the results of the negotiations related to paragraph 4 of Article VI of GATS, or the results of any similar negotiations undertaken in other multilateral fora in which                                                  5 “Relevant international organisations” refers to international bodies whose membership is open to the relevant bodies of both Parties to the Agreement. 10  the Parties participate, enter into effect, the Parties shall jointly review these results with a view to bringing them into effect, as appropriate, under this Agreement.   ARTICLE 12  Monopoly and Exclusive Service Supplier  1. Each Party shall ensure that any monopoly supplier of a service in its territory does not, in the supply of the monopoly service in the relevant market, act in a manner inconsistent with the Party’s obligations under Articles 3 (Market Access) and 4 (National Treatment).  2. Where a Party’s monopoly supplier competes, either directly or through an affiliated company, in the supply of a service outside the scope of its monopoly rights and which is subject to that Party’s obligations under Articles 3 (Market Access) and 4 (National Treatment), the Party shall ensure that such a supplier does not abuse its monopoly position to act in its territory in a manner inconsistent with such commitments.  3. If a Party has reason to believe that a monopoly supplier of a service of the other Party is acting in a manner inconsistent with paragraph 1 or paragraph 2, it may request the other Party establishing, maintaining or authorising such a supplier to provide specific information concerning the relevant operations in its territory.  4. This Article shall also apply to cases of exclusive service suppliers, where a Party, formally or in effect:  (a) authorises or establishes a small number of service suppliers; and   (b) substantially prevents competition among those service suppliers in its territory.   ARTICLE 13  Safeguard Measures  Neither Party shall take safeguard action against services and service suppliers of the other Party from the date of entry into force of this Agreement. Neither Party shall initiate or continue any safeguard investigations in respect of services and service suppliers of the other Party.   ARTICLE 14  Payments and Transfers  1. Subject to its reservations pursuant to Article 7 (Reservations) and except under the circumstances envisaged in Article 4 (Temporary Safeguard Measures) of Chapter 11  17 (Final Provisions), a Party shall not apply restrictions on international transfers and payments for current transactions.  2. Nothing in this Chapter shall affect the rights and obligations of the members of the International Monetary Fund under the Articles of Agreement of the Fund, including the use of exchange actions which are in conformity with the Articles of Agreement, provided that a Party shall not impose restrictions on any capital transactions inconsistently with its obligations under this Chapter regarding such transactions, except under Article 4 (Temporary Safeguard Measures) of Chapter 17 (Final Provisions) or at the request of the Fund.   ARTICLE 15  Denial of Benefits  1. A Party may deny the benefits of this Chapter to a service supplier of the other Party if the service supplier is an enterprise owned or controlled by persons of a non-Party, and the denying Party adopts or maintains measures with respect to the non-Party or a person of the non-Party that prohibit transactions with the enterprise or that would be violated or circumvented if the benefits of this Chapter were accorded to the enterprise.  2. A Party may deny the benefits of this Chapter to a service supplier of the other Party if the service supplier is an enterprise owned or controlled by persons of a non-Party or by persons of the denying Party that has no substantial business activities in the territory of the other Party.   ARTICLE 16  General Exceptions  Subject to the requirement that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination between the Parties where like conditions prevail, or a disguised restriction on trade in services, nothing in this Chapter shall be construed to prevent the adoption or enforcement by a Party of measures:  (a) necessary to protect public morals or to maintain public order;6  (b) necessary to protect human, animal or plant life or health; or  (c) necessary to secure compliance with laws or regulations which are not inconsistent with this Chapter including those relating to:                                                   6 The public order exception may be invoked only where a genuine and sufficiently serious threat is posed to one of the fundamental interests of society. 12  (i) the prevention of deceptive and fraudulent practices or to deal with the effects of a default on a services contract;  (ii) the protection of the privacy of individuals in relation to the processing and dissemination of personal data and the protection of confidentiality of individual records and accounts; or  (iii) safety.   ARTICLE 17  Review of Subsidies  1. The Parties shall review the treatment of subsidies in the context of developments in international fora of which both Parties are Members.  2. The Parties shall consult on appropriate steps in regard to subsidies related to trade in services where any subsidies issues arise under this Chapter.   ARTICLE 18  Air Transport Services  1. For the purposes of this Article:  (a) “aircraft repair and maintenance services” means such activities when undertaken on an aircraft or a part thereof while it is withdrawn from service and do not include so-called line maintenance;  (b) “air transport” means the public carriage by aircraft of passengers, baggage, cargo or mail, separately or in combination, for remuneration or hire; and  (c) “computer reservation system (CRS) services” means services provided by computerised systems that contain information about air carriers’ schedules, availability, fares and fare rules, through which reservations can be made or tickets may be issued.  2. This Chapter and Chapter 16 (Dispute Settlement), shall not apply to measures affecting:  (a) rights in relation to air transport, however granted; or  (b) services directly related to the exercise of rights in relation to air transport, except as provided in paragraph 3.  3. This Chapter shall apply to measures affecting:  13  (a) aircraft repair and maintenance services; and  (b) computer reservation system (CRS) services.  4. Both Parties agree to review developments in the air transport sector at the first review of this Agreement under Article 7 (Review) of Chapter 17 (Final Provisions) or at any other time agreed between the Parties, with a view to including these developments in this Agreement.  5. While both Parties affirm their rights and obligations under the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Singapore relating to Air Services, signed on 3 November 1967 and any subsequent amendments thereto, both Parties agree to work towards an Open Skies Air Services Agreement and to review that work in accordance with paragraph 4.  6. The Parties affirm, mutatis mutandis, their rights and obligations under the GATS, including the Annex on Air Transport Services.   ARTICLE 19  Recognition  1. For the purposes of the fulfilment, in whole or in part, of a Party’s standards or criteria for the authorisation, licensing or certification of a service supplier, and subject to the requirements of paragraph 4, it may recognise the education or experience obtained, requirements met, or licences or certifications granted, in the territory of the other Party or a non-Party. That recognition, which may be achieved through harmonisation or otherwise, may be based on an agreement or arrangement with the Party or non-Party concerned, or may be accorded autonomously.  2. If a Party recognises, autonomously or by agreement or arrangement, the education or experience obtained, requirements met, or licenses or certifications granted, in the territory of a non-Party, nothing in Article 5 (Most-Favoured-Nation Treatment) shall be construed to require the Party to accord recognition to the education or experience obtained, requirements met, or licences or certifications granted, in the territory of the other Party.  3. A Party that is a party to an agreement or arrangement of the type referred to in paragraph 1, whether existing or future, shall afford adequate opportunity to the other Party, on request, to negotiate its accession to that agreement or arrangement, or to negotiate a comparable agreement or arrangement. If a Party accords recognition autonomously, it shall afford adequate opportunity to the other Party to demonstrate that education, experience, licences or certifications obtained or requirements met in the other Party’s territory should be recognised.   4. A Party shall not accord recognition in a manner that would constitute a means of discrimination between the other Party and non-Parties in the application of its standards or criteria for the authorisation, licensing or certification of a service supplier, or a disguised restriction on trade in services. 14   5. As set out in Annex 7-A (Professional Services), the Parties shall endeavour to facilitate trade in professional services, including through the establishment of a Professional Services Working Group.  15  ANNEX 7-A   PROFESSIONAL SERVICES    Licensing, certification and mutual recognition  1. The Parties shall encourage relevant bodies in their respective territories to develop mutually acceptable standards and criteria for licensing and certification of professional services suppliers.  2. Without limiting the potential scope of work, the standards and criteria referred to in paragraph 1 may be developed with regard to the following matters:  (a) education – accreditation of schools or academic programs;  (b) examinations – qualifying examinations for licensing, including alternative methods of assessment, such as oral examinations and interviews;  (c) experience – length and nature of experience required for licensing;  (d) conduct and ethics – standards of professional conduct and the nature of disciplinary action for non-conformity with those standards;  (e) professional development and re-certification – continuing education and ongoing requirements to maintain professional certification;  (f) scope of practice – extent of, or limitations on, permissible activities;  (g) local knowledge – requirements for knowledge of such matters as local laws, regulations, geography, or climate; and  (h) consumer protection – alternatives to any residency requirements, including bonding, professional liability insurance, and client restitution funds, to provide for the protection of consumers.  3. A Party may consider, if feasible, taking steps to implement a temporary or project specific licensing or registration regime based on a foreign supplier’s home licence or recognised professional body membership, without the need for further written examination. That temporary or limited licence regime should not operate to prevent a foreign supplier from gaining a local licence once that supplier satisfies the applicable local licensing requirements.  4. On request of the other Party, a Party shall to the extent practicable provide information concerning standards and criteria for the licensing and certification of professional service suppliers, including information concerning the appropriate regulatory or other body to consult regarding these standards and criteria.  Consultations 16   5. Without prejudice to each Party’s rights and obligations under this Agreement, and while recognising the right to regulate and to introduce new regulations on the supply of services in order to meet policy objectives, each Party should refrain from raising new barriers to trade in professional services. Where a Party considers that a new barrier has been adopted, or is proposed to be adopted, it may request consultations with the other Party.  Working Group  6. The Parties hereby establish a Working Group on Professional Services, comprising representatives of each Party, to facilitate activities listed in paragraphs 1 to 4. The Working Group shall meet annually, or as agreed by the Parties.  7. The issues that the Working Group should consider, for professional services generally and, as appropriate, for individual professional services, include:  (a) procedures for fostering the development of mutual recognition arrangements between relevant bodies;  (b) the feasibility of developing model procedures for the licensing and certification of professional services suppliers; and  (c) other issues of mutual interest relating to the supply of professional services.  8. In implementing this Annex, the Working Group should consider, as appropriate, relevant bilateral, plurilateral and multilateral agreements relating to professional services.  9. To assist the Working Group in its activities, the Parties should, as appropriate, encourage the involvement of relevant industry bodies. This may include encouraging relevant industry bodies to provide joint views on potential initiatives within the scope of the Working Group’s activities, including views on mutual recognition opportunities. The Parties should consider and provide a response to any joint views, advancing projects where feasible and mutually agreed.  10. Each Party shall encourage its relevant bodies to implement any decisions or recommendations of the Working Group within a mutually agreed time.    11. The Working Group, at each meeting, shall review progress made, including with respect to any recommendation for initiatives to promote mutual recognition of standards and criteria and temporary licensing, and agree on the further direction of its work.     
+1 
+ 
+07       CROSS-BORDER TRADE IN SERVICES 
+ 
+ 
+ARTICLE 1 
+ 
+Definitions 
+ 
+For the purposes of this Chapter: 
+ 
+(a) 
+“cross-border trade in services” or “cross-border supply of services” 
+means the supply of a service: 
+ 
+(i) 
+from the territory of a Party into the territory of the other Party; 
+ 
+(ii) 
+in the territory of a Party to a person of the other Party; or 
+ 
+(iii) 
+by a natural person of a Party in the territory of the other Party, 
+ 
+but does not include the supply of a service in the territory of a Party by 
+a covered investment; 
+ 
+(b) 
+“enterprise” means: 
+ 
+(i) 
+any entity constituted or organised under applicable law, whether 
+or not for profit, and whether privately or governmentally owned 
+or controlled, including any corporation, trust, partnership, sole 
+proprietorship, joint venture, association or similar organisation; 
+and 
+ 
+(ii) 
+a branch of an enterprise;  
+ 
+(c) 
+“existing measures” means measures in force as of the date of entry into 
+force of this Agreement; 
+ 
+(d) 
+“measure” includes any law, regulation, procedure, requirement or 
+practice;  
+ 
+(e) 
+“measures adopted or maintained by a Party” means measures adopted 
+or maintained by: 
+ 
+(i) 
+central, regional or local governments and authorities; or  
+ 
+(ii) 
+non-governmental bodies in the exercise of powers delegated by 
+central, regional or local governments or authorities; 
+ 
+(f) 
+“monopoly supplier of a service” means any person, public or private, 
+which in the relevant market of the territory of a Party is authorised or 
+established formally or in effect by that Party as the sole supplier of that 
+service; 
+ 
+2 
+ 
+(g) 
+“natural person of a Party” means: 
+ 
+(i) 
+for Australia, a natural person who is an Australian citizen as 
+defined in the Australian Citizenship Act 2007 as amended from 
+time to time, or any successor legislation;  
+ 
+(ii) 
+for Singapore, a person who is a citizen of Singapore within the 
+meaning of its Constitution and its domestic laws; or  
+ 
+(iii) 
+a permanent resident of either Party; 
+ 
+(h) 
+“new measures” means measures adopted after the date of entry into 
+force of this Agreement; 
+ 
+(i) 
+“person” means either a natural person or an enterprise; 
+ 
+(j) 
+“person of a Party” means a natural person of a Party or an enterprise of 
+a Party; 
+ 
+(k) 
+“service consumer” means any person that receives or uses a service;  
+ 
+(l) 
+“service of the other Party” means a service which is supplied: 
+ 
+(i) 
+from or in the territory of the other Party, or in the case of 
+maritime transport, by a vessel registered under the laws of the 
+other Party, or by a person of the other Party which supplies the 
+service through the operation of a vessel and/or its use in whole 
+or in part; or 
+ 
+(ii) 
+in the case of the supply of a service as defined in subparagraph 
+(a)(iii), by a service supplier of the other Party; 
+ 
+(m) 
+“service supplied in the exercise of governmental authority” means for 
+each Party any service which is supplied neither on a commercial basis 
+nor in competition with one or more service suppliers; 
+ 
+(n) 
+“service supplier of a Party” means a person of a Party that seeks to 
+supply or supplies a service; and  
+ 
+(o) 
+“services” means all services including new and variant services in any 
+sector except services supplied in the exercise of governmental 
+authority. 
+ 
+ 
+ARTICLE 2 
+ 
+Scope 
+ 
+3 
+ 
+1. 
+This Chapter shall apply to measures adopted or maintained by a Party affecting 
+cross-border trade in services by a service supplier of the other Party. Such measures 
+include measures affecting:  
+ 
+(a) 
+the production, distribution, marketing, sale or delivery of a service; 
+ 
+(b) 
+the purchase or use of, or payment for, a service; 
+ 
+(c) 
+the access to and use of distribution, transport or telecommunications 
+networks and services in connection with the supply of a service; 
+ 
+(d) 
+the presence in a Party’s territory of a service supplier of the other Party; 
+and 
+ 
+(e) 
+the provision of a bond or other form of financial security as a condition 
+for the supply of a service except to the extent that such bond or financial 
+security is a covered investment. 
+ 
+2. 
+In addition to paragraph 1, Articles 3 (Market Access), 9 (Transparency) and 11 
+(Domestic Regulation) shall also apply to measures adopted or maintained by a Party 
+affecting the supply of a service in its territory by a covered investment.1 
+ 
+3. 
+This Chapter shall not apply to: 
+ 
+(a) 
+a “financial service” as defined in Article 1 (Definitions) of Chapter 9 
+(Financial Services), except that paragraph 2 shall apply if the financial 
+service is supplied by a covered investment that is not a covered 
+investment in a “financial institution” as defined in Article 1 
+(Definitions) of Chapter 9 (Financial Services) in the Party’s territory; 
+ 
+(b) 
+subsidies or grants provided by a Party or to any conditions attached to 
+the receipt or continued receipt of such subsidies or grants, including 
+government-supported loans, guarantees and insurance; 
+ 
+(c) 
+a service supplied in the exercise of governmental authority within the 
+territory of each respective Party; and  
+ 
+(d) 
+government procurement. 
+ 
+4. 
+This Chapter shall not apply to measures affecting natural persons seeking 
+access to the employment market of a Party, nor shall it apply to measures regarding 
+citizenship, residence or employment on a permanent basis. 
+ 
+5. 
+Nothing in this Chapter shall prevent a Party from applying measures to 
+regulate the entry of natural persons of the other Party into, or their temporary stay in, 
+its territory, including those measures necessary to protect the integrity of, and to 
+ensure the orderly movement of natural persons across its borders, provided that such 
+                                                 
+1 For greater certainty, nothing in this Chapter, including Annex 7-A (Professional Services), is subject 
+to investor-State dispute settlement pursuant to Section B (Investor-State Dispute Settlement) of Chapter 
+8 (Investment).   
+4 
+ 
+measures are not applied in such a manner as to nullify or impair the benefits accruing 
+to the other Party under this Chapter. 
+ 
+ 
+ARTICLE 3 
+ 
+Market Access 
+ 
+Neither Party shall adopt or maintain, either on the basis of a regional 
+subdivision or on the basis of its entire territory:  
+ 
+(a) 
+limitations on the number of service suppliers whether in the form of 
+numerical quotas, monopolies, exclusive service suppliers or the 
+requirements of an economic needs test; 
+ 
+(b) 
+limitations on the total value of service transactions or assets in the form 
+of numerical quotas or the requirement of an economic needs test; 
+ 
+(c) 
+limitations on the total number of service operations or on the total 
+quantity of service output expressed in terms of designated numerical 
+units in the form of quotas or the requirement of an economic needs test;2 
+ 
+(d) 
+limitations on the total number of natural persons that may be employed 
+in a particular service sector or that a service supplier may employ and 
+who are necessary for, and directly related to, the supply of a specific 
+service in the form of numerical quotas or the requirement of an 
+economic needs test; or 
+ 
+(e) 
+measures which restrict or require specific types of legal entity or joint 
+venture through which a service supplier may supply a service. 
+ 
+ 
+ARTICLE 4 
+ 
+National Treatment3 
+ 
+1. 
+Each Party shall accord to services and service suppliers of the other Party, 
+treatment no less favourable than that it accords, in like circumstances, to its own 
+services and service suppliers. 
+ 
+2. 
+For greater certainty, the treatment to be accorded by a Party under paragraph 
+1 means, with respect to a regional level of government, treatment no less favourable 
+than the most favourable treatment accorded, in like circumstances, by that regional 
+level of government to service suppliers of the Party of which it forms a part. 
+                                                 
+2 This subparagraph does not cover measures of a Party which limit inputs for the supply of services.  
+ 
+3 For greater certainty, whether treatment is accorded in “like circumstances” under Articles 4 (National 
+Treatment) or 5 (Most-Favoured-Nation Treatment) depends on the totality of the circumstances, 
+including whether the relevant treatment distinguishes between services or service suppliers on the basis 
+of legitimate public welfare objectives. 
+5 
+ 
+ 
+ 
+ARTICLE 5 
+ 
+Most-Favoured-Nation Treatment 
+ 
+Each Party shall accord to service suppliers of the other Party treatment no less 
+favourable than that it accords, in like circumstances, to service suppliers of a non-
+Party.  
+ 
+ 
+ARTICLE 6 
+ 
+Local Presence 
+ 
+Neither Party shall require a service supplier of the other Party to establish or 
+maintain a representative office or any form of enterprise, or to be resident, in its 
+territory as a condition for the cross-border supply of a service. 
+ 
+ 
+ARTICLE 7 
+ 
+Reservations 
+ 
+1. 
+Articles 3 (Market Access), 4 (National Treatment), 5 (Most-Favoured-
+Nation Treatment) and 6 (Local Presence) shall not apply to: 
+ 
+(a) 
+any existing non-conforming measure that is maintained by a Party at: 
+ 
+(i) 
+the central level of government or a regional level of 
+government, as set out by that Party in its Schedule to Annex 4-
+I; or  
+ 
+(ii) 
+a local level of government; or 
+ 
+(b) 
+the continuation or prompt renewal of any non-conforming measure 
+referred to in subparagraph (a); or 
+ 
+(c) 
+an amendment to any non-conforming measure referred to in 
+subparagraph (a), to the extent that the amendment does not decrease the 
+conformity of the measure, as it existed immediately before the 
+amendment, with Articles 3 (Market Access), 4 (National Treatment), 5 
+(Most-Favoured-Nation Treatment) or 6 (Local Presence). 
+ 
+2. 
+Articles 3 (Market Access), 4 (National Treatment), 5 (Most-Favoured-Nation 
+Treatment) and 6 (Local Presence) shall not apply to any measure that a Party adopts 
+or maintains with respect to sectors, subsectors or activities as set out in Annex 4-II. 
+ 
+3. 
+Article 11 (Domestic Regulation) shall not apply to: 
+ 
+6 
+ 
+(a) 
+any existing non-conforming measure that is maintained by a Party as 
+set out in Annex 4-I; or 
+ 
+(b) 
+any existing or new measure that a Party adopts or maintains with 
+respect to sectors, subsectors or activities as set out in Annex 4-II. 
+ 
+ 
+ARTICLE 8 
+ 
+Additional Commitments 
+ 
+The Parties shall set out their respective additional commitments in Annex 4-III 
+of this Agreement with respect to measures affecting trade in services not covered by: 
+ 
+(a) 
+Articles 3 (Market Access), 4 (National Treatment), 5 (Most-Favoured-
+Nation Treatment) and 6 (Local Presence); or 
+ 
+(b) 
+Articles 4 (National Treatment), 5 (Most-Favoured-Nation Treatment), 
+7 (Prohibition of Performance Requirements) and 8 (Senior 
+Management and Boards of Directors) of Chapter 8 (Investment)  
+ 
+including those regarding qualifications, standards or licensing matters and any other 
+matters as may be mutually agreed. 
+ 
+ 
+ARTICLE 9 
+ 
+Transparency 
+ 
+1. 
+Each Party shall publish promptly and, except in an emergency situation, at the 
+latest by the date of their entry into force, all relevant measures of general application 
+which pertain to or affect the operation of this Chapter. An international agreement 
+pertaining to or affecting trade in services to which a Party is a signatory shall also be 
+published. 
+ 
+2. 
+Where publication as referred to in paragraph 1 is not practicable, such 
+information shall be made otherwise publicly available. 
+ 
+3. 
+Each Party shall respond promptly to all requests by the other Party for specific 
+information on any of its measures of general application or international agreements 
+within the meaning of paragraph 1. Each Party shall also establish one or more enquiry 
+points to provide specific information to the other Party, upon request, on all such 
+matters. 
+ 
+4. 
+Each Party shall maintain or establish appropriate mechanisms for responding 
+to inquiries from interested persons regarding its regulations that relate to the subject 
+matter of this Chapter. 
+ 
+5. 
+To the extent possible, each Party shall allow reasonable time between the 
+publication of final regulations and the date they enter into effect. 
+7 
+ 
+ 
+ 
+ARTICLE 10 
+ 
+Disclosure of Confidential Information 
+ 
+Nothing in this Chapter shall require a Party to furnish or allow access to 
+confidential information, the disclosure of which would be contrary to its law, impede 
+law enforcement, or otherwise be contrary to the public interest, or which would 
+prejudice legitimate commercial interests of particular enterprises, public or private. 
+ 
+ 
+ARTICLE 11 
+ 
+Domestic Regulation 
+ 
+1. 
+Each Party shall ensure that all measures of general application affecting trade 
+in services are administered in a reasonable, objective and impartial manner. 
+ 
+2. 
+Each Party shall ensure that its judicial, arbitral or administrative tribunals or 
+procedures which provide for the prompt review of, and where justified, appropriate 
+remedies for, administrative decisions affecting trade in services are open on a non-
+discriminatory basis to a service supplier of the other Party. Where such procedures are 
+not independent of the agency entrusted with the administrative decision concerned, the 
+Party shall ensure that the procedures in fact provide for an objective and impartial 
+review. 
+ 
+3. 
+Paragraph 2 shall not be construed to require a Party to institute such tribunals 
+or procedures where this would be inconsistent with its constitutional structure or the 
+nature of its legal system. 
+ 
+4. 
+If a Party requires authorisation for the supply of a service, it shall: 
+ 
+(a) 
+where specific time periods exist for applications, allow an applicant a 
+reasonable period for the submission of an application; 
+ 
+(b) 
+initiate the processing of an application without undue delay; 
+ 
+(c) 
+in the case of an application considered incomplete for processing under 
+domestic laws and regulations, within a reasonable period of time, to the 
+extent practicable: 
+ 
+(i) 
+inform the applicant that the application is incomplete; 
+ 
+(ii) 
+at the request of the applicant provide guidance on why the 
+application is considered incomplete;  
+ 
+(iii) 
+provide the applicant with the opportunity to provide the 
+additional information that is required to complete the 
+application; and 
+8 
+ 
+ 
+(iv) 
+where none of the above is practicable, and the application is 
+rejected due to incompleteness, ensure that the applicant is 
+informed within a reasonable period of time;  
+ 
+(d) 
+to the extent practicable, establish an indicative timeframe for the 
+processing of an application;  
+ 
+(e) 
+within a reasonable period of time after the submission of an application 
+considered complete under its laws and regulations, inform the applicant 
+of the decision concerning the application;  
+ 
+(f) 
+on request of the applicant, provide, without undue delay, information 
+concerning the status of the application;  
+ 
+(g) 
+if an application is rejected, to the extent practicable, inform the 
+applicant of the reasons for the rejection, either directly or on request, as 
+appropriate;  
+ 
+(h) 
+to the extent practicable, provide the applicant with the opportunity to 
+correct any minor errors or omissions in the application and endeavour 
+to provide guidance on the additional information required;  
+ 
+(i) 
+if it deems appropriate, accept copies of documents that are 
+authenticated in accordance with the Party’s laws in place of original 
+documents; and  
+ 
+(j) 
+to the extent practicable, ensure that authorisation, once granted, enters 
+into effect without undue delay subject to the applicable terms and 
+conditions.  
+ 
+5. 
+Each Party shall ensure that any authorisation fee charged is reasonable, 
+transparent and does not, in itself, restrict the supply of the relevant service.4   
+ 
+6. 
+With a view to ensuring that measures relating to qualification requirements and 
+procedures, technical standards and licensing requirements and procedures do not 
+constitute unnecessary barriers to trade in services, while recognising the right to 
+regulate and to introduce new regulations on the supply of a service in order to meet its 
+policy objectives, each Party shall endeavour to ensure that any such measures that it 
+adopts or maintains are: 
+ 
+(a) 
+based on objective and transparent criteria, such as competence and the 
+ability to supply the service; and 
+ 
+(b) 
+in the case of licensing procedures, not in themselves a restriction on the 
+supply of the service.  
+ 
+                                                 
+4 For the purposes of this paragraph, authorisation fees do not include fees for the use of natural resources, 
+payments for auction, tendering or other non-discriminatory means of awarding concessions, or 
+mandated contributions to universal service provision.  
+9 
+ 
+7. 
+In determining whether a Party is in conformity with its obligations under 
+paragraph 6, account shall be taken of international standards of relevant international 
+organisations applied by that Party.5 
+ 
+8. 
+Each Party shall: 
+ 
+(a) 
+explain, on request, the policy rationale of a measure, particularly of a 
+new measure; and 
+ 
+(b) 
+to the extent possible:  
+ 
+(i) 
+publish in advance any measure referred to in paragraph 1 of 
+Article 9 (Transparency) that it proposes to adopt;  
+ 
+(ii) 
+provide interested persons with a reasonable opportunity to 
+comment on those proposed measures; and 
+ 
+(iii) 
+consider comments received under paragraph 8(b)(ii). 
+ 
+9. 
+If licensing or qualification requirements include the completion of an 
+examination, each Party shall ensure that:  
+ 
+(a) 
+the examination is scheduled at reasonable intervals; and 
+ 
+(b) 
+a reasonable period of time is provided to enable interested persons to 
+submit an application. 
+ 
+10. 
+Further to paragraph 9, each Party should explore, as appropriate, the possibility 
+of: 
+ 
+(a) 
+using electronic means for conducting such examinations; 
+ 
+(b) 
+conducting such examinations orally; and  
+ 
+(c) 
+providing opportunities for taking such examinations in the territory of 
+the other Party. 
+ 
+11. 
+Each Party shall ensure that there are procedures in place domestically to assess 
+the competency of professionals of the other Party. 
+ 
+12. 
+Subject to its laws and regulations, a Party shall permit service suppliers of the 
+other Party to use the enterprise names under which they trade in the territory of the 
+other Party and otherwise ensure that the use of enterprise names is not unduly 
+restricted. 
+ 
+13. 
+If the results of the negotiations related to paragraph 4 of Article VI of GATS, 
+or the results of any similar negotiations undertaken in other multilateral fora in which 
+                                                 
+5 “Relevant international organisations” refers to international bodies whose membership is open to the 
+relevant bodies of both Parties to the Agreement. 
+10 
+ 
+the Parties participate, enter into effect, the Parties shall jointly review these results 
+with a view to bringing them into effect, as appropriate, under this Agreement. 
+ 
+ 
+ARTICLE 12 
+ 
+Monopoly and Exclusive Service Supplier 
+ 
+1. 
+Each Party shall ensure that any monopoly supplier of a service in its territory 
+does not, in the supply of the monopoly service in the relevant market, act in a manner 
+inconsistent with the Party’s obligations under Articles 3 (Market Access) and 4 
+(National Treatment). 
+ 
+2. 
+Where a Party’s monopoly supplier competes, either directly or through an 
+affiliated company, in the supply of a service outside the scope of its monopoly rights 
+and which is subject to that Party’s obligations under Articles 3 (Market Access) and 
+4 (National Treatment), the Party shall ensure that such a supplier does not abuse its 
+monopoly position to act in its territory in a manner inconsistent with such 
+commitments. 
+ 
+3. 
+If a Party has reason to believe that a monopoly supplier of a service of the 
+other Party is acting in a manner inconsistent with paragraph 1 or paragraph 2, it may 
+request the other Party establishing, maintaining or authorising such a supplier to 
+provide specific information concerning the relevant operations in its territory. 
+ 
+4. 
+This Article shall also apply to cases of exclusive service suppliers, where a 
+Party, formally or in effect: 
+ 
+(a) 
+authorises or establishes a small number of service suppliers; and  
+ 
+(b) 
+substantially prevents competition among those service suppliers in its 
+territory. 
+ 
+ 
+ARTICLE 13 
+ 
+Safeguard Measures 
+ 
+Neither Party shall take safeguard action against services and service suppliers 
+of the other Party from the date of entry into force of this Agreement. Neither Party 
+shall initiate or continue any safeguard investigations in respect of services and service 
+suppliers of the other Party. 
+ 
+ 
+ARTICLE 14 
+ 
+Payments and Transfers 
+ 
+1. 
+Subject to its reservations pursuant to Article 7 (Reservations) and except under 
+the circumstances envisaged in Article 4 (Temporary Safeguard Measures) of Chapter 
+11 
+ 
+17 (Final Provisions), a Party shall not apply restrictions on international transfers and 
+payments for current transactions. 
+ 
+2. 
+Nothing in this Chapter shall affect the rights and obligations of the members 
+of the International Monetary Fund under the Articles of Agreement of the Fund, 
+including the use of exchange actions which are in conformity with the Articles of 
+Agreement, provided that a Party shall not impose restrictions on any capital 
+transactions inconsistently with its obligations under this Chapter regarding such 
+transactions, except under Article 4 (Temporary Safeguard Measures) of Chapter 17 
+(Final Provisions) or at the request of the Fund. 
+ 
+ 
+ARTICLE 15 
+ 
+Denial of Benefits 
+ 
+1. 
+A Party may deny the benefits of this Chapter to a service supplier of the other 
+Party if the service supplier is an enterprise owned or controlled by persons of a non-
+Party, and the denying Party adopts or maintains measures with respect to the non-Party 
+or a person of the non-Party that prohibit transactions with the enterprise or that would 
+be violated or circumvented if the benefits of this Chapter were accorded to the 
+enterprise. 
+ 
+2. 
+A Party may deny the benefits of this Chapter to a service supplier of the other 
+Party if the service supplier is an enterprise owned or controlled by persons of a non-
+Party or by persons of the denying Party that has no substantial business activities in 
+the territory of the other Party. 
+ 
+ 
+ARTICLE 16 
+ 
+General Exceptions 
+ 
+Subject to the requirement that such measures are not applied in a manner 
+which would constitute a means of arbitrary or unjustifiable discrimination between 
+the Parties where like conditions prevail, or a disguised restriction on trade in services, 
+nothing in this Chapter shall be construed to prevent the adoption or enforcement by a 
+Party of measures: 
+ 
+(a) 
+necessary to protect public morals or to maintain public order;6 
+ 
+(b) 
+necessary to protect human, animal or plant life or health; or 
+ 
+(c) 
+necessary to secure compliance with laws or regulations which are not 
+inconsistent with this Chapter including those relating to: 
+ 
+                                                 
+6 The public order exception may be invoked only where a genuine and sufficiently serious threat is posed 
+to one of the fundamental interests of society. 
+12 
+ 
+(i) 
+the prevention of deceptive and fraudulent practices or to deal 
+with the effects of a default on a services contract; 
+ 
+(ii) 
+the protection of the privacy of individuals in relation to the 
+processing and dissemination of personal data and the protection 
+of confidentiality of individual records and accounts; or 
+ 
+(iii) 
+safety. 
+ 
+ 
+ARTICLE 17 
+ 
+Review of Subsidies 
+ 
+1. 
+The Parties shall review the treatment of subsidies in the context of 
+developments in international fora of which both Parties are Members. 
+ 
+2. 
+The Parties shall consult on appropriate steps in regard to subsidies related to 
+trade in services where any subsidies issues arise under this Chapter. 
+ 
+ 
+ARTICLE 18 
+ 
+Air Transport Services 
+ 
+1. 
+For the purposes of this Article: 
+ 
+(a) 
+“aircraft repair and maintenance services” means such activities when 
+undertaken on an aircraft or a part thereof while it is withdrawn from 
+service and do not include so-called line maintenance; 
+ 
+(b) 
+“air transport” means the public carriage by aircraft of passengers, 
+baggage, cargo or mail, separately or in combination, for remuneration 
+or hire; and 
+ 
+(c) 
+“computer reservation system (CRS) services” means services provided 
+by computerised systems that contain information about air carriers’ 
+schedules, availability, fares and fare rules, through which reservations 
+can be made or tickets may be issued. 
+ 
+2. 
+This Chapter and Chapter 16 (Dispute Settlement), shall not apply to measures 
+affecting: 
+ 
+(a) 
+rights in relation to air transport, however granted; or 
+ 
+(b) 
+services directly related to the exercise of rights in relation to air 
+transport, except as provided in paragraph 3. 
+ 
+3. 
+This Chapter shall apply to measures affecting: 
+ 
+13 
+ 
+(a) 
+aircraft repair and maintenance services; and 
+ 
+(b) 
+computer reservation system (CRS) services. 
+ 
+4. 
+Both Parties agree to review developments in the air transport sector at the 
+first review of this Agreement under Article 7 (Review) of Chapter 17 (Final 
+Provisions) or at any other time agreed between the Parties, with a view to including 
+these developments in this Agreement. 
+ 
+5. 
+While both Parties affirm their rights and obligations under the Agreement 
+between the Government of the Commonwealth of Australia and the Government of 
+the Republic of Singapore relating to Air Services, signed on 3 November 1967 and 
+any subsequent amendments thereto, both Parties agree to work towards an Open Skies 
+Air Services Agreement and to review that work in accordance with paragraph 4. 
+ 
+6. 
+The Parties affirm, mutatis mutandis, their rights and obligations under the 
+GATS, including the Annex on Air Transport Services. 
+ 
+ 
+ARTICLE 19 
+ 
+Recognition 
+ 
+1. 
+For the purposes of the fulfilment, in whole or in part, of a Party’s standards 
+or criteria for the authorisation, licensing or certification of a service supplier, and 
+subject to the requirements of paragraph 4, it may recognise the education or 
+experience obtained, requirements met, or licences or certifications granted, in the 
+territory of the other Party or a non-Party. That recognition, which may be achieved 
+through harmonisation or otherwise, may be based on an agreement or arrangement 
+with the Party or non-Party concerned, or may be accorded autonomously. 
+ 
+2. 
+If a Party recognises, autonomously or by agreement or arrangement, the 
+education or experience obtained, requirements met, or licenses or certifications 
+granted, in the territory of a non-Party, nothing in Article 5 (Most-Favoured-Nation 
+Treatment) shall be construed to require the Party to accord recognition to the 
+education or experience obtained, requirements met, or licences or certifications 
+granted, in the territory of the other Party. 
+ 
+3. 
+A Party that is a party to an agreement or arrangement of the type referred to 
+in paragraph 1, whether existing or future, shall afford adequate opportunity to the 
+other Party, on request, to negotiate its accession to that agreement or arrangement, or 
+to negotiate a comparable agreement or arrangement. If a Party accords recognition 
+autonomously, it shall afford adequate opportunity to the other Party to demonstrate 
+that education, experience, licences or certifications obtained or requirements met in 
+the other Party’s territory should be recognised.  
+ 
+4. 
+A Party shall not accord recognition in a manner that would constitute a 
+means of discrimination between the other Party and non-Parties in the application of 
+its standards or criteria for the authorisation, licensing or certification of a service 
+supplier, or a disguised restriction on trade in services. 
+14 
+ 
+ 
+5. 
+As set out in Annex 7-A (Professional Services), the Parties shall endeavour 
+to facilitate trade in professional services, including through the establishment of a 
+Professional Services Working Group. 
+ 
+15 
+ 
+ANNEX 7-A  
+ 
+PROFESSIONAL SERVICES  
+ 
+ 
+Licensing, certification and mutual recognition 
+ 
+1. 
+The Parties shall encourage relevant bodies in their respective territories to 
+develop mutually acceptable standards and criteria for licensing and certification of 
+professional services suppliers. 
+ 
+2. 
+Without limiting the potential scope of work, the standards and criteria 
+referred to in paragraph 1 may be developed with regard to the following matters: 
+ 
+(a) 
+education – accreditation of schools or academic programs; 
+ 
+(b) 
+examinations – qualifying examinations for licensing, including 
+alternative methods of assessment, such as oral examinations and 
+interviews; 
+ 
+(c) 
+experience – length and nature of experience required for licensing; 
+ 
+(d) 
+conduct and ethics – standards of professional conduct and the nature of 
+disciplinary action for non-conformity with those standards; 
+ 
+(e) 
+professional development and re-certification – continuing education 
+and ongoing requirements to maintain professional certification; 
+ 
+(f) 
+scope of practice – extent of, or limitations on, permissible activities; 
+ 
+(g) 
+local knowledge – requirements for knowledge of such matters as local 
+laws, regulations, geography, or climate; and 
+ 
+(h) 
+consumer protection – alternatives to any residency requirements, 
+including bonding, professional liability insurance, and client restitution 
+funds, to provide for the protection of consumers. 
+ 
+3. 
+A Party may consider, if feasible, taking steps to implement a temporary or 
+project specific licensing or registration regime based on a foreign supplier’s home 
+licence or recognised professional body membership, without the need for further 
+written examination. That temporary or limited licence regime should not operate to 
+prevent a foreign supplier from gaining a local licence once that supplier satisfies the 
+applicable local licensing requirements. 
+ 
+4. 
+On request of the other Party, a Party shall to the extent practicable provide 
+information concerning standards and criteria for the licensing and certification of 
+professional service suppliers, including information concerning the appropriate 
+regulatory or other body to consult regarding these standards and criteria. 
+ 
+Consultations 
+16 
+ 
+ 
+5. 
+Without prejudice to each Party’s rights and obligations under this 
+Agreement, and while recognising the right to regulate and to introduce new 
+regulations on the supply of services in order to meet policy objectives, each Party 
+should refrain from raising new barriers to trade in professional services. Where a 
+Party considers that a new barrier has been adopted, or is proposed to be adopted, it 
+may request consultations with the other Party. 
+ 
+Working Group 
+ 
+6. 
+The Parties hereby establish a Working Group on Professional Services, 
+comprising representatives of each Party, to facilitate activities listed in paragraphs 1 
+to 4. The Working Group shall meet annually, or as agreed by the Parties. 
+ 
+7. 
+The issues that the Working Group should consider, for professional services 
+generally and, as appropriate, for individual professional services, include: 
+ 
+(a) 
+procedures for fostering the development of mutual recognition 
+arrangements between relevant bodies; 
+ 
+(b) 
+the feasibility of developing model procedures for the licensing and 
+certification of professional services suppliers; and 
+ 
+(c) 
+other issues of mutual interest relating to the supply of professional 
+services. 
+ 
+8. 
+In implementing this Annex, the Working Group should consider, as 
+appropriate, relevant bilateral, plurilateral and multilateral agreements relating to 
+professional services. 
+ 
+9. 
+To assist the Working Group in its activities, the Parties should, as appropriate, 
+encourage the involvement of relevant industry bodies. This may include encouraging 
+relevant industry bodies to provide joint views on potential initiatives within the scope 
+of the Working Group’s activities, including views on mutual recognition opportunities. 
+The Parties should consider and provide a response to any joint views, advancing 
+projects where feasible and mutually agreed. 
+ 
+10. 
+Each Party shall encourage its relevant bodies to implement any decisions or 
+recommendations of the Working Group within a mutually agreed time.   
+ 
+11. 
+The Working Group, at each meeting, shall review progress made, including 
+with respect to any recommendation for initiatives to promote mutual recognition of 
+standards and criteria and temporary licensing, and agree on the further direction of 
+its work. 
+ 
+ 
+ 
+ 

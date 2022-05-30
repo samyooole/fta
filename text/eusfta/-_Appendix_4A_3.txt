@@ -1,1 +1,54 @@
- EUSFTA Appendix 4-A-3- 1  Appendix 4-A-3   DEFINITIONS  For the purposes of Annex 4-A, the following definitions shall apply:  "safety of electrical equipment" means that equipment, having been constructed in accordance with good engineering practice in safety matters, does not endanger the safety of persons, domestic animals or property when properly installed, maintained and used in applications for which it was made;  "electromagnetic compatibility" means that equipment is designed and manufactured, having regard to the state of the art, so as to ensure that:  (a) the electromagnetic disturbance generated does not exceed the level above which radio and telecommunications equipment or other equipment cannot operate as intended; and  (b) the equipment has a level of immunity to the electromagnetic disturbance that is to be expected in its intended use, which allows it to operate without unacceptable degradation of the performance of the equipment when used as intended.  "electromagnetic disturbance" means any electromagnetic phenomenon which may degrade the performance of equipment, including electromagnetic noise, an unwanted signal or a change in the propagation medium itself;   EUSFTA Appendix 4-A-3- 2  "immunity" means the ability of equipment to perform as intended and without degradation of performance in the presence of an electromagnetic disturbance;  "declaration of conformity" means the issuance of a statement, based on a decision following review, that fulfilment of specified requirements has been demonstrated;  "supplier" means a manufacturer or its authorised representative in the territory of the importing Party, or where neither is present in the territory of the importing Party, the responsibility for the presentation of the supplier's declaration shall rest with the importer; and  "testing laboratory" means a conformity assessment body that performs testing services and has received attestation conveying a formal demonstration of its competence to carry out these specific tasks.  The definitions of "standard", "technical regulation" and "conformity assessment procedures" are the same as those provided in Annex I of the TBT Agreement.   
+ 
+EUSFTA Appendix 4-A-3- 1 
+ 
+Appendix 4-A-3 
+ 
+ 
+DEFINITIONS 
+ 
+For the purposes of Annex 4-A, the following definitions shall apply: 
+ 
+"safety of electrical equipment" means that equipment, having been constructed in 
+accordance with good engineering practice in safety matters, does not endanger the safety 
+of persons, domestic animals or property when properly installed, maintained and used in 
+applications for which it was made; 
+ 
+"electromagnetic compatibility" means that equipment is designed and manufactured, 
+having regard to the state of the art, so as to ensure that: 
+ 
+(a) 
+the electromagnetic disturbance generated does not exceed the level above which 
+radio and telecommunications equipment or other equipment cannot operate as 
+intended; and 
+ 
+(b) 
+the equipment has a level of immunity to the electromagnetic disturbance that is to 
+be expected in its intended use, which allows it to operate without unacceptable 
+degradation of the performance of the equipment when used as intended. 
+ 
+"electromagnetic disturbance" means any electromagnetic phenomenon which may 
+degrade the performance of equipment, including electromagnetic noise, an unwanted 
+signal or a change in the propagation medium itself; 
+ 
+ 
+EUSFTA Appendix 4-A-3- 2 
+ 
+"immunity" means the ability of equipment to perform as intended and without 
+degradation of performance in the presence of an electromagnetic disturbance; 
+ 
+"declaration of conformity" means the issuance of a statement, based on a decision 
+following review, that fulfilment of specified requirements has been demonstrated; 
+ 
+"supplier" means a manufacturer or its authorised representative in the territory of the 
+importing Party, or where neither is present in the territory of the importing Party, the 
+responsibility for the presentation of the supplier's declaration shall rest with the importer; 
+and 
+ 
+"testing laboratory" means a conformity assessment body that performs testing services 
+and has received attestation conveying a formal demonstration of its competence to carry 
+out these specific tasks. 
+ 
+The definitions of "standard", "technical regulation" and "conformity assessment 
+procedures" are the same as those provided in Annex I of the TBT Agreement. 
+ 
+ 

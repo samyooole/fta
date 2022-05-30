@@ -1,1 +1,795 @@
- 44  ANNEX ON FINANCIAL SERVICES   Article 1 Scope  1. This Annex applies to measures affecting the supply of financial services. Reference to the supply of a financial service in this Annex shall mean the supply of a service:  (a) from the territory of one Member State into the territory of any other Member States (Mode 1: cross-border supply);  (b) in the territory of one Member State to the service consumer of any other Member States (Mode 2: consumption abroad);  (c) by a service supplier of one Member State, through commercial presence in the territory of any other Member States (Mode 3: commercial presence);  (d) by a service supplier of one Member State, through presence of natural persons of a Member State in the territory of any other Member States (Mode 4: presence of natural persons).  2. This Annex does not apply to services supplied in the exercise of governmental authority, as follows:  (a) activities conducted by a central bank or monetary authority or by any other public entity in pursuit of monetary or exchange rate policies;  (b) activities forming part of a statutory system of social security or public retirement plans; or   45  (c) other activities conducted by a public entity for the account or with the guarantee or using the financial resources of the Government.  3. For the purposes of this Annex, if a Member State allows any of the activities referred to in subparagraphs 2(b) or 2(c) to be conducted by its financial service suppliers in competition with a public entity or a financial service supplier, “services” shall include such activities.  4. For greater certainty, this Annex shall prevail to the extent of any inconsistency with any other provision in this Agreement.   Article 2 Definitions  For the purposes of this Annex:  (a) cross-border supply of financial services refers to the supply of financial services in subparagraphs 1 (a) and (b) of Article 1 (Scope) of this Annex;  (b) financial institution means any financial intermediary or other enterprise that is authorised to do business and regulated or supervised by the central bank, monetary authority or financial services authority under the law of the Member States in whose territory it is located;  (c) financial services means any service of a financial nature offered by a financial service supplier of a Member State. Financial services include all insurance and insurance-related services, and all banking and other financial services (excluding insurance). Financial services include the following activities:   46  Insurance and insurance-related services  (i) direct insurance (including co-insurance):  a) life;  b) non-life;  (ii) reinsurance and retrocession;  (iii) insurance intermediation, such as brokerage and agency; and  (iv) services auxiliary to insurance, such as consultancy, actuarial, risk assessment and claim settlement services;  Banking and other financial services (excluding insurance)  (v) acceptance of deposits and other repayable funds from the public;  (vi) lending of all types, including consumer credit, mortgage credit, factoring and financing of commercial transaction;  (vii) financial leasing;  (viii) all payment and money transmission services, including credit, charge and debit cards, travellers cheques and bankers drafts;  (ix) guarantees and commitments;  (x) trading for own account or for account of customers, whether on an exchange, in an over-the-counter market or otherwise, the following:  47   a) money market instruments (including cheques, bills, certificates of deposits);  b) foreign exchange;  c) derivative products including, but not limited to, futures and options;  d) exchange rate and interest rate instruments, including products such as swaps, forward rate agreements;  e) transferable securities;  f) other negotiable instruments and financial assets, including bullion;  (xi) participation in issues of all kinds of securities, including underwriting and placement as agent (whether publicly or privately) and provision of services related to such issues;  (xii) money broking;  (xiii) asset management, such as cash or portfolio management, all forms of collective investment management, pension fund management, custodial, depository and trust services;  (xiv) settlement and clearing services for financial assets, including securities, derivative products, and other negotiable instruments;  (xv) provision and transfer of financial information, and financial data processing and related software by suppliers of other financial services; and   48  (xvi) advisory, intermediation and other auxiliary financial services on all the activities listed in subparagraphs (v) through (xv), including credit reference and analysis, investment and portfolio research and advice, advice on acquisitions and on corporate restructuring and strategy;  (d) financial service supplier means any natural or juridical person of a Member State wishing to supply or supplying financial services but the term “financial service supplier” does not include a public entity;  (e) new financial service means a financial service that is not supplied by any financial service supplier in the territory of a Member State but which is supplied and regulated in the territory of any other Member State. This may include services related to existing and new products, or the manner in which the product is delivered;  (f) public entity means:  (i) a government, a central bank or a monetary authority, of a Member State, or an entity owned or controlled by a Member State, that is principally engaged in carrying out governmental functions or activities for governmental purposes, not including an entity principally engaged in supplying financial services on commercial terms; or  (ii) a private entity, performing functions normally performed by a central bank or monetary authority, when exercising those functions; and  (g) self-regulatory organisation means any non-governmental body, including any securities or futures exchange or market, clearing or payment  49  settlement agency, other organisation or association that:  (i) is recognised as a self-regulatory organisation; and/or  (ii) exercises regulatory or supervisory authority over financial service suppliers or financial institutions in its territory,  by legislation or delegation from central, regional or local governments or authorities.   Article 3 New Financial Services  Each Member State (“Host Member State”) shall give due consideration to applications by financial institutions of another Member State established in the territory of the Host Member State to offer in the territory of the Host Member State a new financial service that the Host Member State would permit its own financial institutions, in like circumstances, to supply without adopting a law or modifying an existing law1.  Where an application is approved, the provision of the new financial service is subject to relevant licensing, institutional or juridical form, or other requirements of the Host Member State.   Article 4 Safeguard Measures  1. Notwithstanding any other provisions of this Agreement, a Member State shall not be prevented from taking                                                            1 For greater certainty, a Member State may issue a new regulation or other subordinate measure in permitting the supply of the new financial service.  50  measures for prudential reasons, including for the protection of investors, depositors, policy holders or persons to whom a fiduciary duty is owed by a financial service supplier, or to ensure the integrity and stability of the financial system or to ensure the stability of the exchange rate subject to the following:  (a) where such measures do not conform with the provisions of this Agreement, they shall not be used as a means of avoiding the Member State’s commitments or obligations under this Agreement; and  (b) for measures to ensure the stability of the exchange rate such measures shall be no more than necessary and phased out when conditions no longer justify their institution or maintenance and such measures shall be applied on a most-favoured-nation basis.  2. Nothing in this Agreement shall be construed to require a Member State to disclose information relating to the affairs and accounts of individual customers or any confidential or proprietary information in the possession of public entities.   Article 5 Recognition  1. A Member State may recognise prudential measures of any other country or international standard setting bodies in determining how the Member State’s measures relating to financial services shall be applied2. Such recognition, which may be achieved through harmonisation or otherwise, may be based upon an agreement or arrangement with  the                                                            2 For greater certainty, nothing in Article 11 (Most-Favoured-Nation Treatment) of this Annex shall be construed to require the Member State to accord such recognition to prudential measures of any other Member State.  51  country concerned or international standard setting body or may be accorded autonomously.  2. A Member State that is a party to such an agreement or arrangement referred to in paragraph 1, whether future or existing, shall afford adequate opportunity for other interested Member States to negotiate their accession to such agreement or arrangements, or to negotiate comparable ones with it, under circumstances in which there would be equivalent regulation, oversight, implementation of such regulation, and, if appropriate, procedures concerning the sharing of information between the parties to the agreement or arrangement. Where a Member State accords recognition autonomously, it shall afford adequate opportunity for any other Member State to demonstrate that such circumstances exist.   Article 6 Transparency  1. The Member States recognise that transparent regulations and policies governing the activities of financial service suppliers are important in facilitating access of foreign financial service suppliers to, and their operations in each other’s markets.  Each Member State commits to promote regulatory transparency in financial services.  2. Each Member State shall ensure that measures of general application adopted or maintained by it are promptly published or otherwise made publicly available. Such information may be published in each Member State’s chosen language. Each Member State shall endeavour to publish in English the translation, or summary, or explanation note of such measures of general application. Such publication shall not be used as official translation unless otherwise stated.  3. Each Member State shall, to the extent practicable:  52   (a) publish or make available to interested persons in advance any law and regulation of general application relating to the supply of financial services that it proposes to adopt and the purpose of such law and regulation; and  (b) provide interested persons3 and other Member States a reasonable opportunity to comment on such proposed laws and regulations.  4. Each Member State’s regulatory authorities shall make available to interested persons their requirements, including any documentation required, for completing applications relating to the supply of financial services.  5. On the request of an applicant in writing, the regulatory authority shall inform the applicant of the status of the application. If such authority requires additional information from the applicant, it shall notify the applicant within reasonable time.  6. A regulatory authority shall make an administrative decision on a completed application of an applicant relating to the supply of a financial service within 180 days and shall promptly notify the applicant of the decision. An application shall not be considered complete until all relevant hearings are held and the regulatory authority considers all necessary information is received. Where it is not practicable for a decision to be made within 180days, the regulatory authority shall notify the applicant within a reasonable time and shall endeavour to make the decision within a reasonable time thereafter.  7. On the request of an unsuccessful applicant in writing, a regulatory authority that has denied an application shall                                                            3 The Member States confirm their shared understanding that interested persons in this Article are persons whose direct financial interest could be potentially affected by the adoption of the laws and regulations of general application.  53  endeavour to inform the applicant of the reasons for denial of the application.  8. Each Member State shall maintain or establish appropriate mechanisms that will respond to inquiries from interested persons regarding measures of general application covered by this Annex.  9. Each Member State shall take reasonable measures as may be available to it to ensure that the rules of general application adopted or maintained by self-regulatory organisations4 of the Member State are promptly published or otherwise made publicly available5.  10. To the extent practicable, each Member State should allow reasonable time between the publication of final regulations and their effective dates.   Article 7 Payment and Clearing Systems  Under terms and conditions that accord national treatment, in accordance with domestic laws and regulations, each Member State shall grant to financial institutions of any other Member State established in the territory of the Host Member State access to payment and clearing systems operated by public entities, and to official funding and refinancing facilities available in the normal course of ordinary business. This paragraph is not intended to confer access to the Member State’s lender of last resort facilities.                                                                4 This paragraph only applies to a Member State when that Member State has established self-regulatory organisations. 5 For greater certainty, Member States agree that such information may be published in each Member State’s chosen language.  54  Article 8 Self-Regulatory Organisations  If a Member State requires a financial institution of another Member State to be a member of, participate in, or have access to, a self-regulatory organisation to provide a financial service in its territory, the Member State will endeavour to ensure that the self-regulatory organisation observes the obligations of Article 6 (National Treatment) of this Agreement and Article 11 (Most-Favoured-Nation Treatment) of this Annex.   Article 9 Transfer of Information and Processing of Information  1. A Member State shall not take measures that:  (a) prevent transfers of information, including transfers of data by electronic means, necessary for the conduct of the ordinary business of a financial service supplier;  (b) prevent the processing of information necessary for the conduct of the ordinary business of a financial service supplier; or  (c) prevent transfers of equipment necessary for the conduct of the ordinary business of a financial service supplier, subject to importation rules consistent with international agreements.  2. Nothing in Paragraph 1:  (a) restricts the right of a Member State to protect personal data, personal privacy and the confidentiality of individual records and accounts including in accordance with its domestic laws and regulations as long as such right shall not be used  55  as a means of avoiding the Member State’s commitments or obligations under this Agreement;  (b) prevents a regulator of a Member State, for regulatory or prudential reasons, from requiring a financial service supplier in its territory to comply with domestic regulation in relation to data management6 and storage and system maintenance, as well as to retain within its territory copies of records; or  (c) shall be construed to require a Member State to allow the cross-border supply or the consumption abroad of services in relation to which it has not made specific commitments, including to allow non-resident suppliers of financial services to supply, as a principal, through an intermediary or as an intermediary, the provision and transfer of financial information and financial data processing as referred to in paragraph (a)(xv) of Article 2 (Definitions) of this Annex.7   Article 10 Dispute Settlement  Members of panels established pursuant to Article 34 (Dispute Settlement) of this Agreement for disputes on prudential issues and other financial matters shall have the                                                            6 For greater certainty, data management includes the local processing obligation of domestic payment transactions. 7 For greater certainty, where a Member State has not made specific commitments in relation to the cross-border supply or consumption abroad of a service, the Member State shall have the right to take measures that prevent the transfer of information, processing of information or transfer of equipment referred to in paragraph 1 relating to the cross-border supply or consumption abroad of that service by the financial service supplier referred to under paragraph 1. Nevertheless, a Member State shall not avoid its obligations to allow the transfers and processing not relating to any cross-border supply or consumption abroad of a service, which is for the purpose of group oversight and compliance with reporting requirement of another Member State.  56  necessary expertise relevant to the specific financial service under dispute.  Article 11 Most-Favoured-Nation Treatment  1. Each Member State shall accord to services and service suppliers of another Member State treatment no less favourable than that it accords, in like circumstances, to services and service suppliers of any other Member State.8  2. Notwithstanding paragraph 1, after the entry into force of this Agreement, if a Member State concludes or amends an agreement with any Member State or non-Member State, any other Member State may request negotiations with a view to incorporating, under this Agreement, treatment no less favourable than that provided under that agreement. The requested Member State shall enter into negotiations with the requesting Member State. Any extension of such preferential treatment to the remaining Member States on a Most-Favoured-Nation basis shall be voluntary on the part of that requested Member State.  3. Any Member State may maintain a measure inconsistent with paragraph 1 provided that such a measure is listed in, and meets the conditions of, its List of Most-Favoured-Nation Exemptions.  4. The provisions of this Agreement shall not be construed as to prevent any Member State from conferring or according advantages to adjacent countries in order to facilitate exchanges limited to contiguous frontier zones of services that are both locally produced and consumed.                                                               8 For greater certainty, the obligations in paragraphs 1 and 3 apply only to the financial services commitments under the Final AFAS Packages, excluding the commitments under the ASEAN Banking Integration Framework (ABIF).  57  Article 12 Arrangements to Expedite Financial Integration  1. Two or more Member States may conduct negotiations and agree to liberalise trade in services for specific sectors or sub-sectors (“the participating Member States”). Any extension of such preferential treatment to the remaining Member States on a Most-Favoured-Nation basis shall be voluntary on the part of the participating Member States.  2. The participating Member States shall keep the remaining Member States informed through the ASEAN Secretariat of the progress or result of the negotiations, including the scheduling of commitments for the specific sectors or sub-sectors concerned. Member States wishing to join any on-going negotiations among the participating Member States may do so in consultation with the participating Member States.  3. Any Member State which is not a party to any agreement made pursuant to paragraph 1 may accede to such an agreement subject to consent of the participating Member States.  4. The participating Member States can further refine the parameters for specific sectors or sub-sectors to be committed as may be mutually agreed by all participating Member States for the purpose of further liberalisation of trade in services.  5. All agreements made pursuant to paragraph 1 shall be deposited with the Secretary-General of ASEAN who shall promptly furnish a certified copy thereof to each participating Member State and notifying the same to the other Member States.      58  Article 13 Market Access for Financial Institutions9  With respect to market access of a financial institution of another Member State through Mode 3: commercial presence as identified in Article 1 (Scope) of this Annex, unless otherwise specified in its Schedules of Non-Conforming Measures, a Member State shall not maintain or adopt, either on the basis of a regional subdivision or on the basis of its entire territory, measures that:  1. impose limitations on: (a) the number of financial institutions whether in the form of numerical quotas, monopolies, exclusive service suppliers or the requirements of an economic needs test; (b) the total value of financial service transactions or assets in the form of numerical quotas or the requirement of an economic needs test; (c) the total number of financial service operations or the total quantity of financial service output expressed in terms of designated numerical units in the form of quotas or the requirement of an economic needs test10; (d) the total number of natural persons that may be employed in a particular financial service sector or that a financial institution may employ and who are necessary for, and directly related to, the supply of a specific financial service in the form of numerical quotas or the requirement of an economic needs                                                            9 A member state commits to allow transfers of capital into its territory if such transfers of capital are related to its market-access commitments with respect to financial institutions under this Article 10 Subparagraph (a)(iii) does not cover measures of a Member State which limit inputs for the supply of financial services.  59  test; (e) the participation of foreign capital in terms of maximum percentage limit on foreign shareholding or the total value of individual or aggregate foreign investment 2.  restrict or require specific types of legal entity or joint venture through which a financial institution may supply a service    Article 14  Cross-Border Supply of Financial Services11  1. Each Member State shall permit, under terms and conditions that accord national treatment, cross-border financial service suppliers of another Member State to supply the financial services specified in Annex on (Cross-Border Supply of Financial Services).12  2. Each Member State shall permit persons located in its territory, and its nationals wherever located, to purchase financial services from cross-border financial service suppliers of another Member State located in the territory of a Member State other than the permitting Member State. This obligation does not require a Member State to permit those suppliers to do business or solicit in its territory. A Member State may define “doing business” and “solicitation” for the purposes of this obligation provided that those definitions are not inconsistent with paragraph 1.                                                            11 For greater certainty, this would apply upon transition to negative list. Schedules for Non-Conforming Measures for Financial Services only refer to Article 6 (National Treatment) and Article 10 (Senior Management and Board of Directors) of this Agreement and Article 13 (Market Access) and Article 14 (Cross-Border Supply of Financial Services) of this Annex. 12 In relation to a cross-border financial service supplier supplying a financial service specified in a Member State's Annex [XX] (Cross-Border Supply in Financial Services) and if the cross-border movement of capital is an essential part of the service itself, that Member State commits to allow such movement of capital.  60   3. Without prejudice to other means of prudential regulation of cross-border supply of financial services, a Member State may require the registration or authorisation of cross-border financial service suppliers of another Member State and of financial instruments.   Article 15 Local Presence  Article 9 (Local Presence) in this Agreement shall not be applied to the supply of financial services.   
+ 
+44 
+ 
+ANNEX ON 
+FINANCIAL SERVICES 
+ 
+ 
+Article 1 
+Scope 
+ 
+1. 
+This Annex applies to measures affecting the supply of 
+financial services. Reference to the supply of a financial 
+service in this Annex shall mean the supply of a service: 
+ 
+(a) from the territory of one Member State into the 
+territory of any other Member States (Mode 1: 
+cross-border supply); 
+ 
+(b) in the territory of one Member State to the service 
+consumer of any other Member States (Mode 2: 
+consumption abroad); 
+ 
+(c) by a service supplier of one Member State, through 
+commercial presence in the territory of any other 
+Member States (Mode 3: commercial presence); 
+ 
+(d) by a service supplier of one Member State, through 
+presence of natural persons of a Member State in 
+the territory of any other Member States (Mode 4: 
+presence of natural persons). 
+ 
+2. 
+This Annex does not apply to services supplied in the 
+exercise of governmental authority, as follows: 
+ 
+(a) activities conducted by a central bank or monetary 
+authority or by any other public entity in pursuit of 
+monetary or exchange rate policies; 
+ 
+(b) activities forming part of a statutory system of social 
+security or public retirement plans; or 
+ 
+ 
+45 
+ 
+(c) other activities conducted by a public entity for the 
+account or with the guarantee or using the financial 
+resources of the Government. 
+ 
+3. 
+For the purposes of this Annex, if a Member State allows 
+any of the activities referred to in subparagraphs 2(b) or 2(c) 
+to be conducted by its financial service suppliers in 
+competition with a public entity or a financial service supplier, 
+“services” shall include such activities. 
+ 
+4. 
+For greater certainty, this Annex shall prevail to the 
+extent of any inconsistency with any other provision in this 
+Agreement. 
+ 
+ 
+Article 2 
+Definitions 
+ 
+For the purposes of this Annex: 
+ 
+(a) cross-border supply of financial services refers 
+to the supply of financial services in subparagraphs 
+1 (a) and (b) of Article 1 (Scope) of this Annex; 
+ 
+(b) financial 
+institution 
+means 
+any 
+financial 
+intermediary or other enterprise that is authorised to 
+do business and regulated or supervised by the 
+central bank, monetary authority or financial 
+services authority under the law of the Member 
+States in whose territory it is located; 
+ 
+(c) financial services means any service of a financial 
+nature offered by a financial service supplier of a 
+Member State. Financial services include all 
+insurance and insurance-related services, and all 
+banking and other financial services (excluding 
+insurance). Financial services include the following 
+activities: 
+ 
+ 
+46 
+ 
+Insurance and insurance-related services 
+ 
+(i) direct insurance (including co-insurance): 
+ 
+a) life; 
+ 
+b) non-life; 
+ 
+(ii) reinsurance and retrocession; 
+ 
+(iii) insurance intermediation, such as brokerage 
+and agency; and 
+ 
+(iv) services auxiliary to insurance, such as 
+consultancy, actuarial, risk assessment and 
+claim settlement services; 
+ 
+Banking and other financial services (excluding 
+insurance) 
+ 
+(v) acceptance of deposits and other repayable 
+funds from the public; 
+ 
+(vi) lending of all types, including consumer credit, 
+mortgage credit, factoring and financing of 
+commercial transaction; 
+ 
+(vii) financial leasing; 
+ 
+(viii) all payment and money transmission services, 
+including credit, charge and debit cards, 
+travellers cheques and bankers drafts; 
+ 
+(ix) guarantees and commitments; 
+ 
+(x) trading for own account or for account of 
+customers, whether on an exchange, in an 
+over-the-counter market or otherwise, the 
+following: 
+ 
+47 
+ 
+ 
+a) money 
+market 
+instruments 
+(including 
+cheques, bills, certificates of deposits); 
+ 
+b) foreign exchange; 
+ 
+c) 
+derivative products including, but not 
+limited to, futures and options; 
+ 
+d) exchange 
+rate 
+and 
+interest 
+rate 
+instruments, including products such as 
+swaps, forward rate agreements; 
+ 
+e) transferable securities; 
+ 
+f) 
+other negotiable instruments and financial 
+assets, including bullion; 
+ 
+(xi) participation in issues of all kinds of securities, 
+including underwriting and placement as agent 
+(whether publicly or privately) and provision of 
+services related to such issues; 
+ 
+(xii) money broking; 
+ 
+(xiii) asset management, such as cash or portfolio 
+management, all forms of collective investment 
+management, 
+pension 
+fund 
+management, 
+custodial, depository and trust services; 
+ 
+(xiv) settlement and clearing services for financial 
+assets, including securities, derivative products, 
+and other negotiable instruments; 
+ 
+(xv) provision and transfer of financial information, 
+and financial data processing and related 
+software by suppliers of other financial services; 
+and 
+ 
+ 
+48 
+ 
+(xvi) advisory, intermediation and other auxiliary 
+financial services on all the activities listed in 
+subparagraphs (v) through (xv), including credit 
+reference 
+and 
+analysis, 
+investment 
+and 
+portfolio research and advice, advice on 
+acquisitions and on corporate restructuring and 
+strategy; 
+ 
+(d) financial service supplier means any natural or 
+juridical person of a Member State wishing to supply 
+or supplying financial services but the term “financial 
+service supplier” does not include a public entity; 
+ 
+(e) new financial service means a financial service 
+that is not supplied by any financial service supplier 
+in the territory of a Member State but which is 
+supplied and regulated in the territory of any other 
+Member State. This may include services related to 
+existing and new products, or the manner in which 
+the product is delivered; 
+ 
+(f) public entity means: 
+ 
+(i) a government, a central bank or a monetary 
+authority, of a Member State, or an entity 
+owned or controlled by a Member State, that is 
+principally 
+engaged 
+in 
+carrying 
+out 
+governmental 
+functions 
+or 
+activities 
+for 
+governmental purposes, not including an entity 
+principally engaged in supplying financial 
+services on commercial terms; or 
+ 
+(ii) a private entity, performing functions normally 
+performed by a central bank or monetary 
+authority, when exercising those functions; and 
+ 
+(g) self-regulatory organisation means any non-
+governmental body, including any securities or 
+futures exchange or market, clearing or payment 
+ 
+49 
+ 
+settlement agency, other organisation or association 
+that: 
+ 
+(i) is recognised as a self-regulatory organisation; 
+and/or 
+ 
+(ii) exercises regulatory or supervisory authority 
+over financial service suppliers or financial 
+institutions in its territory, 
+ 
+by legislation or delegation from central, regional or 
+local governments or authorities. 
+ 
+ 
+Article 3 
+New Financial Services 
+ 
+Each Member State (“Host Member State”) shall give due 
+consideration to applications by financial institutions of 
+another Member State established in the territory of the Host 
+Member State to offer in the territory of the Host Member 
+State a new financial service that the Host Member State 
+would 
+permit 
+its 
+own 
+financial 
+institutions, 
+in 
+like 
+circumstances, to supply without adopting a law or modifying 
+an existing law1. 
+ 
+Where an application is approved, the provision of the new 
+financial service is subject to relevant licensing, institutional 
+or juridical form, or other requirements of the Host Member 
+State. 
+ 
+ 
+Article 4 
+Safeguard Measures 
+ 
+1. 
+Notwithstanding any other provisions of this Agreement, 
+a Member State shall not be prevented from taking 
+                                                           
+1 For greater certainty, a Member State may issue a new regulation or other subordinate 
+measure in permitting the supply of the new financial service. 
+ 
+50 
+ 
+measures for prudential reasons, including for the protection 
+of investors, depositors, policy holders or persons to whom a 
+fiduciary duty is owed by a financial service supplier, or to 
+ensure the integrity and stability of the financial system or to 
+ensure the stability of the exchange rate subject to the 
+following: 
+ 
+(a) where such measures do not conform with the 
+provisions of this Agreement, they shall not be used 
+as a means of avoiding the Member State’s 
+commitments or obligations under this Agreement; 
+and 
+ 
+(b) for measures to ensure the stability of the exchange 
+rate such measures shall be no more than 
+necessary and phased out when conditions no 
+longer justify their institution or maintenance and 
+such measures shall be applied on a most-
+favoured-nation basis. 
+ 
+2. 
+Nothing in this Agreement shall be construed to require 
+a Member State to disclose information relating to the affairs 
+and accounts of individual customers or any confidential or 
+proprietary information in the possession of public entities. 
+ 
+ 
+Article 5 
+Recognition 
+ 
+1. 
+A Member State may recognise prudential measures of 
+any other country or international standard setting bodies in 
+determining how the Member State’s measures relating to 
+financial services shall be applied2. Such recognition, which 
+may be achieved through harmonisation or otherwise, may 
+be based upon an agreement or arrangement with  the 
+                                                           
+2 For greater certainty, nothing in Article 11 (Most-Favoured-Nation Treatment) of this Annex 
+shall be construed to require the Member State to accord such recognition to prudential 
+measures of any other Member State. 
+ 
+51 
+ 
+country concerned or international standard setting body or 
+may be accorded autonomously. 
+ 
+2. 
+A Member State that is a party to such an agreement or 
+arrangement referred to in paragraph 1, whether future or 
+existing, shall afford adequate opportunity for other 
+interested Member States to negotiate their accession to 
+such 
+agreement 
+or 
+arrangements, 
+or 
+to 
+negotiate 
+comparable ones with it, under circumstances in which there 
+would be equivalent regulation, oversight, implementation of 
+such regulation, and, if appropriate, procedures concerning 
+the sharing of information between the parties to the 
+agreement or arrangement. Where a Member State accords 
+recognition 
+autonomously, 
+it 
+shall 
+afford 
+adequate 
+opportunity for any other Member State to demonstrate that 
+such circumstances exist. 
+ 
+ 
+Article 6 
+Transparency 
+ 
+1. 
+The 
+Member 
+States 
+recognise 
+that 
+transparent 
+regulations and policies governing the activities of financial 
+service suppliers are important in facilitating access of 
+foreign financial service suppliers to, and their operations in 
+each other’s markets.  Each Member State commits to 
+promote regulatory transparency in financial services. 
+ 
+2. 
+Each Member State shall ensure that measures of 
+general application adopted or maintained by it are promptly 
+published or otherwise made publicly available. Such 
+information may be published in each Member State’s 
+chosen language. Each Member State shall endeavour to 
+publish in English the translation, or summary, or explanation 
+note of such measures of general application. Such 
+publication shall not be used as official translation unless 
+otherwise stated. 
+ 
+3. 
+Each Member State shall, to the extent practicable: 
+ 
+52 
+ 
+ 
+(a) publish or make available to interested persons in 
+advance any law and regulation of general 
+application relating to the supply of financial 
+services that it proposes to adopt and the purpose 
+of such law and regulation; and 
+ 
+(b) provide interested persons3 and other Member 
+States a reasonable opportunity to comment on 
+such proposed laws and regulations. 
+ 
+4. 
+Each Member State’s regulatory authorities shall make 
+available to interested persons their requirements, including 
+any documentation required, for completing applications 
+relating to the supply of financial services. 
+ 
+5. 
+On the request of an applicant in writing, the regulatory 
+authority shall inform the applicant of the status of the 
+application. If such authority requires additional information 
+from the applicant, it shall notify the applicant within 
+reasonable time. 
+ 
+6. 
+A regulatory authority shall make an administrative 
+decision on a completed application of an applicant relating 
+to the supply of a financial service within 180 days and shall 
+promptly notify the applicant of the decision. An application 
+shall not be considered complete until all relevant hearings 
+are held and the regulatory authority considers all necessary 
+information is received. Where it is not practicable for a 
+decision to be made within 180days, the regulatory authority 
+shall notify the applicant within a reasonable time and shall 
+endeavour to make the decision within a reasonable time 
+thereafter. 
+ 
+7. 
+On the request of an unsuccessful applicant in writing, a 
+regulatory authority that has denied an application shall 
+                                                           
+3 The Member States confirm their shared understanding that interested persons in this Article 
+are persons whose direct financial interest could be potentially affected by the adoption of the 
+laws and regulations of general application. 
+ 
+53 
+ 
+endeavour to inform the applicant of the reasons for denial of 
+the application. 
+ 
+8. 
+Each Member State shall maintain or establish 
+appropriate mechanisms that will respond to inquiries from 
+interested 
+persons 
+regarding 
+measures 
+of 
+general 
+application covered by this Annex. 
+ 
+9. 
+Each Member State shall take reasonable measures as 
+may be available to it to ensure that the rules of general 
+application 
+adopted 
+or 
+maintained 
+by 
+self-regulatory 
+organisations4 of the Member State are promptly published 
+or otherwise made publicly available5. 
+ 
+10. To the extent practicable, each Member State should 
+allow reasonable time between the publication of final 
+regulations and their effective dates. 
+ 
+ 
+Article 7 
+Payment and Clearing Systems 
+ 
+Under terms and conditions that accord national treatment, in 
+accordance with domestic laws and regulations, each 
+Member State shall grant to financial institutions of any other 
+Member State established in the territory of the Host Member 
+State access to payment and clearing systems operated by 
+public entities, and to official funding and refinancing facilities 
+available in the normal course of ordinary business. This 
+paragraph is not intended to confer access to the Member 
+State’s lender of last resort facilities. 
+ 
+ 
+ 
+ 
+                                                           
+4 This paragraph only applies to a Member State when that Member State has established self-
+regulatory organisations. 
+5 For greater certainty, Member States agree that such information may be published in each 
+Member State’s chosen language. 
+ 
+54 
+ 
+Article 8 
+Self-Regulatory Organisations 
+ 
+If a Member State requires a financial institution of another 
+Member State to be a member of, participate in, or have 
+access to, a self-regulatory organisation to provide a 
+financial service in its territory, the Member State will 
+endeavour to ensure that the self-regulatory organisation 
+observes the obligations of Article 6 (National Treatment) of 
+this Agreement and Article 11 (Most-Favoured-Nation 
+Treatment) of this Annex. 
+ 
+ 
+Article 9 
+Transfer of Information and Processing of Information 
+ 
+1. 
+A Member State shall not take measures that: 
+ 
+(a) prevent transfers of information, including transfers 
+of data by electronic means, necessary for the 
+conduct of the ordinary business of a financial 
+service supplier; 
+ 
+(b) prevent the processing of information necessary for 
+the conduct of the ordinary business of a financial 
+service supplier; or 
+ 
+(c) prevent transfers of equipment necessary for the 
+conduct of the ordinary business of a financial 
+service supplier, subject to importation rules 
+consistent with international agreements. 
+ 
+2. 
+Nothing in Paragraph 1: 
+ 
+(a) restricts the right of a Member State to protect 
+personal 
+data, 
+personal 
+privacy 
+and 
+the 
+confidentiality of individual records and accounts 
+including in accordance with its domestic laws and 
+regulations as long as such right shall not be used 
+ 
+55 
+ 
+as a means of avoiding the Member State’s 
+commitments or obligations under this Agreement; 
+ 
+(b) prevents a regulator of a Member State, for 
+regulatory or prudential reasons, from requiring a 
+financial service supplier in its territory to comply 
+with domestic regulation in relation to data 
+management6 
+and 
+storage 
+and 
+system 
+maintenance, as well as to retain within its territory 
+copies of records; or 
+ 
+(c) shall be construed to require a Member State to 
+allow the cross-border supply or the consumption 
+abroad of services in relation to which it has not 
+made specific commitments, including to allow non-
+resident suppliers of financial services to supply, as 
+a principal, through an intermediary or as an 
+intermediary, the provision and transfer of financial 
+information and financial data processing as 
+referred to in paragraph (a)(xv) of Article 2 
+(Definitions) of this Annex.7 
+ 
+ 
+Article 10 
+Dispute Settlement 
+ 
+Members of panels established pursuant to Article 34 
+(Dispute Settlement) of this Agreement for disputes on 
+prudential issues and other financial matters shall have the 
+                                                           
+6 For greater certainty, data management includes the local processing obligation of domestic 
+payment transactions. 
+7 For greater certainty, where a Member State has not made specific commitments in relation 
+to the cross-border supply or consumption abroad of a service, the Member State shall have 
+the right to take measures that prevent the transfer of information, processing of information 
+or transfer of equipment referred to in paragraph 1 relating to the cross-border supply or 
+consumption abroad of that service by the financial service supplier referred to under 
+paragraph 1. Nevertheless, a Member State shall not avoid its obligations to allow the 
+transfers and processing not relating to any cross-border supply or consumption abroad of a 
+service, which is for the purpose of group oversight and compliance with reporting 
+requirement of another Member State. 
+ 
+56 
+ 
+necessary expertise relevant to the specific financial service 
+under dispute. 
+ 
+Article 11 
+Most-Favoured-Nation Treatment 
+ 
+1. 
+Each Member State shall accord to services and service 
+suppliers of another Member State treatment no less 
+favourable than that it accords, in like circumstances, to 
+services and service suppliers of any other Member State.8 
+ 
+2. 
+Notwithstanding paragraph 1, after the entry into force of 
+this Agreement, if a Member State concludes or amends an 
+agreement with any Member State or non-Member State, 
+any other Member State may request negotiations with a 
+view to incorporating, under this Agreement, treatment no 
+less favourable than that provided under that agreement. 
+The requested Member State shall enter into negotiations 
+with the requesting Member State. Any extension of such 
+preferential treatment to the remaining Member States on a 
+Most-Favoured-Nation basis shall be voluntary on the part of 
+that requested Member State. 
+ 
+3. 
+Any Member State may maintain a measure inconsistent 
+with paragraph 1 provided that such a measure is listed in, 
+and meets the conditions of, its List of Most-Favoured-Nation 
+Exemptions. 
+ 
+4. 
+The provisions of this Agreement shall not be construed 
+as to prevent any Member State from conferring or according 
+advantages to adjacent countries in order to facilitate 
+exchanges limited to contiguous frontier zones of services 
+that are both locally produced and consumed. 
+ 
+ 
+ 
+                                                           
+8 For greater certainty, the obligations in paragraphs 1 and 3 apply only to the financial 
+services commitments under the Final AFAS Packages, excluding the commitments under the 
+ASEAN Banking Integration Framework (ABIF). 
+ 
+57 
+ 
+Article 12 
+Arrangements to Expedite Financial Integration 
+ 
+1. 
+Two or more Member States may conduct negotiations 
+and agree to liberalise trade in services for specific sectors 
+or sub-sectors (“the participating Member States”). Any 
+extension of such preferential treatment to the remaining 
+Member States on a Most-Favoured-Nation basis shall be 
+voluntary on the part of the participating Member States. 
+ 
+2. 
+The participating Member States shall keep the 
+remaining Member States informed through the ASEAN 
+Secretariat of the progress or result of the negotiations, 
+including the scheduling of commitments for the specific 
+sectors or sub-sectors concerned. Member States wishing to 
+join any on-going negotiations among the participating 
+Member States may do so in consultation with the 
+participating Member States. 
+ 
+3. 
+Any Member State which is not a party to any 
+agreement made pursuant to paragraph 1 may accede to 
+such an agreement subject to consent of the participating 
+Member States. 
+ 
+4. 
+The participating Member States can further refine the 
+parameters for specific sectors or sub-sectors to be 
+committed as may be mutually agreed by all participating 
+Member States for the purpose of further liberalisation of 
+trade in services. 
+ 
+5. 
+All agreements made pursuant to paragraph 1 shall be 
+deposited with the Secretary-General of ASEAN who shall 
+promptly furnish a certified copy thereof to each participating 
+Member State and notifying the same to the other Member 
+States. 
+ 
+ 
+ 
+ 
+ 
+58 
+ 
+Article 13 
+Market Access for Financial Institutions9 
+ 
+With respect to market access of a financial institution of 
+another Member State through Mode 3: commercial 
+presence as identified in Article 1 (Scope) of this Annex, 
+unless otherwise specified in its Schedules of Non-
+Conforming Measures, a Member State shall not maintain or 
+adopt, either on the basis of a regional subdivision or on the 
+basis of its entire territory, measures that: 
+ 
+1. 
+impose limitations on: 
+(a) the number of financial institutions whether in the 
+form of numerical quotas, monopolies, exclusive 
+service suppliers or the requirements of an 
+economic needs test; 
+(b) the total value of financial service transactions or 
+assets in the form of numerical quotas or the 
+requirement of an economic needs test; 
+(c) the total number of financial service operations or 
+the total quantity of financial service output 
+expressed in terms of designated numerical units in 
+the form of quotas or the requirement of an 
+economic needs test10; 
+(d) the total number of natural persons that may be 
+employed in a particular financial service sector or 
+that a financial institution may employ and who are 
+necessary for, and directly related to, the supply of a 
+specific financial service in the form of numerical 
+quotas or the requirement of an economic needs 
+                                                           
+9 A member state commits to allow transfers of capital into its territory if such 
+transfers of capital are related to its market-access commitments with respect to 
+financial institutions under this Article 
+10 Subparagraph (a)(iii) does not cover measures of a Member State which limit 
+inputs for the supply of financial services. 
+ 
+59 
+ 
+test; 
+(e) the participation of foreign capital in terms of 
+maximum percentage limit on foreign shareholding 
+or the total value of individual or aggregate foreign 
+investment 
+2.  restrict or require specific types of legal entity or joint 
+venture through which a financial institution may supply a 
+service 
+ 
+ 
+ 
+Article 14  
+Cross-Border Supply of Financial Services11 
+ 
+1. 
+Each Member State shall permit, under terms and 
+conditions that accord national treatment, cross-border 
+financial service suppliers of another Member State to supply 
+the financial services specified in Annex on (Cross-Border 
+Supply of Financial Services).12 
+ 
+2. 
+Each Member State shall permit persons located in its 
+territory, and its nationals wherever located, to purchase 
+financial services from cross-border financial service 
+suppliers of another Member State located in the territory of 
+a Member State other than the permitting Member State. 
+This obligation does not require a Member State to permit 
+those suppliers to do business or solicit in its territory. A 
+Member State may define “doing business” and “solicitation” 
+for the purposes of this obligation provided that those 
+definitions are not inconsistent with paragraph 1. 
+                                                           
+11 For greater certainty, this would apply upon transition to negative list. Schedules for 
+Non-Conforming Measures for Financial Services only refer to Article 6 (National 
+Treatment) and Article 10 (Senior Management and Board of Directors) of this 
+Agreement and Article 13 (Market Access) and Article 14 (Cross-Border Supply of 
+Financial Services) of this Annex. 
+12 In relation to a cross-border financial service supplier supplying a financial service 
+specified in a Member State's Annex [XX] (Cross-Border Supply in Financial 
+Services) and if the cross-border movement of capital is an essential part of the 
+service itself, that Member State commits to allow such movement of capital. 
+ 
+60 
+ 
+ 
+3. 
+Without prejudice to other means of prudential regulation 
+of cross-border supply of financial services, a Member State 
+may require the registration or authorisation of cross-border 
+financial service suppliers of another Member State and of 
+financial instruments. 
+ 
+ 
+Article 15 
+Local Presence 
+ 
+Article 9 (Local Presence) in this Agreement shall not be 
+applied to the supply of financial services. 
+ 
+ 
