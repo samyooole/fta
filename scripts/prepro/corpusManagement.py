@@ -1,6 +1,7 @@
 import os
 from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 import re
+from itertools import chain
 
 
 def givemeCorpus():
@@ -23,7 +24,7 @@ def givemeDocuments(corpusfolder):
     
     list_to_return = []
     
-    path = 'C:\\Users\\Samuel\\fta'
+    path = os.getcwd()
     os.chdir(corpusfolder)
     for folder in os.listdir():
         if folder.startswith("."): # assumption is that management files that we want to ignore begin with .
@@ -46,20 +47,53 @@ def splitParas(text):
     """
     takes in a text and splits it into paragraphs
     - brute force assumption: double space equals a paragraph break --> can we find a way to delimit by multiple conditions?
+    - implicit: handling newlines using python standard https://stackoverflow.com/questions/16566268/remove-all-line-breaks-from-a-long-string-of-text
     """
-    return re.split('  ', text)
+    mid = re.split(' \n \n', text) # I wish I could find a way to regex a string that starts with \n and ends with \n. this would be more general. but this works for now.
+    mid = [item.replace("\n", " ") for item in mid]
+    mid = [re.split(r'\s{4,}', item) for item in mid] #arbitrary min length
+    output = list(chain(*mid))
+    
+
+    return output
 
 def getcorpusbyParas(corpusfolder):
     """
     DANGER returns long list, don't call directly to interpreter
-    - runs through a corpusfolder and returns a pure list of paragraphs
+    - runs through a corpusfolder and returns list of lists ([1: text, 2: fta name, 3: sub fta name, 0: paragraph-wise index])
+    - the purpose of getting the meta information is so that we have a standardized index from start to finish
     """
     
-    text = givemeDocuments(corpusfolder)
+    list_to_return = []
 
-    newtext=[]
-    for file in text:
-        newtext.extend(splitParas(file))
+    path = os.getcwd()
+    os.chdir(corpusfolder)
+    for folder in os.listdir():
+        if folder.startswith("."): # assumption is that management files that we want to ignore begin with .
+            continue
+        os.chdir(folder)
+        for file in os.listdir():
+            
+            
+            if file == 'mothertext.pdf':
+                continue
+            
+            if file.endswith(".txt"):
+                file_path = file
+            else:
+                continue
+  
+            # call read text file function
+            addition = read_text_file(file_path)
+            list_to_return.append([len(list_to_return), addition, folder, file ])
 
-    return newtext
+        os.chdir(os.path.dirname(os.getcwd()))
+    os.chdir(os.path.dirname(os.getcwd()))
+    
+    for item in list_to_return:
+        index = item[0]
+        feedtext = item[1]
+        list_to_return[index][1] = splitParas(feedtext)
+
+    return list_to_return
 
