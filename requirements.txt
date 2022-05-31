@@ -6,3 +6,5 @@ PyMuPDF
 nltk
 scikit-learn
 git+https://github.com/samyooole/text-preprocessing.git
+pytesseract
+pdf2image

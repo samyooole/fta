@@ -1,4 +1,64 @@
 what next:
-- do some exploratory unsupervised classification
-- do some reading up on trade and free trade agreements
-- read up the stanford nlp textbook
+- i think we should try OCRing PDFs, then perform manual cleaning to remove annexes and schedules because 
+- CURRENT WORKFLOW:
+    - manually go through every txt file
+    - is the txt file empty? if so, run it through the ocr script
+    - is the txt file a schedule file? if so, delete as it is not helpful
+- do some reading up on trade and free trade agreements - basically on classifying different kinds of trade barriers
+
+other thoughts:
+- maybe not removing stopwords could be helpful, given the very legalese nature of FTAs which is prone to repeating
+
+
+frequently repeated words that we might want to remove:
+"unbound", "none"
+
+pooling options:
+-doc2vec
+-bert
+- deep averaging network
+
+long term:
+- write a more comprehensive scraper that attempts to detect for scanned and then OCRs it
+- leverage on a larger corpus: https://github.com/mappingtreaties/tota
+- how do we handle schedules? in an automated fashion? because they are currently just annoying
+
+scanned:
+jsepa
+rcep
+ukfta
+tpsep
+gsfta
+esfta
+cptpp
+afta
+aifta
+ahkfta
+aanzfta
+trsfta
+slsfta
+sjfta
+scrfta
+safta
+pesfta
+psfta 
+anzscep
+ksfta
+ceca
+eusfta
+csfta 
+
+
+to review:
+akfta - missing docs
+ajcep - missing docs
+aifta - missing docs
+acfta - missing docs
+ussfta - missing docs
+(probably the href vs url problem)
+
+to ocr:
+ahkfta investment agreement
+
+
+

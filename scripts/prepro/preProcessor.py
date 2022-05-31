@@ -13,7 +13,7 @@ nltk.download()
 
 
 from sklearn.feature_extraction.text import TfidfVectorizer
-from corpusManagement import getcorpusbyParas
+from scripts.prepro.corpusManagement import getcorpusbyParas
 from text_preprocessing import to_lower, check_spelling, expand_contraction, remove_number, remove_special_character, remove_punctuation, remove_whitespace, normalize_unicode, stem_word, lemmatize_word, preprocess_text, remove_stopword, remove_single_characters, remove_url, remove_email, remove_itemized_bullet_and_numbering
 from nltk.stem import WordNetLemmatizer
 import pickle
@@ -27,6 +27,9 @@ for items in meta:
     output = [para for para in paras if (para != '') & (not para.isspace())]
     
     meta[index][1] = output
+
+with open('working_pickles/meta.pkl', 'wb') as f:
+    pickle.dump(meta, f)
 
 # create an index {doc_index: (start_para_index, end_para_index)} NO DELETION OF ENTRIES AFTER THIS. also form simple list of paras
 start_index=0
@@ -71,8 +74,6 @@ text= processor(expand_contraction, text)
 # check spelling - only do once you're certain everything is swee. very slow because it references a dictionary for every single word
 # text_after_spellcheck = processor(check_spelling, text_after_to_lower)
 
-
-
 # remove white spaces
 text = processor(remove_whitespace, text)
 
@@ -81,11 +82,15 @@ text = processor(remove_number, text)
 
 text = processor(remove_special_character, text)
 
-text = processor(remove_punctuation, text)
-
 text = processor(remove_single_characters, text)
 
 text = processor(normalize_unicode, text)
+
+# remove punctuation last because it causes many issues
+"""
+re-wrote text_preprocessing fork to replace punc w a whitespace instead of nothing
+"""
+text = processor(remove_punctuation, text)
 
 text = processor(remove_stopword, text)
 
@@ -95,10 +100,24 @@ text = [ [word for word in para if len(word) <= 20] for para in text]
 
 stemmed_text = processor(stem_word, text)
 
+# create a dictionary which takes a list of treated words as a key and returns what the original text says
+
+understander = {}
+for id, item in enumerate(stemmed_text):
+    realtext = paralist[id]
+    garbletext = tuple(item)
+    understander.update({garbletext: realtext})
+
 # save as pickle, takes a long time
 with open('fullytreated_corpus.pkl', 'wb') as f:
     pickle.dump(stemmed_text, f)
 
+with open('paralist.pkl', 'wb') as f:
+    pickle.dump(paralist, f)
+
+
 # test pickle loading
 file = open('pickles/fullytreated_corpus.pkl', 'rb')
-new_pp = pickle.load(file)
+new_pp = pickle.load(file) 
+
+

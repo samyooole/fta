@@ -2,6 +2,7 @@ import os
 from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 import re
 from itertools import chain
+import pickle
 
 
 def givemeCorpus():
@@ -97,3 +98,20 @@ def getcorpusbyParas(corpusfolder):
 
     return list_to_return
 
+def getUnderstander(garble, legible):
+    """
+    returns a dictionary {tuple of words in a para, post-treatment: what the original text said}
+    - basically we need this so that you can see, pre-treatment, what the text originally said so that it is more comprehensible to human eyes
+    """
+    paralist=[]
+    for items in legible:
+        paras = items[1]
+        paralist.extend(paras)
+
+    understander = {}
+    for id, item in enumerate(garble):
+        realtext = paralist[id]
+        garbletext = tuple(item)
+        understander.update({garbletext: realtext})
+
+    return understander
