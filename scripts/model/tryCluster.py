@@ -2,10 +2,14 @@ from sklearn.cluster import AffinityPropagation, KMeans
 from gensim.models import Word2Vec
 import pickle
 import numpy as np
-from scripts.prepro.corpusManagement import getUnderstander
+
 import random
 import pandas as pd
 from itertools import chain
+
+import sys
+sys.path.append("scripts/prepro/")
+from corpusManagement import getUnderstander
 
 file = open('pickles/fullytreated_corpus.pkl', 'rb')
 sentences = pickle.load(file)
