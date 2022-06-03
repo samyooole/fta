@@ -11,11 +11,10 @@ else:
 
 nltk.download()
 
-
-from sklearn.feature_extraction.text import TfidfVectorizer
-from scripts.prepro.corpusManagement import getcorpusbyParas
-from text_preprocessing import to_lower, check_spelling, expand_contraction, remove_number, remove_special_character, remove_punctuation, remove_whitespace, normalize_unicode, stem_word, lemmatize_word, preprocess_text, remove_stopword, remove_single_characters, remove_url, remove_email, remove_itemized_bullet_and_numbering
-from nltk.stem import WordNetLemmatizer
+import sys
+sys.path.append("scripts/prepro/")
+from corpusManagement import getcorpusbyParas
+from text_preprocessing import to_lower, check_spelling, expand_contraction, remove_number, remove_special_character, remove_punctuation, remove_whitespace, normalize_unicode, stem_word, remove_stopword, remove_single_characters, remove_url
 import pickle
 
 meta = getcorpusbyParas('text')
@@ -82,7 +81,7 @@ text = processor(remove_number, text)
 
 text = processor(remove_special_character, text)
 
-text = processor(remove_single_characters, text)
+#text = processor(remove_single_characters, text)
 
 text = processor(normalize_unicode, text)
 
@@ -90,29 +89,23 @@ text = processor(normalize_unicode, text)
 """
 re-wrote text_preprocessing fork to replace punc w a whitespace instead of nothing
 """
-text = processor(remove_punctuation, text)
+#text = processor(remove_punctuation, text)
 
-text = processor(remove_stopword, text)
+#text = processor(remove_stopword, text)
 
 # problem: we have some URLs that are broken by newlines, and thus cannot be caught by the above function. our band-aid solution for now is to get rid of any words greater than 20 characters (this is very rare in the english language). I make a judgement call that real words lost to this are exceedingly few as compared to accidental url concatenations
 
-text = [ [word for word in para if len(word) <= 20] for para in text]
+text = [ [word for word in para.split() if len(word) <= 20] for para in text]
 
-stemmed_text = processor(stem_word, text)
+text = [" ".join(para) for para in text]
 
-# create a dictionary which takes a list of treated words as a key and returns what the original text says
-
-understander = {}
-for id, item in enumerate(stemmed_text):
-    realtext = paralist[id]
-    garbletext = tuple(item)
-    understander.update({garbletext: realtext})
+#stemmed_text = processor(stem_word, text)
 
 # save as pickle, takes a long time
-with open('fullytreated_corpus.pkl', 'wb') as f:
-    pickle.dump(stemmed_text, f)
+with open('pickles/fullytreated_corpus.pkl', 'wb') as f:
+    pickle.dump(text, f)
 
-with open('paralist.pkl', 'wb') as f:
+with open('pickles/paralist.pkl', 'wb') as f:
     pickle.dump(paralist, f)
 
 

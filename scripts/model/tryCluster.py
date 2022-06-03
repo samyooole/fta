@@ -1,12 +1,9 @@
-from sklearn.cluster import AffinityPropagation, KMeans
+from sklearn.cluster import KMeans, DBSCAN, AffinityPropagation
+from sklearn.mixture import GaussianMixture
 from gensim.models import Word2Vec
 import pickle
 import numpy as np
-
-import random
 import pandas as pd
-from itertools import chain
-
 import sys
 sys.path.append("scripts/prepro/")
 from corpusManagement import getUnderstander
@@ -77,4 +74,17 @@ legible = pd.Series([understander[tuple(sentence)] for sentence in sentences])
 readable = pd.concat([labels, garble, legible], axis=1)
 readable.columns = ['labels', 'garble', 'legible']
 
-readable[readable['labels'] == 44][100:150]
+readable[readable['labels'] == -1]
+
+
+# try DBSCAN
+
+clusterModel = DBSCAN(eps=0.15).fit(para_array)
+labels = pd.Series(clusterModel.labels_)
+garble = pd.Series(sentences)
+legible = pd.Series([understander[tuple(sentence)] for sentence in sentences])
+
+readable = pd.concat([labels, garble, legible], axis=1)
+readable.columns = ['labels', 'garble', 'legible']
+
+readable[readable['labels'] == -1]

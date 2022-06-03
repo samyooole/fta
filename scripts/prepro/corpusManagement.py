@@ -115,3 +115,15 @@ def getUnderstander(garble, legible):
         understander.update({garbletext: realtext})
 
     return understander
+
+
+def getKMiddle(input_list, K):
+    
+    # computing strt, and end index 
+    strt_idx = (len(input_list) // 2) - (K // 2)
+    end_idx = (len(input_list) // 2) + (K // 2)
+    
+    # slicing extracting middle elements
+    res = input_list[strt_idx: end_idx + 1]
+
+    return res
