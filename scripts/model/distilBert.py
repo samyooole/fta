@@ -44,9 +44,23 @@ trainer = Trainer(
 
 trainer.train()
 
-from sklearn.metrics import confusion_matrix
+from sklearn.metrics import confusion_matrix, accuracy_score
+import numpy as np
+import pandas as pd
 
-yhat = trainer.predict(dsntb['test']).label_ids
+yhat = trainer.predict(dsntb['test'])[0]
+yhat = np.round(yhat)
+yhat = np.ndarray.flatten(yhat)
 y = dsntb['test']['label']
 
-confusion_matrix(y_true = y, y_pred = yhat)
+cm = confusion_matrix(y_true = y, y_pred = yhat)
+acscore = accuracy_score(y_true = y, y_pred = yhat)
+
+validate=datasets.Dataset.from_csv('validate.csv')
+validate = validate.map(preprocess_function, batched=True)
+zhat = trainer.predict(validate)[0]
+
+validate = pd.read_csv('validate.csv')
+validate['zhat'] = zhat
+
+validate.to_csv('validate_d.csv')

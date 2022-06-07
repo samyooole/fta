@@ -44,7 +44,7 @@ def givemeDocuments(corpusfolder):
     os.chdir(os.path.dirname(os.getcwd()))
     return list_to_return
 
-def splitParas(text):
+def splitParasbynewline(text):
     """
     takes in a text and splits it into paragraphs
     - brute force assumption: double space equals a paragraph break --> can we find a way to delimit by multiple conditions?
@@ -57,6 +57,24 @@ def splitParas(text):
     
 
     return output
+
+def splitParasbyArticle(text):
+    """
+    takes in a text and splits it into paragraphs
+    - assumes the header "Article X" sufficiently divides for our purposes
+    - add capturing group () to get the article name. if you want easy access next time
+    """
+    mid = re.split(r"\narticle \d.*?\n", text, flags= re.DOTALL | re.I)
+    mid = [re.split(r"\narticle\d.*?\n", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = list(chain(*mid))
+    mid = [re.split(r"\n\d\..*?\n", item, flags=re.DOTALL) for item in mid]
+    mid = list(chain(*mid))
+
+    output = [item.replace("\n", " ") for item in mid]
+    return output
+    
+    
+    
 
 def getcorpusbyParas(corpusfolder):
     """
@@ -94,7 +112,7 @@ def getcorpusbyParas(corpusfolder):
     for item in list_to_return:
         index = item[0]
         feedtext = item[1]
-        list_to_return[index][1] = splitParas(feedtext)
+        list_to_return[index][1] = splitParasbyArticle(feedtext)
 
     return list_to_return
 

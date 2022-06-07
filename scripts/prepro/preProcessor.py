@@ -77,7 +77,7 @@ text= processor(expand_contraction, text)
 text = processor(remove_whitespace, text)
 
 # remove numbers (will we need figures and numbers at some point down? not for text classification at least)
-text = processor(remove_number, text)
+#text = processor(remove_number, text)
 
 text = processor(remove_special_character, text)
 
