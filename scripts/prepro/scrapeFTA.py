@@ -30,26 +30,6 @@ def linkClicker(link):
         os.remove('temp2.pdf')
         return None
 
-def linkClickerXML(link):
-    page = requests.get(link)
-    f = open("temp2.pdf", "wb")                                              # I don't quite like this move - could be more elegant
-    f.write(page.content)                                        # We write it off as a pdf then read it again, because pypdf2 does not (?) have an direct parser. To find and improve.
-    f.close()
-
-    try:
-        #pdf = textract.process('temp2.pdf', method = 'pdfminer', encoding = 'ascii')
-        with fitz.open("temp2.pdf") as doc:
-            text = ""
-            for page in doc:
-                text += page.get_text(opt='json')
-        os.remove('temp2.pdf')
-        return text
-    except:
-        print(link + " is probably a scanned PDF, no text returned")
-        os.remove('temp2.pdf')
-        return None
-
-
 # Access the ESG website with all the FTAs (website as of 23 May 2022)
 """
 Please check if the ESG sidebar of FTAs is exhaustive
@@ -94,7 +74,6 @@ for fta in subsoup:
     try:
 
         mother_pdf_page = requests.get(mother_pdf_url)
-
     except:
         mother_pdf_url = esgweb + "/" + mother_pdf_back_url
         mother_pdf_page = requests.get(mother_pdf_url)
