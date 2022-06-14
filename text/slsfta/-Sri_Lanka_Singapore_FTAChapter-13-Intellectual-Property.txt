@@ -1,8 +1,5 @@
+    Chapter 13 – Intellectual Property 
  
- 
-Chapter 13 – Intellectual Property 
- 
-13-1 
  
 CHAPTER 13 
 INTELLECTUAL PROPERTY 
@@ -14,38 +11,29 @@ PRINCIPLES
 Article 13.1  
 Scope and Definitions  
  
-1. 
-The Parties recall the commitments under the international treaties dealing with 
+1.  The  Parties  recall  the  commitments  under  the  international  treaties  dealing  with 
 intellectual property, including the TRIPS Agreement and the Paris Convention for the 
 Protection of Industrial Property (of 20 March 1883, as revised at Stockholm on 15 July 
 1967). The provisions of this Chapter shall complement the rights and obligations of the 
 Parties under the TRIPS Agreement and other international treaties in the field of 
 intellectual property to which they both are parties. 
  
-2. 
-For the purposes of this Chapter, “intellectual property rights” means: 
+2.  For the purposes of this Chapter, “intellectual property rights” means: 
  
  
-(i) 
-copyright and related rights; 
+(i)  copyright and related rights; 
  
-(ii) 
-patents; 
+(ii)  patents; 
  
-(iii) 
-trademarks; 
+(iii)  trademarks; 
  
-(iv) 
-designs; 
+(iv)  designs; 
  
-(v) 
-layout-designs (topographies) of integrated circuits; 
+(v)  layout-designs (topographies) of integrated circuits; 
  
-(vi) 
-geographical indications; and 
+(vi)  geographical indications; and 
  
-(vii) 
-protection of undisclosed information. 
+(vii)  protection of undisclosed information. 
  
  
 Article 13.2 
@@ -62,11 +50,8 @@ rights subject to the relevant provisions of the TRIPS Agreement.
  
  
  
+13-1     Chapter 13 – Intellectual Property 
  
- 
-Chapter 13 – Intellectual Property 
- 
-13-2 
 SECTION 13-B 
 STANDARDS CONCERNING INTELLECTUAL PROPERTY RIGHTS 
  
@@ -79,7 +64,7 @@ Protection Granted
  
 The Parties shall comply with the rights and obligations set out in the Berne Convention for the 
 Protection of Literary and Artistic Works (of 9 September 1886, as last revised at Paris on 24 
-July 1971), and the TRIPS Agreement. The Parties may provide for the protection of 
+July  1971),  and  the  TRIPS  Agreement.  The  Parties  may  provide  for  the  protection  of 
 performers, producers of phonograms and broadcasting organisations in accordance with the 
 relevant provisions of the International Convention for the Protection of Performers, Producers 
 of Phonograms and Broadcasting Organisations (done at Rome on 26 October 1961).1 
@@ -88,34 +73,28 @@ of Phonograms and Broadcasting Organisations (done at Rome on 26 October 1961).1
 Article 13.4 
 Term of Protection 
  
-1. 
-Each Party shall provide, where the term of protection of a work is to be calculated on 
+1.  Each Party shall provide, where the term of protection of a work is to be calculated on 
 the basis of the life of the author, that the term shall be not less than the life of the author 
 and seventy (70) years after the author’s death. 
  
-2. 
-In the case of a work of joint authorship, the term referred to in paragraph 1 of this 
+2.  In the case of a work of joint authorship, the term referred to in paragraph 1 of this 
 Article shall be calculated from the death of the last surviving author. 
  
-3. 
-The term of protection of cinematographic works2 shall be not less than seventy (70) 
+3.  The term of protection of cinematographic works2 shall be not less than seventy (70) 
 years after the work has been made available to the public with the consent of the author 
 or, failing such an event within fifty (50) years from the making of such a work, at least 
 seventy (70) years after the making. 
  
-4. 
-The term of protection to be granted to producers of phonograms under this Agreement 
+4.  The term of protection to be granted to producers of phonograms under this Agreement 
 shall last, at least, until the end of a period of fifty (50) years computed from the end of 
 the year in which the phonogram was published, or failing such publication within fifty 
 (50) years from fixation of the phonogram, fifty (50) years from the end of the year in 
 which the fixation was made.   
  
-5. 
-The term of protection for rights in broadcasts shall be not less than fifty (50) years after 
+5.  The term of protection for rights in broadcasts shall be not less than fifty (50) years after 
 the first transmission or making of the broadcast. 
  
-6. 
-The terms laid down in this Article shall be calculated based on the event which gives 
+6.  The terms laid down in this Article shall be calculated based on the event which gives 
 rise to them in the manner provided by the Parties’ respective domestic legislation. 
  
  
@@ -124,11 +103,8 @@ rise to them in the manner provided by the Parties’ respective domestic legisl
 1 The Parties recognise that references to these international agreements are subject to the reservations which each 
 Party has formulated in relation thereto. 
 2 For purposes of this paragraph, “cinematographic works” shall mean the same as “audio-visual works”.   
+13-2     Chapter 13 – Intellectual Property 
  
- 
-Chapter 13 – Intellectual Property 
- 
-13-3 
 Article 13.5 
 Presumptions Relating to Copyright and Related Rights 
  
@@ -177,13 +153,10 @@ Well-Known Trademarks
  
 The Parties shall protect well-known trademarks in accordance with the TRIPS Agreement. In 
 determining whether a trademark is well-known, the Parties agree to take into consideration the 
-Joint Recommendation Concerning Provisions on the Protection of Well-Known Marks 
+Joint  Recommendation  Concerning  Provisions  on  the  Protection  of  Well-Known  Marks 
 (adopted by the Assembly of the Paris Union for the Protection of Industrial Property and the 
+13-3     Chapter 13 – Intellectual Property 
  
- 
-Chapter 13 – Intellectual Property 
- 
-13-4 
 General Assembly of the WIPO at the Thirty-Fourth Series of Meetings of the Assemblies of 
 the Member States of WIPO on 20 to 29 September 1999).  
  
@@ -193,12 +166,10 @@ Exceptions to the Rights Conferred by a Trademark
  
 Each Party: 
   
-(a) 
-shall provide for the fair use of descriptive terms3 as a limited exception to the 
+(a)  shall provide for the fair use of descriptive terms3 as a limited exception to the 
 rights conferred by trademarks; and 
  
-(b) 
-may provide for other limited exceptions, including for the purpose of adopting 
+(b)  may provide for other limited exceptions, including for the purpose of adopting 
 measures necessary to protect public health and nutrition; 
  
 provided that these exceptions take account of the legitimate interests of the owners of the 
@@ -212,13 +183,11 @@ GEOGRAPHICAL INDICATIONS4
 Article 13.11 
 Scope 
  
-1. 
-This Sub-Section applies to the recognition and protection of geographical indications 
+1.  This Sub-Section applies to the recognition and protection of geographical indications 
 for goods originating in the territories of the Parties. 
  
-2. 
-Geographical indications of a Party to be protected by the other Party shall only be 
-subject to this Sub-Section if they are recognised and declared as geographical 
+2.  Geographical indications of a Party to be protected by the other Party shall only be 
+subject  to  this  Sub-Section  if  they  are  recognised  and  declared  as  geographical 
 indications in their country of origin. 
  
  
@@ -240,11 +209,8 @@ other characteristic of the good is essentially attributable to its geographical
 the Parties only to the extent permitted by and according to the terms and conditions set out in their respective 
 domestic laws. 
  
+13-4     Chapter 13 – Intellectual Property 
  
- 
-Chapter 13 – Intellectual Property 
- 
-13-5 
 SUB-SECTION 13-B-4 
 DESIGNS 
  
@@ -252,17 +218,14 @@ DESIGNS
 Article 13.13 
 Requirements for Protection of Registered Designs 
  
-1. 
-The Parties shall provide for the protection of independently created designs that are 
+1.  The Parties shall provide for the protection of independently created designs that are 
 new. This protection shall be provided by registration and shall confer exclusive rights 
 upon their holders in accordance with the provisions of this Sub-Section.6 
  
-2. 
-Design protection shall not extend to designs dictated essentially by technical or 
+2.  Design protection  shall not  extend to  designs dictated essentially by technical  or 
 functional considerations. 
  
-3. 
-A design right shall not subsist in a design which is contrary to public order or to 
+3.  A design right shall not subsist in a design which is contrary to public order or to 
 accepted principles of morality.7 
  
  
@@ -278,7 +241,7 @@ acts are undertaken for commercial purposes.
 Article 13.15 
 Term of Protection 
  
-The duration of protection available shall be consistent with Article 26.3 of the TRIPS 
+The duration of protection  available shall be consistent with  Article 26.3 of  the TRIPS 
 Agreement.  
  
  
@@ -294,18 +257,13 @@ taking account of the legitimate interests of third parties.
                                                            
 6 It is understood that designs are not excluded from protection simply on the basis that they constitute a part of an 
 article or product, provided that they are visible, fulfil the criteria of this paragraph, and: 
-(a) 
-fulfil any other criteria for design protection; and 
-(b) 
-are not otherwise excluded from design protection,  
+(a)  fulfil any other criteria for design protection; and 
+(b)  are not otherwise excluded from design protection,  
 under the Parties’ respective domestic law. 
 7 Nothing in this Article precludes either Party from providing other specified exclusions from design protection 
 under its domestic law. The Parties understand that such exclusions shall not be extensive. 
+13-5     Chapter 13 – Intellectual Property 
  
- 
-Chapter 13 – Intellectual Property 
- 
-13-6 
 SUB-SECTION 13-B-5 
 PATENTS 
  
@@ -321,34 +279,29 @@ Washington on 19 June 1970, amended on 28 September 1979 and modified on 3 Febru
 Article 13.18 
 Patents and Public Health 
  
-1. 
-The Parties recognise the importance of the Declaration on the TRIPS Agreement and 
+1.  The Parties recognise the importance of the Declaration on the TRIPS Agreement and 
 Public Health (adopted in Doha on 14 November 2001 by the Ministerial Conference 
 of the WTO). In interpreting and implementing the rights and obligations under this 
 Sub-Section, the Parties shall ensure consistency with this Declaration. 
  
-2. 
-The Parties shall respect the Decision of the WTO General Council of 30 August 2003 
+2.  The Parties shall respect the Decision of the WTO General Council of 30 August 2003 
 on Implementation of Paragraph 6 of the Doha Declaration on the TRIPS Agreement 
 and Public Health, as well as the Decision of the WTO General Council of 6 December 
 2005 on Amendment of the TRIPS Agreement, adopting the Protocol Amending the 
 TRIPS Agreement. 
  
-3.     
-The Parties shall explore cooperation in the granting of patents on the basis of 
+3.      The  Parties  shall  explore  cooperation  in  the  granting  of  patents  on  the  basis  of 
 applications filed by applicants of a Party in the other Party, and patent examination and 
 work sharing.  Further, desiring to establish a mutually supportive relationship between 
 the Parties, the Parties agree as follows: 
  
-(a) 
-Sri Lanka hereby recognises and designates the Intellectual Property Office of 
+(a)  Sri Lanka hereby recognises and designates the Intellectual Property Office of 
 Singapore (“IPOS”) as a competent International Search Authority (“ISA”) or 
 International Preliminary Examination Authority (“IPEA”) under the PCT for 
 international applications received by Sri Lanka, as well as for search and 
 examination of national patent applications; and  
   
-(b) 
-conditional upon the National Intellectual Property Office of Sri Lanka 
+(b)  conditional  upon  the  National  Intellectual  Property  Office  of  Sri  Lanka 
 (“NIPOS”) and the International Bureau of WIPO entering into an agreement in 
 relation to the functioning of NIPOS as an ISA and/or IPEA under Articles 16 
 and 23 of the PCT, Singapore shall designate NIPOS as an ISA and/or IPEA 
@@ -361,11 +314,8 @@ these applications are submitted in the English language.
  
  
  
+13-6     Chapter 13 – Intellectual Property 
  
- 
-Chapter 13 – Intellectual Property 
- 
-13-7 
  SECTION 13-C 
 ENFORCEMENT 
  
@@ -379,37 +329,29 @@ which both Parties are party. The Parties shall ensure enforcement procedures as
 in Part III of the TRIPS Agreement so as to permit effective action against any act of 
 infringement of intellectual property rights.  
  
-2. 
-In particular, the measures, procedures and remedies referred to in paragraph 1 of this 
+2.  In particular, the measures, procedures and remedies referred to in paragraph 1 of this 
 Article, and provided for by each Party under its domestic law, shall: 
  
-(a) 
-take into account, as appropriate, the need for proportionality between the 
+(a)  take into account, as appropriate, the need for proportionality between the 
 seriousness of the infringement and the interests of third parties;   
  
-(b) 
-be fair and equitable; 
+(b)  be fair and equitable; 
  
-(c) 
-not be unnecessarily complicated or costly, or entail unreasonable time limits or 
+(c)  not be unnecessarily complicated or costly, or entail unreasonable time limits or 
 unwarranted delays; and 
  
-(d)  
-be applied in such a manner as to avoid the creation of barriers to legitimate 
+(d)   be applied in such a manner as to avoid the creation of barriers to legitimate 
 trade and to provide for safeguards against their abuse.  
   
-3. 
-Nothing in this Chapter affects the capacity of either Party to enforce its domestic law in 
+3.  Nothing in this Chapter affects the capacity of either Party to enforce its domestic law in 
 general or creates any obligation on either Party to amend its existing laws as they relate 
 to the enforcement of intellectual property rights. Without prejudice to the foregoing 
 general principles, nothing in this Chapter creates any obligation on either Party: 
  
-(a) 
-to put in place a judicial system for the enforcement of intellectual property 
+(a)  to put in place a judicial system for the enforcement of intellectual property 
 rights distinct from that for the enforcement of law in general; or 
  
-(b) 
-with respect to the distribution of resources as between enforcement of 
+(b)  with  respect  to  the  distribution  of  resources  as  between  enforcement  of 
 intellectual property rights and the enforcement of law in general.  
  
  
@@ -424,11 +366,8 @@ law enforcement or otherwise be contrary to the public interest or would prejudi
 commercial interests of particular enterprises, public or private.  
  
  
+13-7     Chapter 13 – Intellectual Property 
  
- 
-Chapter 13 – Intellectual Property 
- 
-13-8 
 Article 13.22 
 Legal Costs 
  
@@ -446,58 +385,46 @@ CO-OPERATION
 Article 13.23 
 Co-operation 
  
-1. 
-The Parties agree to co-operate with a view to supporting the implementation of the 
+1.  The Parties agree to co-operate with a view to supporting the implementation of the 
 commitments and obligations undertaken in this Chapter. Areas of co-operation include, 
-but are not limited to, the following activities: 
+but are not limited to, the following activities:   
  
- 
-(a)  
-exchange of information on legal frameworks concerning intellectual property 
+(a)   exchange of information on legal frameworks concerning intellectual property 
 rights, including those pertaining to the implementation of intellectual property 
-legislation and systems, aimed at promoting the efficient registration of 
+legislation  and  systems,  aimed  at  promoting  the  efficient  registration  of 
 intellectual property rights; 
  
-(b) 
-exchange, between the respective authorities responsible for the enforcement of 
+(b)  exchange, between the respective authorities responsible for the enforcement of 
 intellectual property rights, of their experiences and best practices concerning 
 enforcement of intellectual property rights; 
  
-(c) 
-exchange of information and co-operation on public outreach and appropriate 
+(c)  exchange of information and co-operation on public outreach and appropriate 
 initiatives to promote awareness of the benefits of intellectual property rights 
 and systems; 
  
-(d) 
-capacity-building and technical co-operation in relation, but not limited, to: 
-management, licensing, valuation and exploitation of intellectual property 
-rights; technology and market intelligence; facilitation of industry 
+(d)  capacity-building and technical co-operation in relation, but not limited, to: 
+management,  licensing,  valuation  and  exploitation  of  intellectual  property 
+rights;  technology  and  market  intelligence;  facilitation  of  industry 
 collaborations, including on intellectual property rights that may be applied 
-towards environmental conservation or enhancement which may include 
+towards  environmental  conservation  or  enhancement  which  may  include 
 establishing a platform or database; and public private partnerships to support 
 culture and innovation; 
  
-(e)   
-exchange of information and co-operation on intellectual property issues, where 
-appropriate and relevant to developments in environmentally friendly 
+(e)    exchange of information and co-operation on intellectual property issues, where 
+appropriate  and  relevant  to  developments  in  environmentally  friendly 
 technology; and 
  
-(f) 
-any other areas of co-operation or activities as may be discussed and agreed 
+(f)  any other areas of co-operation or activities as may be discussed and agreed 
 between the Parties. 
  
+13-8     Chapter 13 – Intellectual Property 
  
- 
-Chapter 13 – Intellectual Property 
- 
-13-9 
-2.  
-Without prejudice to paragraph 1 of this Article, the Parties agree to designate a contact 
+2.   Without prejudice to paragraph 1 of this Article, the Parties agree to designate a contact 
 point for the purpose of maintaining dialogue including, where useful, convening 
 meetings on intellectual property issues between their respective technical experts on 
 matters covered by this Chapter. 
  
-3. 
-Co-operation under this Chapter shall be carried out subject to each Party’s laws, rules, 
+3.  Co-operation under this Chapter shall be carried out subject to each Party’s laws, rules, 
 regulations, directives or policies. Co-operation shall also be on mutually agreed terms 
 and conditions and be subject to the availability of resources of each Party. 
+13-9 

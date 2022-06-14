@@ -1,6 +1,4 @@
   
-10-1 
- 
 CHAPTER 10 
  
 GOVERNMENT PROCUREMENT 
@@ -8,63 +6,53 @@ GOVERNMENT PROCUREMENT
  
 Article 10.1: Establishment of a Single Market 
  
-1. 
-The Parties agree to establish a single New Zealand/Singapore government 
-procurement market, in order to maximise competitive opportunities for New 
+1.  The  Parties  agree  to  establish  a  single  New  Zealand/Singapore  government 
+procurement  market,  in  order  to  maximise  competitive  opportunities  for  New 
 Zealand/Singapore suppliers, and reduce costs of doing business for both government and 
 industry. 
  
-2. 
-This shall be achieved by the Parties: 
+2.  This shall be achieved by the Parties: 
  
-(a) 
-committing to implement the APEC Non-Binding Principles on Government 
+(a)  committing to implement the APEC Non-Binding Principles on Government 
 Procurement relating to transparency, value for money, open and effective 
-competition, fair dealing, accountability and due process, and non-
+competition,  fair  dealing,  accountability  and  due  process,  and  non-
 discrimination; 
  
-(b) 
-ensuring the opportunity exists for their suppliers to compete on an equal and 
+(b)  ensuring the opportunity exists for their suppliers to compete on an equal and 
 transparent basis for government contracts;  
  
-(c) 
-ensuring the non-application against their suppliers of preferential schemes 
+(c)  ensuring the non-application against their suppliers of preferential schemes 
 and other forms of discrimination based on the place of origin of goods and 
 services unless such schemes or forms of discrimination fall within Article 
 16.14 (Preferences Under Other Agreements); 
  
-(d) 
-providing a mechanism for cooperation to work towards achieving the greatest 
+(d)  providing a mechanism for cooperation to work towards achieving the greatest 
 possible consistency in contractual, technical and performance standards and 
-specifications, and simplicity and consistency in the application of 
+specifications,  and  simplicity  and  consistency  in  the  application  of 
 procurement policies, practices and procedures.  
  
  
 Article 10.2: Scope 
  
-1. 
-This Chapter applies to government procurement valued at above Special Drawing 
+1.  This Chapter applies to government procurement valued at above Special Drawing 
 Rights (SDR) 50,000. The Parties shall consult and agree on a common basis for expressing 
 this value threshold in their respective national currency equivalents as at the date of entry 
 into force of this Agreement, and as at the date of reviews of the operation of this Agreement 
 held in accordance with Article 15.4 (Review). 
  
-2. 
-Government procurement of services is subject to a Party’s schedule of commitments 
+2.  Government procurement of services is subject to a Party’s schedule of commitments 
 in Annex 8.1 (Services Commitments) and the terms, limitations, conditions or qualifications 
 set out therein.1 
                                                  
 1 At the request of New Zealand, Singapore confirms that there shall be no discrimination in terms of 
 government procurement of services in favour of corporate entities where the Singapore Government is the 
 majority shareholder or has a special share as defined in Annex 8.1 (Services Commitments). 
+10-1 
+  
  
  
- 
-10-2 
- 
-3. 
-Where government bodies require enterprises not covered under this Chapter to award 
-contracts in accordance with particular requirements, Article 10.4 shall apply mutatis 
+3.  Where government bodies require enterprises not covered under this Chapter to award 
+contracts  in  accordance  with  particular  requirements,  Article  10.4  shall  apply  mutatis 
 mutandis to such requirements. 
  
  
@@ -74,45 +62,44 @@ For the purposes of this Chapter:
  
 designated bodies means bodies designated in each of the Parties to investigate complaints 
 about non-compliance with this Chapter; they may include an agency or office responsible to 
-a Party, or a position located within such agency or office. The designated body for 
-Singapore is the Ministry of Finance and the designated body for New Zealand is the 
+a  Party,  or  a  position  located  within  such  agency  or  office.  The  designated  body  for 
+Singapore  is  the  Ministry  of  Finance  and  the  designated  body  for  New  Zealand  is  the 
 Ministry of Economic Development; 
  
 goods and services means but is not limited to goods alone, services alone or goods and 
 related services. Computer software is defined as “goods” for this purpose. Related services 
 means but is not limited to services provided in conjunction with the supply of goods or 
-construction activities (such as architectural design, engineering, project design, project 
+construction  activities  (such  as  architectural  design,  engineering,  project  design,  project 
 management and related consultancy services); 
  
 Ministers responsible for procurement means Ministers with portfolio responsibility for 
 procurement policy where such direct responsibility exists. Otherwise the definition shall 
 mean Ministers with portfolio responsibility for this Chapter; 
  
-procurement means but is not limited to purchase, hire, lease, rental, exchange and 
+procurement  means  but  is  not  limited  to  purchase,  hire,  lease,  rental,  exchange  and 
 competitive tendering and contracting (outsourcing) arrangements; 
  
 government procurement means procurement by government bodies, that is departments 
 and other bodies, including statutory authorities, which are controlled by the Parties and 
 excludes procurement by any body corporate or other legal entity that has the power to 
 contract, except where the Parties exercise their discretion to determine that this Chapter shall 
-apply. In the case of regional or local governments or authorities, and in the case of 
+apply.  In  the  case  of  regional  or  local  governments  or  authorities,  and  in  the  case  of 
 procurement of services by non-governmental bodies in the exercise of powers delegated by 
-central, regional or local governments or authorities, the Parties shall use their best 
+central,  regional  or  local  governments  or  authorities,  the  Parties  shall  use  their  best 
 endeavours to encourage wider application of this Chapter, consistent with good commercial 
 practice, to procurement by all such governments, authorities and bodies; 
  
 New Zealand/Singapore suppliers means service suppliers (determined in accordance with 
-Chapter 8 (Services)) or suppliers of goods originating in New Zealand or Singapore. 
-Whether a good is originating in New Zealand or Singapore shall be determined in 
+Chapter  8  (Services))  or  suppliers  of  goods  originating  in  New  Zealand  or  Singapore. 
+Whether  a  good  is  originating  in  New  Zealand  or  Singapore  shall  be  determined  in 
 accordance with Chapter 3 (Rules of Origin); 
  
 value for money means the best available outcome for money spent in terms of the procuring 
 agency's needs. The test of value for money requires relevant comparison of the whole of life 
 costs and benefits relating directly to the procurement. “Whole of life costs and benefits” 
+10-2 
+  
  
- 
- 
-10-3 
  
 include fitness for purpose and other considerations of quality, performance, price, delivery, 
 accessories and consumables, service support and disposal.  
@@ -122,59 +109,48 @@ Article 10.4: General Principles
  
 Except as provided otherwise in this Chapter, the Parties shall: 
  
-(a) 
-at all times conduct their procurement activities in accordance with the spirit 
+(a)  at all times conduct their procurement activities in accordance with the spirit 
 and intent of this Chapter; 
  
-(b) 
-ensure that all government bodies within their territories comply with this 
+(b)  ensure that all government bodies within their territories comply with this 
 Chapter; 
  
-(c) 
-provide to services, goods and suppliers of the other Party equal opportunity 
+(c)  provide to services, goods and suppliers of the other Party equal opportunity 
 and treatment no less favourable than that accorded to their own domestic 
 services, goods and suppliers;  
  
-(d) 
-promote opportunities for their suppliers to compete for government business 
-on the basis of value for money and avoid purchasing practices which 
+(d)  promote opportunities for their suppliers to compete for government business 
+on  the  basis  of  value  for  money  and  avoid  purchasing  practices  which 
 discriminate or are otherwise biased against, or have the effect of denying 
-equal access or opportunity to, their services, goods and suppliers, while 
-conforming with any commitments of the Parties under international 
+equal  access  or  opportunity  to,  their  services,  goods  and  suppliers,  while 
+conforming  with  any  commitments  of  the  Parties  under  international 
 government procurement agreements; 
  
-(e) 
-use value for money as the primary determinant in all procurement decisions; 
+(e)  use value for money as the primary determinant in all procurement decisions; 
 and 
  
-(f) 
-achieve maximum practicable simplicity and consistency in the application of 
+(f)  achieve maximum practicable simplicity and consistency in the application of 
 procurement policies, practices and procedures. 
  
  
 Article 10.5: Valuation of Contracts 
  
-1. 
-The following provisions shall apply in determining the value of contracts for the 
+1.  The following provisions shall apply in determining the value of contracts for the 
 purposes of implementing this Chapter. 
  
-2. 
-Valuation shall take into account all forms of remuneration, including any premiums, 
+2.  Valuation shall take into account all forms of remuneration, including any premiums, 
 fees, commissions and interest receivable. 
  
-3. 
-The selection of a valuation method by a government body shall not be made, nor 
+3.  The selection of a valuation method by a government body shall not be made, nor 
 shall any procurement requirement be divided, with the intention of avoiding the application 
 of this Chapter. 
  
-4. 
-In cases where an intended procurement specifies the need for option clauses, the 
-basis for valuation shall be the total value of the maximum permissible procurement, 
+4.  In cases where an intended procurement specifies the need for option clauses, the 
+basis  for  valuation  shall  be  the  total  value  of  the  maximum  permissible  procurement, 
 inclusive of optional purchases. 
+10-3 
+  
  
- 
- 
-10-4 
  
 Article 10.6: Rules of Origin 
  
@@ -186,92 +162,78 @@ question to imports or supplies of the same goods or services from that other Pa
  
 Article 10.7: Procurement Procedures 
  
-1. 
-Each Party shall ensure that the procurement procedures, including tendering and 
-supplier invitation, registration of interest, prequalification, selection, negotiation and 
+1.  Each Party shall ensure that the procurement procedures, including tendering and 
+supplier  invitation,  registration  of  interest,  prequalification,  selection,  negotiation  and 
 contract award procedures, of its government bodies are applied in a manner consistent with 
 this Chapter, the APEC Non-Binding Principles on Government Procurement, and good 
 commercial practice. 
  
-2. 
-In cases of procurement by open call for tender, invitations to tender shall be 
-advertised in a publicly accessible medium; and in cases of procurement by selective 
+2.  In  cases  of  procurement  by  open  call  for  tender,  invitations  to  tender  shall  be 
+advertised  in  a  publicly  accessible  medium;  and  in  cases  of  procurement  by  selective 
 invitation to tender, prior calls to prequalify or register interest shall be advertised in a 
 publicly accessible medium. 
  
-3. 
-The Parties shall ensure that government bodies make readily available on request by 
+3.  The Parties shall ensure that government bodies make readily available on request by 
 New Zealand/Singapore suppliers information on contract awards, including the name of the 
 supplier, the goods or services supplied and value of the contract award, unless the release of 
 such information would impede law enforcement or otherwise be contrary to the public 
-interest or would prejudice the legitimate commercial interests of particular enterprises, 
+interest  or  would  prejudice  the  legitimate  commercial  interests  of  particular  enterprises, 
 public or private, or might prejudice fair competition between suppliers. 
  
-4. 
-Government bodies shall, on request from an unsuccessful supplier which participated 
+4.  Government bodies shall, on request from an unsuccessful supplier which participated 
 in the relevant tender, promptly provide pertinent information concerning reasons for the 
 rejection of its tender, unless the release of such information would impede law enforcement 
 or otherwise be contrary to the public interest or would prejudice the legitimate commercial 
-interest of particular enterprises, public or private, or might prejudice fair competition 
+interest  of  particular  enterprises,  public  or  private,  or  might  prejudice  fair  competition 
 between suppliers. 
  
-5. 
-Each Party shall also take appropriate steps to enhance transparency at all stages of 
-their procurement procedures, and endeavour to provide the information specified in 
+5.  Each Party shall also take appropriate steps to enhance transparency at all stages of 
+their  procurement  procedures,  and  endeavour  to  provide  the  information  specified  in 
 paragraph 2 and paragraph 3 for all government bodies from a single point of access through 
 a public medium, such as the internet.  
  
 Article 10.8: Prohibition of Offsets 
  
-1. 
-Government bodies shall not, in the qualification and selection of suppliers, goods and 
+1.  Government bodies shall not, in the qualification and selection of suppliers, goods and 
 services, or in the evaluation of tenders and award of contracts, impose, seek or consider 
 offsets in relation to government procurement from New Zealand or Singapore suppliers.  
  
+10-4 
+  
  
  
- 
-10-5 
- 
-2. 
-Offsets in relation to government procurement means measures used to encourage 
-local development or improve the balance of payments accounts by requiring domestic 
+2.  Offsets in relation to government procurement means measures used to encourage 
+local  development  or  improve  the  balance  of  payments  accounts  by  requiring  domestic 
 content, licensing of technology, investment, counter-trade or similar requirements. 
  
  
 Article 10.9: Disputes Between a Supplier and the Procuring Government Body 
  
-1. 
-In the event of a complaint by a supplier that there has been a breach of this Chapter, 
+1.  In the event of a complaint by a supplier that there has been a breach of this Chapter, 
 each Party shall encourage the supplier to seek resolution of its complaint in consultation 
 with the procuring government body. In such instances the procuring government body shall 
 accord timely and impartial consideration to any such complaint. 
  
-2. 
-Failing resolution through consultation between the supplier and the procuring 
+2.  Failing  resolution  through  consultation  between  the  supplier  and  the  procuring 
 government body, the complainant should seek the assistance of the designated body of the 
 Party in whose territory the complainant is located. A complaint made informally may be 
-processed informally if this is deemed appropriate by the designated body and the 
+processed  informally  if  this  is  deemed  appropriate  by  the  designated  body  and  the 
 complainant. 
  
-3. 
-Failing resolution, the designated body receiving the complaint shall formally raise it 
+3.  Failing resolution, the designated body receiving the complaint shall formally raise it 
 with the designated body of the other Party for investigation of any alleged breach of this 
-Chapter and for a report by it in writing. The Parties agree to provide details and 
+Chapter  and  for  a  report  by  it  in  writing.  The  Parties  agree  to  provide  details  and 
 documentation to permit a full investigation of complaints. Confidentiality of all information 
 shall be maintained. 
  
-4. 
-If the response is satisfactory to the designated body which received the original 
+4.  If the response is satisfactory to the designated body which received the original 
 complaint, then the complaint shall lapse. 
  
-5. 
-If satisfactory resolution is not achieved, the designated body which received the 
+5.  If satisfactory resolution is not achieved, the designated body which received the 
 original complaint may then refer the matter to the Minister responsible for procurement in 
 the other Party for further investigation and decision. 
  
-6. 
-In the event that a complaint cannot be resolved through the steps set out above within 
+6.  In the event that a complaint cannot be resolved through the steps set out above within 
 30 days of the designated body that received the original complaint formally raising it with 
 the designated body of the other Party, the provisions of Chapter 14 (Dispute Settlement) 
 shall apply. A Party shall be entitled by subrogation to exercise the rights and assert the 
@@ -281,28 +243,23 @@ be greater than the original rights or claims of that supplier.
  
 Article 10.10: Exemptions 
  
-1. 
-It is recognised by the Parties that, under certain circumstances, there may be a need 
+1.  It is recognised by the Parties that, under certain circumstances, there may be a need 
 for exemption from some of the requirements of this Chapter for certain government bodies, 
-for certain classes of procurement, and for procurement undertaken in accordance with 
+for  certain  classes  of  procurement,  and  for  procurement  undertaken  in  accordance  with 
 specific government policies. 
  
+10-5 
+  
  
  
- 
-10-6 
- 
-2. 
-Exemptions from some of the requirements of this Chapter may be sought by either 
+2.  Exemptions from some of the requirements of this Chapter may be sought by either 
 Party for government bodies which meet the following criteria subject to consultation and 
 agreement with the other Party:  
  
-(a) 
-joint bodies with any other State or separate customs territory which is not 
+(a)  joint bodies with any other State or separate customs territory which is not 
 party to this Agreement; 
  
-(b) 
-bodies funded primarily from specific special levies on particular industries, or 
+(b)  bodies funded primarily from specific special levies on particular industries, or 
 by community groups or from special grants or public donations. 
  
 It is not intended, however, that any government body shall be granted full exemption from 
@@ -310,57 +267,48 @@ the requirements of this Chapter. When considering applications for partial exem
 Parties shall exercise their authority with due diligence in accordance with the objectives of 
 this Chapter. 
  
-3. 
-The following classes of procurement are exempt from the application of this Chapter: 
+3.  The following classes of procurement are exempt from the application of this Chapter: 
  
-(a) 
-internal procurement by a government from its own bodies where no other 
+(a)  internal procurement by a government from its own bodies where no other 
 supplier has been asked to tender. If, however, tenders are called or invited, 
 the provisions of this Chapter shall apply whether or not a government body 
 submits a tender; 
  
-(b) 
-the procurement of proprietary items required to ensure machinery or 
-equipment integrity, but only as they may relate to biased specifications. 
+(b)  the  procurement  of  proprietary  items  required  to  ensure  machinery  or 
+equipment  integrity,  but  only  as  they  may  relate  to  biased  specifications. 
 Where such items are available from a number of sources or tenders are called 
 or invited, all provisions of this Chapter apply other than as they relate to 
 biased specifications; 
  
-(c) 
-the urgent procurement of goods and related services in the event of 
+(c)  the  urgent  procurement  of  goods  and  related  services  in  the  event  of 
 emergencies, such as natural disasters, or to meet the urgent requirements of 
 United Nations peacekeeping or humanitarian operations; 
  
-(d) 
-procurement of proprietary equipment of a work, health or safety nature 
-specified in industrial agreements but only as they may relate to biased 
+(d)  procurement  of  proprietary  equipment  of  a  work,  health  or  safety  nature 
+specified  in  industrial  agreements  but  only  as  they  may  relate  to  biased 
 specifications. Where such items are available from a number of sources or 
 tenders are called or invited, all provisions of this Chapter apply other than as 
 they relate to biased specifications; 
  
-(e) 
-defence procurement of a strategic nature and other procurement where 
+(e)  defence  procurement  of  a  strategic  nature  and  other  procurement  where 
 national security is a consideration; and 
  
-(f) 
-procurement under development assistance programmes. 
+(f)  procurement under development assistance programmes. 
  
-4. 
-Either Party may seek to have additional classes of procurement exempted from this 
+4.  Either Party may seek to have additional classes of procurement exempted from this 
 Chapter. Such exemptions shall be permitted only with the agreement of the other Party. 
  
  
+10-6 
+  
  
- 
- 
-10-7 
  
 Article 10.11: Administration and Review 
-1. 
-The designated bodies shall report jointly to the Ministers responsible for 
+1.  The  designated  bodies  shall  report  jointly  to  the  Ministers  responsible  for 
 procurement on the implementation of this Chapter in preparation for the reviews provided 
 for in Article 15.4 (Review). 
-2. 
-A committee of senior officials responsible for government procurement policy of 
+2.  A committee of senior officials responsible for government procurement policy of 
 each Party may meet as appropriate to discuss policy issues, technical or other cooperation, 
 and the reviews referred to in paragraph 1. 
+10-7 
+ 

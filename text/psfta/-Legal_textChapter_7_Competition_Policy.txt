@@ -6,92 +6,66 @@ COMPETITION POLICY
  
  
 Article 7.1:  Anti-competitive Business Conduct  
- 
-1.  
- 
-Each  Party  shal   endeavour  to  adopt  or  maintain  competition  laws to  
+   
+1.   Each  Party  shal   endeavour  to  adopt  or  maintain  competition  laws to  
 proscribe  anti-competitive  business conduct,  with  the  objective  of  promoting  
 economic efficiency and consumer welfare, and shal  take appropriate action  
 with respect to such conduct.  The Parties recognize that undertaking these  
 obligations wil   enhance  the  fulfilment  of  the  objectives of  this Agreement.   
 Anti-competitive business conduct includes, but is not limited to:  
  
-(a)  
-anti-competitive horizontal arrangements between competitors;   
+(a)   anti-competitive horizontal arrangements between competitors;   
  
-(b)  
-misuse  of  market  power,  including  predatory  pricing  by 
+(b)   misuse  of  market  power,  including  predatory  pricing  by 
 businesses;   
  
-(c)  
-anti-competitive vertical arrangements between businesses; and  
+(c)   anti-competitive vertical arrangements between businesses; and  
  
-(d)  
-anti-competitive mergers and acquisitions.  
- 
-2.  
- 
-Each Party shal  maintain an authority responsible for the enforcement  
+(d)   anti-competitive mergers and acquisitions.  
+   
+2.   Each Party shal  maintain an authority responsible for the enforcement  
 of  its national  competition  laws.  The  enforcement  policy  of  each  Party’s 
 national  competition  authority  is not  to  discriminate  on  the  basis of  the  
 nationality of the subjects of their proceedings. Each Party shal  ensure that:  
  
-(a)  
-before  it  imposes a  sanction  or  remedy  against  any  person for  
+(a)   before  it  imposes a  sanction  or  remedy  against  any  person for  
 violating its competition law, it affords the person the opportunity  
 to be heard and to present evidence, within a reasonable time;  
 and  
  
-(b)  
-a  domestic court  or  tribunal,  at  the  person’s request,  reviews  
+(b)   a  domestic court  or  tribunal,  at  the  person’s request,  reviews  
 any such sanction or remedy.  
- 
-3.  
- 
-Nothing  in  this Chapter  shal   be  construed  to  infringe  each  Party’s 
+   
+3.   Nothing  in  this Chapter  shal   be  construed  to  infringe  each  Party’s 
 autonomy in developing its competition policies or in deciding how to enforce  
 its competition laws.  
- 
-4.  
- 
-The  Parties shal   ensure  the  application  of  the  principles of  non- 
+   
+4.   The  Parties shal   ensure  the  application  of  the  principles of  non- 
 discrimination,  transparency  and  due  process to  the  competition  measures  
 adopted or maintained according to paragraph 1 and to each Party’s laws and  
 their enforcement.  
  
  
 Article 7.2:  Confidentiality  
- 
-1.  
- 
-Nothing in this Chapter shal  require the provision of information that is:  
+   
+1.   Nothing in this Chapter shal  require the provision of information that is:  
  
  
  
  
-7 - 1  
+7 - 1     
+   
+   
  
+(a)   classified as confidential by a Party or its competition authority;  
  
+  or  
+   
  
+(b)    contrary to a Party’s laws or policies.  
  
- 
- 
- 
- 
- 
- 
-2.  
- 
- 
- 
-(a)  
-classified as confidential by a Party or its competition authority;  
-or  
- 
-(b)  
- contrary to a Party’s laws or policies.  
- 
-Each  Party  shal ,  subject  to  its laws or  policies,  maintain  the  
+   
+2.   Each  Party  shal ,  subject  to  its laws or  policies,  maintain  the  
 confidentiality  of  any  information  communicated  to  it  in  confidence  by  the  
 other Party and oppose any application for disclosure of such information. Any 
 information  communicated  shal   only  be  used  for  the  purpose  of  the  
@@ -110,16 +84,13 @@ laws, by establishing consultation mechanisms and exchanging information.
  
 Article 7.4: Transparency and Information Requests  
  
-1.   
-The  Parties  recognize  the  value  of  transparency  in  government  
+1.    The  Parties  recognize  the  value  of  transparency  in  government  
 competition policies.  
  
-2.   
-On request, each Party shal  make available to the other Party, public 
+2.    On request, each Party shal  make available to the other Party, public 
 information concerning its competition law enforcement activities.  
  
-3.   
-On request, each Party shal  make available to the other Party public  
+3.    On request, each Party shal  make available to the other Party public  
 information  concerning  exemptions provided  under  its competition  laws.  
 Requests shal   specify  the  particular  goods and  markets of  interest  and  
 include  an  indication  whether  or  not  the  exemption  restricts  trade  or  
@@ -143,8 +114,7 @@ concerns of the other Party.
  
  
  
-7 - 2  
- 
+7 - 2   
  
  
 Article 7.6: Disputes  

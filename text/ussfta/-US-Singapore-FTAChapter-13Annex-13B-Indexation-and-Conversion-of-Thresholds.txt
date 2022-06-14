@@ -1,0 +1,41 @@
+   
+   
+   
+ 
+152 
+ 
+ 
+ 
+ANNEX 13B  
+ 
+INDEXATION AND CONVERSION OF THRESHOLDS 
+   
+1.   The calculations referenced in Annex 13A of this Agreement shall be adjusted in 
+accordance with the following formula:  
+ 
+T (1 + ð) = T 
+0 i 1
+ 
+in which:  
+ 
+T = threshold value on January 1, 2002  
+0
+ð = accumulated inflation rate for the ith two-year period  
+i
+ 
+T = new threshold value  
+1
+ 
+and the accumulated inflation rate (ð) is measured by:  
+i
+ 
+for the United States, the producer price index for finished products published by the U.S. 
+Bureau of Labor Statistics; and  
+ 
+for Singapore, the consumer price index published by the Singapore Department of 
+Statistics.  
+   
+2.   The first adjustment for inflation, to take effect on January 1, 2004, shall be calculated 
+using the period from November 1, 2001 to October 31, 2003.  All subsequent adjustments shall 
+be calculated using two-year periods, each period beginning November 1.  The adjustments shall 
+take effect on January 1 of the year immediately following the end of the two-year period.  

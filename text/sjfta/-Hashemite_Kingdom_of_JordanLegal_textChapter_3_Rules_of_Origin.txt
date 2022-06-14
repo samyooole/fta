@@ -10,135 +10,102 @@ Definitions
  
 For purposes of this Chapter: 
  
-1.  
-“appraised value” means the value determined under Articles 1 through 8, Article 
-15 and the corresponding interpretative notes of the WTO Customs Valuation 
+1.   “appraised value” means the value determined under Articles 1 through 8, Article 
+15 and the corresponding interpretative notes  of  the  WTO  Customs  Valuation 
 Agreement, as adjusted to exclude any costs, charges, or expenses incurred for 
 transportation, insurance, and related services incident to the international shipment 
 of the merchandise from the country of exportation to the place of importation;  
  
-2.  
-“fungible goods or materials” means goods or materials that are interchangeable for 
+2.   “fungible goods or materials” means goods or materials that are interchangeable for 
 commercial purposes and whose properties are essentially identical; 
  
-3.  
-“generally accepted accounting principles” means the recognized consensus or 
+3.   “generally  accepted  accounting  principles”  means  the  recognized  consensus  or 
 substantial authoritative support in the territory of a Party, with respect to the 
 recording of revenues, expenses, costs, assets, and liabilities, the disclosure of 
-information and the preparation of financial statements. These standards may 
+information  and  the  preparation  of  financial  statements.  These  standards  may 
 encompass broad guidelines of general application as well as detailed standards, 
 practices and procedures; 
  
-4.  
-“goods wholly obtained in the territory of one or both of the Parties” means goods 
+4.   “goods wholly obtained in the territory of one or both of the Parties” means goods 
 that are: 
  
-(a)  
-mineral goods extracted there; 
+(a)   mineral goods extracted there; 
  
-(b)  
-vegetable goods, as such goods are defined in the Harmonized System, 
+(b)   vegetable goods, as such goods are defined in the Harmonized System, 
 harvested there; 
  
-(c)  
-live animals born and raised there; 
+(c)   live animals born and raised there; 
  
-(d)  
-goods obtained from hunting, trapping, fishing, or aquaculture conducted 
+(d)   goods obtained from hunting, trapping, fishing, or aquaculture conducted 
 there; 
  
-(e)  
-goods (fish, shellfish, and other marine life) taken from the sea by vessels 
+(e)   goods (fish, shellfish, and other marine life) taken from the sea by vessels 
 registered or recorded with a Party and flying its flag; 
  
- 15
-(f)  
-goods produced exclusively from goods referred to in Article 3.1.4(e) on 
+ 15(f)   goods produced exclusively from goods referred to in Article 3.1.4(e) on 
 board factory ships registered or recorded with a Party and flying its flag; 
  
-(g) 
-goods taken by a Party, or a person of a Party, from the seabed or beneath 
+(g)  goods taken by a Party, or a person of a Party, from the seabed or beneath 
 the seabed outside territorial waters, provided that the Party has rights to 
 exploit such seabed; or 
  
-(h)  
-waste and scrap derived from 
+(h)   waste and scrap derived from 
  
-(i)  
-production there; or 
+(i)   production there; or 
  
-(ii) 
-used goods collected there, provided that such goods are fit only for 
+(ii)  used goods collected there, provided that such goods are fit only for 
 the recovery of raw materials; 
  
-5.  
-“goods produced entirely in the territory of one or both of the Parties” means goods 
+5.   “goods produced entirely in the territory of one or both of the Parties” means goods 
 that are produced there exclusively from goods referred to in Article 3.1.4 or from 
 their derivatives, at any stage of production. 
  
-6.  
-“Harmonized System” means the Harmonized Commodity Description and Coding 
+6.   “Harmonized System” means the Harmonized Commodity Description and Coding 
 System; 
  
-7. 
-“indirect material” means a good used in the production, testing or inspection of a 
-good but not physically incorporated into the good, or a good used in the 
-maintenance of buildings or the operation of equipment associated with the 
+7.  “indirect material” means a good used in the production, testing or inspection of a 
+good  but  not  physically  incorporated  into  the  good,  or  a  good  used  in  the 
+maintenance  of  buildings  or  the  operation  of  equipment  associated  with  the 
 production of a good, including: 
  
-(a)  
-fuel and energy; 
+(a)   fuel and energy; 
  
-(b)  
-tools, dies, and molds; 
+(b)   tools, dies, and molds; 
  
-(c)  
-spare parts and materials used in the maintenance of equipment and 
+(c)   spare  parts  and  materials  used  in  the  maintenance  of  equipment  and 
 buildings; 
  
-(d)  
-lubricants, greases, compounding materials, and other materials used in 
+(d)   lubricants,  greases,  compounding  materials,  and  other  materials  used  in 
 production or used to operate equipment and buildings; 
  
-(e)  
-gloves, glasses, footwear, clothing, safety equipment and supplies; 
+(e)   gloves, glasses, footwear, clothing, safety equipment and supplies; 
  
-(f)  
-equipment, devices, and supplies used for testing or inspecting the goods; 
+(f)   equipment, devices, and supplies used for testing or inspecting the goods; 
  
-(g)  
-catalysts and solvents; and 
+(g)   catalysts and solvents; and 
  
  
  
- 16
-(h)  
-any other goods that are not incorporated into the good but whose use in the 
+ 16(h)   any other goods that are not incorporated into the good but whose use in the 
 production of the good can reasonably be demonstrated to be a part of that 
 production; 
  
-8.  
-“material” means a good that is used in the production of another good; 
+8.   “material” means a good that is used in the production of another good; 
  
-9.  
-“non-originating material” means a material that has not satisfied the requirements 
+9.   “non-originating material” means a material that has not satisfied the requirements 
 of this Chapter; 
  
-10.  
-“preferential treatment” means the customs duty rate and any other charges having 
+10.   “preferential treatment” means the customs duty rate and any other charges having 
 equivalent effect and treatment under Article 2.2 that is applicable to an originating 
 good pursuant to this Agreement; 
  
-11.  
-“producer” means a person who grows, raises, mines, harvests, fishes, traps, hunts, 
+11.   “producer” means a person who grows, raises, mines, harvests, fishes, traps, hunts, 
 manufactures, processes, assembles or disassembles a good; 
  
-12.  
-“production” means growing, raising, mining, harvesting, fishing, trapping, 
+12.   “production”  means  growing,  raising,  mining,  harvesting,  fishing,  trapping, 
 hunting, manufacturing, processing, assembling or disassembling a good; and 
  
-13.  
-“used” means used or consumed in the production of goods. 
+13.   “used” means used or consumed in the production of goods. 
  
  
 SECTION B: ORIGIN DETERMINATION 
@@ -150,26 +117,20 @@ Criteria of Origin
 For purposes of this Agreement, an originating good means a good which fulfils Article 
 3.12 and any of the following: 
  
-(a) 
-wholly obtained in the territory of a Party; 
+(a)  wholly obtained in the territory of a Party; 
  
-(b) 
-produced entirely in the territory of one or both of the Parties; or 
+(b)  produced entirely in the territory of one or both of the Parties; or 
  
-(c)  
-for goods: 
+(c)   for goods: 
  
- 
-(i)  
-other than goods subject to Article 3.3, fulfills a minimum of a local 
+  (i)   other than goods subject to Article 3.3, fulfills a minimum of a local 
 value content of 35%, calculated using the following method: 
  
 LVC = AV - VNM x 100 
       AV 
  
  
- 17
- 
+ 17 
 Where:  
  
 “LVC” is the local value content, expressed as a percentage; 
@@ -179,40 +140,32 @@ Where:
 “VNM” is the value of non-originating materials that are acquired 
 and used by the producer in the production of the good.  
  
-(ii)  
-subject to Article 3.3, satisfies the conditions set out in Article 3.3. 
+(ii)   subject to Article 3.3, satisfies the conditions set out in Article 3.3. 
  
  
 Article 3.3 
 Textile and Apparel Goods 
  
-1. 
-General rule: 
+1.  General rule: 
  
 A textile or apparel good shall be considered to be wholly the growth, product or 
 manufacture of a Party, or a new or different article of commerce that has been 
 grown, produced, or manufactured in a Party; only if 
  
-(a)    
-the good is wholly obtained or produced in a Party; 
+(a)     the good is wholly obtained or produced in a Party; 
  
-(b)  
-the good is a yarn, thread, twine, cordage, rope, cable, or braiding, and, 
+(b)   the good is a yarn, thread, twine, cordage, rope, cable, or braiding, and, 
  
-(i)  
-the constituent staple fibers are spun in that Party, or 
+(i)   the constituent staple fibers are spun in that Party, or 
  
-(ii)  
-the continuous filament is extruded in that Party; 
+(ii)   the continuous filament is extruded in that Party; 
  
-(c)  
-the good is a fabric, including a fabric classified under Chapter 59 of the 
-Harmonized System, and the constituent fibers, filaments, or yarns are 
+(c)   the good is a fabric, including a fabric classified under Chapter 59 of the 
+Harmonized  System,  and  the  constituent  fibers,  filaments,  or  yarns  are 
 woven, knitted, needled, tufted, felted, entangled, or transformed by any 
 other fabric-making process in that Party; or 
  
-(d)  
-the good is any other textile or apparel product that is wholly assembled in 
+(d)   the good is any other textile or apparel product that is wholly assembled in 
 that Party from its component pieces. 
  
  
@@ -221,40 +174,35 @@ that Party from its component pieces.
  
  
  
- 18
-2.       Special rules: 
+ 182.       Special rules: 
  
-(a)  
-Notwithstanding Article 3.3.1(d), and except as provided in Articles 
+(a)   Notwithstanding  Article  3.3.1(d),  and  except  as  provided  in  Articles 
 3.3.2(c) and (d), whether this Agreement shall apply to a good that is 
-classified under one of the following Harmonized System headings or 
-subheadings shall be determined under Article 3.3.1(a), (b) or (c), as 
-appropriate: 5609, 5807, 5811, 6209.20.50.40, 6213, 6214, 6301, 6302, 
+classified  under  one  of  the  following  Harmonized  System  headings  or 
+subheadings  shall  be  determined  under  Article  3.3.1(a),  (b)  or  (c),  as 
+appropriate: 5609, 5807,  5811, 6209.20.50.40, 6213, 6214, 6301, 6302, 
 6304, 6305, 6306, 6307.10, 6307.90, 6308, or 9404.90. 
  
-(b)  
-Notwithstanding Article 3.3.1(d), and except as provided in Articles 
+(b)   Notwithstanding  Article  3.3.1(d),  and  except  as  provided  in  Articles 
 3.3.2(c) and (d), this Agreement shall apply to a textile or apparel good 
 which is knit to shape in a Party. 
  
-(c)  
-Notwithstanding Article 3.3.1(d), this Agreement shall apply to goods 
+(c)   Notwithstanding  Article  3.3.1(d),  this  Agreement  shall  apply  to  goods 
 classified under Harmonized System heading 6117.10, 6213.00, 6214.00, 
 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 
 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95, 
 except for goods classified under such headings as of cotton or of wool or 
-consisting of fiber blends containing 16 percent or more by weight of 
+consisting  of  fiber  blends  containing  16  percent  or  more  by  weight  of 
 cotton, if the fabric in the goods is both dyed and printed, when such dyeing 
-and printing is accompanied by 2 or more of the following finishing 
-operations: bleaching, shrinking, fulling, napping, decating, permanent 
+and  printing  is  accompanied  by  2  or  more  of  the  following  finishing 
+operations:  bleaching,  shrinking,  fulling,  napping,  decating,  permanent 
 stiffening, weighting, permanent embossing, or moireing. 
  
-(d)  
-Notwithstanding Article 3.3.1(c), this Agreement shall apply to fabric 
+(d)   Notwithstanding  Article  3.3.1(c),  this  Agreement  shall  apply  to  fabric 
 classified under the Harmonized System as of silk, cotton, man-made fiber 
 or vegetable fiber if the fabric is both dyed and printed in a Party, and such 
 dyeing and printing is accompanied by 2 or more of the following finishing 
-operations: bleaching, shrinking, fulling, napping, decating, permanent 
+operations:  bleaching,  shrinking,  fulling,  napping,  decating,  permanent 
 stiffening, weighting, permanent embossing, or moireing. 
  
  
@@ -270,87 +218,65 @@ paid for the material in the Party.
  
  
  
- 19
-Article 3.5 
+ 19Article 3.5 
 Minimal Operations 
  
 A good shall not be considered to be originating solely by reason of: 
  
-(a)  
-mere dilution with water or another substance that does not materially alter 
+(a)   mere dilution with water or another substance that does not materially alter 
 the characteristics of the good; 
  
-(b) 
-preserving operations to ensure that the good remains in good condition 
+(b)  preserving operations to ensure that the good remains in good condition 
 during transport and storage; 
  
-(c) 
-bulk breaking and assembly of packages; 
+(c)  bulk breaking and assembly of packages; 
  
-(d) 
-washing, cleaning; removal of dust, oxide, oil, paint or other coverings; 
+(d)  washing, cleaning; removal of dust, oxide, oil, paint or other coverings; 
  
-(e) 
-ironing or pressing of textiles; 
+(e)  ironing or pressing of textiles; 
  
-(f) 
-simple painting and polishing operations; 
+(f)  simple painting and polishing operations; 
  
-(g) 
-husking, partial or total bleaching, polishing and glazing of cereals and rice; 
+(g)  husking, partial or total bleaching, polishing and glazing of cereals and rice; 
  
-(h) 
-operations to color sugar or form sugar lumps; 
+(h)  operations to color sugar or form sugar lumps; 
  
-(i) 
-peeling, stoning and shelling, of fruits, nuts and vegetables; 
+(i)  peeling, stoning and shelling, of fruits, nuts and vegetables; 
  
-(j) 
-sharpening, simple grinding or simple cutting; 
+(j)  sharpening, simple grinding or simple cutting; 
  
-(k) 
-sifting, screening, sorting, classifying, grading, matching; (including the 
+(k)  sifting, screening, sorting, classifying, grading, matching; (including the 
 making-up of sets of articles); 
  
-(l) 
-simple placing in bottles, cans, flasks, bags, cases, boxes, fixing on cards or 
+(l)  simple placing in bottles, cans, flasks, bags, cases, boxes, fixing on cards or 
 boards and all other simple packaging operations; 
  
-(m) 
-affixing or printing marks, labels, logos and other like distinguishing signs 
+(m)  affixing or printing marks, labels, logos and other like distinguishing signs 
 on goods or their packaging; 
  
-(n) 
-simple mixing of goods, whether or not of different kinds; 
+(n)  simple mixing of goods, whether or not of different kinds; 
  
-(o) 
-simple assembly of parts of articles to constitute a complete article or 
+(o)  simple  assembly  of  parts  of  articles  to  constitute  a  complete  article  or 
 disassembly of products into parts; 
  
-(p) 
-a combination of two or more operations specified in Articles 3.5(a)-(o); or 
+(p)  a combination of two or more operations specified in Articles 3.5(a)-(o); or 
  
-(q) 
-slaughter of animals. 
- 20
- 
+(q)  slaughter of animals. 
+ 20 
  
 Article 3.6 
 Accumulation 
  
-1. 
-For the purpose of determining whether a good is an originating good of the other 
-Party, either Party shall consider the production in its territory as that in the 
-territory of the other Party, where such good is produced in the territory or 
+1.  For the purpose of determining whether a good is an originating good of the other 
+Party,  either  Party  shall  consider  the  production  in  its  territory  as  that  in  the 
+territory  of  the  other  Party,  where  such  good  is  produced  in  the  territory  or 
 territories of one or both Parties. 
  
-2. 
-The production of a Party includes the production at different stages undertaken by 
+2.  The production of a Party includes the production at different stages undertaken by 
 one or more producers located in its territory. 
  
-3. 
-The Parties shall explore the application of the concept of diagonal accumulation 
-between the Parties and third parties should there be a free trade agreement 
+3.  The Parties shall explore the application of the concept of diagonal accumulation 
+between  the  Parties  and  third  parties  should  there  be  a  free  trade  agreement 
 between each of the Parties and the third party in question. 
  
  
@@ -366,16 +292,14 @@ local value content of the good.
 Article 3.8 
 Fungible Goods and Materials  
  
-1. 
-Each Party shall provide that the determination of whether fungible goods or 
+1.  Each  Party  shall  provide  that  the  determination  of  whether  fungible  goods  or 
 materials are originating goods shall be made either by physical segregation of each 
 good or material or through the use of any inventory management method, such as 
-averaging, last-in, first-out, or first-in, first out, recognized in the generally 
+averaging,  last-in,  first-out,  or  first-in,  first  out,  recognized  in  the  generally 
 accepted accounting principles of the Party in which the production is performed or 
 otherwise accepted by the Party in which the production is performed. 
  
-2.  
-Each Party shall provide that that an inventory management method selected under 
+2.   Each Party shall provide that that an inventory management method selected under 
 Article 3.8.1 for particular fungible goods or materials shall continue to be used for 
 those fungible goods or materials throughout the fiscal year of the person that 
 selected the inventory management method. 
@@ -383,10 +307,9 @@ selected the inventory management method.
  
 Article 3.9 
 Packaging Materials and Containers for Retail Sale  
- 21
- 
+ 21 
 Each Party shall provide that the value of packaging materials and containers in which a 
-good is packaged for retail sale, shall be taken into account as originating or non-
+good  is  packaged  for  retail  sale,  shall  be  taken  into  account  as  originating  or  non-
 originating materials, as the case may be, in calculating the local value content of the good. 
  
  
@@ -411,85 +334,66 @@ Direct Transport
  
 A good shall be considered to be directly transported if the good is: 
  
-(a)  
-transported directly from the territory of a Party to the territory of the other 
+(a)   transported directly from the territory of a Party to the territory of the other 
 Party; 
  
-(b)  
-transported through the territories of one or more non-Parties, provided that 
+(b)   transported through the territories of one or more non-Parties, provided that 
 the goods: 
  
-(i)  
-did not undergo operations other than packing, packaging, 
-unloading, reloading or operations to preserve them in good 
+(i)   did  not  undergo  operations  other  than  packing,  packaging, 
+unloading,  reloading  or  operations  to  preserve  them  in  good 
 condition in the territory of any such non-Party; and 
  
-(ii)  
-were not traded or used in the territory of any such non-Party ; and  
+(ii)   were not traded or used in the territory of any such non-Party ; and  
  
-(iii)  
-invoices and bills of lading show that the good  was shipped from a 
+(iii)   invoices and bills of lading show that the good  was shipped from a 
 Party, and that the other Party is the final destination. 
  
  
  
- 22
-SECTION C: SUPPORTING INFORMATION AND VERIFICATION 
+ 22SECTION C: SUPPORTING INFORMATION AND VERIFICATION 
  
  
 Article 3.13 
 Certificate of Origin 
  
-1. 
-Goods eligible for preferential treatment shall be supported by a Certificate of 
+1.  Goods eligible for preferential treatment shall be supported by a Certificate of 
 Origin issued by the relevant authorities of the exporting Party and notified to the 
 other Party. 
  
-2. 
-Such Certificate of Origin shall include minimum data specified in Annex 3A. 
+2.  Such Certificate of Origin shall include minimum data specified in Annex 3A. 
  
-3. 
-The issued Certificate of Origin shall be valid for 12 months from the date of issue 
-and must be submitted within such period to the customs authorities of the 
+3.  The issued Certificate of Origin shall be valid for 12 months from the date of issue 
+and  must  be  submitted  within  such  period  to  the  customs  authorities  of  the 
 importing Party. 
  
-4. 
-Each Party shall inform the other Party of the names and addresses of its authorized 
+4.  Each Party shall inform the other Party of the names and addresses of its authorized 
 officials issuing the Certificate of Origin and shall provide specimen signatures and 
 official seals used by such government officials.  
  
-5. 
-Any change in the names, addresses, signatures or official seals referred to in 
+5.  Any change in the names, addresses, signatures or official seals referred to in 
 Article 3.13.4 shall be promptly notified to the other Party. 
  
-6. 
-A Certificate of Origin for an originating good shall be completed in the English 
+6.  A Certificate of Origin for an originating good shall be completed in the English 
 language. 
  
-7. 
-Each Party shall: 
+7.  Each Party shall: 
  
-(a) 
-require an exporter in its territory to complete and sign an application for a 
-Certificate of Origin for any good for which an importer may claim 
+(a)  require an exporter in its territory to complete and sign an application for a 
+Certificate  of  Origin  for  any  good  for  which  an  importer  may  claim 
 preferential tariff treatment on importation of the good into the territory of 
 the other Party; and 
  
-(b) 
-provide that where an exporter in its territory is not the producer of the 
+(b)  provide that where an exporter in its territory is not the producer of the 
 good, the exporter may complete and sign an application for a Certificate of 
 Origin on the basis of: 
  
-(i)  
-its knowledge that the good qualifies as an originating good,  
+(i)   its  knowledge  that  the  good  qualifies  as  an  originating  good,  
  
-(ii)  
-its reasonable reliance on the producer's written representation that 
+(ii)   its reasonable reliance on the producer's written representation that 
 the good qualifies as an originating good. 
  
- 23
-8. 
-Each Party shall provide that a Certificate of Origin that has been issued by its 
+ 238.  Each Party shall provide that a Certificate of Origin that has been issued by its 
 relevant authorities is valid for a single shipment of the good into the other Party's 
 territory. 
  
@@ -497,53 +401,43 @@ territory.
 Article 3.14 
 Claims for Preferential Treatment 
  
-1.  
-The importing Party shall grant preferential treatment to goods imported into its 
+1.   The importing Party shall grant preferential treatment to goods imported into its 
 territory from the other Party, provided that the importer claiming preferential tariff 
 treatment: 
  
-(a) 
-has the original Certificate of Origin or an authenticated copy thereof in its 
+(a)  has the original Certificate of Origin or an authenticated copy thereof in its 
 possession; and 
  
-(b) 
-provides the original Certificate of Origin or an authenticated copy thereof 
+(b)  provides the original Certificate of Origin or an authenticated copy thereof 
 if requested by the importing Party. 
  
-2.  
-Where an authenticated copy of the Certificate of Origin is used, such copy shall be 
+2.   Where an authenticated copy of the Certificate of Origin is used, such copy shall be 
 certified true and correct by the relevant authorities of the exporting Party and carry 
 the date of the authentication, the signature of the certifying officers and the name 
 and stamp of the relevant authorities. 
  
-3.  
-The importing Party may, in addition to the conditions listed in Article 3.14.1, 
-require the importer claiming preferential tariff treatment to make a written 
+3.   The importing Party may, in addition to the conditions listed in Article 3.14.1, 
+require  the  importer  claiming  preferential  tariff  treatment  to  make  a  written 
 declaration that the good qualifies as an originating good, in accordance with the 
 domestic law and procedures of the importing Party. 
  
-4.  
-The importing Party shall grant preferential tariff treatment to goods imported after 
+4.   The importing Party shall grant preferential tariff treatment to goods imported after 
 the date of entry into force of this Agreement, even if the conditions in Article 
 3.1.4.1 were not fulfilled at time of import, if: 
  
-(a) 
-a sum amounting to the rate of customs duties payable is paid at the time of 
+(a)  a sum amounting to the rate of customs duties payable is paid at the time of 
 import; 
  
-(b) 
-the importer indicates at time of import of goods that a claim of preferential 
+(b)  the importer indicates at time of import of goods that a claim of preferential 
 tariff treatment will be made subsequently; and 
  
-(c)  
-the claim for preferential tariff treatment is made and the documents 
+(c)   the  claim  for  preferential  tariff  treatment  is  made  and  the  documents 
 required under Article 3.14.1 are provided within 7 days from the date of 
 payment of the sum in Article 3.14.4(a), or such longer period as provided 
 for under the importing Party’s domestic laws, subject to domestic laws and 
 practices in the importing Party. 
  
- 24
-Upon satisfaction of the conditions in this paragraph, the importing Party shall 
+ 24Upon satisfaction of the conditions in this paragraph, the importing Party shall 
 refund the difference between the preferential customs duties and charges and non-
 preferential duties and charges to the importer.  
  
@@ -551,17 +445,14 @@ preferential duties and charges to the importer.
 Article 3.15 
 Obligations relating to Importations  
  
-1.  
-Each Party shall grant preferential treatment under this Agreement for any claim 
+1.   Each Party shall grant preferential treatment under this Agreement for any claim 
 made in accordance with this Section, unless the Party possesses information that 
 the claim is invalid. 
  
-2.  
-A Party may deny preferential treatment under this Agreement to an imported good 
+2.   A Party may deny preferential treatment under this Agreement to an imported good 
 if the importer fails to comply with any requirement of this Chapter. 
  
-3. 
-If a Party denies a claim for preferential treatment under the Agreement, it shall 
+3.  If a Party denies a claim for preferential treatment under the Agreement, it shall 
 issue a written determination within 30 days from the date of denial, containing its 
 findings of fact and the legal basis for the determination. 
  
@@ -570,119 +461,95 @@ Waiver of requirement for Certificate of Origin
  
 The importing Party shall not require a Certificate of Origin from importers for: 
  
-(a) 
-an importation of a consignment of a good whose aggregate customs value 
+(a)  an importation of a consignment of a good whose aggregate customs value 
 does not exceed USD$1000 or its equivalent amount; or 
  
-(b) 
-an importation of a good into its territory, for which the importing Party has 
+(b)  an importation of a good into its territory, for which the importing Party has 
 waived the requirement for a certification of origin. 
  
  
 Article 3.17 
 Record Keeping Requirement  
  
-Each Party may require that importers maintain for up to 3 years after the date of 
+Each  Party  may  require  that  importers  maintain  for  up  to  3  years  after  the  date  of 
 importation, records relating to the importation of the good, and may require that an 
 importer provide, upon request, records which are necessary to demonstrate that a good 
 qualifies as an originating good, including records concerning: 
  
-(a)  
-the purchase of, cost of, value of, and payment for, the good; 
+(a)   the purchase of, cost of, value of, and payment for, the good; 
  
-(b)  
-the purchase of, cost of, value of, and payment for, all materials, including 
+(b)   the purchase of, cost of, value of, and payment for, all materials, including 
 indirect materials, used in the production of the good; and 
  
- 25
-(c)  
-the production of the good in the form in which the good is exported. 
+ 25(c)   the production of the good in the form in which the good is exported. 
  
  
 Article 3.18 
 Cooperation on Verification on Certificates of Origin  
  
-1. 
-The importing Party may request the certifying authorities of the exporting Party to 
+1.  The importing Party may request the certifying authorities of the exporting Party to 
 assist it in verifying: 
  
-a. 
-the authenticity of a Certificate of Origin issued by the exporting Party 
+a.  the authenticity of a Certificate of Origin issued by the exporting Party 
 and/or  
  
-b. 
-the accuracy of any information contained in the Certificate of Origin issued 
+b.  the accuracy of any information contained in the Certificate of Origin issued 
 by the exporting Party. 
  
-2. 
-For the purpose of Article 3.18.1, the customs administration of the importing Party 
+2.  For the purpose of Article 3.18.1, the customs administration of the importing Party 
 shall provide the certifying authority of the exporting Party with: 
  
-a. 
-the reasons why such assistance is sought,  
+a.  the reasons why such assistance is sought,  
  
-b. 
-the Certificate of Origin, or a copy thereof; and 
+b.  the Certificate of Origin, or a copy thereof; and 
  
-c. 
-any information and documents as may be necessary for the purpose of such 
+c.  any information and documents as may be necessary for the purpose of such 
 assistance.  
  
-3. 
-Any verification carried out pursuant to this Article shall be carried out by the 
+3.  Any verification carried out pursuant to this Article shall be carried out by the 
 certifying authorities of the exporting Party. 
  
  
 Article 3.19 
 Verification 
  
-1. 
-For the purposes of determining whether a good imported into its territory from the 
+1.  For the purposes of determining whether a good imported into its territory from the 
 territory of the other Party qualifies as an originating good, a Party may conduct a 
 verification by means of: 
  
-(a)  
-requests for information from the importer; 
+(a)   requests for information from the importer; 
  
-(b)  
-written requests for information to an exporter or a producer in the territory 
+(b)   written requests for information to an exporter or a producer in the territory 
 of the other Party through the customs authorities of the exporting Party;  
  
-(c)  
-visits to the premises of an exporter or a producer in the territory of the 
+(c)   visits to the premises of an exporter or a producer in the territory of the 
 other Party, with their consent and in accordance with any procedures that 
 the Parties jointly adopt pertaining to such verification; or 
- 26
+ 26 
+(d)   such other procedures as the Parties may agree. 
  
-(d)  
-such other procedures as the Parties may agree. 
- 
-2.  
-The Party conducting a verification shall provide the exporter or producer whose 
+2.   The Party conducting a verification shall provide the exporter or producer whose 
 good is the subject of the verification with a written determination of whether the 
 good qualifies as an originating good, including findings of fact and the legal basis 
 for the determination. 
  
-3.  
-Where verifications by a Party indicate a pattern of conduct by an exporter or a 
+3.   Where verifications by a Party indicate a pattern of conduct by an exporter or a 
 producer of false or unsupported representations that a good imported into its 
 territory qualifies as an originating good, the Party may withhold preferential tariff 
 treatment to identical goods exported or produced by such exporter or producer 
 until that exporter or producer establishes compliance with rules of origin in this 
 Chapter. 
  
-4.  
-Each Party shall provide that where it determines that a certain good imported into 
+4.   Each Party shall provide that where it determines that a certain good imported into 
 its territory does not qualify as an originating good based on a tariff classification 
 or a value applied by the Party to one or more materials used in the production of 
-the good, which differs from the tariff classification or value applied to the 
+the  good,  which  differs  from  the  tariff  classification  or  value  applied  to  the 
 materials by the Party from whose territory the good was exported, the Party's 
-determination shall not become effective until it notifies in writing both the 
+determination  shall  not  become  effective  until  it  notifies  in  writing  both  the 
 importer of the good and the person that completed and signed the Certificate of 
 Origin for the good of its determination. 
  
-5.  
-If a Party denies preferential tariff treatment to a good pursuant to a determination 
+5.   If a Party denies preferential tariff treatment to a good pursuant to a determination 
 made under Article 3.19.4, it shall postpone the effective date of the denial of 
 preferential tariff treatment for a period not exceeding 90 days where the importer 
 of the good or the person who completed and signed the Certificate of Origin for 
@@ -694,8 +561,7 @@ the Party from whose territory the good was exported.
 Article 3.20 
 Advanced Rulings  
  
-1. 
-The importing Party shall provide for the issuance of written advance rulings to a 
+1.  The importing Party shall provide for the issuance of written advance rulings to a 
 person described in Article 3.20.2(a) concerning tariff classification of a good 
 under this Agreement, prior to the importation of such good into its territory. 
  
@@ -703,56 +569,43 @@ under this Agreement, prior to the importation of such good into its territory.
  
  
  
- 27
-2. 
-Each Party shall adopt or maintain procedures for the issuance of advance rulings 
+ 272.  Each Party shall adopt or maintain procedures for the issuance of advance rulings 
 that: 
  
-(a) 
-provide that an importer in its territory or an exporter or producer in the 
+(a)  provide that an importer in its territory or an exporter or producer in the 
 territory of the other Party, or their agents, may request such a ruling prior 
 to the importation in question;  
  
-(b) 
-include a detailed description of the information required to process a 
+(b)  include  a  detailed  description  of  the  information  required  to  process  a 
 request for an advance ruling; and 
  
-(c) 
-provide that the advance ruling be based on the facts and circumstances 
+(c)  provide that the advance ruling be based on the facts and circumstances 
 presented by the person requesting the ruling. 
  
-3. 
-Each Party shall provide that its customs authorities: 
+3.  Each Party shall provide that its customs authorities: 
  
-(a) 
-may request, at any time during the course of evaluating a request for an 
+(a)  may request, at any time during the course of evaluating a request for an 
 advance ruling, additional information necessary to evaluate the request; 
  
-(b) 
-shall issue the advance ruling expeditiously, and within 120 days after 
+(b)  shall issue the advance ruling expeditiously, and within 120 days after 
 obtaining all necessary information; and 
  
-(c)  
-shall provide, upon request of the person who requested the advance ruling, 
+(c)   shall provide, upon request of the person who requested the advance ruling, 
 a full explanation of the reasons for the ruling. 
  
-4. 
-Subject to Article 3.20.5, each Party shall provide that an advance ruling issued by 
+4.  Subject to Article 3.20.5, each Party shall provide that an advance ruling issued by 
 its customs authorities is effective either on the date of issuance of the ruling or on 
 such date(s) as may be specified in the advance ruling. The treatment provided by 
 the advance ruling shall be applied to importations without regard to the identity of 
 the importer, exporter or producer, provided that the facts and circumstances are 
 identical in all material respects. 
  
-5. 
-A Party may modify or revoke an advance ruling issued by its customs authorities 
+5.  A Party may modify or revoke an advance ruling issued by its customs authorities 
 upon its determination that: 
  
-(a) 
-the ruling was based on an error of fact or law; or  
+(a)  the ruling was based on an error of fact or law; or  
  
-(b) 
-if there is a change of either the law (and that such change in law is not 
+(b)  if there is a change of either the law (and that such change in law is not 
 inconsistent with this Agreement), material facts or circumstances on which 
 the advance ruling is based.  
  
@@ -760,30 +613,24 @@ The issuing Party shall notify the applicant of such modification or revocation.
 issuing Party may postpone the effective date of such modification or revocation 
 for a period of not less than 60 days if the person to whom the ruling was issued 
 has relied in good faith on that ruling. 
- 28
-SECTION D: CONSULTATIONS, MODIFICATIONS AND APPLICATION 
+ 28SECTION D: CONSULTATIONS, MODIFICATIONS AND APPLICATION 
  
  
 Article 3.21 
 Consultations, Modifications and Application 
  
-1.  
-The Parties shall consult and cooperate to ensure that this Chapter is applied in an 
+1.   The Parties shall consult and cooperate to ensure that this Chapter is applied in an 
 effective and uniform manner. 
  
-2. 
-The Parties shall consult as provided in Article 8.1 to discuss necessary 
+2.  The  Parties  shall  consult  as  provided  in  Article  8.1  to  discuss  necessary 
 amendments to this Chapter and Annex 3A, taking into account developments in 
 technology, production processes, and other related matters. 
  
-3. 
-For the purposes of this Chapter: 
+3.  For the purposes of this Chapter: 
  
-(a) 
-the basis for tariff classification is the Harmonized System; 
+(a)  the basis for tariff classification is the Harmonized System; 
  
-(b) 
-any cost and value referred to in this Chapter shall be recorded and 
+(b)  any  cost  and  value  referred  to  in  this  Chapter  shall  be  recorded  and 
 maintained in accordance with the generally accepted accounting principles 
 applicable in the territory of the Party in which the good is produced. 
  29

@@ -1,5 +1,4 @@
  
-12-1 
  
  
 CHAPTER 12 
@@ -9,26 +8,23 @@ TEMPORARY ENTRY FOR BUSINESS PERSONS
  
 Article 12.1:  Definitions 
  
- 
-For the purposes of this Chapter: 
+  For the purposes of this Chapter: 
  
 business person means: 
  
-(a) 
-a natural person who has the nationality of a Party according to 
+(a)  a natural person who has the nationality of a Party according to 
 Annex 1-A (Party-Specific Definitions); or  
  
-(b)   
-a permanent resident of a Party that, prior to the date of entry into 
+(b)    a permanent resident of a Party that, prior to the date of entry into 
 force of this Agreement, has made a notification consistent with 
-Article XXVIII(k)(ii)(2) of GATS that that Party accords 
+Article  XXVIII(k)(ii)(2)  of  GATS  that  that  Party  accords 
 substantially the same treatment to its permanent residents as it 
 does to its nationals1, 
  
-who is engaged in trade in goods, the supply of services or the conduct of 
+who  is  engaged  in  trade  in  goods,  the  supply  of  services  or  the  conduct  of 
 investment activities; 
  
-immigration formality means a visa, permit, pass or other document or 
+immigration  formality  means  a  visa,  permit,  pass  or  other  document  or 
 electronic authority granting temporary entry; 
  
 immigration measure means any measure affecting the entry and stay of foreign 
@@ -40,49 +36,41 @@ another Party who does not intend to establish permanent residence.
  
 Article 12.2:  Scope 
  
-1. 
-This Chapter shall apply to measures that affect the temporary entry of 
+1.  This Chapter shall apply to measures that affect the temporary entry of 
 business persons of a Party into the territory of another Party.  
  
-2. 
-This Chapter shall not apply to measures affecting natural persons seeking 
+2.  This Chapter shall not apply to measures affecting natural persons seeking 
 access to the employment market of another Party, nor shall it apply to measures 
 regarding citizenship, nationality, residence or employment on a permanent basis. 
  
                                             
 1  For the purposes of subparagraph (b), “nationals” has the meaning it bears in Article 
 XXVIII(k)(ii)(2) of GATS. 
- 
-12-2 
-3. 
-Nothing in this Agreement shall prevent a Party from applying measures 
+12-1  
+3.  Nothing in this Agreement shall prevent a Party from applying measures 
 to regulate the entry of natural persons of another Party into, or their temporary 
 stay in, its territory, including those measures necessary to protect the integrity of, 
-and to ensure the orderly movement of natural persons across, its borders, 
+and  to  ensure  the  orderly  movement  of  natural  persons  across,  its  borders, 
 provided that those measures are not applied in a manner as to nullify or impair 
 the benefits accruing to any Party under this Chapter.  
  
-4. 
-The sole fact that a Party requires business persons of another Party to 
+4.  The sole fact that a Party requires business persons of another Party to 
 obtain an immigration formality shall not be regarded as nullifying or impairing 
 the benefits accruing to any Party under this Chapter.  
  
  
 Article 12.3:  Application Procedures 
  
-1. 
-As expeditiously as possible after receipt of a completed application for an 
+1.  As expeditiously as possible after receipt of a completed application for an 
 immigration formality, each Party shall make a decision on the application and 
 inform the applicant of the decision including, if approved, the period of stay and 
 other conditions. 
  
-2. 
-At the request of an applicant, a Party that has received a completed 
+2.  At the request of an applicant, a Party  that has received a completed 
 application for an immigration formality shall endeavour to promptly provide 
 information concerning the status of the application. 
  
-3. 
-Each Party shall ensure that fees charged by its competent authorities for 
+3.  Each Party shall ensure that fees charged by its competent authorities for 
 the processing of an application for an immigration formality are reasonable, in 
 that they do not unduly impair or delay trade in goods or services or conduct of 
 investment activities under this Agreement. 
@@ -90,48 +78,38 @@ investment activities under this Agreement.
  
 Article 12.4:  Grant of Temporary Entry 
  
-1.  
-Each Party shall set out in Annex 12-A the commitments it makes with 
+1.   Each Party shall set out in Annex 12-A the commitments it makes with 
 regard to temporary entry of business persons, which shall specify the conditions 
 and limitations for entry and temporary stay, including length of stay, for each 
 category of business persons specified by that Party. 
  
-2. 
-A Party shall grant temporary entry or extension of temporary stay to 
+2.  A Party shall grant temporary entry or extension of temporary stay to 
 business persons of another Party to the extent provided for in those commitments 
 made pursuant to paragraph 1, provided that those business persons: 
  
-(a) 
-follow the granting Party’s prescribed application procedures for 
+(a)  follow the granting Party’s prescribed application procedures for 
 the relevant immigration formality; and 
  
-(b) 
-meet all relevant eligibility requirements for temporary entry or 
+(b)  meet all relevant eligibility requirements for temporary entry or 
 extension of temporary stay.  
  
- 
-12-3 
-3. 
-The sole fact that a Party grants temporary entry to a business person of 
-another Party pursuant to this Chapter shall not be construed to exempt that 
+12-2  
+3.  The sole fact that a Party grants temporary entry to a business person of 
+another Party pursuant  to this Chapter shall not be construed to exempt that 
 business person from meeting any applicable licensing or other requirements, 
 including any mandatory codes of conduct, to practise a profession or otherwise 
 engage in business activities. 
   
-4. 
-A Party may refuse to issue an immigration formality to a business person 
+4.  A Party may refuse to issue an immigration formality to a business person 
 of another Party if the temporary entry of that person might affect adversely: 
   
-(a) 
-the settlement of any labour dispute that is in progress at the place 
+(a)  the settlement of any labour dispute that is in progress at the place 
 or intended place of employment; or 
  
-(b) 
-the employment of any natural person who is involved in such 
+(b)  the employment of any natural person who is involved in such 
 dispute. 
  
-5.  
-When a Party refuses pursuant to paragraph 4 to issue an immigration 
+5.   When a Party refuses pursuant to paragraph 4 to issue an immigration 
 formality, it shall inform the applicant accordingly. 
  
  
@@ -139,142 +117,107 @@ Article 12.5:  Business Travel
  
 The Parties affirm their commitments to each other in the context of APEC 
 to enhance the mobility of business persons, including through exploration and 
-voluntary development of trusted traveller programmes, and their support for 
+voluntary development  of trusted traveller programmes, and their support for 
 efforts to enhance the APEC Business Travel Card programme. 
  
  
 Article 12.6:  Provision of Information 
  
-Further to Article 26.2 (Publication) and Article 26.5 (Provision of 
+Further  to  Article  26.2  (Publication)  and  Article  26.5  (Provision  of 
 Information), each Party shall: 
  
-(a) 
-promptly publish online if possible or otherwise make publicly 
+(a)  promptly publish online if possible or otherwise make publicly 
 available, information on: 
  
-(i) 
-current requirements for temporary entry under this 
+(i)  current  requirements  for  temporary  entry  under  this 
 Chapter, including explanatory material and relevant forms 
 and documents that will enable interested persons of the 
-other 
-Parties 
-to 
-become 
-acquainted 
-with 
-those 
+other  Parties  to  become  acquainted  with  those 
 requirements; and 
  
-(ii) 
-the typical timeframe within which an application for an 
+(ii)  the typical timeframe within which an application for an 
 immigration formality is processed; and 
  
-(b) 
-establish or maintain appropriate mechanisms to respond to 
+(b)  establish  or  maintain  appropriate  mechanisms  to  respond  to 
 enquiries from interested persons regarding measures relating to 
 temporary entry covered by this Chapter. 
- 
-12-4 
+12-3  
  
  
 Article 12.7:  Committee on Temporary Entry for Business Persons 
  
-1. 
-The Parties hereby establish a Committee on Temporary Entry for 
+1.  The  Parties  hereby  establish  a  Committee  on  Temporary  Entry  for 
 Business Persons (Committee), composed of government representatives of each 
 Party.  
  
-2. 
-The Committee shall meet once every three years, unless otherwise agreed 
+2.  The Committee shall meet once every three years, unless otherwise agreed 
 by the Parties, to: 
  
-(a) 
-review the implementation and operation of this Chapter; 
+(a)  review the implementation and operation of this Chapter; 
  
-(b) 
-consider opportunities for the Parties to further facilitate temporary 
+(b)  consider opportunities for the Parties to further facilitate temporary 
 entry of business persons, including through the development of 
 activities undertaken pursuant to Article 12.8 (Cooperation); and  
  
-(c) 
-consider any other matter arising under this Chapter. 
+(c)  consider any other matter arising under this Chapter. 
  
-3. 
-A Party may request discussions with one or more other Parties with a 
+3.  A Party may request discussions with one or more other Parties with a 
 view to advancing the objectives set out in paragraph 2.  Those discussions may 
-take place at a time and location agreed by the Parties involved in those 
+take  place  at  a  time  and  location  agreed  by  the  Parties  involved  in  those 
 discussions. 
  
  
 Article 12.8:  Cooperation 
  
-Recognising that the Parties can benefit from sharing their diverse 
+Recognising  that  the  Parties  can  benefit  from  sharing  their  diverse 
 experience in developing and applying procedures related to visa processing and 
-border security, the Parties shall consider undertaking mutually agreed 
+border  security,  the  Parties  shall  consider  undertaking  mutually  agreed 
 cooperation activities, subject to available resources, including by: 
  
-(a) 
-providing advice on the development and implementation of 
+(a)  providing advice on the development and implementation of 
 electronic processing systems for visas; 
  
-(b)  
-sharing experiences with regulations, and the implementation of 
+(b)   sharing experiences with regulations, and the implementation of 
 programmes and technology related to:  
  
-(i)  
-border security, including those related to the use of 
-biometric technology, advanced passenger information 
-systems, frequent passenger programmes and security in 
+(i)   border  security,  including  those  related  to  the  use  of 
+biometric  technology,  advanced  passenger  information 
+systems,  frequent  passenger programmes and security in 
 travel documents; and 
  
-(ii)  
-the expediting of certain categories of applicants in order to 
+(ii)   the expediting of certain categories of applicants in order to 
 reduce facility and workload constraints; and 
  
- 
-12-5 
-(c) 
-cooperating 
-in 
-multilateral 
-fora 
-to 
-promote 
-processing 
+12-4  
+(c)  cooperating  in  multilateral  fora  to  promote  processing 
 enhancements, such as those listed in subparagraphs (a) and (b). 
  
  
 Article 12.9:  Relation to Other Chapters 
  
-1. 
-Except for this Chapter, Chapter 1 (Initial Provisions and General 
+1.  Except  for  this  Chapter,  Chapter  1  (Initial  Provisions  and  General 
 Definitions), Chapter 27 (Administrative and Institutional Provisions), Chapter 28 
 (Dispute Settlement), Chapter 30 (Final Provisions), Article 26.2 (Publication) 
 and Article 26.5 (Provision of Information), no provision of this Agreement shall 
 impose any obligation on a Party regarding its immigration measures. 
  
-2. 
-Nothing in this Chapter shall be construed to impose obligations or 
+2.  Nothing  in  this  Chapter  shall  be  construed  to  impose  obligations  or 
 commitments with respect to other Chapters of this Agreement. 
  
  
 Article 12.10:  Dispute Settlement 
  
-1. 
-No Party shall have recourse to dispute settlement under Chapter 28 
+1.  No  Party  shall  have  recourse  to  dispute  settlement  under  Chapter  28 
 (Dispute Settlement) regarding a refusal to grant temporary entry unless: 
  
-(a) 
-the matter involves a pattern of practice; and 
+(a)  the matter involves a pattern of practice; and 
  
-(b) 
-the business persons affected have exhausted all available 
+(b)  the  business  persons  affected  have  exhausted  all  available 
 administrative remedies regarding the particular matter. 
  
-2. 
-The remedies referred to in paragraph 1(b) shall be deemed to be 
+2.  The  remedies  referred  to  in  paragraph  1(b)  shall  be  deemed  to  be 
 exhausted if a final determination in the matter has not been issued by the other 
-Party within a reasonable period of time after the date of the institution of 
+Party  within  a  reasonable  period  of  time  after  the  date  of  the  institution  of 
 proceedings for the remedy, including any proceedings for review or appeal, and 
 the failure to issue such a determination is not attributable to delays caused by the 
 business persons concerned.   
@@ -283,3 +226,4 @@ business persons concerned.
  
  
  
+12-5 

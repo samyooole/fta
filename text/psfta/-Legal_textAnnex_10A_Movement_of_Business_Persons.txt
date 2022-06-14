@@ -14,24 +14,19 @@ a Party who enter the territory of the other Party for business purposes.
 Article 2: Definitions  
  
 For the purposes of this Annex, the fol owing definitions shal  apply:  
- 
-1.  
- 
-immigration    formality    means   a    visa,    employment    pass (in  the  
+   
+1.   immigration    formality    means   a    visa,    employment    pass (in  the  
 case  of  Singapore),    working  permit  (in  the  case  of  Panama)  or    other  
 document  or  electronic authorisation  granting  a  natural  person  of  one  Party  
 the right to reside or work in the territory of the other Party;   
- 
-2.  
- 
-intra-corporate transferee means an employee of a service supplier,  
+   
+2.   intra-corporate transferee means an employee of a service supplier,  
 enterprise  of  a  Party  or  an  investor  of  a  Party  as defined  in  Chapter  9  
 (Investment),  who  has  been  so  employed  for  a  period of  not  less  than  one   
 year    immediately  preceding  the date  of  the  application for  temporary  entry,  
 and who is:   
  
-(a)  
-a  manager,  meaning  a  business person  within  an  organisation  
+(a)   a  manager,  meaning  a  business person  within  an  organisation  
 who primarily directs the organisation or a department  or sub- 
 division of the organisation, supervises and controls the work of  
 other  supervisory,  professional  or  managerial  employees,  has  
@@ -43,8 +38,7 @@ supervised are professionals, nor does this include an employee
 who primarily performs tasks necessary for the provision of the  
 service or operation of an investment;   
  
-(b)  
-an executive meaning a business person within an organisation  
+(b)   an executive meaning a business person within an organisation  
 who  primarily  directs the  management  of  the  organisation,  
 exercises wide  latitude    in  decision-making,  and  receives only  
 general  supervision  or  direction  from  higher    level  executives,   
@@ -52,30 +46,22 @@ the  board    of  directors,    or  stockholders of  the  business.    An
 executive would not directly perform tasks related to the actual  
 provision of the service or the operation of an investment; or   
  
-(c)  
-a  specialist  meaning  a  business  person  within  an  organisation  
+(c)   a  specialist  meaning  a  business  person  within  an  organisation  
 who  possesses  knowledge  at  an  advanced    level  of  expertise  
 and who possesses proprietary knowledge of the organisation’s  
 service,  research  equipment,  techniques,  or  management  (a  
  
  
  
-10A - 1 
- 
- 
- 
- 
- 
- 
- 
-3.  
- 
- 
+10A - 1    
+   
+   
  
 specialist  may    include,  but  is not  limited  to,  members of  a  
-licensed profession);   
  
-temporary entry means entry by an intra-corporate  transferee, as the  
+  licensed profession);   
+   
+3.   temporary entry means entry by an intra-corporate  transferee, as the  
 case  may  be, without the intent to establish permanent residence and for the  
 purpose of engaging  in activities which are clearly related to their respective  
 business purposes.    
@@ -90,13 +76,11 @@ temporary entry, or an application for an extension of an immigration formality
 has been refused on such grounds of national security or public order by the  
 granting Party as it deems fit:   
  
-(a)  
-in the case of Singapore, for an initial period of up to two years 
+(a)   in the case of Singapore, for an initial period of up to two years 
 which may be extended for periods of up to three years at a time  
 for a total term not exceeding 8 years; and   
  
-(b)  
-in  the  case  of  Panama,  for  an  initial  period  of  up  to  two  years 
+(b)   in  the  case  of  Panama,  for  an  initial  period  of  up  to  two  years 
 which may be extended for periods of up to three years at a time  
 for a total term not exceeding 8 years.   
  
@@ -105,13 +89,11 @@ Article 4: Provision of Information
  
 A Party shal :   
  
-(a)  
-publish  or  otherwise  make  available  to  the  other  Party  such  
+(a)   publish  or  otherwise  make  available  to  the  other  Party  such  
 information as wil  enable the other Party to become acquainted  
 with its measures relating to this Annex; and     
  
-(b)  
-no  later  than  six  months  after  the  date  of  entry  into  force   
+(b)   no  later  than  six  months  after  the  date  of  entry  into  force   
 of  this Agreement, prepare, publish or otherwise make available   
 in    its own  territory,  and    in  the  territory  of  the  other    Party,   
 explanatory  material  regarding  the requirements for temporary  
@@ -120,39 +102,27 @@ persons of the other Party to become acquainted with them.
  
  
 Article 5: Dispute Settlement  
- 
-1.  
- 
-A  Party  may  not  initiate  proceedings under  Chapter  15  (Dispute  
+   
+1.   A  Party  may  not  initiate  proceedings under  Chapter  15  (Dispute  
 Settlement)  regarding  a  refusal  to  grant  temporary  entry  under  this Annex  
 unless:   
  
-(a)  
-the matter involves a pattern of practice; and   
+(a)   the matter involves a pattern of practice; and   
  
  
-10A - 2 
+10A - 2    
+   
+   
+   
  
+  (b)   its natural  persons  affected  have  exhausted  the  available  
  
- 
- 
- 
- 
- 
- 
- 
- 
-2.  
- 
- 
- 
- 
-(b)  
-its natural  persons  affected  have  exhausted  the  available  
 domestic administrative  remedies regarding  the  particular  
+ 
 matter.   
  
-The  remedies referred  to  in  paragraph  1(b)  shal   be  deemed  to  be  
+   
+2.   The  remedies referred  to  in  paragraph  1(b)  shal   be  deemed  to  be  
 exhausted  if  a  final  determination  in  the  matter  has not  been  issued  by  the  
 competent  authority  within  one  year  of  the  institution  of  proceedings for  
 domestic administrative  remedies,  including  proceedings by  way  of  review,  
@@ -181,12 +151,10 @@ Article 8: Online Lodgement and Processing
 Where  possible,  after  the  date  of  entry  into  force  of  this Agreement,  the  
 Parties shal  provide facilities for online lodgement and processing:    
  
-(a)  
-in the case of Singapore, of employment passes which shal  be  
+(a)   in the case of Singapore, of employment passes which shal  be  
 applied for by the prospective employers; and   
  
-(b)  
-in  the  case  of  Panama,  of  working  permits which  shal   be  
+(b)   in  the  case  of  Panama,  of  working  permits which  shal   be  
 applied for by the prospective employers.    
  
  
@@ -202,8 +170,7 @@ of this Annex.
  
  
  
-10A - 3 
- 
+10A - 3  
  
  
 Article 10: Labour Market Testing    

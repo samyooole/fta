@@ -1,5 +1,3 @@
-EUSFTA Annex 14-A - 1 
- 
 ANNEX 14-A 
  
  
@@ -7,108 +5,84 @@ RULES OF PROCEDURE FOR ARBITRATION
  
 General provisions 
  
-1. 
-In Chapter Fourteen (Dispute Settlement) and under this Annex: 
+1.  In Chapter Fourteen (Dispute Settlement) and under this Annex: 
  
-– 
-"adviser" means a person retained by a Party to advise or assist that Party in 
+–  "adviser" means a person retained by a Party to advise or assist that Party in 
 connection with the arbitration panel proceeding; 
  
-– 
-"arbitrator" means a member of an arbitration panel established under 
+–  "arbitrator" means a member of an arbitration panel established under 
 Article 14.5 (Establishment of the Arbitration Panel); 
  
-– 
-"assistant" means a person who, under the terms of appointment of an 
+–  "assistant" means a person who, under the terms of appointment of an 
 arbitrator, conducts research or provides assistance to the arbitrator; 
  
-– 
-"complaining Party" means any Party that requests the establishment of an 
+–  "complaining Party" means any Party that requests the establishment of an 
 arbitration panel under Article 14.4 (Initiation of Arbitration Procedure); 
  
-– 
-"Party complained against" means the Party that is alleged to be in violation of 
+–  "Party complained against" means the Party that is alleged to be in violation of 
 the provisions referred to in Article 14.2 (Scope); 
  
-EUSFTA Annex 14-A - 2 
- 
-– 
-"arbitration panel" means a panel established under Article 14.5 (Establishment 
+EUSFTA Annex 14-A - 1 
+ –  "arbitration panel" means a panel established under Article 14.5 (Establishment 
 of the Arbitration Panel); 
  
-– 
-"representative of a Party" means an employee or any person who has been 
+–  "representative of a Party" means an employee or any person who has been 
 appointed by a government department, government agency, or any other 
 public entity of a Party to represent that Party for the purposes of a dispute 
 under this Agreement. 
  
-2. 
-This Annex applies to dispute settlement proceedings under Chapter Fourteen 
+2.  This Annex applies to dispute settlement proceedings under Chapter Fourteen 
 (Dispute Settlement) unless the Parties agree otherwise. 
  
-3. 
-The Party complained against shall be in charge of the logistical administration of 
+3.  The Party complained against shall be in charge of the logistical administration of 
 dispute settlement proceedings, in particular the organisation of hearings, unless 
 otherwise agreed. The Parties shall share equally the expenses resulting from 
 organisational matters, including the expenses of the arbitrators. 
  
 Notifications 
  
-4. 
-The Parties and the arbitration panel shall transmit any request, notice, written 
+4.  The Parties and the arbitration panel shall transmit any request, notice, written 
 submission or other document by e-mail, with a copy submitted on the same day by 
 facsimile transmission, registered post, courier, delivery against receipt or any other 
 means of telecommunication that provides a record of the sending thereof. Unless 
 proven otherwise, an e-mail message shall be deemed to be received on the date of 
 its sending. 
  
-EUSFTA Annex 14-A - 3 
- 
-5. 
-A Party shall provide an electronic copy of each of its written submissions and 
+EUSFTA Annex 14-A - 2 
+ 5.  A Party shall provide an electronic copy of each of its written submissions and 
 rebuttals to each of the arbitrators and to the other Party simultaneously. A paper 
 copy of the document shall also be provided. 
  
-6. 
-All notifications shall be addressed to the Director-General, Directorate-General for 
+6.  All notifications shall be addressed to the Director-General, Directorate-General for 
 Trade of the European Commission and to the Director, North America and Europe 
 Division, Singapore Ministry of Trade and Industry, respectively. 
  
-7. 
-Minor errors of a clerical nature in any request, notice, written submission or other 
+7.  Minor errors of a clerical nature in any request, notice, written submission or other 
 document related to the arbitration panel proceeding may be corrected by delivery of 
 a new document clearly indicating the changes, unless the other Party objects. 
  
-8. 
-If the last day for delivery of a document falls on an official legal holiday of Singapore 
+8.  If the last day for delivery of a document falls on an official legal holiday of Singapore 
 or of the Union, the document shall be delivered on the next business day. 
  
-9. 
-Depending on the object of the provisions under dispute, all requests and notifications 
+9.  Depending on the object of the provisions under dispute, all requests and notifications 
 addressed to the Trade Committee in accordance with Chapter Fourteen (Dispute 
 Settlement) shall also be copied to the other relevant specialised committees 
 established under the Agreement. 
  
 Commencing the arbitration 
  
-10. 
-(a) 
-If pursuant to Article 14.5 (Establishment of the Arbitration Panel) or to Rules 22, 
+10.  (a)  If pursuant to Article 14.5 (Establishment of the Arbitration Panel) or to Rules 22, 
 24 or 51 of this Annex, arbitrators are selected by lot, representatives of both 
 Parties are entitled to be present when the lots are drawn. 
  
-EUSFTA Annex 14-A - 4 
- 
-(b) 
-Unless the Parties agree otherwise, they shall meet with the arbitration panel 
+EUSFTA Annex 14-A - 3 
+ (b)  Unless the Parties agree otherwise, they shall meet with the arbitration panel 
 within seven days of its establishment in order to determine such matters as the 
 Parties or the arbitration panel deems appropriate, including the remuneration 
 and expenses to be paid to the arbitrators. Arbitrators and representatives of 
 the Parties may take part in such meetings via telephone or video conference. 
  
-11. 
-(a) 
-Unless the Parties agree otherwise within seven days from the date of 
+11.  (a)  Unless the Parties agree otherwise within seven days from the date of 
 establishment of the arbitration panel, the terms of reference of the arbitration 
 panel shall be: 
  
@@ -119,84 +93,69 @@ with the provisions referred to in Article 14.2 by making findings of law and/or
 fact, together with the reasons thereof; and to issue a ruling in accordance with 
 Articles 14.7 and 14.8." 
  
-(b) 
-Where the Parties have agreed on the terms of reference of the arbitration 
+(b)  Where the Parties have agreed on the terms of reference of the arbitration 
 panel, they shall notify such agreement to the arbitration panel forthwith. 
  
 Initial submissions 
  
-12. 
-The complaining Party shall deliver its initial written submission no later than 20 days 
+12.  The complaining Party shall deliver its initial written submission no later than 20 days 
 after the date of the establishment of the arbitration panel. The Party complained 
 against shall deliver its written counter-submission no later than 20 days after the 
 date of the delivery of the initial written submission. 
  
-EUSFTA Annex 14-A - 5 
+EUSFTA Annex 14-A - 4 
+ Working of arbitration panels 
  
-Working of arbitration panels 
- 
-13. 
-The chairperson of the arbitration panel shall preside at all its meetings. An arbitration 
+13.  The chairperson of the arbitration panel shall preside at all its meetings. An arbitration 
 panel may delegate authority to the chairperson to make administrative and 
 procedural decisions. 
  
-14. 
-Unless otherwise provided in Chapter Fourteen (Dispute Settlement), the arbitration 
+14.  Unless otherwise provided in Chapter Fourteen (Dispute Settlement), the arbitration 
 panel may conduct its activities by any means of communication, including by 
 telephone, facsimile transmissions or computer links. 
  
-15. 
-Only arbitrators may take part in the deliberations of the arbitration panel, but the 
+15.  Only arbitrators may take part in the deliberations of the arbitration panel, but the 
 arbitration panel may permit assistants to be present at its deliberations. 
  
-16. 
-The drafting of any ruling shall remain the exclusive responsibility of the arbitration 
+16.  The drafting of any ruling shall remain the exclusive responsibility of the arbitration 
 panel, and shall not be delegated. 
  
-17. 
-Where a procedural question arises that is not covered by Chapter Fourteen (Dispute 
+17.  Where a procedural question arises that is not covered by Chapter Fourteen (Dispute 
 Settlement) and its Annexes, the arbitration panel, after consulting the Parties, may 
 adopt an appropriate procedure that is compatible with those provisions. 
  
-18. 
-When the arbitration panel considers that there is a need to modify any time limit 
+18.  When the arbitration panel considers that there is a need to modify any time limit 
 applicable to the proceedings or to make any other procedural or administrative 
 adjustment, it shall inform the Parties in writing of the reasons for the change or 
 adjustment and of the period or adjustment needed. 
  
-EUSFTA Annex 14-A - 6 
+EUSFTA Annex 14-A - 5 
+ Replacement 
  
-Replacement 
- 
-19. 
-If an arbitrator is unable to participate in the proceeding, withdraws, or must be 
+19.  If an arbitrator is unable to participate in the proceeding, withdraws, or must be 
 replaced, a replacement shall be selected in accordance with Article 14.5 
 (Establishment of the Arbitration Panel). 
  
-20. 
-Where a Party considers that an arbitrator should be replaced because he or she does 
+20.  Where a Party considers that an arbitrator should be replaced because he or she does 
 not comply with the requirements of the Code of Conduct under Annex 14-B 
 (hereinafter referred to as "Code of Conduct"), that Party should notify the other Party 
 within 15 days from the time at which it came to know of the circumstances 
 underlying the arbitrator’s non-compliance with the Code of Conduct. 
  
-21. 
-Where a Party considers that an arbitrator other than the chairperson does not 
+21.  Where a Party considers that an arbitrator other than the chairperson does not 
 comply with the requirements of the Code of Conduct, the Parties shall consult and, if 
 they so agree, replace the arbitrator and select a replacement following the procedure 
 set out in Article 14.5 (Establishment of the Arbitration Panel). 
  
-22. 
-If the Parties fail to agree on the need to replace an arbitrator, any Party may request 
+22.  If the Parties fail to agree on the need to replace an arbitrator, any Party may request 
 that such matter be referred to the chairperson of the arbitration panel, whose 
 decision shall be final. 
  
 If, pursuant to such a request, the chairperson finds that an arbitrator did not comply 
 with the requirements of the Code of Conduct, a new arbitrator shall be selected. 
  
-EUSFTA Annex 14-A - 7 
- 
-The Party which had selected the arbitrator who needs to be replaced shall select one 
+EUSFTA Annex 14-A - 6 
+ The Party which had selected the arbitrator who needs to be replaced shall select one 
 arbitrator from among the remaining relevant individuals on the list established under 
 paragraph 2 of Article 14.20 (Lists of Arbitrators). If the Party fails to select an 
 arbitrator within five days of the finding of the chairperson of the arbitration panel, 
@@ -212,26 +171,21 @@ who needs to be replaced or, if that Party fails, the chairperson of the Trade
 Committee or the chairperson's delegate, shall select an arbitrator within five days of 
 the finding of the chairperson of the arbitration panel where: 
  
-(a) 
-the Party had failed to propose individuals, from among the remaining 
+(a)  the Party had failed to propose individuals, from among the remaining 
 individuals proposed by the other Party pursuant to paragraph 2 of Article 14.20 
 (Lists of Arbitrators); or 
  
-(b) 
-the Parties had failed to agree on a list of names pursuant to Article paragraph 2 
+(b)  the Parties had failed to agree on a list of names pursuant to Article paragraph 2 
 of Article 14.20 (Lists of Arbitrators), from among the individuals the Party had 
 proposed pursuant to paragraph 2 of Article 14.20 (Lists of Arbitrators). 
  
-EUSFTA Annex 14-A - 8 
- 
-23. 
-Where a Party considers that the chairperson of the arbitration panel does not 
+EUSFTA Annex 14-A - 7 
+ 23.  Where a Party considers that the chairperson of the arbitration panel does not 
 comply with the requirements of the Code of Conduct, the Parties shall consult and, 
 if they so agree, replace the chairperson and select a replacement following the 
 procedure set out in Article 14.5 (Establishment of the Arbitration Panel). 
  
-24. 
-If the Parties fail to agree on the need to replace the chairperson of the arbitration 
+24.  If the Parties fail to agree on the need to replace the chairperson of the arbitration 
 panel, any Party may request that such matter be referred to a neutral third party. If 
 the Parties are unable to agree on a neutral third party, such matter shall be referred 
 to one of the remaining members on the list referred to under paragraph 1 of 
@@ -251,74 +205,56 @@ chairperson did not comply with the requirements of the Code of Conduct. The
 selection of the new chairperson shall be done within five days of the finding of the 
 need to replace the chairperson. 
  
-25. 
-The arbitration panel proceedings shall be suspended for the period during which the 
+25.  The arbitration panel proceedings shall be suspended for the period during which the 
 procedures provided for in Rules 19, 20, 21, 22, 23 and 24 of this Annex are carried 
 out. 
  
-EUSFTA Annex 14-A - 9 
+EUSFTA Annex 14-A - 8 
+ Hearings 
  
-Hearings 
- 
-26. 
-The chairperson shall fix the date and time of the hearing in consultation with the 
+26.  The chairperson shall fix the date and time of the hearing in consultation with the 
 Parties and the other arbitrators, and shall confirm this in writing to the Parties. This 
 information shall also be made publicly available by the Party in charge of the logistical 
 administration of the proceedings, unless the hearing is closed to the public. Unless a 
 Party disagrees, the arbitration panel may decide not to convene a hearing. 
  
-27. 
-Unless the Parties agree otherwise, the hearing shall be held in Brussels if the 
+27.  Unless the Parties agree otherwise, the hearing shall be held in Brussels if the 
 complaining Party is Singapore and in Singapore if the complaining Party is the Union. 
  
-28. 
-The arbitration panel may convene additional hearings if the Parties so agree. 
+28.  The arbitration panel may convene additional hearings if the Parties so agree. 
  
-29. 
-All arbitrators shall be present during the entirety of any hearings. 
+29.  All arbitrators shall be present during the entirety of any hearings. 
  
-30. 
-The following persons may attend the hearing, irrespective of whether the 
+30.  The following persons may attend the hearing, irrespective of whether the 
 proceedings are open to the public or not: 
  
-(a) 
-representatives of the Parties; 
-(b) 
-advisers to the Parties; 
-(c) 
-administrative staff, interpreters, translators and court reporters; and 
-(d) 
-arbitrators' assistants. 
+(a)  representatives of the Parties; 
+(b)  advisers to the Parties; 
+(c)  administrative staff, interpreters, translators and court reporters; and 
+(d)  arbitrators' assistants. 
  
 Only the representatives and advisers of the Parties may address the arbitration panel. 
  
-EUSFTA Annex 14-A - 10 
- 
-31. 
-No later than five days before the date of a hearing, each Party shall simultaneously 
+EUSFTA Annex 14-A - 9 
+ 31.  No later than five days before the date of a hearing, each Party shall simultaneously 
 deliver to the arbitration panel and to the other Party a list of the names of persons 
 who will make oral arguments or presentations at the hearing on behalf of that Party 
 and of other representatives or advisers who are to attend the hearing. 
  
-32. 
-The hearings of the arbitration panels shall be open to the public, unless the Parties 
+32.  The hearings of the arbitration panels shall be open to the public, unless the Parties 
 decide that the hearings shall be partially or completely closed to the public. Where 
 the hearings are open to the public, unless the Parties agree otherwise, the following 
 shall apply: 
  
-(a) 
-public viewing shall take place via simultaneous closed circuit television 
+(a)  public viewing shall take place via simultaneous closed circuit television 
 broadcast to a separate viewing room at the venue of the arbitration; 
  
-(b) 
-registration for public viewing of the hearings shall be required; 
+(b)  registration for public viewing of the hearings shall be required; 
  
-(c) 
-no audio or video recording or photography shall be permitted in the viewing 
+(c)  no audio or video recording or photography shall be permitted in the viewing 
 room; 
  
-(d) 
-the panel shall have the right to call for a closed session of any of the hearings in 
+(d)  the panel shall have the right to call for a closed session of any of the hearings in 
 order to address issues related to any confidential information. 
  
 The arbitration panel shall meet in closed session when the submission and arguments 
@@ -326,57 +262,44 @@ of a Party contains confidential information. Exceptionally, the panel shall hav
 right to conduct the hearing in a closed session at any time on its own initiative or at 
 the request of either Party. 
  
-33. 
-The arbitration panel shall conduct the hearing in the following manner, ensuring that 
+33.  The arbitration panel shall conduct the hearing in the following manner, ensuring that 
 the complaining Party and the Party complained against are afforded equal time: 
  
-EUSFTA Annex 14-A - 11 
+EUSFTA Annex 14-A - 10 
+ Submissions 
  
-Submissions 
- 
-(a) 
-submission of the complaining Party; 
-(b) 
-counter-submission of the Party complained against; 
+(a)  submission of the complaining Party; 
+(b)  counter-submission of the Party complained against; 
  
 Rebuttals 
  
-(a) 
-rebuttal of the complaining Party; 
-(b) 
-counter-rebuttal of the Party complained against. 
+(a)  rebuttal of the complaining Party; 
+(b)  counter-rebuttal of the Party complained against. 
  
-34. 
-The arbitration panel may put questions to either Party at any time during the hearing. 
+34.  The arbitration panel may put questions to either Party at any time during the hearing. 
  
-35. 
-The arbitration panel shall arrange for a transcript of each hearing to be prepared and 
+35.  The arbitration panel shall arrange for a transcript of each hearing to be prepared and 
 delivered to the Parties as soon as possible. 
  
-36. 
-Each Party may submit to the arbitration panel and simultaneously to the other Party 
+36.  Each Party may submit to the arbitration panel and simultaneously to the other Party 
 a supplementary written submission concerning any matter that arose during the 
 hearing within ten days of the date of the hearing. 
  
 Questions in writing 
  
-37. 
-The arbitration panel may address written questions at any time during the 
+37.  The arbitration panel may address written questions at any time during the 
 proceedings to one or both Parties. Each of the Parties shall receive a copy of any 
 written questions put by the arbitration panel. 
  
-EUSFTA Annex 14-A - 12 
- 
-38. 
-Each Party shall provide a copy of its written response to the arbitration panel's 
+EUSFTA Annex 14-A - 11 
+ 38.  Each Party shall provide a copy of its written response to the arbitration panel's 
 questions simultaneously to the arbitration panel and to the other Party. Each Party 
 shall be given the opportunity to provide written comments on the other Party's 
 response within five days of the date of receipt. 
  
 Confidentiality 
  
-39. 
-Where arbitration panel hearings are held in closed session, in accordance with 
+39.  Where arbitration panel hearings are held in closed session, in accordance with 
 Rule 32 of this Annex, the Parties and their advisers shall maintain the confidentiality 
 of the hearings, the deliberations, the interim panel report, all written submissions to 
 the panel, and all communications with the panel. Each Party and its advisers shall 
@@ -390,22 +313,18 @@ public, to the extent that, when making reference to information submitted by th
 other Party, to the extent that it does not disclose any information designated by the 
 other Party as confidential. 
  
-EUSFTA Annex 14-A - 13 
+EUSFTA Annex 14-A - 12 
+ Ex parte contacts 
  
-Ex parte contacts 
- 
-40. 
-The arbitration panel shall not meet, hear or otherwise contact a Party in the absence 
+40.  The arbitration panel shall not meet, hear or otherwise contact a Party in the absence 
 of the other Party. 
  
-41. 
-No arbitrators may discuss any aspect of the subject matter of the proceedings with a 
+41.  No arbitrators may discuss any aspect of the subject matter of the proceedings with a 
 Party or with the Parties in the absence of the other arbitrators. 
  
 Amicus curiae submissions 
  
-42. 
-Unless the Parties agree otherwise within three days of the date of the establishment 
+42.  Unless the Parties agree otherwise within three days of the date of the establishment 
 of the arbitration panel, the arbitration panel may consider unsolicited written 
 submissions from interested natural or legal persons of the Parties, provided that 
 those submissions are made within ten days of the date of the establishment of the 
@@ -413,18 +332,15 @@ arbitration panel, that they are concise and in no case are longer than 15 typed
 including any annexes, and that they are directly relevant to the factual issue under 
 consideration by the arbitration panel. 
  
-43. 
-The submission shall contain a description of the person making the submission, 
+43.  The submission shall contain a description of the person making the submission, 
 whether natural or legal, including the person's nationality or place of establishment, 
 the nature of the person's activities and the source of the person's financing, and shall 
 specify the nature of the interest that the person has in the arbitration proceeding. It 
 shall be submitted in the languages chosen by the Parties in accordance with Rule 46 
 of this Annex. 
  
-EUSFTA Annex 14-A - 14 
- 
-44. 
-The arbitration panel shall list in its ruling all the submissions it has received that 
+EUSFTA Annex 14-A - 13 
+ 44.  The arbitration panel shall list in its ruling all the submissions it has received that 
 conform to Rules 42 and 43 of this Annex. The arbitration panel shall not be obliged to 
 address in its ruling the arguments made in such submissions. Any submission 
 obtained by the arbitration panel under this Annex shall be submitted to the Parties 
@@ -432,43 +348,36 @@ for their comments.
  
 Urgent cases 
  
-45. 
-In cases of urgency referred to in Chapter Fourteen (Dispute Settlement), the 
+45.  In cases of urgency referred to in Chapter Fourteen (Dispute Settlement), the 
 arbitration panel, after consulting the Parties, shall adjust the time limits referred to in 
 this Annex as appropriate and shall notify the Parties of such adjustments. 
  
  
 Translation and interpretation 
  
-46. 
-During the consultations referred to in Article 14.3 (Consultations), and no later than 
+46.  During the consultations referred to in Article 14.3 (Consultations), and no later than 
 the meeting referred to in Rule 10(b) of this Annex, the Parties shall endeavour to 
 agree on a common working language for the proceedings before the arbitration 
 panel. 
  
-47. 
-Any Party may provide comments on any translated version of a document drawn up 
+47.  Any Party may provide comments on any translated version of a document drawn up 
 in accordance with this Annex. 
  
-48. 
-In the event of any divergence over the interpretation of this Agreement, the 
+48.  In the event of any divergence over the interpretation of this Agreement, the 
 arbitration panel shall take account of the fact that this Agreement was negotiated in 
 English. 
  
-EUSFTA Annex 14-A - 15 
+EUSFTA Annex 14-A - 14 
+ Calculation of time-limits 
  
-Calculation of time-limits 
- 
-49. 
-Where, by reason of the application of Rule 8 of this Annex, a Party receives a 
+49.  Where, by reason of the application of Rule 8 of this Annex, a Party receives a 
 document on a date other than the date on which this document is received by the 
 other Party, any period of time that is calculated on the basis of the date of receipt of 
 that document shall be calculated from the last date of receipt of that document. 
  
 Other procedures 
  
-50. 
-This Annex also applies to procedures under paragraph 2 of Article 14.10 (Reasonable 
+50.  This Annex also applies to procedures under paragraph 2 of Article 14.10 (Reasonable 
 Period of Time for Compliance), paragraph 2 of Article 14.11 (Review of Any Measure 
 Taken to Comply with the Arbitration Panel Ruling), paragraph 3 of Article 14.12 
 (Temporary Remedies in Case of Non-compliance), paragraph 2 of Article 14.13 
@@ -477,8 +386,7 @@ time limits laid down in this Annex shall be adjusted in line with the special t
 provided for the adoption of rulings by the arbitration panel in those other 
 procedures. 
  
-51. 
-In the event that the original panel, or some of its members, are unable to reconvene 
+51.  In the event that the original panel, or some of its members, are unable to reconvene 
 for the procedures under paragraph 2 of Article 14.10 (Reasonable Period of Time for 
 Compliance), paragraph 2 of Article 14.11 (Review of Any Measure Taken to Comply 
 with the Arbitration Panel Ruling), paragraph 3 of Article 14.12 (Temporary Remedies 
@@ -489,4 +397,6 @@ notification of the ruling shall be extended by 15 days.
  
  
 ________________ 
+ 
+EUSFTA Annex 14-A - 15 
  

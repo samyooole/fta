@@ -1,0 +1,488 @@
+ANNEX 8B: SECTORAL ANNEX ON ELECTRICAL AND ELECTRONIC
+EQUIPMENT
+Pursuant to Chapter 8 (Technical Barriers to Trade and Mutual Recognition), the
+Parties agree to this Sectoral Annex for Electrical and Electronic Equipment.
+Section 1 Scope
+1 . This Sectoral Annex applies to newt) electrical and electronic equipment that are
+intended to be either directly connected or plugged-in to the low voltage supply on
+which either Party has prescribed mandatory requirements applicable to imports as set
+out in the applicable laws, regulations and administrative provisions listed in Table I,
+and which are:
+a. not telecommunications equipment; and
+b. not medical equipment.
+2. This Sectoral Annex applies to mandatory requirements on third party conformity
+assessment processes or requirements for product certification for the equipment
+referred to in paragraph 1 of Section 1 of this Sectoral Annex . The applicable laws,
+regulations and administrative provisions are set out in Table II .
+3. This Sectoral Annex does not require mutual acceptance of the mandatory
+requirements of each Party, or mutual recognition of the equivalence of such
+mandatory requirements. The Parties shall, however, give consideration to increasing
+the degree of harmonisation or equivalence of their respective mandatory requirements,
+where appropriate and where consistent with good regulatory practice. Where both
+Parties agree that the standards or technical regulations are harmonised or established
+i) "New" excludes used and second-hand equipment regardless of whether they have been
+refurbished or reconditioned.
+- 1 -as equivalent, a Party shall be able to assess compliance with its own mandatory
+requirements and this shall be deemed acceptable by the other Party .
+4. The following CABs located within each Party's own territories may be
+designated under this Sectoral Annex:
+a. test facilities; and/or
+b. certification bodies.
+5. The conformity assessment procedures which CABs may be designated to conduct
+under this Sectoral Annex are :
+a. testing by designated test facilities;
+b. factory/product surveillance procedures undertaken in accordance with the
+relevant mandatory requirements by designated certification bodies, the results
+of which are supplemented by test results from designated test facilities ; and
+c. certification by designated certification bodies.
+6. For the purpose of this Sectoral Annex "low voltage" has the same meaning as
+that defined in Band II of International Electrotechnical Commission Standards
+60449:1979 - Voltage bands for electrical installations in building (IEC 60449 :1979),
+and/or a voltage rating of between 50 and 1000V for alternating current, and between
+75 and 1500V for direct current.
+Section 2 Obligations
+1 . Korea shall accept certification of the results of conformity assessment procedures
+(including results of factory/product surveillance activities and test results) to
+demonstrate conformity of products with its mandatory requirements when the
+conformity assessment procedures are undertaken by CABs designated by Singapore's
+Designating Authority and registered by Korea's Designating Authority in accordance
+with Section 5 of this Sectoral Annex. Such certification shall be supplemented by
+test results from test facilities designated by Singapore and registered by Korea. Upon
+- 2 -receipt of such assessments, Korea shall complete the relevant certification registration
+processes within four (4) calendar days or two (2) working days, whichever is the
+longer.
+2. Singapore shall accept certification of the results of conformity assessment
+procedures (including results of factory/product surveillance activities and test results)
+to demonstrate conformity of products with its mandatory requirements when the
+conformity assessment procedures are undertaken by CABs designated by Korea's
+Designating Authority and registered by Singapore's Designating Authority in
+accordance with Section 5 of this Sectoral Annex. Such certification shall be
+supplemented by test results from test facilities designated by Korea and registered by
+Singapore. Upon receipt of such assessments, Singapore shall complete the relevant
+product registration processes within four (4) calendar days or two (2) working days,
+whichever is the longer.
+3. Each Party shall, in accordance with Article 2 .4 of the TBT Agreement, use
+international standards, or the relevant parts of international standards, as the basis for
+its mandatory requirements where applicable international standards exist or when their
+completion is imminent, except when such international standards or their relevant
+parts are ineffective or inappropriate.
+Section 3 Exchange of information
+1. The Parties shall exchange information concerning their mandatory requirements,
+conformity assessment procedures and regimes.
+2. Each Party shall inform the other Party and the TBT Joint Committee (hereinafter
+referred to as "Joint Committee") of any proposed changes to its mandatory
+requirements. Each Party shall notify the other Party and the Joint Committee of the
+changes at least sixty (60) calendar days before the changes enter into force, exceptwhere considerations of health, safety and environmental protection warrant more
+urgent action.
+3. The Parties' relevant Regulatory Authorities or responsible agencies shall notify
+each other, the Joint Committee and the relevant Designating Authorities as
+appropriate of any amendment referred to in Tables I-IV of this Sectoral Annex . For
+this purpose, `amendment" shall include the following cases where :
+a. a Party entirely or partially changes its applicable laws, regulations and/or
+administrative provisions whether or not those names are changed ;
+b. a Party repeals its applicable laws, regulations and/or administrative provisions
+and adopts new laws, regulations and/or administrative provisions substituting
+for the previous laws, regulations and/or administrative provisions, whether or
+not the previous names are changed ; and
+c. a Party incorporates the whole or a relevant part of its applicable laws,
+regulations and/or administrative provisions into other laws, regulations and/or
+administrative provisions.
+4. When requested, the Parties will make every endeavour to make copies of their
+mandatory requirements, and intended changes thereto, available in English in a timely
+manner.
+Section 4 Designating Authorities
+1. For the purpose of this Sectoral Annex, Designating Authorities shall be :
+a. KATS (Korean Agency for Technology and Standards); and
+b. SPRING (Standards Productivity and Innovation Board) Singapore .
+2. Designating Authorities shall:
+a. specify the scope of the conformity assessment procedures which a CAB has
+been designated to conduct. When a CAB is designated to undertake
+conformity assessment procedures with regard to particular mandatory
+-4-requirements, the relevant obligations of acceptance shall be limited to the
+results of assessments in relation to those particular mandatory requirements ;
+b. only designate CABs where the CAB, or the organisation of which the CAB
+is a part, is a legal person in the relevant jurisdiction ;
+c. only designate CABs that are able to demonstrate that they understand, have
+experience relevant to and are technically competent to undertake the
+conformity assessment procedures for which they are designated to conduct;
+d. give the other Party advance notice of at least seven (7) calendar days, of
+any changes, including suspensions, to their list of designated CABs;
+e. inform the other Party, in an expeditious manner, of any changes that affect
+a designated CAB's technical competence or compliance with the relevant
+stipulated requirements; and
+f. ensure that their designated CABs participate in appropriate proficiency testing
+programs and other comparative reviews, so that confidence in their technical
+competence to undertake the required conformity assessment procedures is
+maintained.
+Section 5 Designation and Registration of CABs
+1 . The designation and registration of CABs shall be in accordance with applicable
+laws, regulations and administrative provisions and meet with the stipulated criteria for
+designation as set out in Table IV.
+2. Designated CABs shall not be adversely influenced by a body that manufactures
+or trades in electrical and electronic equipment . Furthermore, designated CABs shall
+be impartial. Any other services offered by the CABs shall be provided in a manner
+that does not compromise the objectivity of their conformity assessment procedures
+and decisions.
+3. Demonstration of technical competence shall be based on:
+a. technological knowledge of the relevant products, processes or services ;
+-5-b. understanding of the technical standards and the general risk protection
+requirements for which designation is sought;
+c. the experience relevant to the applicable mandatory requirements ;
+d. the physical capability to perform the relevant conformity assessment
+procedures;
+e. an adequate management of the conformity assessment procedures concerned ;
+and
+f. any other circumstance necessary to give assurance that the conformity
+assessment procedures shall be adequately performed on a consistent basis .
+4. Pursuant to paragraph 4a of Section 1 of this Sectoral Annex, the basis for
+designating test facilities shall be:
+a. accreditation to ISO/IEC 17025:2005, which shall constitute sufficient proof of
+technical competence to undertake conformity assessment procedures that
+demonstrate conformity with the mandatory requirements for which they are
+to be designated provided that:
+i. the accreditation process is conducted in compliance with ISO/IEC
+17011 :2004; and
+ii. the accreditation body participates in mutual recognition arrangements,
+such as the Asia Pacific Laboratory Accreditation Cooperation (APLAC)
+Mutual Recognition Arrangement, where they are subject to peer
+evaluation of the competence of accreditation bodies and the test facilities
+accredited by them; or
+b. membership in the IECEE CB Scheme .
+5. Pursuant to paragraph 4b of Section 1 of this Sectoral Annex, the basis for
+designating certification bodies shall be:
+a. accreditation to ISO/IEC Guide 65 :1996, which shall constitute sufficient
+proof of technical competence to undertake conformity assessment procedures
+that demonstrate conformity with the mandatory requirements for which they
+are to be designated provided that:i) the accreditation process is conducted in compliance with ISO/IEC
+17011 :2004; and
+ii) the accreditation body is recognised by the Designating Authority; or
+b. membership in the IECEE CB-FC Scheme.
+6. When designating a CAB, the Designating Authority shall provide to the other
+Party the following details in respect of each CAB it designates :
+a. the name;
+b. the postal address;
+c. the facsimile (fax) number;
+d. email address (if available);
+e. name and telephone number of the contact person;
+f. scope of designation detailing range of products, reference standards, methods
+of certification, capability and other relevant details ;
+g. designating procedure used; and
+h. date of effect of designation.
+Section 6 Verification, Suspension and Withdrawal of CABs
+For the purpose of this Sectoral Annex, the time period specified in paragraph 23
+of the Article 8.5 of Chapter 8 (Technical Barriers to Trade and Mutual Recognition)
+shall be 70 calendar days.
+Section 7 Entry into Force
+This Sectoral Annex shall enter into force on the first day of the second month
+following the date on which the Parties have exchanged notes confirming the
+completion of their respective domestic legal procedures for the entry into force of
+this Sectoral Annex.						
+TABLE I
+THE APPLICABLE LAWS, REGULATIONS AND ADMINISTRATIVE PROVISIONS
+STIPULATING PRODUCTS COVERED BY THIS SECTORAL ANNEX
+Republic of Korea Republic of Singapore
+1. Electric Appliances Safety Control 1 . Consumer Protection (Trade
+Act (No. 2674, 1974) and Descriptions and Safety
+amendments thereto. Requirements) Act (Chapter 53) and
+amendments thereto,
+2. Enforcement Regulation of the
+Electric Appliances Safety Control 2. Consumer Protection (Safety
+Act (No. 430, 1974) and Requirements) Regulations 2002 and
+amendments thereto. amendments thereto.								
+TABLEII
+THE APPLICABLE LAWS, REGULATIONS AND ADMINISIRATIVE PROVISIONS
+STIPULATING THE REQUIREMENTS AND THE CONFORMITY ASSESSMENT
+PROCEDURES
+Republic of Korea Republic of Singapore
+1 . Electric Appliances Safety Control Act (No.
+2674, 1974) and amendments thereto,
+2. Enforcement Decree of Electric
+Appliances Safety Control Act (No.
+7167, 1974) and amendments thereto. 1 . Consumer Protection (Trade
+3. Enforcement Regulation of the Electric Descriptions and Safety Requirements)
+Appliances Safety Control Act (No. 430, Act (Chapter 53) and amendments
+1974) and amendments thereto, thereto,
+4. Operational Rule for Electric Appliances 2. Consumer Protection (Safety
+Safety Certification (No. 2005-671) and Requirements) Regulations 2002 and
+amendments thereto, amendments thereto,
+5. Electric Appliances Safety Criteria and 3. Consumer Protection (Safety
+Operational Rule (No. 2000-154, 2000) Requirements) Registration Scheme
+and amendments thereto, Information Booklet (2002 Edition)
+and amendments thereto
+6. Administrative Criteria for Non-compliance
+Test Result corresponding to the Safety
+Criteria of Electric Appliances subject to
+Safety Certification (No. 2005-672) and
+amendments thereto.
+9TABLE III
+THE APPLICABLE LAWS AND REGULATIONS PROVIDING LEGAL MANDATE
+FOR DESIGNATING AUTHORITIES
+Republic of Korea Republic of Singapore
+1 . Electric Appliances Safety Control Act
+(No. 2674, 1974) and amendments 1. Standards, Productivity and Innovation
+thereto, Board or SPRING Act and amendments
+2. Enforcement Decree of Electric thereto,
+Appliances Safety Control Act (No. 2. Standards, Productivity and Innovation
+7167, 1974) and amendments thereto. Board (Conformity Assessments)
+3. Enforcement Regulation of the Electric Regulations 2002 and amendments
+Appliances Safety Control Act (No. 430, thereto.
+1974) and amendments thereto.				
+TABLEIV
+THE APPLICABLE LAWS, REGULATIONS AND ADMINISTRATIVE PROVISIONS
+STIPULATING THE CRITERIA FOR DESIGNATION
+Republic of Korea Republic of Singapore
+1. Standards, Productivity and
+Innovation Board or SPRING Act
+and amendments thereto,
+2. Standards, Productivity and
+Innovation Board (Conformity
+1 . Enforcement Regulation of the Electric
+Assessments) Regulations 2002 and
+Appliances Safety Control Act (NO.
+amendments thereto,
+430, 1974) and amendments thereto
+3. Standards, Productivity and
+Innovation Board (Conformity
+Assessment) Information Booklet
+(2002 Edition) and amendments
+thereto.mo
+cc
+,
+																														
+x
+-" -. A1 !F ] L ot
+8B: Ll 71 A,7}J-uloll ul A1
+i8 t 7l of °l
+o~~T ON 1-
+o~~l oil t~ of Lok - ,Z~ Oil a~ a1 Ll .
+A] 1 V 1opm
+- 0
+1. of H k L 71 _71 o71 oaf t zo TLJ
+ON ao~ojl;o
+Al *1 LN 0.1 '= a! oA} of To Oil 2~071ot1- 1- 1 of 8 ~-A}o
+0 1=1
+AN L1) ~~l 71 ;~i -7-l ;;o~ lil Oil I i l l, Ll p Al o}° ~~l~l ~ .
+71-. ~~ 71 Ll 7171
+L}-, o-Ul
+-5~1 i14
+2. °~ L ok~t ~~ L 11 118 ~l a1 Ll 01 X11 °11 q t13_-7} zo 0 7} i
+	 Tzl °l l q. i-+ao~ L ~~l ~1 0 ° ~~Oil ~~9 --~d 7}o a1
+~o
+'q_"lz a~ ~o 7o ° . 4c]} 1 1-4.
+3, ol V17=30k -T- 74
+i
+~~ ~1 T ~~ °l ao -A1-8j o o to °~l LN ~1 0} 1 ~o ` ~l ~l o}
+Ll al 4 L 1 14 0 A1 °• ~~ ~ a1 o T X o ,o X11 i-8 °~ ~1 ~}L o -T,
+~L o o ~o--I o- z o LNa z ~i~~1Ll .
+oA1- of L L 71 21171 o o0 a} ~A P ilc1- i
+o'T• ol L a1 oA1- ~T~~ -~i-a-O
+~
+TJ-z- oo'l a~ T °',I'°-VI, 01 1= z o,~~ °1l ~ aN T 7} o ~} ~,? d zL}
+4. '-I °A} ° ~ °ll Tl ~l a} Ll ° °1 ~~ a ~o 0 7} 71y,° 01 L °l 'T-"i of
+1 ) "AHD°"ol~~ XHzdl -- - 7- E52
+-1-																									
+V0
+5. 01 L°l Wi- T- --i ~~ Oil lql I a Ao 3:7047t71401 _7l -7o °l -F I- 'zj a Ao 071-7
+4L L1Rmil- '±4.
+71-. x1; ~l p A1. 0I1 Vi a} ~l p
+4 1
+- 71
+14
+~~ ~)~~ °~X71 I- 1 I z1 ofa~o~°ll 4 Ta~t1L
+0 - 0 0
+P1* At4- }-iq ; l}
+. -Kl ~o 28 (ZI 0 71 roll a} °i o
+6. -~q tjA(IEC)
+aL
+60449:1979-7,1,~~17) A -dl ;~1 °, p °r) (IEC 60449:1979) Band 11 ~o .5~1 7134
+C pl 7l--7-]F-q, 2- (ac) °il °j-njAjL 5o °i) AJ 1000
+a° ~}
+01, ail-H -l~(DC)°1 9 °1 1 75~)Al 1500
+1'1z 71-Li4.
+2 1:3
+1. 01 L °> ~ T, ~l A15~joil F-l b'71- ~l ~o o °1 _-I1 -7o t1-Ji' 1 tl71-_-~
+~l ~o o °1 0Via} I ~9-o 0 71.71}-°il jaN Z-] ~g --~ol o 71Aj X1-71 Tai o
+LN a}p~ --~J) °1 7,l °1 llq- LA -ao- Tai a~ z o ~} L z-i a-Ao
+o o' / ~~1 ~l =r a ~l o ~ A]-&191 ~l z aJ 4) 011 1
+	 tL}  oL T Q aL~L+. =a] tL~  L° iO  °L ~' o7} _K 7}- 1 ~ol °1---a' 1 La'7/- °1 o L~}
+r~ al pl ° 1 0l o_l 40il L L -F °~ -T- 2 ° t) 7,1 717,}q q 11
+ooo ,4oa a} .
+2. °1 L °k T-; 15~ ~) ~ ~ ~~ a ~o 0 71- 1-7} ~~ 1 -I ~l ~o o
+°l
+- 2 -																																				
+-~Ilo"l 7170 o-:~O1 ova} ~~~~~o 07}7l ail ~aN Ta~l OT,
+bl 7} ~ L ~Il of } ° ° l-pr yI- of a~ ~A}ao}j'1 -~r-a, j z o1,04
+4(- 0~/4 } a~l TO ~l p
+oz To a1 Ll . ~i~ al °10° L}l al pl ~, o1 ~1 ~0 ~}~ 01 7} ~ 7} o ff} A] v
+-rEI -1 Al pa 411 I 7tLl-. ~--L ~Fj ~~ 0 17}
+4 ° 1L L-r°L- T_`L 2of L1 717L} l °~l :a L 1 u
+	 3. TBT ~o --l12.4----.7--°11 u}E} 10 7}oa} -~-AjaL01 1L- ~N-&~71L} L,L
+2= 00,1 ,t~1-Lt1 7O, T/ L L -1- L aLil L ~ ~- L 01 1 A te} 7,, of 7l
+L} o -r z -71l sl °1 ~~l L _1 L ~lL ~- L "} -1
+I L--1 O1I-L--iLA}aO}-1 7 fA1 A}oa}t•
+1. °o oA1 ° T 71 ol a~ ---jLA}ao~/ ~~ ax 'to 0 7}~ ~} °~ 'Xi1 (I :et~ -70,-v-;5- d2
+2. 4 Ola~ - ~1ao}~1 t1It1 ~l~} o~u~a} , o~}ao> i
+r+E '7-1- o A}~3- TBT 0 0 °rl a 1 (°1 ~} o o °rl 1 El a~ ) °~l o tea} .
+7,1701- . OL7~'- pl 01 -rrJi~- L-1 Ll -01-t> a~ o z 11 o}L 71 01 A rO- 1O- }
+sl L o z 7l1 Ql ~} -', 7} o } r} o } ~ o a °il l °ll Ol a] t>-
+Oj
+> o A} o~ Ol t} 71 sl ± 60 ~~°11 ol e-1 a>- > d ~} o} z o t q.
+3. °o o~} 1 710 ~ L J-11 °P1 7L1 ,EL /° of TLo }Z,~ T-I1A1 Q 7} ,~
+-;ll E} Oil (Zi 28 °l al o 711 L1 o ~} o o -~q 1 ,- 0 o
+oil ~~
+a1 0 a ti L+. 01 -704-0 z p}a1 .
+7} ' -~tj tq--9 O Oil °} a 'Vol, °l= ~~ oA} of -71 -~;tI X107H
+i T 1 A° 7 C/'1"' L a l l ~O 1 ~O Z ;~~ 1 ~1 -21-JiL I--
+L}- of ~~ ofPI i o o~ T ~l o} 1 of ~} ~~ 07}
+°l, °l = a~ oil
+- 3 -																															
+a} T~-701 ~ / -Ml-`--- ab' ~o T~ ~o z l 7l 4 -~ °1 ~ 1 T!, • Tt7o pc I -ll
+ft; * t l All - An-f-L T * l~ ~o pc ao -o t;oll z X11 J- 0 T'r ii i
+	 q- ol L a} o~} °l } 5t] -M $ 71-oa} , • moo ~L 1 -70, -70,
+tcL L z ~O~ p, ~ -LzL = a~ 0 ~o °~l oa A] L ~-
+4. ok r 5~] -z] °1 V RBA}o} ql °1°11 U l tl °1 t 0 oll t1-6N
+Al A};
+71~~ }A1 0 o-l	 °~-z 71 ~}al i 51-t1-.
+A1 4 -V X11 o
+L01,114 T ~~ ~-~ O}r -7111 O p at+.
+7}. Lll a1 n1 P 71 L (KATS)
+t 1-. 0 71- O ~ .7-1-LA„ LIAO a~ L1 M t] A (SPRING)
+2. 4-9-1- 0 LTa}Ll .
+pal
+7}- ~~ ~,~'to 0 7171 j-°l ~1 I ~1 o- Tai as- z o7},j~}q q z o A1 t}q.
+'n
+~~a~A 0 7}71 }°1 ,~oa~ °~ _z1 °1 ao ~~`} o~ ~'1 ' 0}O1 '?f,ax ~0 07P
+-
+z Tao~~1~ 0 oTr
+°l ao ~~}ao~~11 a} 0 7} z4 ;-~~l al a1 Ll .
+L
+1•. Z9Ao 0 7} 71 }- ,L ~~a, 007}71 a°l °~Tz 01 1~~°l I~Zj
+aa~ La 'fl011 A-1 ' 010 ~~ a, ~o 07171 l°~ z ~l~oa~L}.
+Tai a'- I -&J-A0 07},j,} -- °1 tN t}-j o V °l z
+L ~~ x
+71 -1 o °l p °~ o a~ T a ~o 071-71 p~ z l ~o kt1-.
+X1 .0 1 ~~ awl ~o 0 7} 71 :a * 1 lit °I 1 a} 0''}
+to' L+ L q
+i o } X11 ~~ o.l o}~ 7V ;~j°11 A}~J '9 2V ~u-
+p}. ~l~o ~~a~~o07171 -1 71 ~~ o ,t` }i~4 jT-XoAo~ ~~~1~
+a°k z -T-= O1 u-1 a1 X10 }ao~~ r} o } °ll X11 L~ }~11 0 ~a~ c1 .
+Ui-. -1 a9'to 0 7} ~ ~} z Ta~ 71 ~~ o 1 a} L~ 7} Tr ~1
+07}71 °l ~~V $i- °~ C- ~1
+L1-
+71, 1;H 611 P- I O}~-911- -x ;;~art-•
+- 4 -																																
+~o
+~l 5 a, 7} 71=1-1 A] 14 0 -
+a~ 7 .
+1. 7171 -1 a$ o ~~ 071 oat . moo o ~ooll
+mil, °ll o ~l 4-- ~aO1 X70 0} XI AO 71 L s aN ok a1-L}.
+2. ~l70 ~~ ~, -~0 0 7171 a X171 7-1 4t}L 71 ]aOil
+aN T70 Zok ;'
+.31 °1 0 O T-'-711 ON x}01 °l: t-' 1-. 146t7} 71 OA -'~j aj ~UAo 0 71-71
+o70 *q ok tIE a]%Ajo7}71 -°l X11 o a~ ti; rl ~ lE o °,~ ° z 71
+°1 07}7 ~} 7 70 , 1 AA z Ald ~~1 o al r~ .
+3. 71 ~~ o °l1 Ufl 0 0 ° tl p z 711 a rl.
+71-. 1 0, 11- 0 L -2-0-11 1 l a} 71 ~~ ~ ~ 7,1 Al
+L} X170 °1l ° a} 71 L ril °~~} ~a ~1 Tl p 3~ 71oll z}l 0 °l I
+' --~1 7}- 0 - ~ T7 °1 1- 1-ao~ °ll 341 a1 o V
+-lig70 071
+~1 z T L ~1 --1~ o -1
+P-. i--'4 laJ2 0 71 7 71 °~ 'z~~ a1 l
+~} 7~ axl 'to i 71- 1 71 °~ L1 ~1 1 '~~ ~ a1 Ta~ l ~ ° i p z o- f1 '1
+~}
+U+--KL 71
+71-1
+4. °1 L°k z' T ~~ i1~0 ~14~0} 7jl71 ~1 } ~} ~l ~l p ~l z ~l 70x}-71 Tl
+I-- rl
+7
+7}' X1 0 z -°rl 0 TZI °} a~ -J&AJ o 71-; ~}
+z 71 4l a} 71 10= 11-5tl s La1- 071 z ~I] 4L ISO/IEC 17025:2005
+71 °I1 4(Z1700 p o T
+1) X170 X170 ° ISO/IEC 17011 :2004011 9
+}4 - )'1 I . i
+2) 0,1 1171:401 o} >,1 p~~ 0170 ~~} 0~"-~-7 °1 70 °Qk7o (APLAC-MRA)4 ~aoj
+170
+71 ~-4 A1 j Al ' o °1l L11 a1- o ~~l 0 7}- z CrL -Q--~-7 °1 70
+°k70 °~1 f7} ~l L o -T-
+Ll . iL IECEE CB Schemed] At]
+5. 01 L oP -~,- A1 7110 A14-&0} ill t+-s1- a ~ ~}o1 °1 0 71 :4z X170 01-71 0
+- 5 -									
+L" 1 1--- q 9 I ~a ' +
+71-' ; 1 -5q TZj 01 aoR-- 'A}ao}°1l -°l I aUAo R a o ~&} -t&f-Ao 071-~~mil-z
+-r-a~t171 Ma 71 ai -1 *Lay- `71 lAoo}L ISO/IEC 7}°1EL
+65:1996 -7,~ °ll tcl -~! l d .i1 Ll p-1 0 T-
+°
+1) °~ ~o ISO/IEC 17011:2004011 1l-et 'A1tf
+2) °1~o 71 q-7-1 A o~°1 0'1'&}L o-0
+ZiL IECEE CB-FC Scheme°_1 At]
+t-}.
+6. al a~~o'j71713,4 z ~l~o ~ l, ~l~o off° ~10~}L 74-,1- 31 ~aA0107l-7l 31
+4 °: rl-p ,I TA}ao~ z U+E t dAl--°ll 711 -711 0al-cl-
+-'I
+71-. 01 p
+14. TLj T--i-
+A tlfl a
+- --I- - 7
+1 . °1 X11 ° T-(7l 0 0 °-)
+p}. Ro~~~ 01 ;~j A-J~
+L3
+Al uTo -rl, p~i--71 L, ~1 0 ~0~ / 0 7C a 11-1 L L 4TA> %~°1l 4
+a}
+-7-l 0 o Tl
+Al . A1 **1 ~o
+_7-l ~'-
+-71 x0l -a illi Oil
+Al 6 -'~Jl 31 %-~1, Y971-71M91 p 4-11A1 FO Mi
+°l L°> l A1s o'(T I tla} 71 o} o} 01~0)~ ~Jl
+8.5---7- -All230}011 0 Al i 71 7L° 04a}~ z 7000 °l v}.
+X117-V'"jA
+°l L °> T ~~L/ °0 o A> °l °l L°k T , ~1 z ~} 7~ of
+~~ ~}°~ 41 z X10}'-- 7-tA] z -L~-&~L z " F-1 T leI -=l 31
+- 6 -								
+7}
+~
+a}°l 0jl 7}A-Eilo
+1. X171 ~; }~~ 1 1 (No. 2674, 1. 7}~ (-°r- ~ 71
+1974) 7N moo - 7LA)Ifl (531) Ql a 7}1-7o
+2. ~l 710*IZ}~l 1 i-31 f A1 I t:~-,' 2. 2002 ql
+(No. 430, 1974) '%1 7}1 ~o a 71 0-
+1. ;~l 71 0 * °} ~~ T~ L (No .2674,
+1974) 7}1 ~o
+2. ;~]- 71 0 3g, °}; }" o (No.
+7167, 1974) °l s 7}120 -
+3. 7] 71 0 * } ;F] M Al a~ l 1• _}li7( A1A1 ao~ }~~ °71)
+(No. 430, 1974) 5 L 711 ~o ' (53 0~) 7}1 ?
+4. ;~j 71 g„ }~~l ~l o L 2 2
+2005- 671) 5 a 7}1 ~o a 711 ~o
+5. ~~ 71 o gam, (Z}~~ 71 L °c T,° o o (No. 3
+2000-154, 2000) 7}1 ~o ~~~1 (2002164-4) 5 L 7}1 ~o
+6. 'l o(No. 2005-672) 712
+w 71 111 tN o5;12= 7p~1 ~1~
+'0lalaU-o°Il 1~~ a~~o71L
+7111										
+Al o;Oil 4a} Ir1 11-V1-q- if--~V1 -la- T--inl
+o o
+Llla~-°~~ i 7}~~
+M
+71 tjl (No. 2674,
+1 iq 7lI q
+1974) 71 Li L SPRING 'fl (RA1
+2.
+(No. 7167, 1974) Ql = 7N ,-Kol v?
+3. ;~l 71 $ -g o};~A el ' A1 a~ Ni (~IaUA8 "0 7}) i~J 2002
+(No. 430, 1974)
+7N ~OL'- 71 ~~ L
+O
+-7I ~ 71 11 ;J 1*7}0 - 110 ~ a-90
+o o
+LN f 7} V ±1 §1--3~
+1. biz} aL, A JA0,
+7N -1 1
+Li L SPRING lfl Til L 71 -701-V-
+2. Oil}f L/ ~~ L>-AO/ 7N a
+;M 71 10, i:q fl P~ A1 I Ni l 2002 °~
+(No. 430, 1974) 7}1 ~o 71 AO v
+3. Oi l} ~~ L SO 7C L ~ ~ (~~
+VgAol 0 7}) ~O ~~~ }(2002' )
+1
+7N 10 1,1-

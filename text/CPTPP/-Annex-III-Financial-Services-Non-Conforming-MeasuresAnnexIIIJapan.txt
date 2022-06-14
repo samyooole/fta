@@ -1,5 +1,4 @@
  
-ANNEX III – JAPAN – 1 
  
  
 ANNEX III 
@@ -9,50 +8,39 @@ SCHEDULE OF JAPAN
  
 HEADNOTES 
  
-1. 
-Commitments under Chapter 11 (Financial Services) are undertaken subject to the 
+1.  Commitments under Chapter 11 (Financial Services) are undertaken subject to the 
 limitations and conditions set forth in these headnotes and the Schedule below. 
  
-2. 
-In the interpretation of a reservation in Section A, all elements of the reservation shall 
+2.  In the interpretation of a reservation in Section A, all elements of the reservation shall 
 be considered.  A reservation shall be interpreted in the light of the relevant provisions of the 
 Chapter against which the reservation is taken, and the Measures element shall prevail over 
 all the other elements. 
  
-3. 
-In the interpretation of a reservation in Section B, all elements of the reservation shall 
+3.  In the interpretation of a reservation in Section B, all elements of the reservation shall 
 be considered.  The Description element shall prevail over all the other elements. 
  
-4. 
-To clarify Japan’s commitment with respect to Article 11.5 (Market Access for 
-Financial Institutions), enterprises supplying financial services are subject to non-
+4.  To  clarify  Japan’s  commitment  with  respect  to  Article  11.5  (Market  Access  for 
+Financial  Institutions),  enterprises  supplying  financial  services  are  subject  to  non-
 discriminatory limitations on juridical form. 
  
-5. 
-(a) 
-For greater certainty, for prudential reasons within the context of Article 11.11 
+5.  (a)  For greater certainty, for prudential reasons within the context of Article 11.11 
 (Exceptions), Japan shall not be prevented from applying non-discriminatory 
 limitations concerning admission to the market of new financial services which 
-shall be consistent with a regulatory framework aimed at achieving such 
+shall  be  consistent  with  a  regulatory  framework  aimed  at  achieving  such 
 prudential objectives.  In this context, securities firms are allowed to deal in 
 securities defined in the relevant laws of Japan, and banks are not allowed to 
 deal in those securities unless allowed in accordance with those laws. 
  
- 
-(b) 
-For Japan, services supplied in the territory of a Party to a service consumer in 
-another Party without any active marketing from the service supplier are 
+  (b)  For Japan, services supplied in the territory of a Party to a service consumer in 
+another  Party  without  any  active  marketing  from  the  service  supplier  are 
 considered as services supplied under subparagraph (b) of the definition of 
 “cross-border supply of financial services” in Article 11.1 (Definitions). 
  
-6. 
-For the purposes of this Annex, JSIC means Japan Standard Industrial Classification 
+6.  For the purposes of this Annex, JSIC means Japan Standard Industrial Classification 
 set out by the Ministry of Internal Affairs and Communications, and revised on November 6, 
 2007. 
- 
- 
- 
-ANNEX III – JAPAN – 2 
+   
+ANNEX III – JAPAN – 1  
  
  
 ANNEX III 
@@ -60,119 +48,66 @@ ANNEX III
 Section A 
  
  
-Sector: 
- 
- 
-Sub-Sector: 
- 
- 
- 
-Industry Classification: 
- 
- 
- 
-Obligations Concerned:  
- 
- 
-Level of Government: 
- 
- 
-Measures: 
- 
- 
-Description: 
-Financial Services 
- 
- 
-Banking and other financial services  
-(excluding insurance and insurance-related services) 
- 
- 
-JSIC 622 Banks, except central bank 
-JSIC 631 Financial institutions for small-businesses 
- 
- 
-National Treatment (Article 11.3) 
- 
- 
-Central 
- 
- 
-Deposit Insurance Law (Law No. 34 of 1971), Article 2 
- 
- 
-The deposit insurance system does not cover deposits taken by 
+Sector:  Financial Services 
+   
+   
+Sub-Sector:  Banking and other financial services  
+  (excluding insurance and insurance-related services) 
+   
+   
+Industry Classification:  JSIC 622 Banks, except central bank 
+  JSIC 631 Financial institutions for small-businesses 
+   
+   
+Obligations Concerned:   National Treatment (Article 11.3) 
+   
+   
+Level of Government:  Central 
+   
+   
+Measures:  Deposit Insurance Law (Law No. 34 of 1971), Article 2 
+   
+   
+Description:  The deposit insurance system does not cover deposits taken by 
 branches of foreign banks. 
+   
+ANNEX III – JAPAN – 2  
  
- 
- 
-ANNEX III – JAPAN – 3 
- 
-Sector: 
- 
- 
-Sub-Sector: 
- 
- 
-Industry Classification: 
- 
- 
- 
-Obligations Concerned: 
- 
- 
-Level of Government: 
- 
- 
-Measures: 
- 
- 
- 
- 
- 
- 
- 
- 
-Description: 
-Financial Services 
- 
- 
-Insurance and insurance-related services 
- 
- 
-JSIC 672 Non-life insurance institutions 
-JSIC 6742 Non-life insurance agents and brokers 
- 
- 
-Cross-Border Trade (Article 11.6) 
- 
- 
-Central 
- 
- 
-Insurance Business Law (Law No.105 of 1995), Articles 185, 
-186, 275, 276, 277, 286 and 287 
-Cabinet Order for Enforcement of Insurance Business Law 
-(Cabinet Order No. 425 of 1995), Articles 19 and 39.2 
-Ministerial Ordinance for Enforcement of Insurance Business 
-Law (Ministerial Ordinance of the Ministry of Finance No. 5 
-of 1996), Articles 116 and 212.6 
- 
- 
-Commercial presence is in principle required for insurance 
+Sector:  Financial Services 
+   
+   
+Sub-Sector:  Insurance and insurance-related services 
+   
+   
+Industry Classification:  JSIC 672 Non-life insurance institutions 
+  JSIC 6742 Non-life insurance agents and brokers 
+   
+   
+Obligations Concerned:  Cross-Border Trade (Article 11.6) 
+   
+   
+Level of Government:  Central 
+   
+   
+Measures:  Insurance Business Law (Law No.105 of 1995), Articles 185, 
+  186, 275, 276, 277, 286 and 287 
+  Cabinet Order for Enforcement of Insurance Business Law 
+  (Cabinet Order No. 425 of 1995), Articles 19 and 39.2 
+  Ministerial Ordinance for Enforcement of Insurance Business 
+  Law (Ministerial Ordinance of the Ministry of Finance No. 5 
+  of 1996), Articles 116 and 212.6 
+   
+   
+Description:  Commercial presence is in principle required for insurance 
 contracts on the following items and any liability arising 
 therefrom: 
  
-(a) 
-goods being transported within Japan; and 
+(a)  goods being transported within Japan; and 
  
-(b) 
-ships of Japanese registration which are not 
+(b)  ships of Japanese registration which are not 
 used for international maritime transport. 
- 
- 
- 
-ANNEX III – JAPAN – 4 
+   
+ANNEX III – JAPAN – 3  
  
  
 ANNEX III 
@@ -180,112 +115,57 @@ ANNEX III
 Section B 
  
  
-Sector:  
- 
- 
-Sub-Sector: 
- 
- 
-Industry Classification: 
- 
- 
-Obligations Concerned: 
- 
- 
- 
-Level of Government: 
- 
- 
-Description:  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Financial Services 
- 
- 
-Insurance and insurance-related services 
- 
- 
-- 
- 
- 
-National Treatment (Article 11.3) 
-Cross-Border Trade (Article 11.6) 
- 
- 
-Central 
- 
- 
-Japan reserves the right to adopt or maintain any measure with 
-respect to cross-border supply of or trade in financial services 
-as defined in subparagraph (b) of the definition of “cross-
-border supply of financial services” in Article 11.1 
-(Definitions) for insurance and insurance-related services, 
-other than the following services, whether supplied by a cross-
-border financial service supplier of another Party established in 
-that Party as a principal, through an intermediary or as an 
-intermediary: 
- 
-(a)  
-insurance of risks relating to: 
- 
-(i)  
-maritime shipping and commercial 
-aviation and space launching and 
-freight (including satellites), with 
-such insurance to cover any or all of 
-the following: the goods being 
-transported, the vehicle transporting 
-the goods and any liability arising 
-therefrom; and 
- 
-(ii) 
-goods in international transit; and 
- 
-(b)  
-reinsurance, retrocession and the services 
- 
-ANNEX III – JAPAN – 5 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Existing Measures: 
-auxiliary to insurance as referred to in 
-subparagraph (d) of the definition of 
-“financial service” in Article 11.1 
-(Definitions). 
- 
-Note: Insurance intermediation services may be supplied only 
-for insurance contracts allowed to be supplied in Japan. 
- 
- 
-Insurance Business Law (Law No. 105 of 1995), Articles 185, 
+Sector:   Financial Services 
+   
+   
+Sub-Sector:  Insurance and insurance-related services 
+   
+   
+Industry Classification:  - 
+   
+   
+Obligations Concerned:  National Treatment (Article 11.3) 
+  Cross-Border Trade (Article 11.6) 
+   
+   
+Level of Government:  Central 
+   
+   
+Description:   Japan reserves the right to adopt or maintain any measure with 
+  respect to cross-border supply of or trade in financial services 
+  as defined in subparagraph (b) of the definition of “cross-
+  border supply of financial services” in Article 11.1 
+  (Definitions) for insurance and insurance-related services, 
+  other than the following services, whether supplied by a cross-
+  border financial service supplier of another Party established in 
+  that Party as a principal, through an intermediary or as an 
+  intermediary: 
+   
+  (a)   insurance of risks relating to: 
+   
+  (i)   maritime shipping and commercial 
+  aviation and space launching and 
+  freight (including satellites), with 
+  such insurance to cover any or all of 
+  the following: the goods being 
+  transported, the vehicle transporting 
+  the goods and any liability arising 
+  therefrom; and 
+   
+  (ii)  goods in international transit; and 
+   
+  (b)   reinsurance, retrocession and the services 
+ANNEX III – JAPAN – 4  
+  auxiliary to insurance as referred to in 
+  subparagraph (d) of the definition of 
+  “financial service” in Article 11.1 
+  (Definitions). 
+   
+  Note: Insurance intermediation services may be supplied only 
+  for insurance contracts allowed to be supplied in Japan. 
+   
+   
+Existing Measures:  Insurance Business Law (Law No. 105 of 1995), Articles 185, 
 186, 275, 276, 277, 286 and 287 
 Cabinet Order for Enforcement of Insurance Business Law 
 (Cabinet Order No. 425 of 1995), Articles 19 and 39.2 
@@ -293,3 +173,4 @@ Ministerial Ordinance for Enforcement of Insurance Business
 Law (Ministerial Ordinance of the Ministry of Finance No. 5 
 of 1996), Articles 116 and 212.6 
  
+ANNEX III – JAPAN – 5 

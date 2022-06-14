@@ -1,12 +1,9 @@
-EUSFTA Appendix 4-A-1 - 1 
- 
 Appendix 4-A-1 
  
  
 SCOPE 
  
-1. 
-Annex 4-A shall cover those products listed in paragraph 2 of Article 1 (General 
+1.  Annex 4-A shall cover those products listed in paragraph 2 of Article 1 (General 
 Provisions) of Annex 4-A which, in the case of the Union's obligations, at the date of 
 signature of this Agreement, fall within the scope of Directive 2014/35/EU of the 
 European Parliament and of the Council of 26 February 2014 on the harmonisation of 
@@ -23,9 +20,8 @@ For products under the scope of Directive 2014/53/EU, the Union shall be able to
 require additional requirements, other than safety and EMC, in accordance with 
 Article 3 of that Directive. 
  
-EUSFTA Appendix 4-A-1 - 2 
- 
-Where a supplier has not applied or has only applied in part the harmonised standards 
+EUSFTA Appendix 4-A-1 - 1 
+ Where a supplier has not applied or has only applied in part the harmonised standards 
 referred to in Article 16 of Directive 2014/53/EU, radio equipment within the scope 
 of Article 10(4) of Directive 2014/53/EU shall be subject to the procedures described 
 in either of Annexes III or IV of Directive 2014/53/EU, at the choice of the 
@@ -33,8 +29,7 @@ supplier. Where the supplier's declaration of conformity has to be accompanied b
 test reports, the supplier may use the procedures described in subparagraphs 2(b) and 
 2(c) of Article 4 (Conformity Assessment Procedures) of Annex 4-A. 
  
-2. 
-Annex 4-A shall also cover those products listed in paragraph 2 of Article 1 (General 
+2.  Annex 4-A shall also cover those products listed in paragraph 2 of Article 1 (General 
 Provisions) of Annex 4-A which, in the case of Singapore's obligations, at the date of 
 signature of this Agreement, fall within the scope of the Consumer Protection 
 (Consumer Goods Safety Requirements) Regulations 2011, the Consumer Protection 
@@ -45,10 +40,8 @@ For products under the Telecommunications Act, Chapter 323 and the
 Telecommunications (Dealers) Regulations 2004, Singapore shall be able to require 
 additional requirements, other than safety and EMC. 
  
-EUSFTA Appendix 4-A-1 - 3 
- 
-3. 
-The Parties understand that the products covered by the domestic laws listed in this 
+EUSFTA Appendix 4-A-1 - 2 
+ 3.  The Parties understand that the products covered by the domestic laws listed in this 
 Appendix, which include all the products to which Annex 4-A applies, are intended to 
 cover all electronics products. It is understood that in case a product is not covered by 
 Annex 4-A for a Party but is covered for the other Party, or at the time of signature of 
@@ -60,4 +53,6 @@ other Party of its intentions and provide for a period of three months for
 consultations. 
  
  
+ 
+EUSFTA Appendix 4-A-1 - 3 
  

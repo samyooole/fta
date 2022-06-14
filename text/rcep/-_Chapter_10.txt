@@ -1,5 +1,4 @@
  
-10-1 
 CHAPTER 10 
  
 INVESTMENT 
@@ -9,36 +8,27 @@ Article 10.1: Definitions
  
 For the purposes of this Chapter: 
  
-(a) 
-covered investment means, with respect to a Party, an 
+(a)  covered investment means, with respect to a Party, an 
 investment in its territory of an investor of another Party in 
-existence as of the date of entry into force of this 
-Agreement or established, acquired, or expanded 
-thereafter, and which, where applicable, has been 
+existence  as  of  the  date  of  entry  into  force  of  this 
+Agreement  or  established,  acquired,  or  expanded 
+thereafter,  and  which,  where  applicable,  has  been 
 admitted1, 2 by the host Party, subject to its relevant laws, 
 regulations, and policies;3 
  
-(b) 
-freely usable currency means a freely usable currency as 
-determined by the IMF under the IMF Articles of 
+(b)  freely usable currency means a freely usable currency as 
+determined  by  the  IMF  under  the  IMF  Articles  of 
 Agreement as may be amended; 
  
-(c) 
-investment means every kind of asset that an investor 
+(c)  investment means every kind of asset that an investor 
 owns or controls, directly or indirectly, and that has the 
-characteristics 
-of 
-an 
-investment, 
-including 
-such 
-characteristics as the commitment of capital or other 
-resources, the expectation of gains or profits, or the 
+characteristics  of  an  investment,  including  such 
+characteristics  as  the  commitment  of  capital  or  other 
+resources,  the  expectation  of  gains  or  profits,  or  the 
 assumption of risk.  Forms that an investment may take 
 include: 
  
-(i) 
-shares, stocks, and other forms of equity 
+(i)  shares,  stocks,  and  other  forms  of  equity 
 participation in a juridical person, including rights 
 derived therefrom; 
  
@@ -54,49 +44,33 @@ specifically registered or approved in writing, as the case may be”.
 3 For the purposes of this definition, “policies” means those policies affecting an 
 investment that are endorsed and announced by the government of a Party in a written 
 form and made publicly available in a written form. 
- 
-10-2 
-(ii) 
-bonds, 
-debentures, 
-loans,4 
-and 
-other 
-debt 
+10-1  
+(ii)  bonds,  debentures,  loans,4  and  other  debt 
 instruments of a juridical person and rights derived 
 therefrom;5 
  
-(iii) 
-rights 
-under 
-contracts, 
-including 
-turnkey, 
+(iii)  rights  under  contracts,  including  turnkey, 
 construction, management, production, or revenue-
 sharing contracts; 
  
-(iv) 
-intellectual property rights and goodwill, which are 
+(iv)  intellectual property rights and goodwill, which are 
 recognised pursuant to the laws and regulations of 
 the host Party; 
  
-(v) 
-claims to money or to any contractual performance 
+(v)  claims to money or to any contractual performance 
 related to a business and having financial value;6 
  
-(vi) 
-rights conferred pursuant to the laws and 
+(vi)  rights  conferred  pursuant  to  the  laws  and 
 regulations of the host Party or contracts, such as 
 concessions, licences, authorisations, and permits, 
 including those for the exploration and exploitation 
 of natural resources; and 
  
-(vii) 
-movable and immovable property, and other 
+(vii)  movable  and  immovable  property,  and  other 
 property rights, such as leases, mortgages, liens, or 
 pledges.7 
  
-The term “investment” does not include an order or 
+The  term  “investment”  does  not  include  an  order  or 
 judgment entered in a judicial or administrative action or an 
 arbitral proceeding. 
  
@@ -111,49 +85,37 @@ less likely to have such characteristics.
 6 For greater certainty, investment does not mean claims to money that arise solely 
 from: 
  
-(a) 
-commercial contracts for the sale of goods or services; or 
+(a)  commercial contracts for the sale of goods or services; or 
  
-(b) 
-the extension of credit in connection with such commercial contracts. 
+(b)  the extension of credit in connection with such commercial contracts. 
  
 7 For greater certainty, market share, market access, expected gains, and opportunities 
 for profit-making are not, by themselves, investments. 
  
- 
-10-3 
+10-2  
 For the purposes of the definition of investment in this 
 subparagraph, returns that are invested shall be treated as 
-an investment and any alteration of the form in which 
-assets are invested or reinvested shall not affect their 
+an  investment  and  any  alteration  of  the  form  in  which 
+assets  are  invested  or  reinvested  shall  not  affect  their 
 character as an investment; 
  
-(d) 
-investor of a non-Party means, with respect to a Party, 
+(d)  investor of a non-Party means, with respect to a Party, 
 an investor that seeks to make,8 is making, or has made 
 an investment in the territory of that Party, that is not an 
 investor of a Party; 
  
-(e) 
-investor of a Party means a natural person of a Party or 
+(e)  investor of a Party means a natural person of a Party or 
 a juridical person of a Party that seeks to make,9 is making, 
 or has made an investment in the territory of another Party; 
  
-(f) 
-juridical person means any entity constituted or 
+(f)  juridical  person  means  any  entity  constituted  or 
 organised under applicable law, whether or not for profit, 
-and whether private or governmental, including any 
-corporation, 
-trust, 
-partnership, 
-joint 
-venture, 
-sole 
+and  whether  private  or  governmental,  including  any 
+corporation,  trust,  partnership,  joint  venture,  sole 
 proprietorship, association or similar organisation, and a 
 branch of a juridical person;10, 11, 12  
  
-(g) 
-juridical person of a Party means a juridical person 
+(g)  juridical  person  of  a  Party  means  a  juridical  person 
 constituted or organised under the law of that Party, and a 
  
 8 For greater certainty, the Parties understand that an investor “seeks to make” an 
@@ -177,58 +139,43 @@ has no independent legal existence and is not separately organised.
  
 12 A branch of a legal entity of a non-Party shall not be considered as a juridical person 
 of a Party. 
- 
-10-4 
+10-3  
 branch located in the territory of that Party and carrying out 
 business activities there;13, 14, 15 
  
-(h) 
-measure by a Party means any measure adopted or 
+(h)  measure  by  a  Party  means  any  measure  adopted  or 
 maintained by: 
  
-(i) 
-central, regional, or local governments and 
+(i)  central,  regional,  or  local  governments  and 
 authorities of that Party; and 
  
-(ii) 
-non-governmental bodies in the exercise of powers 
+(ii)  non-governmental bodies in the exercise of powers 
 delegated by central, regional, or local governments 
 or authorities of that Party; and 
  
-(i) 
-natural person of a Party means, for the purposes of 
+(i)  natural person of a Party means, for the purposes of 
 subparagraph (e), a natural person who under the law of 
 that Party: 
  
-(i) 
-is a national or citizen of that Party; or  
+(i)  is a national or citizen of that Party; or  
  
-(ii) 
-has the right of permanent residence in that Party, 
+(ii)  has the right of permanent residence in that Party, 
 where both that Party and another Party recognise 
 permanent residents and accord substantially the 
-same treatment to their respective permanent 
-residents as they accord to their respective 
-nationals 
-in 
-respect 
-of 
-measures 
-affecting 
+same  treatment  to  their  respective  permanent 
+residents  as  they  accord  to  their  respective 
+nationals  in  respect  of  measures  affecting 
 investment. 
  
  
 Article 10.2: Scope 
  
-1. 
-This Chapter shall apply to measures adopted or maintained by a 
+1.  This Chapter shall apply to measures adopted or maintained by a 
 Party relating to: 
  
-(a) 
-investors of another Party; and 
+(a)  investors of another Party; and 
  
-(b) 
-covered investments. 
+(b)  covered investments. 
  
  
 13 For greater certainty, a branch of a juridical person does not have any right to make 
@@ -240,49 +187,37 @@ entity that has no independent legal existence and is not separately organised.
  
 15 A branch of a legal entity of a non-Party shall not be considered as a juridical person 
 of a Party. 
+10-4  
  
-10-5 
+2.  This Chapter shall not apply to: 
  
-2. 
-This Chapter shall not apply to: 
+(a)  government procurement; 
  
-(a) 
-government procurement; 
+(b)  subsidies or grants provided by a Party; 
  
-(b) 
-subsidies or grants provided by a Party; 
- 
-(c) 
-services supplied in the exercise of governmental authority 
-by the relevant body or authority of a Party.  For the 
+(c)  services supplied in the exercise of governmental authority 
+by  the  relevant  body  or  authority  of  a  Party.    For  the 
 purposes of this Chapter, “service supplied in the exercise 
 of governmental authority” means any service which is 
 supplied neither on a commercial basis nor in competition 
 with one or more service suppliers; 
  
-(d) 
-measures adopted or maintained by a Party to the extent 
+(d)  measures adopted or maintained by a Party to the extent 
 that they are covered by Chapter 8 (Trade in Services); and 
  
-(e) 
-measures adopted or maintained by a Party to the extent 
+(e)  measures adopted or maintained by a Party to the extent 
 that they are covered by Chapter 9 (Temporary Movement 
 of Natural Persons). 
  
 For greater certainty, this Chapter does not bind any Party in 
 relation to any act or fact that took place or any situation that 
-ceased to exist before the date of entry into force of this 
+ceased  to  exist  before  the  date  of  entry  into  force  of  this 
 Agreement. 
  
-3. 
-Notwithstanding subparagraph 2(d), Article 10.5 (Treatment of 
-Investment), Article 10.7 (Senior Management and Board of 
-Directors),16  Article 
-10.9 
-(Transfers), 
-Article 
-10.11 
-(Compensation for Losses), Article 10.12 (Subrogation), and 
+3.  Notwithstanding subparagraph 2(d), Article 10.5 (Treatment of 
+Investment),  Article  10.7  (Senior  Management  and  Board  of 
+Directors),16   Article  10.9  (Transfers),  Article  10.11 
+(Compensation  for  Losses),  Article  10.12  (Subrogation),  and 
 Article 10.13 (Expropriation) shall apply, mutatis mutandis, to any 
 measure affecting the supply of a service by a service supplier of 
 a Party through commercial presence in the territory of any other 
@@ -291,27 +226,23 @@ only to the extent that any such measure relates to a covered
 investment and an obligation under this Chapter. 
  
  
- 
- 
+   
  
 16 Article 10.7 (Senior Management and Board of Directors) shall apply to measures 
 affecting the supply of a service only for a Party making commitments in accordance 
 with Article 8.8 (Schedules of Non-Conforming Measures). 
  
- 
-10-6 
+10-5  
 Article 10.3: National Treatment17 
  
-1. 
-Each Party shall accord to investors of another Party, and to 
+1.  Each Party shall accord to investors of another Party, and to 
 covered investments, treatment no less favourable than that it 
 accords, in like circumstances, to its own investors and their 
-investments with respect to the establishment, acquisition, 
+investments  with  respect  to  the  establishment,  acquisition, 
 expansion, management, conduct, operation, and sale or other 
 disposition of investments in its territory. 
  
-2. 
-For greater certainty, the treatment to be accorded by a Party 
+2.  For greater certainty, the treatment to be accorded by a Party 
 under paragraph 1 means, with respect to a government other 
 than at the central level, treatment no less favourable than the 
 most favourable treatment accorded, in like circumstances, by 
@@ -321,17 +252,15 @@ of the Party of which it forms a part.
  
 Article 10.4: Most-Favoured-Nation Treatment18, 19 
  
-1. 
-Each Party shall accord to investors of another Party treatment 
+1.  Each Party shall accord to investors of another Party treatment 
 no less favourable than that it accords, in like circumstances, to 
 investors of any other Party or non-Party with respect to the 
-establishment, acquisition, expansion, management, conduct, 
-operation, and sale or other disposition of investments in its 
+establishment,  acquisition,  expansion,  management,  conduct, 
+operation,  and  sale  or  other  disposition  of  investments  in  its 
 territory. 
  
-2. 
-Each Party shall accord to covered investments treatment no less 
-favourable than that it accords, in like circumstances, to 
+2.  Each Party shall accord to covered investments treatment no less 
+favourable  than  that  it  accords,  in  like  circumstances,  to 
 investments in its territory of investors of any other Party or non-
 Party with respect to the establishment, acquisition, expansion, 
 management, conduct, operation, and sale or other disposition of 
@@ -351,105 +280,86 @@ Myanmar, and Viet Nam, and to covered investments of such investors.
 this Article depends on the totality of the circumstances, including whether the relevant 
 treatment distinguishes between investors or investments on the basis of legitimate 
 public welfare objectives. 
- 
-10-7 
-3. 
-For greater certainty, the treatment referred to in paragraphs 1 
+10-6  
+3.  For greater certainty, the treatment referred to in paragraphs 1 
 and 2 does not encompass any international dispute resolution 
-procedures or mechanisms under other existing or future 
+procedures  or  mechanisms  under  other  existing  or  future 
 international agreements. 
  
  
 Article 10.5: Treatment of Investment20  
  
-1. 
-Each Party shall accord to covered investments fair and equitable 
+1.  Each Party shall accord to covered investments fair and equitable 
 treatment and full protection and security, in accordance with the 
 customary international law minimum standard of treatment of 
 aliens.  
  
-2. 
-For greater certainty: 
- 
- 
-(a) 
-fair and equitable treatment requires each Party not to 
+2.  For greater certainty: 
+   
+(a)  fair and equitable treatment requires each Party not to 
 deny justice in any legal or administrative proceedings; 
  
-(b) 
-full protection and security requires each Party to take such 
+(b)  full protection and security requires each Party to take such 
 measures as may be reasonably necessary to ensure the 
 physical protection and security of the covered investment; 
 and 
  
-(c) 
-the concepts of fair and equitable treatment and full 
-protection and security do not require treatment to be 
+(c)  the  concepts  of  fair  and  equitable  treatment  and  full 
+protection  and  security  do  not  require  treatment  to  be 
 accorded to covered investments in addition to or beyond 
 that which is required under the customary international 
 law minimum standard of treatment of aliens, and do not 
 create additional substantive rights. 
  
-3. 
-A determination that there has been a breach of another provision 
+3.  A determination that there has been a breach of another provision 
 of this Agreement, or of a separate international agreement, does 
 not establish that there has been a breach of this Article. 
  
  
 Article 10.6: Prohibition of Performance Requirements 
  
-1. 
-No Party shall impose or enforce, as a condition for 
-establishment, acquisition, expansion, management, conduct, 
+1.  No  Party  shall  impose  or  enforce,  as  a  condition  for 
+establishment,  acquisition,  expansion,  management,  conduct, 
 operation, or sale or other disposition of an investment in its 
  
  
-20 This Article shall be interpreted in accordance with Annex 10A (Customary 
+20  This  Article  shall  be  interpreted  in  accordance  with  Annex  10A  (Customary 
 International Law). 
- 
-10-8 
+10-7  
 territory of an investor of any other Party, any of the following 
 requirements:21 
  
-(a) 
-to export a given level or percentage of goods; 
+(a)  to export a given level or percentage of goods; 
  
-(b) 
-to achieve a given level or percentage of domestic content; 
+(b)  to achieve a given level or percentage of domestic content; 
  
-(c) 
-to purchase, use, or accord a preference to goods 
+(c)  to  purchase,  use,  or  accord  a  preference  to  goods 
 produced in its territory, or to purchase goods from persons 
 in its territory; 
  
-(d) 
-to relate the volume or value of imports to the volume or 
+(d)  to relate the volume or value of imports to the volume or 
 value of exports or to the amount of foreign exchange 
 inflows associated with investments of that investor; 
  
-(e) 
-to restrict sales of goods in its territory that such 
+(e)  to  restrict  sales  of  goods  in  its  territory  that  such 
 investments produce by relating such sales to the volume 
 or value of its exports or foreign exchange earnings; 
  
-(f) 
-to transfer a particular technology, a production process, or 
+(f)  to transfer a particular technology, a production process, or 
 other proprietary knowledge to a person in its territory; 
  
-(g) 
-to supply exclusively from the territory of the Party the 
+(g)  to supply exclusively from the territory of the Party the 
 goods that such investments produce to a specific regional 
 market or to the world market; or 
  
-(h) 
-to adopt a given rate or amount of royalty under a licence 
+(h)  to adopt a given rate or amount of royalty under a licence 
 contract, in regard to any licence contract in existence at 
 the time the requirement is imposed or enforced, or any 
-future licence contract freely entered into between the 
+future  licence  contract  freely  entered  into  between  the 
 investor and a person in its territory, provided that the 
-requirement is imposed or enforced in a manner that 
+requirement  is  imposed  or  enforced  in  a  manner  that 
 constitutes direct interference with that licence contract by 
-an exercise of non-judicial governmental authority of a 
+an  exercise  of  non-judicial  governmental  authority  of  a 
 Party.22  For greater certainty, this subparagraph does not 
 apply when the licence contract is concluded between the 
 investor and a Party. 
@@ -463,102 +373,84 @@ Non-Conforming Measures for Services and Investment).
 22 For the purposes of this subparagraph, a “licence contract” means any contract 
 concerning the licensing of technology, a production process, or other proprietary 
 knowledge. 
- 
-10-9 
+10-8  
 Notwithstanding this Article, subparagraphs (f) and (h) shall not 
 apply to Cambodia, Lao PDR, and Myanmar. 
  
-2. 
-No Party shall condition the receipt or continued receipt of an 
-advantage, in connection with the establishment, acquisition, 
+2.  No Party shall condition the receipt or continued receipt of an 
+advantage,  in  connection  with  the  establishment,  acquisition, 
 expansion, management, conduct, operation, or sale or other 
 disposition of an investment in its territory of an investor of any 
 other Party on compliance with any of the following requirements: 
  
-(a) 
-to achieve a given level or percentage of domestic content; 
+(a)  to achieve a given level or percentage of domestic content; 
  
-(b) 
-to purchase, use, or accord a preference to goods 
+(b)  to  purchase,  use,  or  accord  a  preference  to  goods 
 produced in its territory, or to purchase goods from persons 
 in its territory; 
  
-(c) 
-to relate the volume or value of imports to the volume or 
+(c)  to relate the volume or value of imports to the volume or 
 value of exports or to the amount of foreign exchange 
 inflows associated with investments of that investor; or 
  
-(d) 
-to restrict sales of goods in its territory that such 
+(d)  to  restrict  sales  of  goods  in  its  territory  that  such 
 investments produce by relating such sales to the volume 
 or value of its exports or foreign exchange earnings. 
  
-3. 
-(a) 
-Nothing in paragraph 2 shall be construed to prevent a 
+3.  (a)  Nothing in paragraph 2 shall be construed to prevent a 
 Party from conditioning the receipt or continued receipt of 
-an advantage, in connection with an investment in its 
+an  advantage,  in  connection  with  an  investment  in  its 
 territory of an investor of any other Party, on compliance 
 with a requirement to locate production, supply a service, 
 train or employ workers, construct or expand particular 
 facilities, or carry out research and development, in its 
 territory. 
  
-(b) 
-Subparagraphs 1(f) and (h) shall not apply: 
+(b)  Subparagraphs 1(f) and (h) shall not apply: 
  
-(i) 
-if a Party authorises use of an intellectual property 
+(i)  if a Party authorises use of an intellectual property 
 right in accordance with Article 31 or Article 31bis of 
 the TRIPS Agreement,23 or to measures requiring 
-the disclosure of proprietary information that fall 
+the  disclosure  of  proprietary  information  that  fall 
 within the scope of, and are consistent with, Article 
 39 of the TRIPS Agreement; or 
  
  
 23 This includes any amendment to the TRIPS Agreement implementing paragraph 6 
-of the Doha Declaration on the TRIPS Agreement and Public Health 
+of  the  Doha  Declaration  on  the  TRIPS  Agreement  and  Public  Health 
 (WT/MIN(01)/DEC/2) adopted at Doha on 14 November 2001. 
- 
-10-10 
-(ii) 
-if the requirement is imposed or enforced by a court, 
+10-9  
+(ii)  if the requirement is imposed or enforced by a court, 
 administrative tribunal, or competition authority to 
-remedy a practice determined after judicial or 
+remedy  a  practice  determined  after  judicial  or 
 administrative process to be anti-competitive under 
 the Party’s competition laws and regulations. 
  
-(c) 
-Subparagraph 1(h) shall not apply if the requirement is 
+(c)  Subparagraph 1(h) shall not apply if the requirement is 
 imposed or enforced by a tribunal or competent authority 
 as equitable remuneration under the Party’s copyright laws 
 and regulations. 
  
-(d) 
-Subparagraphs 1(a) through (c), 2(a), and 2(b) shall not 
+(d)  Subparagraphs 1(a) through (c), 2(a), and 2(b) shall not 
 apply to qualification requirements for goods with respect 
 to export promotion and foreign aid programmes. 
  
-(e) 
-Subparagraphs 2(a) and (b) shall not apply to requirements 
+(e)  Subparagraphs 2(a) and (b) shall not apply to requirements 
 imposed by an importing Party relating to the content of 
-goods necessary to qualify for preferential tariffs or 
+goods  necessary  to  qualify  for  preferential  tariffs  or 
 preferential quotas. 
  
-4. 
-For greater certainty, paragraphs 1 and 2 shall not apply to any 
+4.  For greater certainty, paragraphs 1 and 2 shall not apply to any 
 requirement other than those set out in those paragraphs. 
  
  
 Article 10.7: Senior Management and Board of Directors 
  
-1. 
-No Party shall require that a juridical person of that Party that is a 
+1.  No Party shall require that a juridical person of that Party that is a 
 covered investment appoint to a senior management position a 
 natural person of any particular nationality. 
  
-2. 
-A Party may require that a majority of the board of directors, or 
+2.  A Party may require that a majority of the board of directors, or 
 any committee thereof, of a juridical person of that Party that is a 
 covered investment, be of a particular nationality or resident in the 
 territory of that Party, provided that the requirement does not 
@@ -568,256 +460,198 @@ its investment.
  
 Article 10.8: Reservations and Non-Conforming Measures 
  
-1. 
-Article 10.3 (National Treatment), Article 10.4 (Most-Favoured-
-Nation Treatment), Article 10.6 (Prohibition of Performance 
+1.  Article 10.3 (National Treatment), Article 10.4 (Most-Favoured-
+Nation  Treatment),  Article  10.6  (Prohibition  of  Performance 
 Requirements), and Article 10.7 (Senior Management and Board 
 of Directors) shall not apply to: 
  
- 
-10-11 
-(a) 
-any existing non-conforming measure that is maintained by 
+10-10  
+(a)  any existing non-conforming measure that is maintained by 
 a Party at: 
  
-(i) 
-the central level of government, as set out by that 
-Party in List A of its Schedule in Annex III 
+(i)  the central level of government, as set out by that 
+Party  in  List  A  of  its  Schedule  in  Annex  III 
 (Schedules of Reservations and Non-Conforming 
 Measures for Services and Investment); 
  
-(ii) 
-a regional level of government, as set out by that 
-Party in List A of its Schedule in Annex III 
+(ii)  a regional level of government, as set out by that 
+Party  in  List  A  of  its  Schedule  in  Annex  III 
 (Schedules of Reservations and Non-Conforming 
 Measures for Services and Investment); or 
  
-(iii) 
-a local level of government; 
+(iii)  a local level of government; 
  
-(b) 
-the continuation or prompt renewal of any non-conforming 
+(b)  the continuation or prompt renewal of any non-conforming 
 measure referred to in subparagraph (a); and 
  
-(c) 
-an amendment to any non-conforming measure referred to 
+(c)  an amendment to any non-conforming measure referred to 
 in subparagraph (a) to the extent that the amendment does 
 not decrease the conformity of the measure: 
  
-(i) 
-for Cambodia, Indonesia, Lao PDR, Myanmar, and 
+(i)  for Cambodia, Indonesia, Lao PDR, Myanmar, and 
 the Philippines, as it existed at the date of entry into 
 force of this Agreement; and 
  
-(ii) 
-for 
-Australia, 
-Brunei, 
-China, 
-Japan, 
-Korea, 
+(ii)  for  Australia,  Brunei,  China,  Japan,  Korea, 
 Malaysia, New Zealand, Singapore, Thailand, and 
-Viet Nam, as it existed immediately before the 
+Viet  Nam,  as  it  existed  immediately  before  the 
 amendment, 
  
 with Article 10.3 (National Treatment), Article 10.4 (Most-
 Favoured-Nation Treatment), Article 10.6 (Prohibition of 
-Performance Requirements), and Article 10.7 (Senior 
+Performance  Requirements),  and  Article  10.7  (Senior 
 Management and Board of Directors). 
  
-2. 
-Article 10.3 (National Treatment), Article 10.4 (Most-Favoured-
-Nation Treatment), Article 10.6 (Prohibition of Performance 
+2.  Article 10.3 (National Treatment), Article 10.4 (Most-Favoured-
+Nation  Treatment),  Article  10.6  (Prohibition  of  Performance 
 Requirements), and Article 10.7 (Senior Management and Board 
 of Directors) shall not apply to any measure that a Party adopts 
 or maintains with respect to sectors, subsectors, or activities, as 
-set out by that Party in List B of its Schedule in Annex III 
+set  out  by  that  Party  in  List  B  of  its  Schedule  in  Annex  III 
 (Schedules of Reservations and Non-Conforming Measures for 
 Services and Investment). 
  
- 
-10-12 
-3. 
-Notwithstanding subparagraph 1(c)(ii), for five years after the date 
-of entry into force of this Agreement, Article 10.3 (National 
-Treatment), Article 10.4 (Most-Favoured-Nation Treatment), 
-Article 10.6 (Prohibition of Performance Requirements), and 
+10-11  
+3.  Notwithstanding subparagraph 1(c)(ii), for five years after the date 
+of  entry  into  force  of  this  Agreement,  Article  10.3  (National 
+Treatment),  Article  10.4  (Most-Favoured-Nation  Treatment), 
+Article  10.6  (Prohibition  of  Performance  Requirements),  and 
 Article 10.7 (Senior Management and Board of Directors) shall not 
 apply to an amendment to any non-conforming measure referred 
 to in subparagraph 1(a) to the extent that the amendment does 
 not decrease the conformity of the measure as it existed at the 
-date of entry into force of this Agreement with Article 10.3 
-(National 
-Treatment), 
-Article 
-10.4 
-(Most-Favoured-Nation 
-Treatment), 
-Article 
-10.6 
-(Prohibition 
-of 
-Performance 
+date  of  entry  into  force  of  this  Agreement  with  Article  10.3 
+(National  Treatment),  Article  10.4  (Most-Favoured-Nation 
+Treatment),  Article  10.6  (Prohibition  of  Performance 
 Requirements), and Article 10.7 (Senior Management and Board 
 of Directors). 
  
-4. 
-No Party shall, under any measure adopted after the date of entry 
+4.  No Party shall, under any measure adopted after the date of entry 
 into force of this Agreement and covered by List B of its Schedule 
 in Annex III (Schedules of Reservations and Non-Conforming 
 Measures for Services and Investment), require an investor of 
 another Party, by reason of its nationality, to sell or otherwise 
 dispose of an investment that exists at the time the measure 
-becomes effective, unless otherwise specified in the initial 
+becomes  effective,  unless  otherwise  specified  in  the  initial 
 approval by the relevant authorities. 
  
-5. 
-Article 10.3 (National Treatment) and Article 10.4 (Most- 
+5.  Article  10.3  (National  Treatment)  and  Article  10.4  (Most- 
 Favoured-Nation Treatment) shall not apply to any measure that 
 falls within Article 5 of the TRIPS Agreement, and any measure 
-that is covered by an exception to, or derogation from, the 
-obligations imposed by Article 11.7 (National Treatment), or 
+that  is  covered  by  an  exception  to,  or  derogation  from,  the 
+obligations  imposed  by  Article  11.7  (National  Treatment),  or 
 imposed by Article 3 or 4 of the TRIPS Agreement. 
  
  
 Article 10.9: Transfers 
  
-1. 
-Each Party shall allow all transfers relating to a covered 
+1.  Each  Party  shall  allow  all  transfers  relating  to  a  covered 
 investment to be made freely and without delay into and out of its 
 territory.  Such transfers include: 
  
-(a) 
-contributions to capital, including the initial contribution; 
+(a)  contributions to capital, including the initial contribution; 
  
-(b) 
-profits, capital gains, dividends, interest, royalty payments, 
+(b)  profits, capital gains, dividends, interest, royalty payments, 
 technical assistance and technical and management fees, 
 licence fees, and other current income accruing from the 
 covered investment; 
  
-(c) 
-proceeds from the sale or liquidation of all or any part of 
+(c)  proceeds from the sale or liquidation of all or any part of 
 the covered investment; 
+10-12  
  
-10-13 
- 
-(d) 
-payments made under a contract, including a loan 
+(d)  payments  made  under  a  contract,  including  a  loan 
 agreement; 
  
-(e) 
-payments made pursuant to Article 10.11 (Compensation 
+(e)  payments made pursuant to Article 10.11 (Compensation 
 for Losses) and Article 10.13 (Expropriation); 
  
-(f) 
-payments arising out of the settlement of a dispute by any 
+(f)  payments arising out of the settlement of a dispute by any 
 means including adjudication, arbitration, or the agreement 
 of the parties to the dispute; and 
  
-(g) 
-earnings and other remuneration of personnel engaged 
+(g)  earnings and other remuneration of personnel engaged 
 from abroad in connection with the covered investment. 
  
-2. 
-Each Party shall allow such transfers relating to a covered 
+2.  Each  Party  shall  allow  such  transfers  relating  to  a  covered 
 investment to be made in any freely usable currency at the market 
 rate of exchange prevailing at the time of transfer. 
  
-3. 
-Notwithstanding paragraphs 1 and 2, a Party may prevent or 
+3.  Notwithstanding paragraphs 1 and 2, a Party may prevent or 
 delay a transfer through the equitable, non-discriminatory, and 
 good faith application of its laws and regulations relating to: 
  
-(a) 
-bankruptcy, insolvency, or the protection of the rights of 
+(a)  bankruptcy, insolvency, or the protection of the rights of 
 creditors including employees; 
  
-(b) 
-issuing, trading, or dealing in securities, futures, options, or 
+(b)  issuing, trading, or dealing in securities, futures, options, or 
 derivatives; 
  
-(c) 
-criminal or penal offences and the recovery of the proceeds 
+(c)  criminal or penal offences and the recovery of the proceeds 
 of crime; 
  
-(d) 
-financial reporting or record keeping of transfers when 
+(d)  financial  reporting  or  record  keeping  of  transfers  when 
 necessary to assist law enforcement or financial regulatory 
 authorities; 
  
-(e) 
-ensuring compliance with awards or orders or judgments 
+(e)  ensuring compliance with awards or orders or judgments 
 in judicial or administrative proceedings; 
  
-(f) 
-taxation;24 
+(f)  taxation;24 
  
  
 24 For greater certainty, this also includes the adoption or enforcement of any taxation 
 measure aimed at ensuring the equitable or effective imposition or collection of taxes 
 including any taxation measure that differentiates between persons based on their 
 place of residence or incorporation. 
- 
-10-14 
-(g) 
-social 
-security, 
-public 
-retirement, 
-superannuation, 
+10-13  
+(g)  social  security,  public  retirement,  superannuation, 
 compulsory savings schemes, or other arrangements to 
 provide pension or similar retirement benefits; 
  
-(h) 
-severance entitlement of employees; and 
+(h)  severance entitlement of employees; and 
  
-(i) 
-requirements to register and satisfy other formalities 
+(i)  requirements  to  register  and  satisfy  other  formalities 
 imposed by the central bank and other relevant authorities 
 of that Party. 
  
-4. 
-Nothing in this Chapter shall affect the rights and obligations of a 
-Party as a member of the IMF under the IMF Articles of 
+4.  Nothing in this Chapter shall affect the rights and obligations of a 
+Party  as  a  member  of  the  IMF  under  the  IMF  Articles  of 
 Agreement as may be amended, including the use of exchange 
 actions which are in conformity with the IMF Articles of Agreement 
 as may be amended, provided that the Party shall not impose 
 restrictions on any capital transactions inconsistently with the 
-obligations under this Chapter regarding such transactions, 
+obligations  under  this  Chapter  regarding  such  transactions, 
 except under Article 17.15 (Measures to Safeguard the Balance 
 of Payments) or on request of the IMF. 
  
  
 Article 10.10: Special Formalities and Disclosure of Information 
  
-1. 
-Nothing in Article 10.3 (National Treatment) shall be construed to 
+1.  Nothing in Article 10.3 (National Treatment) shall be construed to 
 prevent a Party from adopting or maintaining a measure that 
-prescribes special formalities in connection with covered 
+prescribes  special  formalities  in  connection  with  covered 
 investments, including a requirement that covered investments be 
 legally constituted under its laws or regulations, provided that 
 such formalities do not materially impair the protections afforded 
-by that Party to investors of another Party and covered 
+by  that  Party  to  investors  of  another  Party  and  covered 
 investments pursuant to this Chapter. 
  
-2. 
-Notwithstanding Article 10.3 (National Treatment) and Article 10.4 
-(Most-Favoured-Nation Treatment), a Party may require an 
+2.  Notwithstanding Article 10.3 (National Treatment) and Article 10.4 
+(Most-Favoured-Nation  Treatment),  a  Party  may  require  an 
 investor of another Party or its covered investment to provide 
 information concerning that investment solely for informational or 
-statistical purposes.  The Party shall protect, to the extent 
+statistical  purposes.    The  Party  shall  protect,  to  the  extent 
 possible, any confidential information which has been provided 
-from any disclosure that would prejudice the legitimate 
+from  any  disclosure  that  would  prejudice  the  legitimate 
 commercial interests or the competitive position of the investor or 
-the covered investment.  Nothing in this paragraph shall be 
-construed to prevent a Party from otherwise obtaining or 
+the  covered  investment.    Nothing  in  this  paragraph  shall  be 
+construed  to  prevent  a  Party  from  otherwise  obtaining  or 
 disclosing information in connection with the equitable and good 
 faith application of its laws and regulations. 
  
  
- 
-10-15 
+10-14  
 Article 10.11: Compensation for Losses 
  
 Each Party shall accord to investors of another Party, and their covered 
@@ -826,37 +660,32 @@ losses suffered by investments in its territory owing to armed conflict,
 civil strife, or state of emergency, treatment no less favourable than that 
 it accords, in like circumstances, to: 
  
-(a) 
-its own investors and their investments; and 
+(a)  its own investors and their investments; and 
  
-(b) 
-investors of any other Party or non-Party, and their 
+(b)  investors  of  any  other  Party  or  non-Party,  and  their 
 investments. 
  
  
 Article 10.12: Subrogation 
  
-1. 
-If a Party, or an agency designated by a Party, makes a payment 
+1.  If a Party, or an agency designated by a Party, makes a payment 
 to an investor of that Party under a guarantee, a contract of 
 insurance or other form of indemnity that it has granted in respect 
 of a covered investment, the other Party in whose territory the 
 covered investment was made shall recognise the subrogation or 
-transfer of any right or claim in respect of such covered 
+transfer  of  any  right  or  claim  in  respect  of  such  covered 
 investment.  The subrogated or transferred right or claim shall not 
 be greater than the original right or claim of the investor. 
  
-2. 
-Where a Party or an agency designated by a Party has made a 
+2.  Where a Party or an agency designated by a Party has made a 
 payment to an investor of that Party and has taken over any right 
 or claim of the investor, that investor shall not pursue that right or 
-claim against the other Party in whose territory the covered 
+claim  against  the  other  Party  in  whose  territory  the  covered 
 investment was made, unless that investor is authorised to act on 
 behalf of the Party making the payment or the agency designated 
 by that Party. 
  
-3. 
-In the exercise of subrogated or transferred right or claim, a Party 
+3.  In the exercise of subrogated or transferred right or claim, a Party 
 or an agency designated by a Party exercising such right or claim 
 shall disclose the coverage of the claims arrangement with its 
 investors to the relevant Party. 
@@ -864,53 +693,41 @@ investors to the relevant Party.
  
 Article 10.13: Expropriation25 
  
-1. 
-No Party shall expropriate or nationalise a covered investment 
+1.  No Party shall expropriate or nationalise a covered investment 
 either directly or through measures equivalent to expropriation or 
  
 25 This Article shall be interpreted in accordance with Annex 10B (Expropriation). 
- 
-10-16 
+10-15  
 nationalisation (hereinafter referred to as “expropriation” in this 
 Chapter), except: 
  
-(a) 
-for a public purpose; 
+(a)  for a public purpose; 
  
-(b) 
-in a non-discriminatory manner; 
+(b)  in a non-discriminatory manner; 
  
-(c) 
-on payment of compensation in accordance with 
+(c)  on  payment  of  compensation  in  accordance  with 
 paragraphs 2 and 3; and 
  
-(d) 
-in accordance with due process of law. 
+(d)  in accordance with due process of law. 
  
-2. 
-The compensation referred to in subparagraph 1(c) shall: 
+2.  The compensation referred to in subparagraph 1(c) shall: 
  
-(a) 
-be paid without delay;26 
+(a)  be paid without delay;26 
  
-(b) 
-be equivalent to the fair market value of the expropriated 
+(b)  be equivalent to the fair market value of the expropriated 
 investment at the time when the expropriation was publicly 
-announced,27 or when the expropriation occurred, 
+announced,27  or  when  the  expropriation  occurred, 
 whichever is earlier (hereinafter referred to as the “date of 
 expropriation” in this Chapter);28, 29, 30 
  
-(c) 
-not reflect any change in value occurring because the 
+(c)  not  reflect  any  change  in  value  occurring  because  the 
 intended expropriation had become known earlier; and 
  
-(d) 
-be effectively realisable and freely transferable. 
+(d)  be effectively realisable and freely transferable. 
  
-3. 
-In the event of delay, the compensation shall include an 
+3.  In  the  event  of  delay,  the  compensation  shall  include  an 
 appropriate interest in accordance with the expropriating Party’s 
-laws, regulations, and policies provided that such laws, 
+laws,  regulations,  and  policies  provided  that  such  laws, 
  
 26 The Parties understand that there may be legal and administrative processes that 
 need to be observed before payment can be made. 
@@ -929,21 +746,18 @@ date when the expropriation decision is issued by the competent authority.
  
 30 For Thailand, the date of expropriation for the purpose of calculating the fair market 
 value of the expropriated investment means the date when the expropriation occurs.  
- 
-10-17 
-regulations, and policies are applied on a non-discriminatory 
+10-16  
+regulations,  and  policies  are  applied  on  a  non-discriminatory 
 basis. 
  
-4. 
-This Article does not apply to the issuance of compulsory licences 
-granted in relation to intellectual property rights, or to the 
+4.  This Article does not apply to the issuance of compulsory licences 
+granted  in  relation  to  intellectual  property  rights,  or  to  the 
 revocation, limitation, or creation of intellectual property rights, to 
 the extent that such issuance, revocation, limitation, or creation is 
 consistent with Chapter 11 (Intellectual Property) and the TRIPS 
 Agreement.31 
  
-5. 
- Notwithstanding paragraphs 1 through 3, any measure of 
+5.   Notwithstanding  paragraphs  1  through  3,  any  measure  of 
 expropriation relating to land shall be as defined in the existing 
 laws and regulations of the expropriating Party, and shall be, for 
 the purposes of and on payment of compensation, in accordance 
@@ -956,24 +770,20 @@ of the land.
  
 Article 10.14: Denial of Benefits32 
  
-1. 
-A Party may deny the benefits of this Chapter to an investor of 
+1.  A Party may deny the benefits of this Chapter to an investor of 
 another Party that is a juridical person of that other Party and to 
 investments of that investor if the juridical person: 
  
-(a) 
-is owned or controlled by a person of a non-Party or of the 
+(a)  is owned or controlled by a person of a non-Party or of the 
 denying Party; and 
  
-(b) 
-has no substantial business activities in the territory of any 
+(b)  has no substantial business activities in the territory of any 
 Party other than the denying Party. 
  
-2. 
-A Party may deny the benefits of this Chapter to an investor of 
-another Party that is a juridical person of that other Party and to 
-investments of that investor if persons of a non-Party own or 
-control the juridical person and the denying Party adopts or 
+ 
+ 
+ 
+ 
  
  
 31 For greater certainty, the Parties recognise that, for the purposes of this Article, the 
@@ -984,84 +794,70 @@ such rights.
 32 A Party’s right to deny the benefits of this Chapter as provided for in this Article may 
 be exercised at any time. 
  
+10-17  
  
-10-18 
-maintains measures with respect to the non-Party or a person of 
-the non-Party that prohibit transactions with the juridical person or 
-that would be violated or circumvented if the benefits of this 
-Chapter were accorded to the juridical person or to its 
-investments. 
  
-3. 
-A Party may deny the benefits of this Chapter to an investor of 
-another Party that is a juridical person of that other Party and to 
-investments of that investor if persons of a non-Party own or 
-control the juridical person and the denying Party does not 
+ 
+ 
+ 
+3.   
+ 
+ 
+ 
 maintain diplomatic relations with the non-Party. 
  
-4. 
-Notwithstanding paragraph 1, Thailand may, under its applicable 
+4.  Notwithstanding paragraph 1, Thailand may, under its applicable 
 laws and regulations, deny the benefits of this Chapter relating to 
-the admission, establishment, acquisition, and expansion of 
+the  admission,  establishment,  acquisition,  and  expansion  of 
 investments to an investor of another Party that is a juridical 
 person of such Party and to investments of such an investor 
 where Thailand establishes that the juridical person is owned or 
 controlled by natural persons or juridical persons of a non-Party 
 or of Thailand. 
  
-5. 
-For the purposes of this Article, for Thailand, a juridical person is: 
+5.  For the purposes of this Article, for Thailand, a juridical person is: 
  
-(a) 
-“owned” by natural persons or juridical persons of a Party 
+(a)  “owned” by natural persons or juridical persons of a Party 
 or of a non-Party if more than 50 per cent of the equity 
 interest in it is beneficially owned by such persons; and 
  
-(b) 
-“controlled” by natural persons or juridical persons of a 
+(b)  “controlled” by natural persons or juridical persons of a 
 Party or of a non-Party if such persons have the power to 
 name a majority of its directors or otherwise to legally direct 
 its actions. 
  
-6. 
-The Philippines may deny the benefits of this Chapter to investors 
+6.  The Philippines may deny the benefits of this Chapter to investors 
 of another Party and to investments of that investor where it 
 establishes that such investor has made an investment in breach 
 of the provisions of Commonwealth Act No. 108, entitled An Act 
-to Punish Acts of Evasion of Laws on the Nationalization of 
-Certain Rights, Franchises or Privileges, as amended by 
-Presidential Decree No. 715, otherwise known as The Anti-
+to  Punish  Acts  of  Evasion  of  Laws  on  the  Nationalization  of 
+Certain  Rights,  Franchises  or  Privileges,  as  amended  by 
+Presidential  Decree  No.  715,  otherwise  known  as  The  Anti-
 Dummy Law, as may be amended. 
  
-7. 
-A Party may deny the benefits of this Chapter to an investor of 
+7.  A Party may deny the benefits of this Chapter to an investor of 
 another Party or of a non-Party and to investments of that investor 
 where such an investor has made an investment in breach of the 
-provisions of the denying Party’s laws and regulations that 
+provisions  of  the  denying  Party’s  laws  and  regulations  that 
 implement the Financial Action Task Force Recommendations. 
- 
-10-19 
+10-18  
 Article 10.15: Security Exceptions 
  
-Notwithstanding Article 17.13 (Security Exceptions), nothing in this 
+Notwithstanding  Article  17.13  (Security  Exceptions),  nothing  in  this 
 Chapter shall be construed to: 
  
-(a) 
-require a Party to furnish or allow access to any information 
+(a)  require a Party to furnish or allow access to any information 
 the disclosure of which it determines to be contrary to its 
 essential security interests; or 
  
-(b) 
-preclude a Party from applying measures that it considers 
+(b)  preclude a Party from applying measures that it considers 
 necessary for: 
  
-(i) 
-the fulfilment of its obligations with respect to the 
+(i)  the fulfilment of its obligations with respect to the 
 maintenance or restoration of international peace or 
 security; or 
  
-(ii) 
-the protection of its own essential security interests. 
+(ii)  the protection of its own essential security interests. 
  
  
 Article 10.16: Promotion of Investment 
@@ -1069,116 +865,90 @@ Article 10.16: Promotion of Investment
 The Parties shall endeavour to promote and increase awareness of the 
 region as an investment area including through: 
  
-(a) 
-encouraging investments among the Parties; 
+(a)  encouraging investments among the Parties; 
  
-(b) 
-organising joint investment promotion activities between or 
+(b)  organising joint investment promotion activities between or 
 among Parties; 
  
-(c) 
-promoting business matching events; 
+(c)  promoting business matching events; 
  
-(d) 
-organising and supporting the organisation of various 
+(d)  organising  and  supporting  the  organisation  of  various 
 briefings and seminars on investment opportunities and on 
 investment laws, regulations, and policies; and 
  
-(e) 
-conducting information exchanges on other issues of 
+(e)  conducting  information  exchanges  on  other  issues  of 
 mutual concern relating to investment promotion. 
  
  
 Article 10.17: Facilitation of Investment 
  
-1. 
-Subject to its laws and regulations, each Party shall endeavour to 
+1.  Subject to its laws and regulations, each Party shall endeavour to 
 facilitate investments among the Parties, including through: 
  
-(a) 
-creating the necessary environment for all forms of 
+(a)  creating  the  necessary  environment  for  all  forms  of 
 investment; 
+10-19  
  
-10-20 
- 
-(b) 
-simplifying its procedures for investment applications and 
+(b)  simplifying its procedures for investment applications and 
 approvals; 
  
-(c) 
-promoting the dissemination of investment information, 
+(c)  promoting  the  dissemination  of  investment  information, 
 including investment rules, laws, regulations, policies, and 
 procedures; and 
  
-(d) 
-establishing or maintaining contact points, one-stop 
+(d)  establishing  or  maintaining  contact  points,  one-stop 
 investment centres, focal points, or other entities in the 
-respective Party to provide assistance and advisory 
+respective  Party  to  provide  assistance  and  advisory 
 services to investors, including the facilitation of operating 
 licences and permits. 
  
-2. 
-Subject to its laws and regulations, a Party’s activities under 
+2.  Subject to its laws and regulations, a Party’s activities under 
 subparagraph 1(d) may include, to the extent possible, assisting 
 investors of any other Party and covered investments to amicably 
 resolve complaints or grievances with government bodies which 
 have arisen during their investment activities by: 
  
-(a) 
-receiving and, where appropriate, considering referring or 
+(a)  receiving and, where appropriate, considering referring or 
 giving due consideration to complaints raised by investors 
 relating to government activities impacting their covered 
 investment; and 
  
-(b) 
-providing assistance, to the extent possible, in resolving 
+(b)  providing assistance, to the extent possible, in resolving 
 difficulties experienced by the investors in relation to their 
 covered investments. 
  
-3. 
-Subject to its laws and regulations, each Party may, to the extent 
-possible, 
-consider 
-establishing 
-mechanisms 
-to 
-make 
+3.  Subject to its laws and regulations, each Party may, to the extent 
+possible,  consider  establishing  mechanisms  to  make 
 recommendations to its relevant government bodies addressing 
 recurrent issues affecting investors of another Party. 
  
-4. 
-The Parties shall endeavour to facilitate meetings between their 
+4.  The Parties shall endeavour to facilitate meetings between their 
 respective competent authorities aimed at exchanging knowledge 
 and approaches to better facilitate investment. 
  
-5. 
-Nothing in this Article shall be subject to, or otherwise affect, any 
+5.  Nothing in this Article shall be subject to, or otherwise affect, any 
 dispute resolution proceedings under this Agreement. 
  
  
 Article 10.18: Work Programme 
  
-1. 
-The Parties shall, without prejudice to their respective positions, 
+1.  The Parties shall, without prejudice to their respective positions, 
 enter into discussions on: 
+10-20  
  
-10-21 
- 
-(a) 
-the settlement of investment disputes between a Party and 
+(a)  the settlement of investment disputes between a Party and 
 an investor of another Party; and 
  
-(b) 
-the application of Article 10.13 (Expropriation) to taxation 
+(b)  the application of Article 10.13 (Expropriation) to taxation 
 measures that constitute expropriation, 
  
 no later than two years after the date of entry into force of this 
 Agreement, the outcomes of which are subject to agreement by 
 all Parties. 
  
-2. 
-The Parties shall conclude the discussions referred to in 
+2.  The  Parties  shall  conclude  the  discussions  referred  to  in 
 paragraph 1 within three years from the date of commencement 
 of the discussions. 
  
  
+10-21 

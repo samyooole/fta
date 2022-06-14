@@ -1,308 +1,220 @@
  
  
- 
-Annex 10.1 - 1 
 Annex 10.1  
-Telecommunications Services1
+Telecommunications Services1 
  
  
- 
-This 
-Annex 
-sets 
-out 
-the 
-regulatory 
-principles 
-applicable 
-to 
+This  Annex  sets  out  the  regulatory  principles  applicable  to 
 telecommunications services, other than the cable or broadcast distribution of 
-radio or television programming2
+radio or television programming2. 
  
-. 
 Nothing in this Annex shall be construed:  
  
-(a) 
-to require a Party to authorize a service supplier of the other Party 
-to establish, construct, acquire, lease, operate, or supply 
+(a)  to require a Party to authorize a service supplier of the other Party 
+to  establish,  construct,  acquire,  lease,  operate,  or  supply 
 telecommunications services, other than as provided for in this 
-Agreement subject to each Party’s Annexes I and II (Non-
+Agreement  subject  to  each  Party’s  Annexes  I  and  II  (Non-
 Conforming Measures); or  
  
-(b) 
-to require a Party (or to require a Party to oblige service suppliers 
+(b)  to require a Party (or to require a Party to oblige service suppliers 
 in its territory) to establish, construct, acquire, lease, operate or 
-supply telecommunications services not offered to the public 
+supply  telecommunications  services  not  offered  to  the  public 
 generally. 
  
  
-1.  
-Universal Service 
+1.   Universal Service 
  
 Each Party shall have the right to define the kind of universal service 
 obligations it wishes to maintain. Such obligations will not be regarded as anti-
-competitive per se, provided they are administered in a transparent, non-
+competitive  per  se,  provided  they  are  administered  in  a  transparent,  non-
 discriminatory, and competitively neutral manner and are not more burdensome 
 than necessary for the kind of universal service defined by the Party. 
  
  
-2. 
-Independence of Regulatory Authority 
+2.  Independence of Regulatory Authority 
  
 Each Party shall ensure that its telecommunications regulatory authority 
 is separate from, and not accountable to, any supplier of telecommunications 
-services. Each Party shall ensure that its telecommunications regulatory 
-authority is authorized to impose effective sanctions to enforce domestic 
+services.  Each  Party  shall  ensure  that  its  telecommunications  regulatory 
+authority  is  authorized  to  impose  effective  sanctions  to  enforce  domestic 
 measures relating to the obligations set out in this Annex. The decisions and the 
-procedures of the regulatory authority shall be impartial with respect to all 
+procedures  of  the  regulatory  authority  shall  be  impartial  with  respect  to  all 
 market participants.  
  
  
                                          
 1 “Telecommunications services” includes both public telecommunications transport networks 
-and public telecommunications transport services. For Costa Rica, the terms “public 
+and  public  telecommunications  transport  services.  For  Costa  Rica,  the  terms  “public 
 telecommunications transport networks” or “public telecommunications transport services” are 
 referred to as “public telecommunications networks” or “telecommunications services available 
 to the public”, respectively. 
  
 2 For greater certainty, this Annex does not create market access rights or obligations. 
  
+  Annex 10.1 - 1  
  
- 
- 
-Annex 10.1 - 2 
-3. 
-Transparency 
+3.  Transparency 
  
 Each Party shall make publicly available all licensing or authorization 
-criteria and procedures required for suppliers of public telecommunications 
+criteria  and  procedures  required  for  suppliers  of  public  telecommunications 
 networks or of telecommunications services available to the public, including the 
 period of time normally required to reach a decision concerning an application 
 for a license or authorization, and the terms and conditions of all licenses or 
 authorizations issued. The reasons for the denial of a license or authorization 
 will be made known to the applicant upon request. 
  
-Each Party shall also make publicly available the rulemakings of its 
-telecommunications regulatory authority, the end-user tariffs filed with its 
+Each  Party  shall  also  make  publicly  available  the  rulemakings  of  its 
+telecommunications  regulatory  authority,  the  end-user  tariffs  filed  with  its 
 telecommunications regulatory authority, and the conditions affecting access to 
 and use of public telecommunications networks or telecommunications services 
 available to the public. 
  
  
-4. 
-Allocation and Use of Scarce Resources 
+4.  Allocation and Use of Scarce Resources 
  
 Each Party shall ensure that procedures for the allocation and use of 
-scarce resources, including frequencies, numbers, and rights of way, are 
-administered in an objective, timely, transparent, and non-discriminatory 
-manner by a competent domestic authority3
+scarce  resources,  including  frequencies,  numbers,  and  rights  of  way,  are 
+administered  in  an  objective,  timely,  transparent,  and  non-discriminatory 
+manner by a competent domestic authority3. 
  
-. 
 Each Party shall make publicly available the current state of allocated 
 frequency bands, but shall not be required to provide detailed identification of 
 frequencies allocated for specific government uses. 
  
  
-5. 
-Interconnection 
+5.  Interconnection 
  
-(a) 
-Each Party shall ensure that any major supplier in its territory 
-provides 
-interconnection 
-for 
-suppliers 
-of 
-public 
+(a)  Each Party shall ensure that any major supplier in its territory 
+provides  interconnection  for  suppliers  of  public 
 telecommunications networks or of telecommunications services 
 available to the public of the other Party at any technically feasible 
 point in the major supplier’s network. Such interconnection shall 
 be provided in accordance with the respective domestic laws: 
  
-i. 
-under non-discriminatory terms, conditions (including 
+i.  under  non-discriminatory  terms,  conditions  (including 
 technical standards and specifications) and rates and of a 
 quality no less favourable than that provided for its own like 
-services or for like services of non-affiliated service 
+services  or  for  like  services  of  non-affiliated  service 
 suppliers or for its subsidiaries or other affiliates; 
  
-ii. 
-in a timely fashion, on terms, conditions (including technical 
+ii.  in a timely fashion, on terms, conditions (including technical 
 standards and specifications) and cost-oriented rates that 
-are transparent, reasonable, having regard to economic 
+are  transparent,  reasonable,  having  regard  to  economic 
                                          
 3 The competent domestic authority shall be separate from, and not accountable to, any supplier 
 of telecommunications services. 
  
+  Annex 10.1 - 2  
  
- 
- 
-Annex 10.1 - 3 
-feasibility, and sufficiently unbundled so that a supplier 
+feasibility,  and  sufficiently  unbundled  so  that  a  supplier 
 need not pay for network components or facilities that it 
 does not require for the service to be provided; and 
  
-iii. 
-upon request, at points in addition to the network 
+iii.  upon  request,  at  points  in  addition  to  the  network 
 termination points offered to the majority of users, subject 
 to charges that reflect the cost of construction of necessary 
 additional facilities. 
  
-(b) 
-Each Party shall ensure that applicable procedures for 
-interconnection to a major supplier, their interconnection 
+(b)  Each  Party  shall  ensure  that  applicable  procedures  for 
+interconnection  to  a  major  supplier,  their  interconnection 
 agreements and their referenced interconnection offers are made 
 publicly available. 
  
-(c) 
-Each Party shall ensure that a service supplier requesting 
-interconnection with a major supplier has recourse to an 
-independent domestic body4
- 
-, which may be the regulatory 
+(c)  Each  Party  shall  ensure  that  a  service  supplier  requesting 
+interconnection  with  a  major  supplier  has  recourse  to  an 
+independent  domestic  body4,  which  may  be  the  regulatory 
 authority referred to in paragraph 2, to resolve disputes regarding 
 appropriate terms, conditions, and rates for interconnection, within 
 a reasonable time. 
  
-6.  
-Access to and Use of the Network 
  
-(a) 
-Each Party shall ensure that enterprises of the other Party have 
+6.   Access to and Use of the Network 
+ 
+(a)  Each Party shall ensure that enterprises of the other Party have 
 access to and use of any public telecommunications networks or 
-telecommunications services available to the public, including 
+telecommunications  services  available  to  the  public,  including 
 leased circuits, offered in its territory or across its borders, on 
 reasonable and non-discriminatory terms and conditions, and are 
 permitted to: 
  
-i. 
-purchase or lease and attach terminal or other equipment 
+i.  purchase or lease and attach terminal or other equipment 
 that interfaces with a public telecommunications network; 
  
-ii. 
-provide services to individual or multiple end-users over 
+ii.  provide  services  to  individual  or  multiple  end-users  over 
 leased or owned circuits; 
  
-iii. 
-connect 
-owned 
-or 
-leased 
-circuits 
-with 
-public 
-telecommunications 
-networks 
-or 
-telecommunications 
+iii.  connect  owned  or  leased  circuits  with  public 
+telecommunications  networks  or  telecommunications 
 services available to the public in its territory, or across its 
 borders or with circuits leased or owned by another person; 
  
-iv. 
-perform switching, signaling, processing, and conversion 
+iv.  perform  switching,  signaling,  processing,  and  conversion 
 functions, and use operating protocols of their choice; and 
  
-v. 
-use 
-public 
-telecommunications 
-networks 
-or 
+v.  use  public  telecommunications  networks  or 
 telecommunications services available to the public for the 
                                          
 4 The independent domestic body shall be separate from, and not accountable to, any supplier 
 of telecommunications services. 
  
+  Annex 10.1 - 3  
  
- 
- 
-Annex 10.1 - 4 
-movement of information contained in databases or 
+movement  of  information  contained  in  databases  or 
 otherwise stored in machine-readable form in the territory of 
 any Party. 
  
-(b) 
-Notwithstanding subparagraph (a), a Party may take such 
-measures as are necessary to ensure the security and 
+(b)  Notwithstanding  subparagraph  (a),  a  Party  may  take  such 
+measures  as  are  necessary  to  ensure  the  security  and 
 confidentiality of messages or to protect the privacy of non-public 
-personal data of subscribers to telecommunications services 
-available to the public, subject to the requirement that such 
+personal  data  of  subscribers  to  telecommunications  services 
+available  to  the  public,  subject  to  the  requirement  that  such 
 measures are not applied in a manner that would constitute a 
-means of arbitrary or unjustifiable discrimination or disguised 
+means  of  arbitrary  or  unjustifiable  discrimination  or  disguised 
 restriction on trade in services.  
  
-(c) 
-Each Party shall ensure that no condition is imposed on access to 
-and 
-use 
-of 
-public 
-telecommunications 
-networks 
-or 
+(c)  Each Party shall ensure that no condition is imposed on access to 
+and  use  of  public  telecommunications  networks  or 
 telecommunications services available to the public, other than 
 that necessary to safeguard the public service responsibilities of 
-suppliers 
-of 
-public 
-telecommunications 
-networks 
-or 
+suppliers  of  public  telecommunications  networks  or 
 telecommunications services available to the public, in particular 
 their ability to make their networks or services available to the 
-public generally, or protect the technical integrity of public 
-telecommunications networks or telecommunications services 
+public  generally,  or  protect  the  technical  integrity  of  public 
+telecommunications  networks  or  telecommunications  services 
 available to the public. 
  
-(d) 
-Provided that they satisfy the criteria set out in subparagraph (c), 
+(d)  Provided that they satisfy the criteria set out in subparagraph (c), 
 conditions for access to and use of public telecommunications 
 networks and telecommunications services available to the public 
 may include: 
  
-i. 
-requirements, where necessary, for the inter-operability of 
+i.  requirements, where necessary, for the inter-operability of 
 such services;  
  
-ii. 
-type approval of terminal or other equipment which 
-interfaces with the network and technical requirements 
-relating to the attachment of such equipment to such 
+ii.  type  approval  of  terminal  or  other  equipment  which 
+interfaces  with  the  network  and  technical  requirements 
+relating  to  the  attachment  of  such  equipment  to  such 
 networks; or 
  
-iii. 
- notification, registration and licensing.  
+iii.   notification, registration and licensing.  
  
-7. 
-Competition 
+7.  Competition 
  
-Each Party shall maintain appropriate measures for the purpose of 
+Each  Party  shall  maintain  appropriate  measures  for  the  purpose  of 
 preventing suppliers who, alone or together, are a major supplier from engaging 
 in or continuing anti-competitive practices, such as engaging in anti-competitive 
-cross-subsidiation; using information obtained from competitors with anti-
+cross-subsidiation;  using  information  obtained  from  competitors  with  anti-
 competitive results; and not making available, on a timely basis, to suppliers of 
 public telecommunications networks or telecommunications services available 
 to the public, technical information about essential facilities and commercially 
-relevant 
-information 
-that 
-is 
-necessary 
-for 
-them 
-to 
-provide 
-public 
+relevant  information  that  is  necessary  for  them  to  provide  public 
+  Annex 10.1 - 4  
  
- 
- 
-Annex 10.1 - 5 
 telecommunications networks or telecommunications services available to the 
 public. 
  
  
-8. 
-Submarine Cable Systems 
+8.  Submarine Cable Systems 
  
 Each Party shall ensure reasonable and non-discriminatory treatment for 
 access to submarine cable systems (including landing facilities) in its territory, 
@@ -310,8 +222,7 @@ where a supplier is authorized to operate such submarine cable system as a
 telecommunications service available to the public. 
  
  
-9. 
-Flexibility in the Choice of Technologies 
+9.  Flexibility in the Choice of Technologies 
  
 A Party may not prevent suppliers of public telecommunications networks 
 or telecommunications services available to the public from having the flexibility 
@@ -321,8 +232,7 @@ networks are able to communicate with each other and requirements necessary
 to satisfy legitimate public policy interests. 
  
  
-10. 
-Relationship to Other Chapters 
+10.  Relationship to Other Chapters 
  
 In the event of inconsistency between this Annex and any Chapter, this 
 Annex shall prevail to the extent of such inconsistency. 
@@ -330,3 +240,4 @@ Annex shall prevail to the extent of such inconsistency.
  
  
  
+  Annex 10.1 - 5 

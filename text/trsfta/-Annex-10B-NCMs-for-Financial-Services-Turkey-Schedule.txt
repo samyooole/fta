@@ -1,398 +1,139 @@
 Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
  
-1 
- 
- 
- 
+   
 ANNEX 10-B 
 NON-CONFORMING MEASURES FOR FINANCIAL SERVICES 
 SCHEDULE OF TURKEY 
  
 Explanatory Notes 
  
-1. 
-The Schedule of Turkey to this Annex sets out, pursuant to Article 10.6 (Non-
+1.  The  Schedule  of  Turkey  to  this  Annex  sets  out,  pursuant  to  Article  10.6  (Non-
 Conforming Measures) of Chapter 10 (Financial Services), the reservations taken by 
-Turkey for the specific sectors, sub-sectors, or activities for which Turkey may 
+Turkey  for  the  specific  sectors,  sub-sectors,  or  activities  for  which  Turkey  may 
 maintain existing, or adopt new or more restrictive measures that do not conform with 
 the obligations imposed by: 
  
-(a) 
-Article 10.3 (National Treatment) of Chapter 10 (Financial Services), 
+(a)  Article 10.3 (National Treatment) of Chapter 10 (Financial Services), 
   
-(b)  
-Article 10.4 (Market Access for Financial Institutions) of Chapter 10 
+(b)   Article  10.4  (Market  Access  for  Financial  Institutions)  of  Chapter  10 
 (Financial Services), or  
  
-(c)  
-Article 10.5 (Cross-Border Trade in Financial Services) of Chapter 10 
+(c)   Article  10.5  (Cross-Border  Trade  in  Financial  Services)  of  Chapter  10 
 (Financial Services).   
  
-2. 
-The sectors, subsectors or activities to which a reservation applies shall be stated in the 
-Description of Reservation element. In the interpretation of a reservation, all 
+2.  The sectors, subsectors or activities to which a reservation applies shall be stated in the 
+Description  of  Reservation  element.  In  the  interpretation  of  a  reservation,  all 
 elements of the reservation shall be considered in their totality. 
   
-3. 
-Each Schedule entry sets out the following elements: 
-(a) 
-Sector refers to the general sector for which the entry is made; 
+3.  Each Schedule entry sets out the following elements: 
+(a)  Sector refers to the general sector for which the entry is made; 
  
-(b) 
-Sub-sector refers to the specific sub-sector for which the entry is made; 
+(b)  Sub-sector refers to the specific sub-sector for which the entry is made; 
  
-(c) 
-Type of Reservation specifies the article(s) referred to in paragraph 1 that, 
-pursuant to paragraph 2 of Article 10.6 (Non-Conforming Measures) of 
+(c)  Type of Reservation specifies the article(s) referred to in paragraph 1 that, 
+pursuant  to  paragraph  2  of  Article  10.6  (Non-Conforming  Measures)  of 
 Chapter 10 (Financial Services), do not apply to the sectors, subsectors, or 
 activities scheduled in the entry; 
  
-(d) 
-Description of Reservation sets out the scope of the sectors, subsectors, or 
+(d)  Description of Reservation sets out the scope of the sectors, subsectors, or 
 activities covered by the entry; and  
  
-(e) 
-Source of Measure identifies, where relevant and for transparency purposes, 
+(e)  Source of Measure identifies, where relevant and for transparency purposes, 
 existing measures that apply to the sectors, subsectors, or activities covered by 
 the entry. The measures stipulated therein are not exhaustive. 
  
-4.  
-Whenever, in this Schedule, the supply of services is conditioned upon obtaining 
-authorization from relevant regulatory authorities, it shall be understood that the 
+4.   Whenever, in this Schedule, the supply of services is conditioned upon obtaining 
+authorization  from  relevant  regulatory  authorities,  it  shall  be  understood  that  the 
 authorization process is non-automatic, requiring a case-by-case evaluation, and the 
 regulatory authorities may exercise discretion over their decisions. 
-  
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
+   
+1 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
- 
-2 
  
 1. 
-Sector  
-Financial Services 
-Sub-sector  
-Insurance and insurance related services  
-Type of Reservation 
-National Treatment (Article 10.3) 
-Market Access for Financial Institutions (Article 10.4) 
-Cross-Border Trade in Financial Services (Article 10.5) 
-Description of Reservation Turkey reserves the right to adopt or maintain any measure 
-relating to the cross border trade in insurance and insurance 
-related services, except for:  
  
-(a) insurance of risks relating to: 
+   
+2 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
-(i) Life insurance; 
- 
-(ii) The hull insurance of aircrafts, helicopters and 
-ships which are purchased through a foreign 
-loan or leased through a financial leasing 
-contract from abroad, provided that the 
-insurance period is limited to the term of the 
-credit or leasing contract; 
- 
-(iii) Marine liability insurance; 
- 
-(iv) Transportation insurance of imported and 
-exported goods; 
- 
-(v) Personal injury, sickness, health and motor 
-vehicle insurance, limited to the time during 
-which the Turkish nationals will be abroad or 
-temporarily staying abroad,  
- 
-(vi) Insurance of ships and yachts registered with 
-the Turkish International Maritime Registry. 
- 
-(b) Reinsurance and retrocession;  
- 
- 
-(c) Services auxiliary to insurance; except for services 
-provided by adjusters and actuaries. 
- 
-Source of Measure 
-- 
- 
- 
- 
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
- 
- 
-3 
  
  
  
 2. 
-Sector  
-Financial Services 
- 
-Sub-sector  
-Insurance Intermediation 
- 
-Type of Reservation 
-National Treatment (Article 10.3) 
-Market Access for Financial Institutions (Article 10.4)  
-Cross-Border Trade in Financial Services (Article 10.5) 
- 
-Description of Reservation Turkey reserves the right to adopt or maintain any measure 
-relating to the provision, by adjusters and actuaries, of 
-services auxiliary to insurance, such as consultancy, actuarial, 
-risk assessment and claim services. 
- 
-Source of Measure 
--  
  
  
  
+   
+3 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
- 
- 
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
- 
- 
-4 
  
  
  
 3.  
-Sector  
-Financial Services 
- 
-Sub-sector  
-Banking and other financial services (excl. insurance) 
- 
-Type of Reservation 
-National Treatment (Article 10.3) 
-Market Access for Financial Institutions (Article 10.4) 
-Cross-Border Trade in Financial Services (Article 10.5) 
- 
-Description of Reservation Turkey reserves the right to adopt or maintain any measure  
-relating to the cross border trade in Banking and other 
-financial services (excl. insurance), except for:  
- 
-(a)  provision and transfer of financial information; and 
- 
-(b)  advisory, 
-intermediation 
-and 
-other 
-auxiliary 
-financial services on banking and other financial 
-services (excluding insurance) activities listed in 
-subparagraphs (b)(i) through (xi) of the definition of 
-“financial service” in Article 10.1 (Definitions). 
- 
-Source of Measure 
-- 
- 
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
  
-5 
+4 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
+ 
  
 4. 
-Sector  
-Financial Services 
-Sub-sector  
-Banking and other financial services (excl. insurance) 
-Type of Reservation 
-National Treatment (Article 10.3)  
-Market Access for Financial Institutions (Article 10.4) 
  
-Description of Reservation 
-Turkey reserves the right to adopt or maintain any 
-measure  relating to:  
+   
+5 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
-(a) institutions accepting deposits;  
- 
-(b) the range of activities a bank is allowed to perform;  
- 
-(c) the provision of all electronic banking services. 
- 
-Source of Measure 
-- 
- 
- 
- 
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
- 
- 
-6 
  
 5. 
-Sector  
-Financial Services 
  
-Sub-sector  
-Banking and other financial services (excl. insurance) 
+   
+6 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
-Type of Reservation 
-National Treatment (Article 10.3)  
-Market Access for Financial Institutions (Article 10.4) 
- 
-Description of Reservation Turkey reserves the right to adopt or maintain any measure 
-which may include limitations on juridical form with regard 
-to safeguarding the interest of depositors and/or for the 
-protection of consumers of financial services and investors. 
- 
-Source of Measure 
-- 
- 
- 
- 
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
- 
- 
-7 
  
 6. 
-Sector  
-Financial Services 
+   
+7 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
-Sub-sector  
-All  
- 
-Type of Reservation 
-National Treatment (Article 10.3) 
-Description of Reservation Turkey reserves the right to adopt or maintain any measure 
-relating to the extension of foreign currency or Turkish 
-currency loans, securities and other capital market 
-instruments in order to protect the value of the Turkish 
-currency.  
- 
-Source of Measure 
-- Law No. 1567 Regarding the Protection of the Value of 
-Turkish Currency, 
-- Decree No.32 on the Protection of the Value of Turkish 
-Currency 
- 
- 
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
- 
- 
-8 
  
 7.  
-Sector  
-Financial Services 
+   
+8 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
-Sub-sector  
-Participation in issues of all kinds of securities, including 
-underwriting and placement as agent and provision of service 
-related to such issues 
- 
-Type of Reservation 
-Market Access for Financial Institutions (Article 10.4) 
-Description of Reservation 
- 
-Turkey reserves the right to adopt or maintain any measure 
-relating to: 
-(a) 
-Membership in exchanges,  
- 
-(b) 
-Foreign acquisition of new and existing equity 
-interests in exchanges and market operators. 
- 
-Source of Measure 
-- 
- 
- 
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
- 
- 
-9 
  
 8.  
-Sector  
-Financial Services 
- 
-Sub-sector  
-Settlement and clearing services for financial assets, 
-including securities, derivative products and other negotiable 
-instruments 
- 
-Type of Reservation 
-National Treatment (Article 10.3) 
-Market Access for Financial Institutions (Article 10.4) 
- 
-Description of Reservation Turkey reserves the right to adopt or maintain any measure 
-relating to the supply of clearing and settlement services for 
-capital market instruments that are traded on the exchange 
-and subject to central clearing.  
-Source of Measure 
-- 
  
  
+   
+9 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
  
- 
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
- 
- 
-10 
  
  
 9. 
-Sector  
-All Financial Services 
-Sub-sector  
-Financial data processing and provision and transfer of 
-related software by suppliers of other financial services 
- 
-Type of Reservation 
-National Treatment (Article 10.3) 
-Market Access for Financial Institutions (Article 10.4) 
-Cross-Border Trade in Financial Services (Article 10.5) 
- 
-Description of Reservation Turkey reserves the right to adopt or maintain any measure 
-relating to financial data processing and provision and 
-transfer of related software by suppliers of other financial 
-services. 
- 
-Mandatory localisation requirements apply for the 
-information systems of financial institutions. All financial 
-service providers are required to establish and maintain 
-data processing centers (both primary information systems1  
-and their backups) in Turkey for the storage and processing 
-of data. 
-Source of Measure 
-- 
   
  
  
- 
- 
+   
                                                            
 1 Information systems comprises infrastructure, hardware, software and data which ensure the execution of 
 financial activities as well as the recording and use of information in electronic media in a secure manner and as 
 to be accessed when needed.  
-Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
+10 
+ Annex 10-B Non-Conforming Measures for Financial Services (Schedule of Turkey) 
+ 
+ 
+10. 
+ 
+ 
+ 
+ 
+ 
  
  
 11 
- 
-10. 
-Sector  
-All Financial Services 
-Sub-sector  
- 
-Type of Reservation 
-National Treatment (Article 10.3) 
-Market Access for Financial Institutions (Article 10.4) 
-Cross-Border Trade in Financial Services (Article 10.5) 
- 
-Description of Reservation Turkey reserves the right to adopt or maintain any measure 
-affecting the supply of a financial service in its territory by 
-a national of Singapore, subject to the provisions of 
-Chapter 11 (Temporary Movement of Natural Persons). 
- 
-Source of Measure 
-- 
- 
- 
- 
- 
- 
- 
  

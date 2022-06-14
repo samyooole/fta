@@ -19,41 +19,32 @@ a  service  using  electronic means fal s within  the  scope  of  the  obligatio
 contained  in  the  relevant  provisions of  Chapters 9  (Investment),  10  (Cross- 
 Border  Trade  in  Services)  and  11  (Financial  Services),  subject  to  any  
 exceptions applicable  to  such  obligations and  except  where  an  obligation  
-does not  apply  to  any  such  measure  pursuant  to  Articles 9.10  
-(Non- 
+does not  apply  to  any  such  measure  pursuant  to  Articles 9.10   (Non- 
 Conforming  Measures),  10.7  (Non-Conforming  Measures),  or  11.10  (Non- 
 Conforming Measures).   
  
  
 Article 13.3: Digital Products  
- 
-1.  
- 
-A Party shal  not apply customs duties or other duties, fees, or charges 
+   
+1.   A Party shal  not apply customs duties or other duties, fees, or charges 
 on or in connection with the importation or exportation of digital products by  
-electronic transmission
-1.  
+electronic transmission1.  
  
-2.   
-A  Party  shal   not  accord  less favorable  treatment  to  some  digital  
+2.    A  Party  shal   not  accord  less favorable  treatment  to  some  digital  
 products than it accords to other like digital products:  
  
-(a)  
-on the basis that:  
+(a)   on the basis that:  
  
-(i)   
-the digital products receiving less favorable treatment are  
+(i)    the digital products receiving less favorable treatment are  
 created,  produced,  published,  stored,  transmitted,  
 contracted for,  commissioned,  or first made  available  on  
 commercial terms, outside its territory; or  
  
-(i )   
-the author, performer, producer, developer, or distributor  
+(i )    the author, performer, producer, developer, or distributor  
 of such digital products is a person of the other Party or a  
 non-Party; or  
  
-(b)  
-so  as otherwise  to  afford  protection  to  the  other  like  digital  
+(b)   so  as otherwise  to  afford  protection  to  the  other  like  digital  
 products that  is created,  produced,  published,  stored,  
 transmitted,  contracted  for,  commissioned,  or  first  made  
 available on commercial terms, in its territory.  
@@ -62,35 +53,29 @@ available on commercial terms, in its territory.
 charges provided that these are imposed in a manner consistent with this Agreement.  
  
  
-13 - 1 
+13 - 1  
  
  
  
+3.    A Party shal  not accord less favorable treatment to digital products:  
  
-3.   
-A Party shal  not accord less favorable treatment to digital products:  
- 
-(a)  
-created,  produced,  published,  stored,  transmitted,  contracted  
+(a)   created,  produced,  published,  stored,  transmitted,  contracted  
 for, commissioned, or first made available on commercial terms  
 in  the  territory  of  the  other  Party  than  it  accords to  like  digital  
 products  created,  produced,  published,  stored,  transmitted,  
 contracted  for,  commissioned,  or  first  made  available  on  
 commercial terms, in the territory of a non-Party;  
  
-(b)  
-whose author, performer, producer, developer, or distributor is a  
+(b)   whose author, performer, producer, developer, or distributor is a  
 person of the other Party than it accords to like digital products 
 whose author, performer, producer, developer, or distributor is a  
 person of a non-Party.  
  
-4.   
-Paragraphs 2  &  3  do  not  apply  to  any  non-conforming  measure  
+4.    Paragraphs 2  &  3  do  not  apply  to  any  non-conforming  measure  
 described in Articles 9.10 (Non-Conforming Measures), 10.7 (Non-Conforming  
 Measures), or 11.10 (Non-Conforming Measures).  
  
-5.   
-This Article  does not  apply  to  measures  affecting  the  electronic  
+5.    This Article  does not  apply  to  measures  affecting  the  electronic  
 transmission  of  a  series of  text,  video,  images,  sound  recordings,  and  other  
 products scheduled by a content provider for aural and / or visual reception,  
 and for which the content consumer has no choice over the scheduling of the  
@@ -102,25 +87,21 @@ Article 13.4:  Cooperation
 Recognizing the global nature of electronic commerce, the Parties affirm the  
 importance of:  
  
-(a)  
-working  together  to  overcome  obstacles encountered  by  the  
+(a)   working  together  to  overcome  obstacles encountered  by  the  
 private sector, including smal  and medium enterprises in using  
 electronic commerce;  
  
-(b)  
-sharing information and experiences on issues in the sphere of  
+(b)   sharing information and experiences on issues in the sphere of  
 electronic commerce,  including  those  related  to  data  privacy,  
 consumer  confidence  in  electronic commerce,  cyber-security,  
 electronic signatures,  intel ectual  property  rights,  and electronic  
 government;  
  
-(c)  
-working  to  maintain  cross-border  flows of  information  as an  
+(c)   working  to  maintain  cross-border  flows of  information  as an  
 essential  element  in  fostering  a  vibrant  environment  for  
 electronic commerce;  
  
-(d)  
-encouraging the private sector to adopt self-regulation, including  
+(d)   encouraging the private sector to adopt self-regulation, including  
 through  codes of  conduct,  model  contracts,  guidelines,  and  
 enforcement mechanisms that foster electronic commerce; and  
  
@@ -128,42 +109,31 @@ enforcement mechanisms that foster electronic commerce; and
  
  
  
-13 - 2 
+13 - 2  
  
  
- 
-(e)  
-actively participating in regional and multilateral fora to promote  
+(e)   actively participating in regional and multilateral fora to promote  
 the development of electronic commerce.  
  
  
 Article 13.5: Definitions  
  
 For purposes of this Chapter:  
- 
-1.  
- 
-carrier medium means any physical object capable of storing a digital  
+   
+1.   carrier medium means any physical object capable of storing a digital  
 product  by  any  method  now  known  or  later  developed,  and  from  which  a  
 digital  product  can  be  perceived,  reproduced,  or  communicated,  directly  or  
 indirectly, and includes, but is not limited to, an optical medium, a floppy disk,  
 or a magnetic tape;  
- 
-2.  
- 
-digital  products  means computer  programs,  text,  video,  images,  
+   
+2.   digital  products  means computer  programs,  text,  video,  images,  
 sound recordings and other products that are digital y encoded, regardless of  
-whether they are fixed on a carrier medium or transmitted electronical y
-2;  
- 
-3.  
- 
-electronic  transmission  or  transmitted  electronically  means the  
+whether they are fixed on a carrier medium or transmitted electronical y2;  
+   
+3.   electronic  transmission  or  transmitted  electronically  means the  
 transfer of digital products using any electromagnetic or photonic means; and   
- 
-4.  
- 
-using electronic means means employing computer processing.  
+   
+4.   using electronic means means employing computer processing.  
  
  
  

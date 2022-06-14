@@ -3,8 +3,11 @@ sys.path.append("scripts/prepro/")
 from corpusManagement import getcorpusbyParas
 from text_preprocessing import to_lower, check_spelling, expand_contraction, remove_number, remove_special_character, remove_punctuation, remove_whitespace, normalize_unicode, stem_word, remove_stopword, remove_single_characters, remove_url
 import pickle
+from itertools import chain
 
-meta = getcorpusbyParas('text')
+meta = getcorpusbyParas('text') # temporary, move back once the new dict corpus style is done
+
+
 
 # some quick manual cleaning to reduce the # of rows
 for items in meta:
@@ -86,7 +89,6 @@ text = [ [word for word in para.split() if len(word) <= 20] for para in text]
 
 text = [" ".join(para) for para in text]
 
-#stemmed_text = processor(stem_word, text)
 
 # save as pickle, takes a long time
 with open('pickles/fullytreated_corpus.pkl', 'wb') as f:
@@ -95,9 +97,29 @@ with open('pickles/fullytreated_corpus.pkl', 'wb') as f:
 with open('pickles/paralist.pkl', 'wb') as f:
     pickle.dump(paralist, f)
 
+import csv
+import pandas as pd
+
+
+df=pd.DataFrame(text)# build dataframe here
+
+df.columns=["text"]
+df=df[df['text'].str.len() <30000] # get rid of absurdly long strings
+df.to_csv('text_prelabel.csv')
 
 # test pickle loading
 file = open('pickles/fullytreated_corpus.pkl', 'rb')
 new_pp = pickle.load(file) 
 
 
+import matplotlib.pyplot as plt
+
+"""
+I want to get rid of absurdly strings that come from accidentally captured tariff schedules"""
+
+lengths = df['text'].str.len() 
+
+
+
+plt.hist(lengths)
+plt.show()

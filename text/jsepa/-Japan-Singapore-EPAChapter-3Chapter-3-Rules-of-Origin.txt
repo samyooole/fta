@@ -4,8 +4,7 @@ products, and that any such measures, which are inconsistent
 with the other provisions of this Agreement shall be discontinued
 as soon as the conditions giving rise to them have ceased to
 exist.
-2.
-In the application of paragraph 1 above, the relevant interpretations
+2. In the application of paragraph 1 above, the relevant interpretations
 and operation of the WTO Agreement shall, where appropriate, be taken into
 account.
 Article 20
@@ -18,12 +17,10 @@ the General Agreement on Tariffs and Trade 1994 in Annex 1A to the WTO
 Agreement.
 Article 21
 Miscellaneous Provisions under Chapter 2
-1.
-In fulfilling its obligations under this Chapter, each Party shall take such
+1. In fulfilling its obligations under this Chapter, each Party shall take such
 reasonable measures as may be available to it to ensure the observance of
 the provisions of this Chapter by local governments within its territory.
-2.
-If a Party has entered into an international agreement on trade in
+2. If a Party has entered into an international agreement on trade in
 goods with a non-Party, or enters into such an agreement after this
 Agreement comes into force, it shall favourably consider according to goods
 originating in or destined for the territory of the other Party, treatment no less
@@ -34,99 +31,74 @@ RULES OF ORIGIN
 Article 22
 Definitions under Chapter 3
 For the purposes of this Chapter:
-(a)
-the term “material” includes ingredients, parts, components,
+(a) the term “material” includes ingredients, parts, components,
 subassemblies and goods that were physically incorporated into
 another good or were subject to a process in the production of
 another good;
-(b)
-the term “non-originating material” means a material whose
-country of origin, as determined under this Chapter, is not the
-- Page 14 -
+(b) the term “non-originating material” means a material whose
+country of origin, as determined under this Chapter, is not the- Page 14 -
 same country as the country in which that material is used in
 production; and
-(c)
-the term “production” means methods of obtaining goods
+(c) the term “production” means methods of obtaining goods
 including manufacturing, producing, assembling, processing,
 raising, growing, breeding, mining, extracting, harvesting,
 fishing, trapping, gathering, collecting, hunting and capturing.
 Article 23
 Originating Goods
-1.
-For the purposes of this Agreement, goods wholly obtained or
+1. For the purposes of this Agreement, goods wholly obtained or
 produced entirely in a Party shall be treated as originating goods of that Party.
 The following goods shall be considered as being wholly obtained or
 produced entirely in a Party:
-(a)
-live animals born and raised in the territory of that Party;
-(b)
-animals obtained by hunting, trapping, fishing, gathering or
+(a) live animals born and raised in the territory of that Party;
+(b) animals obtained by hunting, trapping, fishing, gathering or
 capturing in the territory of that Party;
-(c)
-goods obtained from live animals in the territory of that Party;
-(d)
-plants and plant products harvested, picked or gathered in the
+(c) goods obtained from live animals in the territory of that Party;
+(d) plants and plant products harvested, picked or gathered in the
 territory of that Party;
-(e)
-minerals and other naturally occurring substances, not included
+(e) minerals and other naturally occurring substances, not included
 in sub-paragraphs (a) through (d) above, extracted or taken in
 the territory of that Party;
-(f)
-goods of sea-fishing and other goods taken from the sea,
+(f) goods of sea-fishing and other goods taken from the sea,
 outside the territorial sea of that Party, by vessels that are
 entitled to fly the flag of that Party;
-(g)
-goods obtained or produced on board factory ships, outside the
+(g) goods obtained or produced on board factory ships, outside the
 territorial sea of that Party, that are entitled to fly the flag of that
 Party, provided that these goods are manufactured from goods
 referred to in sub-paragraph (f) above;
-(h)
-goods taken from the sea bed or subsoil beneath the sea bed
+(h) goods taken from the sea bed or subsoil beneath the sea bed
 outside the territorial sea of that Party, in accordance with the
 provisions of the United Nations Convention on the Law of the
 Sea;
-(i)
-articles collected in the territory of that Party which can no
+(i) articles collected in the territory of that Party which can no
 longer perform their original purpose in its territory nor are
 capable of being restored or repaired and which are fit only for
 disposal or for the recovery of parts or raw materials;
-(j)
-scrap and waste derived from manufacturing or processing
+(j) scrap and waste derived from manufacturing or processing
 operations or from consumption in the territory of that Party and
-fit only for disposal or for the recovery of raw materials;
-- Page 15 -
-(k)
-parts or raw materials recovered in the territory of that Party
+fit only for disposal or for the recovery of raw materials;- Page 15 -
+(k) parts or raw materials recovered in the territory of that Party
 from articles which can no longer perform their original purpose
 nor are capable of being restored or repaired; and
-(l)
-goods obtained or produced in the territory of that Party solely
+(l) goods obtained or produced in the territory of that Party solely
 from goods referred to in sub-paragraphs (a) through (k) above.
-2.
-For the purposes of this Agreement, goods which have undergone
+2. For the purposes of this Agreement, goods which have undergone
 sufficient transformation in a Party shall be treated as originating goods of that
 Party.  Goods which satisfy the product-specific rules provided for in Annex IIA
 shall be considered as goods to which sufficient transformation has been
 carried out in a Party.
-3.
-Product-specific rules requiring that the materials used undergo a
+3. Product-specific rules requiring that the materials used undergo a
 change in tariff classification or a specific manufacturing or processing
 operation shall apply only to non-originating materials.
-4.
-(a)
-Product-specific rules using the value-added method require
+4. (a) Product-specific rules using the value-added method require
 that:
-(i)
-the qualifying value content of the good, determined in
+(i) the qualifying value content of the good, determined in
 accordance with sub-paragraph (b) below and Article 24
 below, is not less than the percentage specified by the
 rule for the good in Annex IIA; and
-(ii)
-the good has undergone its last production or operation
+(ii) the good has undergone its last production or operation
 which satisfies the requirement of sub-paragraph (i)
 above in the territory of either Party.
-(b)
-For the purpose of calculating the qualifying value content of a
+(b) For the purpose of calculating the qualifying value content of a
 good pursuant to sub-paragraph (a) above, the following formula
 shall be applied:
 Q.V.C.   =    F.O.B. – N.Q.M.  x 100
@@ -141,65 +113,49 @@ reduced, exempted, or repaid when the good is exported;
 and
 N.Q.M. is the non-qualifying value of materials used by
 the producer in the production of the good, calculated in
-accordance with sub-paragraph (c) below.
-- Page 16 -
-(c)
-For the purpose of calculating the non-qualifying value of
+accordance with sub-paragraph (c) below.- Page 16 -
+(c) For the purpose of calculating the non-qualifying value of
 materials pursuant to sub-paragraph (b) above, the following
 formula shall be applied:
 N.Q.M. = T.V.M. – Q.V.M.
 Where:
 T.V.M. is the total value of materials; and
 Q.V.M. is the qualifying value of materials.
-5.
-For the purpose of sub-paragraph (c) of paragraph 4 above:
-(a)
-the qualifying value of materials shall be:
-(i)
-the total value of the material if the material satisfies the
+5. For the purpose of sub-paragraph (c) of paragraph 4 above:
+(a) the qualifying value of materials shall be:
+(i) the total value of the material if the material satisfies the
 requirements of sub-paragraph (b) below; or
-(ii)
-the value of the material that can be attributed to one or
+(ii) the value of the material that can be attributed to one or
 both of the Parties if the material does not satisfy the
 requirements of sub-paragraph (b) below; and
-(b)
-for the purpose of sub-paragraph (a) above, a material shall be
+(b) for the purpose of sub-paragraph (a) above, a material shall be
 considered to have satisfied the requirements of this sub-
 paragraph if:
-(i)
-the content of the value of the material that can be
+(i) the content of the value of the material that can be
 attributed to one or both of the Parties is not less than 60
 per cent of the total value of the material; and
-(ii)
-the material has undergone its last production or
+(ii) the material has undergone its last production or
 operation in the territory of either Party.
-6.
-The value of a material used in the production of a good in a Party shall
+6. The value of a material used in the production of a good in a Party shall
 be the CIF value and shall be determined in accordance with the Agreement
 on Customs Valuation, or, if this is not known and cannot be ascertained, the
 first ascertainable price paid for the material in the Party.
-7.
-A material used in the production of a good, for which no product-
+7. A material used in the production of a good, for which no product-
 specific rule is provided for in Annex IIA:
-(a)
-shall not be deemed a non-originating material if the material
+(a) shall not be deemed a non-originating material if the material
 satisfies the same product-specific rule, specified for the good in
 Annex IIA, requiring a change in tariff classification or a specific
 manufacturing or processing operation; or
-(b)
-shall be deemed a qualifying material if the material satisfies the
+(b) shall be deemed a qualifying material if the material satisfies the
 same product-specific rule, specified for the good in Annex IIA,
-using the value-added method.
-- Page 17 -
+using the value-added method.- Page 17 -
 Article 24
 Accumulation
-1.
-For the purpose of determining whether a good is an originating good
+1. For the purpose of determining whether a good is an originating good
 of the other Party, either Party shall consider the production in its territory as
 that in the territory of the other Party, where such good is produced in the
 territory or territories of one or both Parties.
-2.
-The production of a Party includes the production at different stages
+2. The production of a Party includes the production at different stages
 undertaken by one or more producers located in its territory.
 Article 25
 De Minimis
@@ -210,52 +166,36 @@ percentages in value, weight or volume of the good, as provided for in each
 chapter of Annex IIA.
 Article 26
 Insufficient Operations
-1.
-The following operations or processes shall not be considered as the
+1. The following operations or processes shall not be considered as the
 sufficient transformation provided for in paragraph 2 of Article 23:
-(a)
-operations to ensure the preservation of products in good
+(a) operations to ensure the preservation of products in good
 condition during transport and storage (such as drying, freezing,
 keeping in brine) and other similar operations;
-(b)
-changes of packaging and breaking up and assembly of
+(b) changes of packaging and breaking up and assembly of
 packages;
-(c)
-affixing marks, labels and other like distinguishing signs on
+(c) affixing marks, labels and other like distinguishing signs on
 products or their packaging;
-(d)
-disassembly;
-(e)
-placing in bottles, cases, boxes and other simple packaging
+(d) disassembly;
+(e) placing in bottles, cases, boxes and other simple packaging
 operations;
-(f)
-simple cutting;
-(g)
-simple mixing;
-(h)
-simple assembly of parts to constitute a complete product;
-(i)
-simple making-up of sets of articles; and
-(j)
-a combination of two or more operations referred to in sub-
-paragraphs (a) through (i) above.
-- Page 18 -
-2.
-A Party shall not exclude the value added through any of the
+(f) simple cutting;
+(g) simple mixing;
+(h) simple assembly of parts to constitute a complete product;
+(i) simple making-up of sets of articles; and
+(j) a combination of two or more operations referred to in sub-
+paragraphs (a) through (i) above.- Page 18 -
+2. A Party shall not exclude the value added through any of the
 operations or processes provided for in paragraph 1 above in calculating the
 qualifying value content of a good.
-3.
-An originating good shall not lose its originating condition merely
+3. An originating good shall not lose its originating condition merely
 because it undergoes, outside the territory of either of the Parties, any of the
 operations provided for in paragraph 1 of this Article.
 Article 27
 Consignment Criteria
 The originating goods of the other Party shall be deemed to meet the
 consignment criteria when they are:
-(a)
-transported directly from the territory of the other Party; or
-(b)
-transported through the territory or territories of one or more
+(a) transported directly from the territory of the other Party; or
+(b) transported through the territory or territories of one or more
 non-Parties for the purpose of transit or temporary storing in
 warehouses in such territory or territories, provided that they do
 not undergo operations other than unloading, reloading or
@@ -270,24 +210,18 @@ good, if the good meets the requirements of the relevant provisions of Articles
 23 through 26.
 Article 29
 Claim for Preferential Tariff Treatment
-1.
-The importing Party may require a certificate of origin for an originating
+1. The importing Party may require a certificate of origin for an originating
 good of the other Party from importers who claim the preferential tariff
 treatment provided for in paragraph 1 of Article 14 for the good.
-2.
-Notwithstanding paragraph 1 above, the importing Party shall not
+2. Notwithstanding paragraph 1 above, the importing Party shall not
 require a certificate of origin from importers for:
-(a)
-an importation of a consignment of a good whose aggregate
+(a) an importation of a consignment of a good whose aggregate
 customs value does not exceed JPY200,000 or its equivalent
 amount; or
-(b)
-an importation of a good into its territory, for which the importing
+(b) an importation of a good into its territory, for which the importing
 Party has waived the requirement for a certification of origin.
-3.
-Where originating goods are imported through the territory or territories
-of one or more non-Parties, the importing Party may request importers, who
-- Page 19 -
+3. Where originating goods are imported through the territory or territories
+of one or more non-Parties, the importing Party may request importers, who- Page 19 -
 claim the preferential tariff treatment provided for in paragraph 1 of Article 14
 for the goods, to submit a copy of through bill of lading, or a certificate or any
 other information given by the customs administration of such non-Parties or
@@ -302,19 +236,15 @@ does not meet the requirements of this Chapter or where the importer fails to
 comply with any of the relevant requirements of this Chapter.
 Article 31
 Certificate of Origin
-1.
-The certificate of origin referred to in paragraph 1 of Article 29 shall be
+1. The certificate of origin referred to in paragraph 1 of Article 29 shall be
 that issued by the certification bodies designated by the exporting Party.
-2.
-Such certificate of origin shall include minimum data specified in Annex
+2. Such certificate of origin shall include minimum data specified in Annex
 IIB.
-3.
-The issued certificate of origin shall be valid for 12 months from the
+3. The issued certificate of origin shall be valid for 12 months from the
 date of issue.
 Article 32
 Advance Rulings
-1.
-The importing Party shall, prior to the importation of a good into its
+1. The importing Party shall, prior to the importation of a good into its
 territory, issue a written advance ruling in accordance with its laws and
 regulations as to whether the good qualifies as an originating good to
 importers of the good or their agents and exporters of the good or their
@@ -323,20 +253,14 @@ and the Party has no reasonable grounds to deny the issuance. The importing
 Party shall endeavour to issue such advance ruling regarding the origin of the
 good within 30 days of receipt of all the necessary documents for the advance
 ruling.
-2.
-The importing Party shall respect the issued ruling with regard to
+2. The importing Party shall respect the issued ruling with regard to
 importation into its territory of the good for which the ruling was issued for a
 period of three years from the date of issuance of the advance ruling.
-3.
-The importing Party may modify or revoke the issued ruling:
-(a)
-if the ruling was based on an error of fact;
-(b)
-if there is a change in the material facts or circumstances on
-which the ruling was based; or
-- Page 20 -
-(c)
-to conform with an amendment to this Agreement.
+3. The importing Party may modify or revoke the issued ruling:
+(a) if the ruling was based on an error of fact;
+(b) if there is a change in the material facts or circumstances on
+which the ruling was based; or- Page 20 -
+(c) to conform with an amendment to this Agreement.
 Article 33
 Assistance for Checking of Certificate of Origin
 The importing Party may, within three years after the importation of the good,
@@ -349,19 +273,15 @@ Joint Committee on Rules of Origin
 For the purposes of effective implementation of this Chapter, a Joint
 Committee on Rules of Origin (hereinafter referred to in this Article as “the
 Committee”) shall be established.  The functions of the Committee shall be:
-(a)
-to consult regularly to ensure the effective implementation of the
+(a) to consult regularly to ensure the effective implementation of the
 provisions in this Chapter;
-(b)
-to discuss necessary amendments of the provisions of this
+(b) to discuss necessary amendments of the provisions of this
 Chapter, including Annex IIA, taking into account developments
 in production processes or other matters (including the
 recommended amendments to the Harmonized System);
-(c)
-to submit the recommendation on the amendments to the
+(c) to submit the recommendation on the amendments to the
 Supervisory Committee; and
-(d)
-to discuss any issues concerning rules of origin.
+(d) to discuss any issues concerning rules of origin.
 CHAPTER 4
 CUSTOMS PROCEDURES
 Article 35
@@ -372,7 +292,5 @@ Article 36
 Customs Clearance
 For prompt customs clearance of goods traded between the Parties, each
 Party shall:
-(a)
-make use of information and communications technology;
-(b)
-simplify its customs procedures; and
+(a) make use of information and communications technology;
+(b) simplify its customs procedures; and

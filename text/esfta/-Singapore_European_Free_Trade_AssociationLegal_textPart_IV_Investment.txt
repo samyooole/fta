@@ -1,3 +1,4 @@
+  - 25 -  
  
  
  
@@ -5,29 +6,19 @@
  
  
  
- 
- 
- 
-1.  
-- 25 -  
- 
- 
- 
-ARTICLE 35 
+  ARTICLE 35 
+   
  
 Restrictions to Safeguard the Balance-of-Payments  
  
-The Parties shall endeavour to avoid the imposition of restrictive measures for 
+   
+1.   The Parties shall endeavour to avoid the imposition of restrictive measures for 
 balance-of-payments purposes.  
- 
-2.  
- 
-Articles XI and XII of the GATS shall apply to payments and transfers, and to 
+   
+2.   Articles XI and XII of the GATS shall apply to payments and transfers, and to 
 restrictions to safeguard the balance-of-payments relating to trade in services.   
- 
-3.  
- 
-A Party adopting or maintaining a measure under this Article shall promptly  
+   
+3.   A Party adopting or maintaining a measure under this Article shall promptly  
 notify the other Parties and the Joint Committee thereof.  
  
  
@@ -39,8 +30,7 @@ Annexes VI to X form an integral part of this Chapter.
  
  
  
-IV  
-INVESTMENT  
+IV   INVESTMENT  
  
  
 ARTICLE 37  
@@ -49,50 +39,39 @@ Definitions
  
 For the purposes of this Chapter:  
  
-(a)   
-“company” means any entity constituted or organized under the applicable 
+(a)    “company” means any entity constituted or organized under the applicable 
 law, whether or not for profit, and whether private or government owned 
 or controlled, including any corporation, trust, partnership, sole  
 proprietorship, joint venture or other association;  
  
-(b)  
-“investment ” means any kind of asset and particularly:   
+(b)   “investment ” means any kind of asset and particularly:   
  
-(i)   
-movable and immovable property as well as any other rights in 
+(i)    movable and immovable property as well as any other rights in 
 rem, such as mortgages, liens, and pledges;  
  
-(ii)  
-shares, bonds and debentures or any other forms of participation in 
-a company;  
-- 26 -  
+(ii)   shares, bonds and debentures or any other forms of participation in 
+a company;  - 26 -  
  
  
-(iii)  
-claims to money or to any performance associated with a company 
+(iii)   claims to money or to any performance associated with a company 
 having an economic value;  
  
 (iv)   intellectual property rights, technical know-how and goodwill;  
  
-(v)  
-business concessions conferred by law or under contract, including 
+(v)   business concessions conferred by law or under contract, including 
 any concession to search for, cultivate, extract or exploit natural 
 resources;  
  
-(c)  
-“investment of an investor of a Party” means an investment that is owned 
+(c)   “investment of an investor of a Party” means an investment that is owned 
 or controlled, either directly or indirectly, by an investor of that Party;  
  
-(d)  
-“investor of a Party” means:  
+(d)   “investor of a Party” means:  
  
-(i)   
-a natural person having the nationality of that Party or having the 
+(i)    a natural person having the nationality of that Party or having the 
 right of permanent residence of that Party in accordance with its 
 applicable laws;  
  
-(ii)  
-a company constituted or organized under the applicable law of 
+(ii)   a company constituted or organized under the applicable law of 
 that Party and carrying out substantial business activities there;  
  
 making or having made an investment in the territory of another Party.  
@@ -101,28 +80,20 @@ making or having made an investment in the territory of another Party.
 ARTICLE 38  
  
 Scope and Coverage  
- 
-1.  
- 
-This Chapter shall apply to investors of a Party, and to their investments whether 
+   
+1.   This Chapter shall apply to investors of a Party, and to their investments whether 
 made before or after the entry into force of this Agreement.  
- 
-2.  
- 
-Article 40 (1) shall not apply to measures affecting trade in services whether or 
+   
+2.   Article 40 (1) shall not apply to measures affecting trade in services whether or 
 not a sector concerned is scheduled in Chapter III.  
- 
-3.  
- 
-Article 40 (1) shall also not apply to investors of a Party in services sectors and 
+   
+3.   Article 40 (1) shall also not apply to investors of a Party in services sectors and 
 their investments in such sectors. This provision is subject to review after a period of ten 
 years from the date of entry into force of this Agreement, with a view to examining its 
 continued need.  
- 
-4.  
- 
-The provisions of this Chapter shall be without prejudice to the rights and  
-obligations of the Parties under other international agreements relating to investment.  
+   
+4.   The provisions of this Chapter shall be without prejudice to the rights and  
+obligations of the Parties under other international agreements relating to investment.    - 27 -  
  
  
  
@@ -130,25 +101,17 @@ obligations of the Parties under other international agreements relating to inve
  
  
  
- 
- 
- 
-1.  
-- 27 -  
- 
- 
- 
-ARTICLE 39  
+  ARTICLE 39  
+   
  
 Promotion and Protection  
  
-Each Party shall, in accordance with the provisions of this Chapter, create and 
+   
+1.   Each Party shall, in accordance with the provisions of this Chapter, create and 
 maintain stable, equitable, favourable and transparent conditions for investors of the other 
 Parties to make investments in its territory.  
- 
-2.  
- 
-Such conditions shall include a commitment to accord at all times to investments 
+   
+2.   Such conditions shall include a commitment to accord at all times to investments 
 of investors of another Party fair and equitable treatment. Such investments shall also 
 enjoy the most constant protection and security.   
  
@@ -156,39 +119,31 @@ enjoy the most constant protection and security.
 ARTICLE 40  
  
 National Treatment and Most-Favoured-Nation Treatment  
- 
-1.  
- 
-Each Party shall accord to investors and investments of investors of another Party, 
+   
+1.   Each Party shall accord to investors and investments of investors of another Party, 
 in relation to the establishment, acquisition, expansion, management, conduct, operation 
 and disposal of investments, treatment that is no less favourable than that which it  
 accords in like situations to its own investors and their investments or to investors and 
 their investments of any other State, whichever is more favourable.  
- 
-2. 
- 
-If a Party accords more favourable treatment to investors of any other State or 
+   
+2.  If a Party accords more favourable treatment to investors of any other State or 
 their investments by virtue of a free trade agreement, customs union or similar agreement 
 that also provides for substantial liberalisation of investments, it shall not be obliged to 
 accord such treatment to investors of another  Party or their investments. However, upon 
 request from another Party, it shall afford adequate opportunity to negotiate the benefits 
 granted therein.  
- 
-3.  
- 
-The standard of national treatment as provided for in paragraph 1 shall not apply 
+   
+3.   The standard of national treatment as provided for in paragraph 1 shall not apply 
 to subsidies based on a Party’s social policy or its economic development policy, even if 
 such subsidies, directly or indirectly, favour local enterprises or entrepreneurs. If another 
 Party considers that such subsidies, in a particular case, have a seriously distortive effect 
 on the investment opportunities of its own investors, it may request consultations on such 
 matters. Such requests shall be accorded sympathetic consideration.  
- 
-4.  
- 
-The standard of national treatment as provided for in paragraph 1, means, with 
+   
+4.   The standard of national treatment as provided for in paragraph 1, means, with 
 respect to a sub-national entity, treatment no less favourable than the most favourable 
 treatment accorded, in like situations, by that entity to investors, and to investments of 
-investors, of the Party of which it forms a part.   
+investors, of the Party of which it forms a part.     - 28 -  
  
  
  
@@ -196,31 +151,20 @@ investors, of the Party of which it forms a part.
  
  
  
- 
- 
- 
-1.  
-- 28 -  
- 
- 
- 
-ARTICLE 41  
+  ARTICLE 41  
+   
  
 Taxation  
  
-Except as otherwise provided for in this Article, nothing in this Chapter shall 
+   
+1.   Except as otherwise provided for in this Article, nothing in this Chapter shall 
 create rights or impose obligations with respect to taxation measures.  
- 
-2.  
- 
-Article 40 shall apply to taxation measures subject to deviations from national 
+   
+2.   Article 40 shall apply to taxation measures subject to deviations from national 
 treatment that are necessary for the equitable or effective imposition or collection of 
-direct taxes
-11.  
- 
-3.  
- 
-If a Party accords special advantages to investors and their investments of any 
+direct taxes11.  
+   
+3.   If a Party accords special advantages to investors and their investments of any 
 other State by virtue of an agreement for the avoidance of double taxation, it shall not be 
 obliged to accord such advantages to  investors of another Party and their investments.  
  
@@ -228,20 +172,15 @@ obliged to accord such advantages to  investors of another Party and their inves
 ARTICLE 42  
  
 Dispossession, Compensation  
- 
-1.  
- 
-None of the Parties shall take, either  
-de jure or  de facto, measures of  
+   
+1.   None of the Parties shall take, either   de jure  or  de facto, measures of  
 expropriation or nationalisation against investments of investors of another Party, unless 
 such measures are in the public interest; non-discriminatory; carried out under due  
 process of law; and accompanied by the payment of compensation. The amount of  
 compensation shall be settled in a freely convertible currency and paid without delay to 
 the person entitled thereto without regard to its residence or domicile.  
- 
-2.  
- 
-Investors of a Party whose investments in the territory of another Party have 
+   
+2.   Investors of a Party whose investments in the territory of another Party have 
 suffered losses due to armed conflict or civil strife in the territory of the latter Party, shall 
 benefit from treatment in accordance with Article 40 as regards restitution,  
 indemnification, compensation or any other settlement it adopts or maintains relating to 
@@ -255,17 +194,12 @@ Domestic Regulation
 Nothing in this Chapter shall be construed to preve nt a Party from adopting, 
 maintaining or enforcing any measure consistent with this Chapter that is in the public 
 interest, such as measures to meet health, safety or environmental concerns.   
- 
- 
- 
- 
-11 
- 
- 
- 
- 
-Footnote 10 under Article 19 of Chapter III on Services shall also apply mutatis mutandis to this 
-Chapter.  
+   
+   
+   
+   
+11  Footnote 10 under Article 19 of Chapter III on Services shall also apply mutatis mutandis to this 
+Chapter.    - 29 -  
  
  
  
@@ -273,73 +207,50 @@ Chapter.
  
  
  
- 
- 
- 
-1.  
-- 29 -  
- 
- 
- 
-ARTICLE 44  
+  ARTICLE 44  
+   
  
 Transfers  
  
-Each Party shall allow payments relating to an investment in its territory of an 
+   
+1.   Each Party shall allow payments relating to an investment in its territory of an 
 investor of another Party to be freely transferred into and out of its territory without 
 delay. Such transfers shall include, in particular, though not exclusively:  
  
-(a)  
-profits, interest, dividends, capital ga ins, royalties and fees as well as any 
+(a)   profits, interest, dividends, capital ga ins, royalties and fees as well as any 
 other amounts yielded by an investment;  
  
-(b)  
-payments made under a contract including a loan agreement;  
+(b)   payments made under a contract including a loan agreement;  
  
-(c)  
-additional amounts to maintain or increase an investment;  
+(c)   additional amounts to maintain or increase an investment;  
  
-(d)  
-proceeds from the sale or liquidation of all or any part of an investment; 
+(d)   proceeds from the sale or liquidation of all or any part of an investment; 
 and  
  
-(e)  
-earnings and other remuneration of personnel engaged from abroad in  
+(e)   earnings and other remuneration of personnel engaged from abroad in  
 connection with an investment.  
- 
-2.  
- 
-A transfer shall be deemed to have been made “without delay” if effected within 
+   
+2.   A transfer shall be deemed to have been made “without delay” if effected within 
 such a period as is normally required for the completion of transfer formalities, including 
 reports of currency transfers.   
- 
-3.  
- 
-Each Party shall permit such transfers to be made in a freely convertible currency. 
+   
+3.   Each Party shall permit such transfers to be made in a freely convertible currency. 
 “Freely convertible currency” means a currency that is widely traded in international 
 foreign exchange markets and widely used in international transactions.  
- 
-4.  
- 
-It is understood that paragraphs 1 to 3 above are without prejudice to the  
+   
+4.   It is understood that paragraphs 1 to 3 above are without prejudice to the  
 equitable, non-discriminatory and good faith application of laws relating to:  
  
-(a)  
-bankruptcy, insolvency or the protection of the rights of creditors;  
+(a)   bankruptcy, insolvency or the protection of the rights of creditors;  
  
-(b)  
-the issuing, trading or dealing in securities;  
+(b)   the issuing, trading or dealing in securities;  
  
-(c)  
-criminal or penal offences, and the recovery of proceeds of crimes;  
+(c)   criminal or penal offences, and the recovery of proceeds of crimes;  
  
-(d)  
-ensuring the satisfaction of judgments in adjudicatory proceedings.  
- 
-5.  
- 
-It is also understood that paragraphs 1 to 3 above are without prejudice to  
-obligations under tax laws or social security and public retirement schemes.  
+(d)   ensuring the satisfaction of judgments in adjudicatory proceedings.  
+   
+5.   It is also understood that paragraphs 1 to 3 above are without prejudice to  
+obligations under tax laws or social security and public retirement schemes.    - 30 -  
  
  
  
@@ -347,19 +258,13 @@ obligations under tax laws or social security and public retirement schemes.
  
  
  
- 
- 
- 
-1.  
-- 30 -  
- 
- 
- 
-ARTICLE 45  
+  ARTICLE 45  
+   
  
 Key Personnel  
  
-The Parties shall, subject to their laws and regulations relating to the entry, stay 
+   
+1.   The Parties shall, subject to their laws and regulations relating to the entry, stay 
 and work of natural persons, grant investors of another Party, and key personnel  
 (executives, managers and specialists, as defined by the granting Party as “Intra-corporate 
 transferees” in the horizontal commitments of its respective Appendix of Annex VII) who 
@@ -367,20 +272,16 @@ are employed by such investors or investments of such investors, temporary entry
 and authorisation to work in their territories to engage in activities connected with the 
 establishment, management, maintenance, use, enjoyment, expansion or disposal of  
 relevant investments.  
- 
-2.  
- 
- The Parties shall, subject to their laws and regulations, permit investors of  
+   
+2.    The Parties shall, subject to their laws and regulations, permit investors of  
 another Party which have investments in their territories, and investments of such  
 investors, to employ any key personnel of the investor’s or the investment’s choice  
 regardless of nationality and citizenship provided that such key personnel has been  
 permitted to enter, stay and work in the territory of the other Party and that the  
 employment concerned conforms to the terms, conditions and time limits of the  
 permission granted to such key personnel.  
- 
-3.  
- 
-The Parties are encouraged to grant, subject to their laws and regulations,  
+   
+3.   The Parties are encouraged to grant, subject to their laws and regulations,  
 temporary entry and stay to the spouse and minor children of an investor of another Party 
 or of key personnel employed by such investors, who has been granted temporary entry, 
 stay and authorisation to work.  
@@ -389,45 +290,33 @@ stay and authorisation to work.
 ARTICLE 46  
  
 Reservations  
+   
+1.   Article 40 (1), shall not apply to:  
  
-1.  
+(a)   any reservation that is listed by a Party in Annex XI;  
  
-Article 40 (1), shall not apply to:  
- 
-(a)  
-any reservation that is listed by a Party in Annex XI;  
- 
-(b)  
-an amendment to a reservation covered by sub-paragraph (a) to the extent 
+(b)   an amendment to a reservation covered by sub-paragraph (a) to the extent 
 that the amendment does not decrease the conformity of the reservation 
 with Article 40;  
  
-(c)  
-any new reservation adopted by a Party, and incorporated into Annex XI 
+(c)   any new reservation adopted by a Party, and incorporated into Annex XI 
 provided that such reservation does not affect the overall level of  
 commitments of that Party under this Chapter;  
  
-to the extent that such reservation is inconsistent with the above-mentioned Article.  
+to the extent that such reservation is inconsistent with the above-mentioned Article.    - 31 -  
  
  
  
-2.  
-- 31 -  
  
- 
-The Parties undertake to review at least every two years the status of the  
+2.   The Parties undertake to review at least every two years the status of the  
 reservations set out in Annex XI with a view to reducing the reservations or removing 
 them.   
- 
-3.  
- 
-A Party may, at any time, either upon the request of another Party or unilaterally, 
+   
+3.   A Party may, at any time, either upon the request of another Party or unilaterally, 
 remove in whole or in part reservations set out in Annex XI by written notification to the 
 other Parties.  
- 
-4.  
- 
-A Party may, at any time, incorporate a new reservation into Annex XI in  
+   
+4.   A Party may, at any time, incorporate a new reservation into Annex XI in  
 accordance with paragraph 1 (c) of this Article by written notification to the other Parties. 
 On receiving such notification, the other Parties may request consultations regarding the 
 reservation. On receiving the request for consultations, the Party incorporating the new 
@@ -451,44 +340,30 @@ investors.
 ARTICLE 48  
  
 Disputes Between an Investor and a Party  
- 
-1.  
- 
-If an investor of a Party considers that a measure applied by another Party is 
+   
+1.   If an investor of a Party considers that a measure applied by another Party is 
 inconsistent with an obligation of this Chapter, thus causing loss or damage to him or his 
 investment, he may request consultations with a view to solving the matter amicably.  
- 
-2.  
- 
-Any such matter which has not been settled within a period of six months from 
+   
+2.   Any such matter which has not been settled within a period of six months from 
 the date of request for consultations may be referred to the courts or administrative 
 tribunals of the Party concerned or, if both parties to the dispute agree, be submitted to 
 one of the following:  
- 
-a)  
- 
-arbitration under the Convention on the Settlement of Investment Disputes 
+   
+a)   arbitration under the Convention on the Settlement of Investment Disputes 
 between States and Nationals of other States (the "ICSID Convention"), if 
-this Convention is available;  
+this Convention is available;    - 32 -  
  
  
  
-b)  
  
- 
-c)  
-- 32 -  
- 
- 
-conciliation or arbitration under the Additional Facility Rules of the  
-International Centre for the Settlement of Investment Disputes;  
- 
-arbitration under the Arbitration Rules of the United Nations Commission 
+b)   conciliation or arbitration under the Additional Facility Rules of the  
+  International Centre for the Settlement of Investment Disputes;  
+   
+c)   arbitration under the Arbitration Rules of the United Nations Commission 
 on International Trade Law.  
- 
-3.  
- 
-A Party may conclude contractual agreements with investors of another Party  
+   
+3.   A Party may conclude contractual agreements with investors of another Party  
 giving its unconditional and irrevocable consent to the submission of all or certain types 
 of disputes to international conciliation or arbitration in accordance with paragraph 2 
 above. Such agreements may be notified to the Depositary of this Agreement.  
@@ -501,37 +376,27 @@ Exceptions
 The following provisions shall apply, mutatis mutandis, to this Chapter:  
  
 Articles 33, 34 and 35, as well as Article 19 (e), (f) and (g).  
- 
- 
- 
-V  
- 
- 
- 
-COMPETITION  
+   
+   
+   
+V   COMPETITION  
  
  
 ARTICLE 50  
  
 Competition  
- 
-1.  
- 
-The Parties recognise that certain business practices, such as anti-competitive 
+   
+1.   The Parties recognise that certain business practices, such as anti-competitive 
 agreements or concerted practices, and abuse of a dominant position, may restrict trade 
 between the Parties.  
- 
-2.  
- 
-A Party shall, at the request of another Party, enter into consultations with a view 
+   
+2.   A Party shall, at the request of another Party, enter into consultations with a view 
 to eliminating practices referred to in paragraph 1.  The Party addressed shall accord full 
 and sympathetic consideration to such a request and shall co-operate through the supply 
 of publicly available non-confidential information of relevance to the matter in question. 
 Subject to its domestic law and the conclusion of a satisfactory agreement safeguarding 
 confidentiality of information, the Party addressed shall also provide any other  
 information available to the requesting Party.  
- 
-3.  
- 
-No Party may have recourse to arbitration under Chapter IX with respect to  
+   
+3.   No Party may have recourse to arbitration under Chapter IX with respect to  
 matters arising under this Chapter.  

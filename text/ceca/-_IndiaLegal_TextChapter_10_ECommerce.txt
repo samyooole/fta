@@ -1,7 +1,5 @@
  
  
-82 
- 
 CHAPTER 10 
  
 E-COMMERCE 
@@ -9,7 +7,7 @@ E-COMMERCE
  
 ARTICLE 10.1:  GENERAL 
  
-The Parties recognise the economic growth and opportunity provided by 
+The  Parties  recognise  the  economic  growth  and  opportunity  provided  by 
 electronic commerce and the importance of avoiding barriers to its use and development 
 and the applicability of WTO rules10-1 to electronic commerce. 
  
@@ -18,9 +16,9 @@ ARTICLE 10.2: DEFINITIONS
  
 For purposes of this Chapter: 
  
-carrier medium means any physical object, as listed under the WTO Information 
+carrier  medium  means  any  physical  object,  as  listed  under  the  WTO  Information 
 Technology Agreement (ITA-1) Attachment A, capable of storing a digital product by 
-any method and from which a digital product can be perceived, reproduced or 
+any  method  and  from  which  a  digital  product  can  be  perceived,  reproduced  or 
 communicated, directly or indirectly; 
  
 digital products means computer programs, text, video, images, sound recordings and 
@@ -51,38 +49,30 @@ subject to any reservations or exceptions applicable to such obligations.
  
 10-2 For greater clarity, digital products do not include digitized representations of financial instruments. 
  
- 
- 
-83 
+  82  
  
 ARTICLE 10.4:  DIGITAL PRODUCTS 
  
-1. 
-A Party shall not apply customs duties or other duties, fees or charges on or in 
-connection with the importation or exportation of digital products by electronic 
+1.  A Party shall not apply customs duties or other duties, fees or charges on or in 
+connection  with  the  importation  or  exportation  of  digital  products  by  electronic 
 transmission10-3. 
  
-2. 
-Each Party shall determine the customs value of imported carrier media bearing 
+2.  Each Party shall determine the customs value of imported carrier media bearing 
 digital products according to the cost or value of the carrier medium alone, without 
 regard to the cost or value of the digital products stored on the carrier medium. 
  
-3. 
-(a) 
-Each Party shall accord to the digital products of the other Party10-4 
-treatment no less favourable than it accords to its own like digital 
+3.  (a)  Each  Party  shall  accord  to  the  digital  products  of  the  other  Party10-4 
+treatment  no  less  favourable  than  it  accords  to  its  own  like  digital 
 products10-5 in respect of all measures10-6 affecting the contracting for, 
-commissioning, creation, publication, production, storage, distribution, 
+commissioning,  creation,  publication,  production,  storage,  distribution, 
 marketing, sale, purchase, delivery or use of such digital products. 
  
-(b) 
-A Party shall accord treatment no less favourable to digital products 
+(b)  A  Party  shall  accord  treatment  no  less  favourable  to  digital  products 
 whose author, performer, producer, developer or distributor is a person of 
-the other Party than it accords to like digital products whose author, 
+the  other  Party  than  it  accords  to  like  digital  products  whose  author, 
 performer, producer, developer or distributor is a person of the first Party.  
  
-4 
-A Party shall not accord treatment less favourable to some digital products on the 
+4  A Party shall not accord treatment less favourable to some digital products on the 
 basis of factors not found in paragraph 3, which have the effect of affording protection to 
 its own digital products and/or which act as a disguised restriction to trade in digital 
 products of the other Party.  
@@ -90,16 +80,13 @@ products of the other Party.
  
 ARTICLE 10.5:  EXCEPTIONS 
  
-1 
-This Chapter is subject to the General and Security exceptions contained in 
+1  This  Chapter  is  subject  to  the  General  and  Security  exceptions  contained  in 
 Chapters 2, 6 and 7 and any other relevant exceptions or reservations set forth in other 
 Chapters of this Agreement. 
  
-2 
-The provisions of this Chapter shall not apply to Government Procurement. 
+2  The provisions of this Chapter shall not apply to Government Procurement. 
  
-3 
-This Chapter does not apply to measures affecting broadcasting, as defined by 
+3  This Chapter does not apply to measures affecting broadcasting, as defined by 
 each Party under its domestic law, which may include webcasting, cablecasting and 
 video-on-demand. 
                                                  
@@ -115,9 +102,7 @@ for or commissioned in its own territory.
  
 10-6 Measure means any measure whether in the form of a law, regulation, rule, procedure, decision, 
 administrative action, requirement or any other form. 
- 
- 
-84 
+  83  
  
 ARTICLE 10.6: TRANSPARENCY 
  
@@ -125,3 +110,4 @@ Each Party shall publish or otherwise make available to the public its laws, reg
 and measures of general application which pertain to electronic commerce. 
  
  
+  84 

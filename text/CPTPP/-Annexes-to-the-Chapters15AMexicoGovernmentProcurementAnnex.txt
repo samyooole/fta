@@ -1,9 +1,4 @@
  
-ANNEX 15-A – MEXICO – 1 
- 
- 
- 
- 
  
 ANNEX 15-A 
  
@@ -15,32 +10,26 @@ SECTION A: Central Government Entities
  
 Thresholds: 
  
-Unless otherwise specified, Chapter 15 (Government Procurement) shall cover 
+Unless  otherwise  specified,  Chapter  15  (Government  Procurement)  shall  cover 
 procurement by entities listed in this Section, in accordance with the following thresholds and 
 subject to Section H: 
  
-US$79,507 
- 
- 
- Goods and Services 
-  
- 
-US$10,335,931  
- 
- Construction Services 
+US$79,507       Goods and Services 
+    
+US$10,335,931      Construction Services 
  
  
 List of Entities: 
   
-1. Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación 
-(Ministry of Agriculture, Livestock, Rural Development, Fisheries and Feeding), 
+1.  Secretaría  de  Agricultura,  Ganadería,  Desarrollo  Rural,  Pesca  y  Alimentación 
+(Ministry  of  Agriculture,  Livestock,  Rural  Development,  Fisheries  and  Feeding), 
 includes: 
  
-(a) Agencia de Servicios a la Comercialización y Desarrollo de Mercados 
+(a) Agencia  de  Servicios  a  la  Comercialización  y  Desarrollo  de  Mercados 
 Agropecuarios (Support Services for Agricultural Marketing) 
-(b) Comisión Nacional de Acuacultura y Pesca (National Commission of 
+(b) Comisión  Nacional  de  Acuacultura  y  Pesca  (National  Commission  of 
 Aquaculture and Fisheries) 
-(c) Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias 
+(c) Instituto  Nacional  de  Investigaciones  Forestales,  Agrícolas  y  Pecuarias 
 (National Forestry, Agriculture and Cattle Research Institute) 
 (d) Instituto Nacional de Pesca (National Institute of Fisheries) 
 (e) Servicio de Información Agroalimentaria y Pesquera (Information Service and 
@@ -50,78 +39,76 @@ of Inspection and Certification of Seeds)
 (g) Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (National 
 Service of Health, Innocuous and Agro-alimentary Quality) 
  
-2. Secretaría de Comunicaciones y Transportes (Ministry of Communication and 
+2.  Secretaría  de  Comunicaciones  y  Transportes  (Ministry  of  Communication  and 
 Transportation), includes: 
  
 (a) Instituto Mexicano del Transporte (Mexican Institute of Transportation) 
  
-ANNEX 15-A – MEXICO – 2 
+ANNEX 15-A – MEXICO – 1 
  
  
- 
-(b) Servicios a la Navegación en el Espacio Aéreo Mexicano (Mexican Air 
+ (b) Servicios  a  la  Navegación  en  el  Espacio  Aéreo  Mexicano  (Mexican  Air 
 Navigation Services) 
  
-3. Secretaría de la Defensa Nacional (Ministry of National Defense) 
+3.  Secretaría de la Defensa Nacional (Ministry of National Defense) 
  
-4. Secretaría de Desarrollo Agrario, Territorial y Urbano (Ministry of Agrarian 
+4.  Secretaría  de  Desarrollo  Agrario,  Territorial  y  Urbano  (Ministry  of  Agrarian 
 Territorial and Urban Development), includes: 
  
 (a) Comisión Nacional de Vivienda (National Housing Commission) 
 (b) Procuraduría Agraria (Agrarian Office of the Attorney) 
 (c) Registro Agrario Nacional (National Agrarian Registry) 
  
-5. Secretaría de Desarrollo Social (Ministry of Social Development), includes: 
+5.  Secretaría de Desarrollo Social (Ministry of Social Development), includes: 
  
 (a) Coordinación Nacional de PROSPERA (National Coordination PROSPERA) 
-(b) Instituto Nacional de Desarrollo Social (National Institute for Social 
+(b) Instituto  Nacional  de  Desarrollo  Social  (National  Institute  for  Social 
 Development) 
  
-6. Secretaría de Economía (Ministry of Economy), includes: 
+6.  Secretaría de Economía (Ministry of Economy), includes: 
  
 (a) Comisión Federal de Mejora Regulatoria (Federal Commission of Regulatory 
 Improvement) 
-(b) Instituto Nacional de la Economía Social (National Institute for Social 
+(b) Instituto  Nacional  de  la  Economía  Social  (National  Institute  for  Social 
 Economy) 
 (c) Instituto Nacional del Emprendedor (National Enterprenuer Institute) 
  
-7. Secretaría de Educación Pública (Ministry of Public Education), includes: 
+7.  Secretaría de Educación Pública (Ministry of Public Education), includes: 
  
-(a) Administración Federal de Servicios Educativos en el Distrito Federal 
+(a) Administración  Federal  de  Servicios  Educativos  en  el  Distrito  Federal 
 (Federal Administration of Educational Services in Mexico City) 
-(b) Comisión de Apelación y Arbitraje del Deporte (Arbitration and Appeal 
+(b) Comisión  de  Apelación  y  Arbitraje  del  Deporte  (Arbitration  and  Appeal 
 Committee for Sport) 
 (c) Comisión Nacional de Cultura Física y Deporte (National Physical Culture 
 and Sports Commission) 
 (d) Consejo Nacional para la Cultura y las Artes (National Council for Culture 
 and Arts) 
-(e) Instituto Nacional de Antropología e Historia (National Institute of 
+(e) Instituto  Nacional  de  Antropología  e  Historia  (National  Institute  of 
 Anthropology and History) 
 (f) Instituto Nacional de Bellas Artes y Literatura (National Institute of Fine Arts 
 and Literature) 
 (g) Instituto Nacional del Derecho de Autor (National Institute for Copyrights) 
-(h) Instituto Nacional de Estudios Históricos de las Revoluciones de Mexico 
+(h) Instituto  Nacional  de  Estudios  Históricos  de  las  Revoluciones  de  Mexico 
 (National Institute of Historical Studies of Mexican Revolutions) 
-(i) Instituto Politécnico Nacional (National Polytechnic Institute) 
-(j) Radio Educación (Radio Education) 
+(i)  Instituto Politécnico Nacional (National Polytechnic Institute) 
+(j)  Radio Educación (Radio Education) 
 (k) Universidad Pedagógica Nacional (National Pedagogical University) 
  
-ANNEX 15-A – MEXICO – 3 
+ANNEX 15-A – MEXICO – 2 
  
  
+  
+8.  Secretaría de Energía (Ministry of Energy), includes: 
  
- 
-8. Secretaría de Energía (Ministry of Energy), includes: 
- 
-(a) Comisión Nacional de Seguridad Nuclear y Salvaguardias (National 
+(a) Comisión  Nacional  de  Seguridad  Nuclear  y  Salvaguardias  (National 
 Commission on Nuclear Safety and Safeguards) 
 (b) Comisión Nacional para el Uso Eficiente de la Energía (National Commission 
 for Energy Conservation) 
 (c) Comisión Reguladora de Energía (Regulatory Commission of Energy) 
  
-9. Secretaría de la Función Pública (Ministry of Public Administration), includes: 
+9.  Secretaría de la Función Pública (Ministry of Public Administration), includes: 
  
-(a) Instituto de Administración y Avalúos de Bienes Nacionales (Institute for 
+(a) Instituto  de  Administración  y  Avalúos  de  Bienes  Nacionales  (Institute  for 
 Administration and Appraisal of National Property) 
  
 10. Secretaría de Gobernación (Ministry of Government), includes: 
@@ -133,19 +120,19 @@ Center)
 Center for  Informative Programs and Specials) 
 (d) Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres 
 (National Commission to Prevent and Eradicate Violence against Women) 
-(e) Coordinación General de la Comisión Mexicana de Ayuda a Refugiados 
+(e) Coordinación  General  de  la  Comisión  Mexicana  de  Ayuda  a  Refugiados 
 (General Coordination of the Mexican Commission on Refugee Assistance) 
 (f) Instituto Nacional de Migración (National Institute of Migration) 
 (g) Instituto Nacional para el Federalismo y el Desarrollo Municipal (National 
 Institute for Federalism and Municipal Development) 
 (h) Policía Federal (Federal Police)  
-(i) Prevención y Readaptación Social (Prevention and Social Readaptation) 
-(j) Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (Executive 
+(i)  Prevención y Readaptación Social (Prevention and Social Readaptation) 
+(j)  Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (Executive 
 Secretariat of the Public Security National System) 
 (k) Secretaría General del Consejo Nacional de Población (General Secretary of  
 the National Population Council) 
-(l) Secretaría Técnica de la Comisión Calificadora de Publicaciones y Revistas 
-Ilustradas (Technical Secretary of Illustrated Periodicals and Publications 
+(l)  Secretaría Técnica de la Comisión Calificadora de Publicaciones y Revistas 
+Ilustradas  (Technical  Secretary  of  Illustrated  Periodicals  and  Publications 
 Examining Commission) 
 (m) Secretaría Técnica del Consejo de Coordinación para la Implementación del 
 Sistema de Justicia Penal (Technical Secretary of the Coordination Council for 
@@ -157,13 +144,12 @@ includes:
 (a) Comisión Nacional Bancaria y de Valores (National Banking and Securities 
 Commission) 
  
-ANNEX 15-A – MEXICO – 4 
+ANNEX 15-A – MEXICO – 3 
  
  
- 
-(b) Comisión Nacional de Seguros y Fianzas (National Commission of Insurance 
+ (b) Comisión Nacional de Seguros y Fianzas (National Commission of Insurance 
 and Guarantees) 
-(c) Comisión Nacional del Sistema de Ahorro para el Retiro (National 
+(c) Comisión  Nacional  del  Sistema  de  Ahorro  para  el  Retiro  (National 
 Commission of the Saving System for Retirement) 
 (d) Servicio de Administración y Enajenación Bienes (Assets Management and 
 Disposition Agency) 
@@ -176,9 +162,9 @@ Natural Resources), includes:
  
 (a) Comisión Nacional de Áreas Naturales Protegidas (National Commission on 
 Natural Protected Areas) 
-(b) Instituto Mexicano de Tecnología del Agua (Mexican Water Technology 
+(b) Instituto  Mexicano  de  Tecnología  del  Agua  (Mexican  Water  Technology 
 Institute) 
-(c) Instituto Nacional de Ecología y Cambio Climático (National Institute of 
+(c) Instituto  Nacional  de  Ecología  y  Cambio  Climático  (National  Institute  of 
 Ecology and Climate Change) 
 (d) Procuraduría Federal de Protección al Ambiente (Federal Attorney's Office 
 for Environmental Protection) 
@@ -192,13 +178,13 @@ International Cooperation Agency for Development)
  
 15. Secretaría de Salud (Ministry of Health), includes: 
  
-(a) Administración del Patrimonio de la Beneficencia Pública (Public Charity 
+(a) Administración  del  Patrimonio  de la  Beneficencia  Pública (Public Charity 
 Fund Administration) 
 (b) Centro Nacional de Equidad de Género y Salud Reproductiva (National Centre 
 of Reproductive Health and Gender Equity) 
 (c) Centro Nacional de Excelencia Tecnológica en Salud (National Centre for 
 Health Technology Excellence) 
-(d) Centro Nacional de Programas Preventivos y Control de Enfermedades 
+(d) Centro  Nacional  de  Programas  Preventivos  y  Control  de  Enfermedades 
 (National Center for Prevention and Disease Control) 
 (e) Centro Nacional de Trasplantes (National Transplants Center) 
 (f) Centro Nacional de la Transfusión Sanguínea (National Blood Transfusion 
@@ -208,17 +194,16 @@ Center for Prevention and Addiction Control)
 (h) Centro Nacional para la Prevención y Control del VIH/SIDA (National Center 
 for the Prevention and Control of HIV/AIDS) 
  
-ANNEX 15-A – MEXICO – 5 
+ANNEX 15-A – MEXICO – 4 
  
  
- 
-(i) Centro Nacional para la Salud de la Infancia y la Adolescencia (National 
+ (i)  Centro Nacional para la Salud de la Infancia y la Adolescencia (National 
 Center for Health of Childhood and Adolescence) 
-(j) Comisión Federal para la Protección contra Riesgos Sanitarios (Federal 
+(j)  Comisión  Federal  para  la  Protección  contra  Riesgos  Sanitarios  (Federal 
 Commission for Protection Against Health Risks) 
 (k) Comisión Nacional de Arbitraje Médico (National Commission of Medical 
 Arbitration) 
-(l) Comisión Nacional de Bioética (National Commission of Bioethics) 
+(l)  Comisión Nacional de Bioética (National Commission of Bioethics) 
 (m) Comisión Nacional de Protección Social en Salud (National Commission of 
 Social Health Protection) 
 (n) Instituto Nacional de Rehabilitación (National Rehabilitation Institute) 
@@ -231,47 +216,44 @@ includes:
  
 (a) Comité Nacional Mixto de Protección al Salario (Joint National Committee for 
 Wage Protection) 
-(b) Procuraduría Federal de la Defensa del Trabajo (Office of the Federal 
+(b) Procuraduría  Federal  de  la  Defensa  del  Trabajo  (Office  of  the  Federal 
 Attorney for Labor Defense) 
  
 17. Secretaría de Turismo (Ministry of Tourism), includes: 
  
-(a) Corporación de Servicios al Turista Ángeles Verdes (Ángeles Verdes 
+(a) Corporación  de  Servicios  al  Turista  Ángeles  Verdes  (Ángeles  Verdes 
 Corporation for Tourist Services) 
 (b) Instituto de Competitividad Turística (Institute for Tourist Competitiveness) 
  
-18. Procuraduría General de la República (Office of the Attorney General of the 
+18. Procuraduría  General  de  la  República  (Office  of  the  Attorney  General  of  the 
 Republic) 
  
-19. Centro de Ingeniería y Desarrollo Industrial (Engineering and Industrial 
+19. Centro  de  Ingeniería  y  Desarrollo  Industrial  (Engineering  and  Industrial 
 Development Center) 
  
-20. Comisión Nacional de Libros de Texto Gratuitos (National Commission of Free 
+20. Comisión  Nacional  de  Libros  de  Texto  Gratuitos  (National  Commission  of  Free 
 Textbooks) 
  
 21. Comisión Nacional de las Zonas Áridas (National Commission on Arid Zones) 
  
  
-22. Consejo Nacional de Fomento Educativo (National Educational Development 
+22. Consejo  Nacional  de  Fomento  Educativo  (National  Educational  Development 
 Council) 
  
+ 
+ANNEX 15-A – MEXICO – 5 
+ 
+ 
+ Note to Section A 
+ 
+English translation of entities listed in this Section is only provided for the purposes of 
+reference; it is not an official translation. 
+   
  
 ANNEX 15-A – MEXICO – 6 
  
  
- 
-Note to Section A 
- 
-English translation of entities listed in this Section is only provided for the purposes of 
-reference; it is not an official translation. 
- 
- 
- 
-ANNEX 15-A – MEXICO – 7 
- 
- 
- 
- 
+  
  
 SECTION B: Sub-Central Government Entities 
  
@@ -315,171 +297,118 @@ None.
  
  
  
+   
+ 
+ANNEX 15-A – MEXICO – 7 
  
  
- 
-ANNEX 15-A – MEXICO – 8 
- 
- 
- 
- 
+  
  
 SECTION C: Other Entities 
  
  
 Thresholds: 
  
-Unless otherwise specified, Chapter 15 (Government Procurement) shall cover 
+Unless  otherwise  specified,  Chapter  15  (Government  Procurement)  shall  cover 
 procurement by the entities listed in this Section, in accordance with the following thresholds 
 and subject to Section H: 
  
-US$397,535   
-Goods and Services 
-    
- 
-US$12,721,740  
-Construction Services 
+US$397,535     Goods and Services 
+      
+US$12,721,740   Construction Services 
  
  
 List of Other Entities: 
  
-1. 
-Aeropuerto Internacional de la Ciudad de México, S.A. de C.V. (International Airport 
-of México City) 
- 
-2. 
-Aeropuertos y Servicios Auxiliares (ASA) (Airports and Auxiliary Services) 
-3. 
-Caminos y Puentes Federales de Ingresos y Servicios Conexos (CAPUFE) (Federal 
+1.  Aeropuerto Internacional de la Ciudad de México, S.A. de C.V. (International Airport 
+of México City)   
+2.  Aeropuertos y Servicios Auxiliares (ASA) (Airports and Auxiliary Services) 
+3.  Caminos y Puentes Federales de Ingresos y Servicios Conexos (CAPUFE) (Federal 
 Toll Roads and Bridges and Related Services) 
-4. 
-Centro de Integración Juvenil, A.C (Youth Integration Centers) 
-5. 
-Comisión Federal de Electricidad (CFE) (Federal Electricity Commision) 
-6. 
-Comisión Nacional del Agua (National Water Commision) 
-7. 
-Comisión Nacional Forestal (National Forestry Commision) 
-8. 
-Comisión Nacional para el Desarrollo de los Pueblos Indigenas (National Commision 
+4.  Centro de Integración Juvenil, A.C (Youth Integration Centers) 
+5.  Comisión Federal de Electricidad (CFE) (Federal Electricity Commision) 
+6.  Comisión Nacional del Agua (National Water Commision) 
+7.  Comisión Nacional Forestal (National Forestry Commision) 
+8.  Comisión Nacional para el Desarrollo de los Pueblos Indigenas (National Commision 
 for the Development of Indigenous People)   
-9. 
-Comisión para la Regularización de la Tenencia de la Tierra (Commision for the 
+9.  Comisión para la Regularización de la Tenencia de la Tierra (Commision for the 
 Regularization of Land Tenure) 
-10. 
-Consejo Nacional de Ciencia y Tecnología (CONACYT) (National Science and 
+10.  Consejo  Nacional  de  Ciencia  y  Tecnología  (CONACYT)  (National  Science  and 
 Technology Council) 
-11. 
-Consejo de Promoción Turística de México, S.A. de C.V. (México Tourism Board) 
-12. 
-Distribuidora Impulsora Comercial de Conasupo S.A. de C.V. (Diconsa) (Commercial 
+11.  Consejo de Promoción Turística de México, S.A. de C.V. (México Tourism Board) 
+12.  Distribuidora Impulsora Comercial de Conasupo S.A. de C.V. (Diconsa) (Commercial 
 Distributor and Trade Prmotion) 
-13. 
-Ferrocarril del Istmo de Tehuantepec, S.A. de C.V. (Railroad of the Itsmo de 
+13.  Ferrocarril  del  Istmo  de  Tehuantepec,  S.A.  de  C.V.  (Railroad  of  the  Itsmo  de 
 Tehuatepec) 
-14. 
-Grupo Aeroportuario de la Ciudad de México S.A. de C.V. (Airport Group of México 
+14.  Grupo Aeroportuario de la Ciudad de México S.A. de C.V. (Airport Group of México 
 City) 
-15. 
-Instituto Mexicano de Cinematografía (Mexican Institute of Cinematography) 
-16. 
-Instituto Mexicano de la Juventud (Mexican Youth Institute) 
-17. 
-Instituto Mexicano del Seguro Social (IMSS) (Mexican Social Security Institute) 
-18. 
-Instituto Nacional de la Infraestructura Física Educativa (National Institute of 
+15.  Instituto Mexicano de Cinematografía (Mexican Institute of Cinematography) 
+16.  Instituto Mexicano de la Juventud (Mexican Youth Institute) 
+17.  Instituto Mexicano del Seguro Social (IMSS) (Mexican Social Security Institute) 
+18.  Instituto  Nacional  de  la  Infraestructura  Física  Educativa  (National  Institute  of 
 Physical Educational Infrastructure) 
-19. 
-Instituto Nacional de las Mujeres (Women National Institute) 
+19.  Instituto Nacional de las Mujeres (Women National Institute) 
  
-ANNEX 15-A – MEXICO – 9 
- 
+ANNEX 15-A – MEXICO – 8 
  
  
-20. 
-Instituto Mexicano de la Propiedad Industrial (Mexican Institute of Industrial 
+ 20.  Instituto  Mexicano  de  la  Propiedad  Industrial  (Mexican  Institute  of  Industrial 
 Property) 
-21. 
-Instituto Nacional de las Personas Adultas Mayores (Natiotal Institute for the Elderly) 
-22. 
-Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) 
+21.  Instituto Nacional de las Personas Adultas Mayores (Natiotal Institute for the Elderly) 
+22.  Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) 
 (Social Security and Services for Government Employees Institute) 
-23. 
-Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (Social Security 
+23.  Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (Social Security 
 for the Mexican Armed Forces Institute) 
-24. 
-Instituto Nacional para la Educación de los Adultos (National Institute for Adult 
+24.  Instituto Nacional para la Educación de los Adultos (National Institute for Adult 
 Education) 
-25. 
-Leche Industrializada Conasupo S.A. de C.V. (Liconsa) (No incluye la compra de 
+25.  Leche Industrializada Conasupo S.A. de C.V. (Liconsa) (No incluye la compra de 
 bienes agricolas adquiridos para programas de apoyo a la agricultura o bienes para 
 la alimentacion humana) (Conasupo Industrialized Milk) (Not including procurements 
 of agricultural goods made in furtherance of agricultural support programs or human 
 feeding programs) 
-26. 
-Lotería Nacional para la Asistencia Pública (National Lottery for Public Assistance) 
-27. 
-NOTIMEX S.A. de C.V. 
-28. 
-Petróleos Mexicanos (PEMEX) (Mexican Petroleum) (No inlcuye las compras de 
+26.  Lotería Nacional para la Asistencia Pública (National Lottery for Public Assistance) 
+27.  NOTIMEX S.A. de C.V. 
+28.  Petróleos Mexicanos (PEMEX) (Mexican Petroleum) (No inlcuye las  compras de 
 combustibles y gas) (Not including procurements of fuels or gas) 
  
-(a) 
-PEMEX Corporativo (PEMEX Corporative) 
-(b) 
-PEMEX Exploración y Producción (PEMEX exploration and Production) 
-(c) 
-PEMEX Refinación (PEMEX Refination) 
-(d) 
-PEMEX Gas y Petroquímica Básica (PEMEX Gas and Basic Petrochemical) 
-(e) 
-PEMEX Petroquímica (PEMEX Petrochemical) 
+(a)  PEMEX Corporativo (PEMEX Corporative) 
+(b)  PEMEX Exploración y Producción (PEMEX exploration and Production) 
+(c)  PEMEX Refinación (PEMEX Refination) 
+(d)  PEMEX Gas y Petroquímica Básica (PEMEX Gas and Basic Petrochemical) 
+(e)  PEMEX Petroquímica (PEMEX Petrochemical) 
  
-29. 
-Procuraduría Federal del Consumidor (Federal Office of The Attorney for 
+29.  Procuraduría  Federal  del  Consumidor  (Federal  Office  of  The  Attorney  for 
 Consumers) 
-30. 
-Pronósticos para la Asistencia Pública (Forecasting for Public Assistance) 
-31. 
-Servicio Aeroportuario de la Ciudad de México, S.A. de C.V. (Airport Services of 
+30.  Pronósticos para la Asistencia Pública (Forecasting for Public Assistance) 
+31.  Servicio Aeroportuario de la Ciudad de México, S.A. de C.V. (Airport Services of 
 México City) 
-32. 
-Servicio Geológico Mexicano (Mexican Geological Service) 
-33. 
-Servicio Postal Mexicano (Mexican Postal Services) 
-34.  Sistema Nacional para el Desarrollo Integral de la Familia (DIF) (No inluye las 
+32.  Servicio Geológico Mexicano (Mexican Geological Service) 
+33.  Servicio Postal Mexicano (Mexican Postal Services) 
+34.   Sistema Nacional para el Desarrollo Integral de la Familia (DIF) (No inluye las 
 compras de bienes agricolas adquiridos para programas de apoyo a la agricultura o 
-bienes para la alimentacion humana) (National System for Integral Family 
+bienes  para  la  alimentacion  humana)  (National  System  for  Integral  Family 
 Development) (Not including procurements of agricultural goods made in furtherance 
 of agricultural support programs or human feeding programs). 
-35. 
-Talleres Gráficos de México (National Printers of Mexico) 
-36. 
-Telecomunicaciones de México (TELECOM) (Telecommunications of México) 
- 
- 
+35.  Talleres Gráficos de México (National Printers of Mexico) 
+36.  Telecomunicaciones de México (TELECOM) (Telecommunications of México) 
+   
 Notes to Section C 
  
-1. 
-English translation of entities listed in this Section is only provided for the purposes of 
+1.  English translation of entities listed in this Section is only provided for the purposes of 
 reference; it is not an official translation. 
  
+ 
+ANNEX 15-A – MEXICO – 9 
+ 
+ 
+ 2.  For  Brunei,  Malaysia,  New  Zealand  and  Viet  Nam,  Chapter  15  (Government 
+Procurement) shall not apply to procurement by entities listed in this Section.  
+   
  
 ANNEX 15-A – MEXICO – 10 
  
  
- 
-2. 
-For Brunei, Malaysia, New Zealand and Viet Nam, Chapter 15 (Government 
-Procurement) shall not apply to procurement by entities listed in this Section.  
- 
- 
- 
-ANNEX 15-A – MEXICO – 11 
- 
- 
- 
- 
+  
  
 SECTION D: Goods 
  
@@ -492,456 +421,241 @@ Chapter 15 (Government Procurement):
  
 (Note:  numbers refer to the Federal Supply Classification (FSC) codes)  
  
-FSC 
-Description 
+FSC  Description 
  
-22  
-Railway equipment  
-23  
-Ground effect vehicles, motor vehicles, trailers and cycles (except buses in 2310; and 
+22   Railway equipment  
+23   Ground effect vehicles, motor vehicles, trailers and cycles (except buses in 2310; and 
 military trucks and trailers in 2320 and 2330 and tracked combat, assault and tactical 
 vehicles in 2350)  
-24  
-Tractors  
-25  
-Vehicular equipment components  
-26  
-Tires and tubes  
-29  
-Engine accessories  
-30  
-Mechanical power transmission equipment  
-32  
-Woodworking machinery and equipment  
-34  
-Metal-working machinery  
-35  
-Service and trade equipment  
-36  
-Special industry machinery  
-37  
-Agricultural machinery and equipment  
-38  
-Construction, mining, excavating, and highway maintenance equipment  
-39  
-Materials handling equipment  
-40  
-Rope, cable, chain, and fittings  
-41  
-Refrigeration, air conditioning, and air circulating equipment  
-42  
-Firefighting, rescue, and safety equipment; and environmental protection equipment 
+24   Tractors  
+25   Vehicular equipment components  
+26   Tires and tubes  
+29   Engine accessories  
+30   Mechanical power transmission equipment  
+32   Woodworking machinery and equipment  
+34   Metal-working machinery  
+35   Service and trade equipment  
+36   Special industry machinery  
+37   Agricultural machinery and equipment  
+38   Construction, mining, excavating, and highway maintenance equipment  
+39   Materials handling equipment  
+40   Rope, cable, chain, and fittings  
+41   Refrigeration, air conditioning, and air circulating equipment  
+42   Firefighting, rescue, and safety equipment; and environmental protection equipment 
 and materials  
-43  
-Pumps and compressors  
-44  
-Furnace, steam plant, and drying equipment; and nuclear reactors  
-45  
-Plumbing, heating, and waste disposal equipment  
-46  
-Water purification and sewage treatment equipment  
-47  
-Pipe, tubing, hose, and fittings  
-48  
-Valves  
-49  
-Maintenance and repair shop equipment  
-52  
-Measuring tools  
-53  
-Hardware and abrasives  
-54  
-Prefabricated structures and scaffolding  
-55  
-Lumber, millwork, plywood, and veneer  
+43   Pumps and compressors  
+44   Furnace, steam plant, and drying equipment; and nuclear reactors  
+45   Plumbing, heating, and waste disposal equipment  
+46   Water purification and sewage treatment equipment  
+47   Pipe, tubing, hose, and fittings  
+48   Valves  
+49   Maintenance and repair shop equipment  
+52   Measuring tools  
+53   Hardware and abrasives  
+54   Prefabricated structures and scaffolding  
+55   Lumber, millwork, plywood, and veneer  
+ 
+ANNEX 15-A – MEXICO – 11 
+ 
+ 
+ 56   Construction and building materials  
+61   Electric wire, and power and distribution equipment  
+62   Lighting fixtures and lamps  
+63  Alarm, signal and security detection systems  
+65   Medical, dental, and veterinary equipment and supplies  
+66   Instruments and laboratory equipment   
+67   Photographic equipment  
+68   Chemicals and chemical products  
+69   Training aids and devices  
+70   Automatic data processing equipment (including firmware), software, supplies and 
+support equipment   
+71   Furniture  
+72   Household and commercial furnishings and appliances  
+73   Food preparation and serving equipment  
+74   Office machines, text processing systems and visible record equipment  
+75   Office supplies and devices  
+76   Books, maps, and other publications (except 7650: drawings and specifications)  
+77   Musical instruments, phonographs, and home-type radios  
+78   Recreational and athletic equipment  
+79   Cleaning equipment and supplies  
+80   Brushes, paints, sealers, and adhesives  
+81   Containers, packaging, and packing supplies  
+85   Toiletries  
+87   Agricultural supplies  
+88   Live animals  
+91   Fuels, lubricants, oils, and waxes   
+93   Nonmetallic fabricated materials  
+94   Nonmetallic crude materials  
+96   Ores, minerals, and their primary products (except 9620: minerals, natural and 
+synthetic)  
+99   Miscellaneous 
+   
  
 ANNEX 15-A – MEXICO – 12 
  
  
- 
-56  
-Construction and building materials  
-61  
-Electric wire, and power and distribution equipment  
-62  
-Lighting fixtures and lamps  
-63 
-Alarm, signal and security detection systems  
-65  
-Medical, dental, and veterinary equipment and supplies  
-66  
-Instruments and laboratory equipment   
-67  
-Photographic equipment  
-68  
-Chemicals and chemical products  
-69  
-Training aids and devices  
-70  
-Automatic data processing equipment (including firmware), software, supplies and 
-support equipment   
-71  
-Furniture  
-72  
-Household and commercial furnishings and appliances  
-73  
-Food preparation and serving equipment  
-74  
-Office machines, text processing systems and visible record equipment  
-75  
-Office supplies and devices  
-76  
-Books, maps, and other publications (except 7650: drawings and specifications)  
-77  
-Musical instruments, phonographs, and home-type radios  
-78  
-Recreational and athletic equipment  
-79  
-Cleaning equipment and supplies  
-80  
-Brushes, paints, sealers, and adhesives  
-81  
-Containers, packaging, and packing supplies  
-85  
-Toiletries  
-87  
-Agricultural supplies  
-88  
-Live animals  
-91  
-Fuels, lubricants, oils, and waxes   
-93  
-Nonmetallic fabricated materials  
-94  
-Nonmetallic crude materials  
-96  
-Ores, minerals, and their primary products (except 9620: minerals, natural and 
-synthetic)  
-99  
-Miscellaneous 
- 
- 
- 
-ANNEX 15-A – MEXICO – 13 
- 
- 
- 
- 
+  
  
 SECTION E: Services 
  
  
- 
-Chapter 15 (Government Procurement) shall not cover the procurement of the 
+  Chapter  15  (Government  Procurement)  shall  not  cover  the  procurement  of  the 
 following services identified in accordance with the North American Free trade Agreement 
-(NAFTA) Common Classification System, Appendix 1001.1b-2-B of NAFTA that are 
+(NAFTA)  Common  Classification  System,  Appendix  1001.1b-2-B  of  NAFTA  that  are 
 procured by entities listed in Sections A and C: 
  
  
-A 
- 
-Research and Development 
+A    Research and Development 
 All classes 
-C 
- 
-Architecture and Engineering Services  
-  
-C130 
-Restoration (only for preservation of historic sites and buildings) 
-D 
-  
-Information Processing and Related Telecommunications Services 
-  
-D304 
-ADP Telecommunications and Transmissions Services except for those 
-services that are classified as enhanced or value added, defined as 
+C    Architecture and Engineering Services  
+   C130  Restoration (only for preservation of historic sites and buildings) 
+D     Information Processing and Related Telecommunications Services 
+   D304  ADP  Telecommunications  and  Transmissions  Services  except  for  those 
+services  that  are  classified  as  enhanced  or  value  added,  defined  as 
 telecommunications services using computerized processing systems, which: 
-(a) act on the format, content, code, protocol or similar aspects of the 
+(a)  act  on  the  format,  content,  code,  protocol  or  similar  aspects  of  the 
 information transmitted by the user, (b) provide the customer with additional, 
 different or restructured information, or (c) involve user interaction with stored 
-information. For purposes of this provision, the acquisition of ADP 
+information.  For  purposes  of  this  provision,  the  acquisition  of  ADP 
 Telecommunications and Transmission Services do not include the ownership 
 or furnishing of facilities for voice or data transmission services. 
-  
-D305 
-ADP Services for Teleprocessing and Timeshare. 
-  
-D309 
-Information and Data Broadcasting Services or Data Distribution Services. 
-  
-D316 
-Telecommunications Network Management Services. 
-  
-D317 
-Automated News Services, Data Services, or Other Information Services 
+   D305  ADP Services for Teleprocessing and Timeshare. 
+   D309  Information and Data Broadcasting Services or Data Distribution Services. 
+   D316  Telecommunications Network Management Services. 
+   D317  Automated  News  Services,  Data  Services,  or  Other  Information  Services 
 Buying Data (the electronic equivalent of books, periodicals, newspapers, etc.) 
-  
-D399 
-Other ADP Telecommunications Services (includes data storage on tape, CDs, 
+   D399  Other ADP Telecommunications Services (includes data storage on tape, CDs, 
 etc.) 
-F 
- 
-Natural Resources Services. 
-  
-F011 
-Pesticides/Insecticides Support Services 
-G  
- 
-Health and Social Services. 
+F    Natural Resources Services. 
+   F011  Pesticides/Insecticides Support Services 
+G     Health and Social Services. 
 All classes 
-J 
-Maintenance, Repair, Modification, Rebuilding and Installation of Goods / 
+J  Maintenance, Repair, Modification, Rebuilding and  Installation of Goods / 
 Equipment 
-  
-J010 
-Armament 
-  
-J011 
-War Nuclear Material 
-  
-J012 
-Fire Equipment and Control 
-  
-J013 
-Ammunition and Explosives 
-  
-J014 
-Guided Missiles 
-  
-J015 
-Aircrafts and Aircraft Structures Components 
-  
-J016 
-Aircrafts Components and Accessories  
-  
-J017 
-Takeoff, Landing, and Ground Handling Aircraft Equipment 
+   J010  Armament 
+   J011  War Nuclear Material 
+   J012  Fire Equipment and Control 
+   J013  Ammunition and Explosives 
+   J014  Guided Missiles 
+   J015  Aircrafts and Aircraft Structures Components 
+   J016  Aircrafts Components and Accessories  
+   J017  Takeoff, Landing, and Ground Handling Aircraft Equipment 
+ 
+ANNEX 15-A – MEXICO – 13 
+ 
+ 
+    J018  Space Vehicles 
+   J019  Shipments, Small Structures, Barges and Floating Docks 
+   J020  Boats and Marine Equipment 
+   J022  Rail Equipment 
+   J023  Land Vehicles, Motored Vehicles, Trailers and Motorcycles 
+   J024  Tractors 
+   J025  Motor Vehicles Parts 
+   J998  Non-nuclear Ships Repair 
+K  Custodial  Operations  and  Related  Services  (professional  services  only  for 
+protection, personal security installations carried out by armed guards) 
+   K103  Fueling and Other Petroleum Services –Excluding Storage-  
+   K105  Guard services (professional services only for protection, personal security and 
+surveillance installations carried out by armed guards) 
+   K109  Surveillance  services  (professional  services  only  for  protection,  personal 
+security and surveillance installations carried out by armed guards) 
+   K110  Solid Fuel Handling Services 
+L     Financial and Related Services 
+All classes 
+R     Professional, Administrative and Management Support Services 
+   R003  Legal Services 
+   R004  Certifications  and  Accreditations  for  products  and  institutions  other  than 
+Educational Institutions 
+   R012  Patent and Trade Mark Services 
+   R016  Personal Services Contracts 
+   R101  Expert Witness (Only for legal services) 
+   R103  Courier and Messenger Services 
+   R105  Mail and Distribution Services (Post Office Services excluded) 
+   R106  Post Office Services 
+   R116  Court Reporting Services 
+   R200  Military Recruitment  
+S     Utilities 
+All classes 
+T     Communications, Photographic, Mapping, Printing and Publication Services 
+   T000  Communications Studies 
+   T001  Market Research and Public Opinion Services (Formerly Telephone and Field 
+Interviews services, including Focus testing, Syndicated and attitude surveys) 
+    Except for CPC 86503 Management Consulting Marketing Services. 
+   T002  Communication Services (including Exhibit Services) 
+   T003  Advertising Services 
+   T004  Public  Relations  Services  (Including  Writing  Services,  Even  Planning  and 
+Management, Media Relations, Radio and TV Analysis, Press Services) 
+   T005  Arts / Graphics Services 
+   T008  Film Processing Services 
+   T009  Film / Video Production Services 
+   T010  Microfiche Services 
+   T013  General Photography Services - Still 
  
 ANNEX 15-A – MEXICO – 14 
  
  
- 
-  
-J018 
-Space Vehicles 
-  
-J019 
-Shipments, Small Structures, Barges and Floating Docks 
-  
-J020 
-Boats and Marine Equipment 
-  
-J022 
-Rail Equipment 
-  
-J023 
-Land Vehicles, Motored Vehicles, Trailers and Motorcycles 
-  
-J024 
-Tractors 
-  
-J025 
-Motor Vehicles Parts 
-  
-J998 
-Non-nuclear Ships Repair 
-K 
-Custodial Operations and Related Services (professional services only for 
-protection, personal security installations carried out by armed guards) 
-  
-K103 
-Fueling and Other Petroleum Services –Excluding Storage-  
-  
-K105 
-Guard services (professional services only for protection, personal security and 
-surveillance installations carried out by armed guards) 
-  
-K109 
-Surveillance services (professional services only for protection, personal 
-security and surveillance installations carried out by armed guards) 
-  
-K110 
-Solid Fuel Handling Services 
-L 
-  
-Financial and Related Services 
-All classes 
-R 
-  
-Professional, Administrative and Management Support Services 
-  
-R003 
-Legal Services 
-  
-R004 
-Certifications and Accreditations for products and institutions other than 
-Educational Institutions 
-  
-R012 
-Patent and Trade Mark Services 
-  
-R016 
-Personal Services Contracts 
-  
-R101 
-Expert Witness (Only for legal services) 
-  
-R103 
-Courier and Messenger Services 
-  
-R105 
-Mail and Distribution Services (Post Office Services excluded) 
-  
-R106 
-Post Office Services 
-  
-R116 
-Court Reporting Services 
-  
-R200 
-Military Recruitment  
-S 
-  
-Utilities 
-All classes 
-T 
-  
-Communications, Photographic, Mapping, Printing and Publication Services 
-  
-T000 
-Communications Studies 
-  
-T001 
-Market Research and Public Opinion Services (Formerly Telephone and Field 
-Interviews services, including Focus testing, Syndicated and attitude surveys) 
- 
- 
-Except for CPC 86503 Management Consulting Marketing Services. 
-  
-T002 
-Communication Services (including Exhibit Services) 
-  
-T003 
-Advertising Services 
-  
-T004 
-Public Relations Services (Including Writing Services, Even Planning and 
-Management, Media Relations, Radio and TV Analysis, Press Services) 
-  
-T005 
-Arts / Graphics Services 
-  
-T008 
-Film Processing Services 
-  
-T009 
-Film / Video Production Services 
-  
-T010 
-Microfiche Services 
-  
-T013 
-General Photography Services - Still 
- 
-ANNEX 15-A – MEXICO – 15 
- 
- 
- 
-  
-T014 
-Print / Binding Services 
-  
-T015 
-Reproduction Services 
-  
-T017 
-General Photography Services - Motion 
-  
-T018 
-Audio / Visual Services 
-  T099 
-Other Communication, Photography, Mapping, Printing and Publication 
+    T014  Print / Binding Services 
+   T015  Reproduction Services 
+   T017  General Photography Services - Motion 
+   T018  Audio / Visual Services 
+   T099  Other  Communication,  Photography,  Mapping,  Printing  and  Publication 
 Services 
-U 
-  
-Educational and Training Services  
-  
-U003 
-Reserves Training (Military) 
-  
-U010 
-Certifications and Accreditations for Educational Institutions 
-V 
-  
-Transportation, Travel and Relocation Services 
+U     Educational and Training Services  
+   U003  Reserves Training (Military) 
+   U010  Certifications and Accreditations for Educational Institutions 
+V     Transportation, Travel and Relocation Services 
 All classes (except V503 Travel Agent Services) 
-W 
-Lease and Rental of equipment which require patent protection, copyright or 
+W  Lease and Rental of equipment which require patent protection, copyright or 
 other proprietary rights. 
-  
-W058 
-Communication, Detection and Coherent Radiation Equipment 
+   W058  Communication, Detection and Coherent Radiation Equipment 
  
 Notes to Section E 
  
-1.  
-The provisions of Chapter 15 (Government Procurement) shall not apply to the 
+1.   The  provisions  of  Chapter  15  (Government  Procurement)  shall  not  apply  to  the 
 operation of government facilities under concessions. 
  
-2.  
-All services related to goods acquired by the Secretaría de la Defensa Nacional 
+2.   All  services related to  goods  acquired by the  Secretaría de la  Defensa Nacional 
 (Ministry of National Defense) and the Secretaría de Marina (Ministry of Navy) that are not 
 covered by Chapter 15 (Government Procurement), shall be excluded. 
  
-3.  
-All services that are not excluded from the coverage of Chapter 15 (Government 
+3.   All services that are not excluded from the coverage of Chapter 15 (Government 
 Procurement) shall be subject to Chapter 10 (Cross-Border Trade in Services) and Annex I 
 and Annex II of this Agreement. 
  
-4.  
-The management and operating services contracts awarded to research and 
+4.   The  management  and  operating  services  contracts  awarded  to  research  and 
 development centers operating with federal funds, or related to the implementation of research 
 programmes sponsored by the government shall be excluded from the disciplines of Chapter 
 15 (Government Procurement). 
  
-5.  
-Chapter 15 (Government Procurement) shall not apply to the procurement of 
+5.   Chapter  15  (Government  Procurement)  shall  not  apply  to  the  procurement  of 
 transportation services that are part of, or are incidental to a purchase contract. 
+   
+ 
+ANNEX 15-A – MEXICO – 15 
  
  
- 
-ANNEX 15-A – MEXICO – 16 
- 
- 
- 
- 
+  
  
 SECTION F: Construction Services 
  
  
- 
-Chapter 15 (Government Procurement) shall apply to all construction services 
+  Chapter  15  (Government  Procurement)  shall  apply  to  all  construction  services 
 procured by the entities listed in Sections A and C, identified in Division 51 of the United 
-Nations Provisional Central Product Classification (CPC Prov) which can be found at: 
-http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&Lg=1&Co=51, 
-unless 
-otherwise 
+Nations  Provisional  Central  Product  Classification  (CPC  Prov)  which  can  be  found  at: 
+http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=9&Lg=1&Co=51,  unless  otherwise 
 specified in Chapter 15 (Government Procurement) including this Schedule. 
  
+   
+ 
+ANNEX 15-A – MEXICO – 16 
  
  
- 
-ANNEX 15-A – MEXICO – 17 
- 
- 
- 
- 
+  
  
 SECTION G: General Notes 
  
  
- 
-The following General Notes shall apply to Chapter 15 (Government Procurement), 
+  The following General Notes shall apply to Chapter 15 (Government Procurement), 
 including Sections A through F: 
  
  
@@ -949,28 +663,23 @@ Transitional Provisions1
  
 PEMEX, CFE and Non-Energy Construction  
  
-1. 
-Mexico may set aside from the obligations of Chapter 15 (Government Procurement) 
+1.  Mexico may set aside from the obligations of Chapter 15 (Government Procurement) 
 for each calendar year following the date of entry into force of this Agreement for Mexico the 
 respective percentage specified in paragraph 2 of: 
  
-(a) 
-the total value of procurement contracts for goods and services and any 
+(a)  the  total  value  of  procurement  contracts  for  goods  and  services  and  any 
 combination thereof and construction services procured by PEMEX in the year 
 that are above the thresholds set out in Section C; 
  
-(b) 
-the total value of procurement contracts for goods and services and any 
+(b)  the  total  value  of  procurement  contracts  for  goods  and  services  and  any 
 combination thereof and construction services procured by CFE in the year that 
 are above the thresholds set out in Section C; and  
  
-(c) 
-the total value of procurement contracts for construction services procured in the 
+(c)  the total value of procurement contracts for construction services procured in the 
 year that are above the thresholds set out in Section A, excluding procurement 
 contracts for construction services procured by PEMEX and CFE. 
  
-2. 
-The percentages referred to in paragraph 1 are as follows: 
+2.  The percentages referred to in paragraph 1 are as follows: 
  
  Year 1     Year 2     Year 3     Year 4     Year 5 
    50%        45%         45%         40%        40% 
@@ -979,8 +688,7 @@ The percentages referred to in paragraph 1 are as follows:
    35%        35%         30%        30%          thereafter 
                                                                           0% 
  
-3. 
-The value of procurement contracts that are financed by loans from regional and 
+3.  The value of procurement contracts that are financed by loans from regional and 
 multilateral financial institutions shall not be included in the calculation of the total value of 
 procurement contracts under paragraphs 1 and 2.  
  
@@ -990,12 +698,10 @@ Chile and Peru, Mexico shall apply the equivalent provisions set out in Annex 8.
 Derogations (Chapter 8) of the Protocolo Adicional al Acuerdo Marco de la Alianza del Pacífico (Additional 
 Protocol to the Pacific Alliance Agreement).  
  
-ANNEX 15-A – MEXICO – 18 
+ANNEX 15-A – MEXICO – 17 
  
  
- 
-4. 
-Mexico shall ensure that the total value of the procurement contracts under any single 
+ 4.  Mexico shall ensure that the total value of the procurement contracts under any single 
 FSC class (or other classification system agreed by the Parties) that are set aside by PEMEX 
 or CFE under paragraphs 1 and 2  for any calendar year does not exceed 15 per cent of the 
 total value of the procurement contracts that may be set aside by PEMEX or CFE for that 
@@ -1003,9 +709,8 @@ year.
  
 Pharmaceuticals  
  
-5. 
-Until January 1 of the ninth calendar year following the entry into force of this 
-Agreement for Mexico, Chapter 15 (Government Procurement) shall not apply to the 
+5.  Until January 1 of the ninth calendar  year following  the entry into force of this 
+Agreement  for  Mexico,  Chapter  15  (Government  Procurement)  shall  not  apply  to  the 
 procurement by the Secretaría de Salud (Ministry of Health), IMSS, ISSSTE, Secretaría de la 
 Defensa Nacional (Ministry of National Defense) and the Secretaría de Marina (Ministry of 
 Navy) of drugs that are not currently patented in Mexico or whose Mexican patents have 
@@ -1015,34 +720,26 @@ under Chapter 18 (Intellectual Property).
  
 Permanent Provisions 
  
-6. 
-Chapter 15 (Government Procurement) shall not apply to procurements made:  
+6.  Chapter 15 (Government Procurement) shall not apply to procurements made:  
  
-(a) 
-with a view to commercial resale by government owned retail stores; 
-(b) 
-by one entity from another entity of Mexico; or  
-(c) 
-for the purchase of water and for the supply of energy or of fuels for the 
+(a)  with a view to commercial resale by government owned retail stores; 
+(b)  by one entity from another entity of Mexico; or  
+(c)  for the purchase of water and for the supply of energy or of fuels for the 
 production of energy.  
  
-7. 
-Chapter 15 (Government Procurement) shall not apply to public utility services 
+7.  Chapter  15  (Government  Procurement)  shall  not  apply  to  public  utility  services 
 (including telecommunication, transmission, water and energy services). 
  
-8. 
-Chapter 15 (Government Procurement) shall not apply to any transportation services 
+8.  Chapter 15 (Government Procurement) shall not apply to any transportation services 
 including: land transportation (CPC 71); water transport (CPC 72); air transport (CPC 73); 
 supporting and auxiliary transport (CPC 74); post and telecommunication (CPC 75); repair 
 services of other transport equipment, on a fee or contractual basis (CPC 8868). 
  
-9. 
-Chapter 15 (Government Procurement) shall not apply to build-operate-transfer 
+9.  Chapter  15  (Government  Procurement)  shall  not  apply  to  build-operate-transfer 
 contracts and public works concessions contracts. 
  
-10. 
-Notwithstanding any provision in Chapter 15 (Government Procurement), Mexico 
-may set aside procurement contracts from the obligations of Chapter 15 (Government 
+10.  Notwithstanding any provision in Chapter 15 (Government Procurement), Mexico 
+may  set  aside  procurement  contracts  from  the  obligations  of  Chapter  15  (Government 
 Procurement), subject to the following:2  
                                                            
 2 For the purposes of this paragraph, Mexico shall apply to: (i) Canada and the United States the equivalent 
@@ -1052,171 +749,143 @@ Japan-Mexico Economic Partnership Agreement  and (iii) Chile and Peru the equiva
 Annex 8.2, Section G “General Note and Derogations” (Chapter 8) of Protocolo Adicional al Acuerdo Marco de 
 la Alianza del Pacífico (Additional Protocol to the Pacific Alliance Agreement).     
  
-ANNEX 15-A – MEXICO – 19 
+ANNEX 15-A – MEXICO – 18 
  
  
- 
- 
-(a) 
-the total value of the contracts set aside may not exceed the Mexican peso 
+  
+(a)  the total value of the contracts set aside may not exceed the Mexican peso 
 equivalent of:  
  
-(i) US$1,340,000,000 in each year until December 31 of the ninth calendar 
+(i)  US$1,340,000,000 in each year until December 31 of the ninth calendar 
 year following the date of entry into force of this Agreement for Mexico, 
 which may be allocated by all entities except PEMEX and CFE;  
  
-(ii) US$2,230,000,000 in each year beginning January 1 of the tenth calendar 
+(ii)  US$2,230,000,000 in each year beginning January 1 of the tenth calendar 
 year following the date of entry into force of this Agreement for Mexico, 
 which may be allocated by all entities; 
  
-(b) 
-the total value of contracts under any single FSC class (or other classification 
+(b)  the total value of contracts under any single FSC class (or other classification 
 system agreed by the Parties) that may be set aside under this paragraph in any year 
 shall not exceed 10 per cent of the total value of contracts that may be set aside under 
 this paragraph for that year;  
  
-(c) 
-no entity subject to subparagraph (a) may set aside contracts in any calendar 
+(c)  no entity subject to subparagraph (a) may set aside contracts in any calendar 
 year of a value of more than 20 per cent of the total value of contracts that may be set 
 aside for that year; and 
  
-(d) 
-the total value of the contracts set aside by PEMEX or CFE may not exceed the 
+(d)  the total value of the contracts set aside by PEMEX or CFE may not exceed the 
 Mexican peso equivalent of US$892,000,000 in each calendar year, beginning January 
 1 of the 10th year following the date of entry into force of this Agreement for Mexico.  
  
-11. 
-(a) 
-Beginning in January of the next calendar year after the date of entry into force 
+11.  (a)  Beginning in January of the next calendar year after the date of entry into force 
 of this Agreement for Mexico, the dollar values referred to in paragraph 10 shall be 
 adjusted annually for cumulative inflation from the date of entry into force of this 
 Agreement for Mexico, based on the implicit price deflator for the United States Gross 
-Domestic Product (USGDP) or any successor index published by the Council of 
+Domestic Product  (USGDP) or any successor index published by the Council of 
 Economic Advisors in “Economic Indicators”. 
- 
- 
-(b) 
-The dollar values adjusted for cumulative inflation up to January of each 
+   
+(b)  The  dollar  values  adjusted  for  cumulative  inflation  up  to January  of  each 
 calendar year following 2015 shall be equal to the original dollar values multiplied by 
 the ratio of:  
  
-(i) the implicit USGDP price deflator or any successor index published by the 
+(i)  the implicit USGDP price deflator or any successor index published by the 
 Council of Economic Advisors in “Economic Indicators”, current as of 
 January of that year, to  
  
-(ii) the implicit USGDP price deflator or any successor index published by the 
+(ii)  the implicit USGDP price deflator or any successor index published by the 
 Council of Economic Advisors in “Economic Indicators”, current as of the 
 date of entry into force of this Agreement for Mexico, 
  
 provided that the price deflators under subparagraphs (i) and (ii) have the same base 
 year.  
  
-ANNEX 15-A – MEXICO – 20 
+ANNEX 15-A – MEXICO – 19 
  
  
- 
- 
-(c) 
-The resulting adjusted dollar values shall be rounded to the nearest million 
+  
+(c)  The resulting adjusted dollar values shall be rounded to the nearest million 
 dollars.  
  
-12. 
-The national security exception provided for in Article 29.2 (Security Exceptions) 
+12.  The national security exception provided for in Article 29.2 (Security Exceptions) 
 shall cover procurements made in support of safeguarding nuclear materials or technology. 
  
-13. 
-(a) 
-Notwithstanding any provision of Chapter 15 (Government Procurement), an 
+13.  (a)  Notwithstanding any provision of Chapter 15 (Government Procurement), an 
 entity may impose a local content requirement of no more than: 
  
-(i) 40 per cent, for labour-intensive turnkey or major integrated projects; or  
+(i)  40 per cent, for labour-intensive turnkey or major integrated projects; or  
  
-(ii) 25 per cent, for capital-intensive turnkey or major integrated projects. 
+(ii)  25 per cent, for capital-intensive turnkey or major integrated projects. 
  
-(b) 
-For the purposes of this paragraph, “turnkey or major integrated project” 
+(b)  For  the  purposes  of  this  paragraph,  “turnkey  or  major  integrated  project” 
 means, in general, a construction, supply or installation project undertaken by a person 
 pursuant to a right granted by an entity with respect to which:  
  
-(i) the prime contractor is vested with the authority to select the general 
+(i)  the prime contractor is vested with the authority to select the general 
 contractors or subcontractors;  
  
-(ii) neither the Government of Mexico nor its entities fund the project; 
+(ii)  neither the Government of Mexico nor its entities fund the project; 
  
 (iii) the person bears the risks associated with non-performance; and 
  
 (iv) the facility will be operated by an entity or through a procurement contract 
 of that entity.  
  
-14.  
-In the event that Mexico exceeds in any given year the total value of contracts it may 
-set aside for that year in accordance with paragraph 10 of its Permanent Provisions or 
+14.   In the event that Mexico exceeds in any given year the total value of contracts it may 
+set  aside  for  that  year  in  accordance  with  paragraph  10  of  its  Permanent  Provisions  or 
 paragraphs 1, 2 and 4 of its Transitional Provisions, Mexico shall consult with the other 
 Parties with a view to agreement on compensation in the form of additional procurement 
 opportunities during the following year.  The consultations shall be without prejudice to the 
 rights of any Party under Chapter 28 (Dispute Settlement). 
  
-15.  
-Nothing in Chapter 15 (Government Procurement) shall be construed to require 
+15.   Nothing  in  Chapter  15  (Government  Procurement)  shall  be  construed  to  require 
 PEMEX to enter into risk-sharing contracts.  
  
-16.  
-Chapter 15 (Government Procurement) shall not apply to contracts to be awarded to 
+16.   Chapter 15 (Government Procurement) shall not apply to contracts to be awarded to 
 cooperatives and rural or urban unprivileged groups that the government branch or entity 
 agreed directly with them in accordance with laws and regulations existing at the time of the 
 entry into force of this Agreement for Mexico. 
  
-17.  
-For greater certainty, Chapter 15 (Government Procurement) shall be interpreted in 
+17.   For greater certainty, Chapter 15 (Government Procurement) shall be interpreted in 
 accordance with the following: 
  
+ 
+ANNEX 15-A – MEXICO – 20 
+ 
+ 
+ (a)  where a contract to be awarded by a procuring entity is not covered by 
+Chapter 15 (Government Procurement), Chapter 15 shall not be construed to cover any 
+good or service component of that contract;  
+ 
+(b)  any exclusion that is related either specifically or generally to a procuring 
+entity shall also apply to any successor entity in such a manner as to maintain the 
+value of this offer; and 
+ 
+(c)  Chapter  15  (Government  Procurement)  shall  not  cover  procurement  by  a 
+procuring entity on behalf of another entity where the procurement would not be 
+covered by Chapter 15 if it were conducted by the other entity itself.  
+   
  
 ANNEX 15-A – MEXICO – 21 
  
  
- 
-(a) 
-where a contract to be awarded by a procuring entity is not covered by 
-Chapter 15 (Government Procurement), Chapter 15 shall not be construed to cover any 
-good or service component of that contract;  
- 
-(b) 
-any exclusion that is related either specifically or generally to a procuring 
-entity shall also apply to any successor entity in such a manner as to maintain the 
-value of this offer; and 
- 
-(c) 
-Chapter 15 (Government Procurement) shall not cover procurement by a 
-procuring entity on behalf of another entity where the procurement would not be 
-covered by Chapter 15 if it were conducted by the other entity itself.  
- 
- 
- 
-ANNEX 15-A – MEXICO – 22 
- 
- 
- 
- 
+  
  
 SECTION H: Thresholds Adjustment Formula 
  
  
-1.  
-Notwithstanding the threshold values set out in sections A and C, in order to provide 
+1.   Notwithstanding the threshold values set out in sections A and C, in order to provide 
 equivalence to the current value of the thresholds applied in the context of the NAFTA, 
 Mexico shall, from the date of entry into force of this Agreement for Mexico, apply the 
 NAFTA thresholds, as may be amended, instead of those mentioned in Sections A and C. 
  
-2.  
-Mexico shall calculate and convert the value of the thresholds into Mexican pesos 
+2.   Mexico shall calculate and convert the value of the thresholds into Mexican pesos 
 using the conversion rate of the Banco de México (Bank of Mexico). Its conversion rate shall 
 be the existing value of the Mexican peso in terms of the U.S. dollar as of December 1 and 
 June 1 of each year, or the first working day thereafter.  The conversion rate as of December 1 
 shall apply from January 1 to June 30 of the following year, and the conversion rate as of June 
 1 shall apply from July 1 to December 31 of that year. 
  
-3.  
-Information related with thresholds shall be published in www.compranet.gob.mx  
+3.   Information related with thresholds shall be published in www.compranet.gob.mx  
  
  
  
@@ -1228,14 +897,12 @@ Information related with thresholds shall be published in www.compranet.gob.mx
  
  
  
+   
+ 
+ANNEX 15-A – MEXICO – 22 
  
  
- 
-ANNEX 15-A – MEXICO – 23 
- 
- 
- 
- 
+  
  
 SECTION I: Procurement Information 
  
@@ -1262,16 +929,19 @@ www.cfe.gob.mx
  
  
  
+   
+ 
+ANNEX 15-A – MEXICO – 23 
  
  
- 
-ANNEX 15-A – MEXICO – 24 
- 
- 
- 
- 
+  
  
 SECTION J: Transitional Measures  
  
  
 None. 
+ 
+ANNEX 15-A – MEXICO – 24 
+ 
+ 
+ 

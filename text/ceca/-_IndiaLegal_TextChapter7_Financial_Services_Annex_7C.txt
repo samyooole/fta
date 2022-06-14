@@ -1,108 +1,86 @@
  
-531 
- 
 ANNEX 7 C 
 FINANCIAL SERVICES 
  
  
-1. 
-Scope and Definition 
+1.  Scope and Definition 
  
-(a) 
-This Annex applies to measures affecting the supply of financial services.  
+(a)  This Annex applies to measures affecting the supply of financial services.  
 Reference to the supply of a financial service in this Annex shall mean the 
 supply of a service as defined in paragraph (r) of Article 7.1.    
  
-(b) 
-For the purposes of paragraph (m) of Article 7.1, "services supplied in the 
+(b)  For the purposes of paragraph (m) of Article 7.1, "services supplied in the 
 exercise of governmental authority" means the following: 
  
-(i) 
-activities conducted by a central bank or monetary 
-authority or by any other public entity in pursuit of 
+(i)  activities  conducted  by  a  central  bank  or  monetary 
+authority  or  by  any  other  public  entity  in  pursuit  of 
 monetary or exchange rate policies; or 
  
-(ii) 
-activities forming part of a statutory system of social 
+(ii)  activities  forming  part  of  a  statutory  system  of  social 
 security or public retirement plans; or 
  
-(iii) 
-activities conducted by a public entity for the account or 
+(iii)  activities conducted by a public entity for the account or 
 with the guarantee or using the financial resources of the 
 Government. 
  
-(c) 
-For the purposes of paragraph (m) of Article 7.1, if a Party allows any of 
-the activities referred to in subparagraphs (b)(ii) or (b)(iii) of this 
+(c)  For the purposes of paragraph (m) of Article 7.1, if a Party allows any of 
+the  activities  referred  to  in  subparagraphs  (b)(ii)  or  (b)(iii)  of  this 
 paragraph to be conducted by its financial service suppliers in competition 
 with a public entity or a financial service supplier, "services" shall include 
 such activities. 
  
-(d) 
-Paragraph (a) of Article 7.1 shall not apply to services covered by this 
+(d)  Paragraph (a) of Article 7.1 shall not apply to services covered by this 
 Annex. 
  
-(e) 
-References to "service supplier of the other Party" and "service supplier" 
+(e)  References to "service supplier of the other Party" and "service supplier" 
 in Chapter 7, shall mean "financial service supplier of the other Party" and 
 "financial services supplier" respectively, as defined in paragraph 10 of 
 this Annex. 
  
  
-2. 
-Domestic Regulation 
+2.  Domestic Regulation 
  
-(a) 
-Notwithstanding any other provisions of this Agreement, a Party shall not 
-be prevented from adopting or maintaining measures for prudential 
-reasons, including for the protection of investors, depositors, policy 
- 
-532 
-holders or persons to whom a fiduciary duty is owed by a financial service 
+(a)  Notwithstanding any other provisions of this Agreement, a Party shall not 
+be  prevented  from  adopting  or  maintaining  measures  for  prudential 
+reasons,  including  for  the  protection  of  investors,  depositors,  policy 
+  531 holders or persons to whom a fiduciary duty is owed by a financial service 
 supplier, or to ensure the integrity and stability of the financial system.  
 Where such measures do not conform with the provisions of Chapter 7, 
 they shall not be used as a means of avoiding the Party's commitments or 
 obligations under Chapter 7.   
  
-(b) 
-Nothing in Chapter 7 shall be construed to require a Party to disclose 
+(b)  Nothing in Chapter 7 shall be construed to require a Party to disclose 
 information relating to the affairs and accounts of individual customers or 
 any confidential or proprietary information in the possession of public 
 entities. 
  
  
-3. 
-Recognition  
+3.  Recognition  
  
-(a) 
-A Party may recognise prudential measures of any international standard 
+(a)  A Party may recognise prudential measures of any international standard 
 setting body or non-Party in determining how the Party's measures relating 
 to financial services shall be applied.  Such recognition, which may be 
-achieved through harmonization or otherwise, may be based upon an 
+achieved  through  harmonization  or  otherwise,  may  be  based  upon  an 
 agreement or arrangement with the international standard setting body or 
 non-Party concerned or may be accorded autonomously. 
  
-(b) 
-A Party that is a party to such an agreement or arrangement referred to in 
-subparagraph 3(a), whether future or existing, shall afford adequate 
-opportunity for the other Party to negotiate its accession to such 
-agreements or arrangements, or to negotiate comparable ones with it, 
-under circumstances in which there would be equivalent regulation, 
-oversight, implementation of such regulation, and, if appropriate, 
+(b)  A Party that is a party to such an agreement or arrangement referred to in 
+subparagraph 3(a),  whether  future  or  existing,  shall  afford  adequate 
+opportunity  for  the  other  Party  to  negotiate  its  accession  to  such 
+agreements  or  arrangements,  or  to  negotiate  comparable  ones with it, 
+under  circumstances  in  which  there  would  be  equivalent  regulation, 
+oversight,  implementation  of  such  regulation,  and,  if  appropriate, 
 procedures concerning the sharing of information between the parties to 
 the agreement or arrangement.   
  
-(c) 
-Where a Party accords recognition autonomously, it shall afford adequate 
+(c)  Where a Party accords recognition autonomously, it shall afford adequate 
 opportunity for the other Party to demonstrate that such circumstances as 
 referred to in subparagraph (b) exist. 
  
  
-4. 
-New Financial Services  
+4.  New Financial Services  
  
-(a) 
-For the purposes of paragraph 4 of Article 7.2, a “new financial service” is 
+(a)  For the purposes of paragraph 4 of Article 7.2, a “new financial service” is 
 a financial service that is not supplied by any financial service supplier in 
 the territory of the first Party but which is supplied within the territory of 
 the other Party and includes existing and new financial products or the 
@@ -110,85 +88,70 @@ manner in which a financial product or service is delivered.  Commitments
 on such new financial services will be based on the principles outlined in 
 Articles 7.3 to 7.6. 
  
- 
-533 
-(b) 
-Each Party shall permit a financial service supplier of the other Party who 
+  532 (b)  Each Party shall permit a financial service supplier of the other Party who 
 is authorised to do business and regulated or supervised by a public entity 
 under the law of the Party in whose territory it operates to supply any new 
-financial service that the first Party would permit its own financial 
+financial  service  that  the  first  Party  would  permit  its  own  financial 
 institutions, in like circumstances, to supply.  Notwithstanding paragraph 4 
 of Article 7.2 and subparagraph 2(e) of Article 7.3, a Party may determine 
 the institutional and juridical form through which the new financial service 
-may be supplied and may require authorisation for the supply of the 
+may  be supplied  and  may  require  authorisation for  the supply  of the 
 service.  Where a Party requires such authorisation of the new financial 
-service, a decision shall be made within a reasonable time and the 
+service,  a  decision  shall  be  made  within  a  reasonable  time  and  the 
 authorization may only be refused for prudential reasons.   
  
  
-5. 
-Transparency  
+5.  Transparency  
  
-(a) 
-In lieu of Article 7.18, each Party shall, to the extent practicable 
+(a)  In lieu of Article 7.18, each Party shall, to the extent practicable 
  
-(i) Make available in advance any regulations of general application 
+(i)  Make  available  in  advance  any  regulations  of  general  application 
 relating to the supply of financial services that it proposes to adopt; 
 and 
  
-(ii) Provide interested persons and the other Party a reasonable 
+(ii)  Provide  interested  persons  and  the  other  Party  a  reasonable 
 opportunity to comment on such proposed regulations.  
  
-(b) 
-Each Party’s regulatory authorities shall make available to interested 
-persons their requirements, including any documentation required, for 
+(b)  Each  Party’s  regulatory  authorities  shall  make  available  to  interested 
+persons  their  requirements,  including  any  documentation  required,  for 
 completing applications relating to the supply of financial services. 
  
-(c) 
-On the request of an applicant, the regulatory authority shall inform the 
-applicant of the status of the application.  If such authority requires 
+(c)  On the request of an applicant, the regulatory authority shall inform the 
+applicant  of  the  status  of  the  application.    If  such  authority  requires 
 additional information from the applicant, it shall notify the applicant 
 without due delay. 
  
-(d) 
-A regulatory authority shall make an administrative decision on a 
+(d)  A  regulatory  authority  shall  make  an  administrative  decision  on  a 
 completed application of an applicant relating to the supply of a financial 
 service within 120 days, and shall promptly notify the applicant of the 
-decision.  An application shall not be considered complete until all 
-relevant hearings are held and all necessary information is received.  
+decision.    An  application  shall  not  be  considered  complete  until  all 
+relevant  hearings  are  held  and  all  necessary  information  is  received.  
 Where it is not practicable for a decision to be made within 120 days, the 
 regulatory authority shall notify the applicant without undue delay and 
 shall endeavour to make the decision within a reasonable time thereafter. 
  
-(e) 
-Each Party shall maintain or establish appropriate mechanisms that will 
+(e)  Each Party shall maintain or establish appropriate mechanisms that will 
 respond to inquiries from interested persons regarding measures of general 
 application, covered by this Annex. 
  
- 
-534 
-(f) 
-Each Party shall ensure that the rules of general application adopted or 
-maintained by self-regulatory organisations of the Party are promptly 
+  533 (f)  Each Party shall ensure that the rules of general application adopted or 
+maintained  by  self-regulatory  organisations  of  the  Party  are  promptly 
 published or otherwise made available in such a manner as to enable 
 interested persons to become acquainted with them. 
  
-(g) 
-To the extent practicable, each Party should allow reasonable time 
+(g)  To  the  extent  practicable,  each  Party  should  allow  reasonable  time 
 between the publication of final regulations and their effective date. 
  
-(h) 
-At the time it adopts final regulations, a Party shall endeavour, to the 
+(h)  At the time it adopts final regulations, a Party shall endeavour, to the 
 extent practicable, address in writing substantive comments received from 
 interested persons with respect to the proposed regulations. 
  
  
-6. 
-Transfer of Information  
+6.  Transfer of Information  
  
-No Party shall take measures that prevent transfers of information or the 
-processing of financial information, including transfers of data by electronic 
-means, or that, subject to importation rules consistent with international 
+No  Party  shall  take  measures  that  prevent  transfers  of  information  or  the 
+processing  of  financial  information,  including  transfers  of  data  by  electronic 
+means,  or  that,  subject  to  importation  rules  consistent  with  international 
 agreements, prevent transfers of equipment, where such transfers of information, 
 processing of financial information or transfers of equipment are necessary for the 
 conduct of the ordinary business of a financial service supplier.  Nothing in this 
@@ -197,195 +160,153 @@ and the confidentiality of individual records and accounts so long as such right
 not used to circumvent the provisions of this Agreement. 
  
  
-7. 
-Modification of Schedules  
+7.  Modification of Schedules  
  
-(a) 
-A Party (referred to in this Article as the "modifying Party") may modify 
+(a)  A Party (referred to in this Article as the "modifying Party") may modify 
 or withdraw any commitment in its Schedule, at any time after three years 
 have elapsed from the date on which that commitment entered into force, 
 in accordance with the provisions of this Article. 
  
-(b) 
-A modifying Party shall notify its intent to modify or withdraw a 
+(b)  A  modifying  Party  shall  notify  its  intent  to  modify  or  withdraw  a 
 commitment pursuant to this Article to the other Party no later than three 
 months before the intended date of implementation of the modification or 
 withdrawal. 
  
-(c) 
-At the request of the other Party, the benefits of which under this 
+(c)  At  the  request  of  the  other  Party,  the  benefits  of  which  under  this 
 Agreement may be affected (referred to in this Article as an "affected 
-Party") by a proposed modification or withdrawal notified under 
+Party")  by  a  proposed  modification  or  withdrawal  notified  under 
 subparagraph (b), the modifying Party shall enter into negotiations with a 
 view to reaching agreement on any necessary compensatory adjustment.  
-In such negotiations and agreement, both Parties shall endeavour to 
+In  such  negotiations  and  agreement,  both  Parties  shall  endeavour  to 
 maintain a general level of mutually advantageous commitments not less 
- 
-535 
-favourable to trade than that provided for in Schedules of specific 
+  534 favourable  to  trade  than  that  provided  for  in  Schedules  of  specific 
 commitments prior to such negotiations. 
  
-(d) 
-The Parties shall endeavour to conclude negotiations on such compensatory 
+(d)  The Parties shall endeavour to conclude negotiations on such compensatory 
 adjustment to mutual satisfaction within six months, failing which recourse 
 may be had to the provisions of Chapter 15 of this Agreement.  
  
-(e) 
-If the affected Party does not refer the matter to dispute settlement within 
+(e)  If the affected Party does not refer the matter to dispute settlement within 
 one month from the expiration of the period referred to in sub-paragraph 
-(d), the modifying Party shall be free to implement the proposed 
+(d),  the  modifying  Party  shall  be  free  to  implement  the  proposed 
 modification or withdrawal. 
  
-(f) 
-The modifying Party may not modify or withdraw its commitment until it 
+(f)  The modifying Party may not modify or withdraw its commitment until it 
 has made compensatory adjustments in conformity with the findings of the 
 dispute settlement panel. 
  
-(g) 
-If the modifying Party implements its proposed modification or 
-withdrawal and does not comply with the findings of the dispute 
+(g)  If  the  modifying  Party  implements  its  proposed  modification  or 
+withdrawal  and  does  not  comply  with  the  findings  of  the  dispute 
 settlement panel, the affected Party may modify or withdraw substantially 
 equivalent benefits in conformity with those findings.   
  
  
-8. 
-Dispute Settlement 
+8.  Dispute Settlement 
  
- 
-Arbitral tribunals agreed between or appointed by the Parties under Chapter 15 for 
-disputes on prudential issues and other financial matters shall have the necessary 
+  Arbitral tribunals agreed between or appointed by the Parties under Chapter 15 for 
+disputes  on  prudential  issues  and  other  financial  matters  shall  have  the  necessary 
 expertise relevant to the specific financial service under dispute. 
+   
  
+9.  Definitions 
  
+  For the purposes of this Annex: 
  
-9. 
-Definitions 
- 
- 
-For the purposes of this Annex: 
- 
-(a) 
-A financial service is any service of a financial nature offered by a 
-financial service supplier of a Party.  Financial services include all 
-insurance and insurance-related services, and all banking and other 
+(a)  A  financial  service  is  any  service  of  a  financial  nature  offered  by  a 
+financial  service  supplier  of  a  Party.    Financial  services  include  all 
+insurance  and  insurance-related  services,  and  all  banking  and  other 
 financial services (excluding insurance).  Financial services include the 
 following activities: 
  
 Insurance and insurance-related services 
  
-(i) 
-Direct insurance (including co-insurance): 
+(i)  Direct insurance (including co-insurance): 
  
-(A) 
-life 
-(B) 
-non-life 
+(A)  life 
+(B)  non-life 
  
+  535 (ii)  Reinsurance and retrocession; 
  
-536 
-(ii) 
-Reinsurance and retrocession; 
+(iii)  Insurance intermediation, such as brokerage and agency; 
  
-(iii) 
-Insurance intermediation, such as brokerage and agency; 
- 
-(iv) 
-Services auxiliary to insurance, such as consultancy, actuarial, 
+(iv)  Services auxiliary to insurance, such as consultancy, actuarial, 
 risk assessment and claim settlement services. 
  
 Banking and other financial services (excluding insurance) 
  
-(v) 
-Acceptance of deposits and other repayable funds from the 
+(v)  Acceptance  of  deposits  and  other  repayable  funds  from  the 
 public; 
  
-(vi) 
-Lending of all types, including consumer credit, mortgage credit, 
+(vi)  Lending of all types, including consumer credit, mortgage credit, 
 factoring and financing of commercial transaction; 
  
-(vii) 
-Financial leasing; 
+(vii)  Financial leasing; 
  
-(viii) 
-All payment and money transmission services, including credit, 
+(viii)  All payment and money transmission services, including credit, 
 charge and debit cards, travellers cheques and bankers drafts; 
  
-(ix) 
-Guarantees and commitments; 
+(ix)  Guarantees and commitments; 
  
-(x) 
-Trading for own account or for account of customers, whether on 
-an exchange, in an over-the-counter market or otherwise, the 
+(x)  Trading for own account or for account of customers, whether on 
+an  exchange,  in  an over-the-counter  market  or  otherwise, the 
 following: 
  
-(A) money market instruments (including cheques, bills, 
+(A) money  market  instruments  (including  cheques,  bills, 
 certificates of deposits); 
 (B) foreign exchange; 
 (C) derivative products including, but not limited to, futures 
 and options; 
-(D) exchange rate and interest rate instruments, including 
+(D) exchange  rate  and  interest  rate  instruments,  including 
 products such as swaps, forward rate agreements; 
 (E) transferable securities; 
 (F) other negotiable instruments and financial assets, including 
 bullion. 
  
-(xi) 
-Participation in issues of all kinds of securities, including 
-underwriting and placement as agent (whether publicly or 
+(xi)  Participation  in  issues  of  all  kinds  of  securities,  including 
+underwriting  and  placement  as  agent  (whether  publicly  or 
 privately) and provision of services related to such issues; 
  
-(xii) 
-Money broking; 
+(xii)  Money broking; 
  
-(xiii) 
-Asset management, such as cash or portfolio management, all 
-forms of collective investment management, pension fund 
+(xiii)  Asset management, such as cash or portfolio management, all 
+forms  of  collective  investment  management,  pension  fund 
 management, custodial, depository and trust services; 
- 
-537 
- 
-(xiv) 
-Settlement and clearing services for financial assets, including 
+  536  
+(xiv)  Settlement and clearing services for financial assets, including 
 securities, derivative products, and other negotiable instruments; 
  
-(xv) 
-Provision and transfer of financial information, and financial data 
+(xv)  Provision and transfer of financial information, and financial data 
 processing and related software by suppliers of other financial 
 services; 
  
-(xvi) 
-Advisory, intermediation and other auxiliary financial services on 
-all the activities listed in subparagraphs (v) through (xv), 
+(xvi)  Advisory, intermediation and other auxiliary financial services on 
+all  the  activities  listed  in  subparagraphs  (v)  through  (xv), 
 including credit reference and analysis, investment and portfolio 
-research and advice, advice on acquisitions and on corporate 
+research  and  advice,  advice  on  acquisitions  and  on  corporate 
 restructuring and strategy. 
  
-(b) 
-A financial service supplier means any natural or juridical person of a 
-Party wishing to supply or supplying financial services but the term 
+(b)  A financial service supplier means any natural or juridical person of a 
+Party  wishing  to  supply  or  supplying  financial  services  but  the  term 
 “financial service supplier” does not include a public entity. 
  
-(c) 
-"Public entity" means: 
+(c)  "Public entity" means: 
  
-(i) 
-a government, a central bank or a monetary authority, of a Party, or 
-an entity owned or controlled by a Party, that is principally 
+(i)  a government, a central bank or a monetary authority, of a Party, or 
+an  entity  owned  or  controlled  by  a  Party,  that  is  principally 
 engaged in carrying out governmental functions or activities for 
 governmental purposes, not including an entity principally engaged 
 in supplying financial services on commercial terms;  or 
  
-(ii)  
-a private entity, performing functions normally performed by a 
-central bank or monetary authority, when exercising those 
+(ii)   a private entity, performing functions normally performed by a 
+central  bank  or  monetary  authority,  when  exercising  those 
 functions.  
  
-(d) 
-“Self-regulatory organization” means any non-governmental body, 
+(d)  “Self-regulatory  organization”  means  any  non-governmental  body, 
 including any securities or futures exchange or market, clearing agency, 
 other organization or association, that exercises regulatory or supervisory 
-authority over financial service suppliers or financial institutions, by 
-statute or delegation from central, regional or local governments or 
+authority  over  financial  service  suppliers  or  financial  institutions,  by 
+statute  or  delegation  from  central,  regional  or  local  governments  or 
 authorities. 
  
  
+  537 

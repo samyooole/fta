@@ -38,30 +38,24 @@ goods or services to an entity;
  
 technical specification means a tendering requirement that: 
  
-(a) 
-sets out the characteristics of: 
+(a)  sets out the characteristics of: 
  
-(i) 
-goods to be procured, such as quality, performance, safety and 
+(i)  goods to be procured, such as quality, performance, safety and 
 dimensions, or the process and methods for their production, or 
  
-(ii) 
-services to be procured, or the processes or methods for their 
+(ii)  services to be procured, or the processes or methods for their 
 provision, including any applicable administrative provisions;   
  
  
  
  
-11-1 
+11-1  
  
  
- 
-(b) 
-addresses terminology, symbols, packaging, marking or labelling 
+(b)  addresses terminology, symbols, packaging, marking or labelling 
 requirements, as they apply to a good or service; or 
  
-(c) 
-sets out conformity assessment procedures prescribed by an entity. 
+(c)  sets out conformity assessment procedures prescribed by an entity. 
  
  
 Article 11.2: Objectives 
@@ -73,104 +67,80 @@ accountability and due process, and non-discrimination.
  
  
 Article 11.3: Scope 
- 
-1. 
- 
-This Chapter applies to measures adopted or maintained by a Party relating 
+   
+1.  This Chapter applies to measures adopted or maintained by a Party relating 
 to government procurement by any contractual means, including purchase and 
 rental or lease, with or without an option to buy, build-operate-transfer contracts 
 and public works concessions contracts: 
  
-(a) 
-by entities listed in Annex 11.A, and their successors other than those 
+(a)  by entities listed in Annex 11.A, and their successors other than those 
 subsequently corporatised, commercialised or privatised;   
  
-(b) 
-in which the contract has a value not less than the relevant threshold 
-converted into respective currencies as set out in Annex 11.C; and 
+(b)  in which the contract has a value not less than the relevant threshold 
+converted into respective currencies as set out in Annex 11.C;  and 
  
-(c) 
-subject to any other conditions specified in the Annexes. 
+(c)  subject to any other conditions specified in the Annexes. 
+   
+2.  This Chapter does not apply to: 
  
-2. 
- 
-This Chapter does not apply to: 
- 
-(a) 
-the purchase or acquisition of goods and services by an entity of a Party 
+(a)  the purchase or acquisition of goods and services by an entity of a Party 
 from another entity of that Party, except where tenders are called, in 
 which case this Chapter shall apply;   
  
-(b) 
-non-contractual agreements, or any form of assistance to persons or  
+(b)  non-contractual agreements, or any form of assistance to persons or  
 governmental authorities, including foreign assistance, grants, loans, 
 equity infusions, fiscal incentives, subsidies, guarantees, cooperative 
 agreements, sponsorship arrangements and governmental provision of  
 goods and services;   
  
-(c) 
-purchases funded by international grants, loans or other assistance, 
+(c)  purchases funded by international grants, loans or other assistance, 
 where the provision of such assistance is subject to conditions  
 inconsistent with the provisions of this Chapter; 
  
  
  
  
-11-2 
+11-2  
  
  
- 
-(d) 
-procurement of goods and services (including construction) outside the 
+(d)  procurement of goods and services (including construction) outside the 
 territory of the procuring Party, for consumption outside the territory of  
 the procuring Party; 
  
-(e) 
-acquisition of fiscal agency or depository services, liquidation and 
+(e)  acquisition of fiscal agency or depository services, liquidation and 
 management services for regulated financial institutions, and sale and 
 distribution services for government debt; or 
  
-(f) 
-hiring of government employees or other long-term staff and personnel,  
+(f)  hiring of government employees or other long-term staff and personnel,  
 and related employment measures. 
  
-3.   
-Each Party shall ensure that its entities shall not prepare, design or 
+3.    Each Party shall ensure that its entities shall not prepare, design or 
 otherwise structure or divide, at any stage of the procurement, any procurement in 
 order to avoid the obligations of this Chapter. 
  
  
 Article 11.4: National Treatment and Non-Discrimination 
- 
-1. 
- 
-With respect to any measures regarding government procurement covered 
+   
+1.  With respect to any measures regarding government procurement covered 
 by this Chapter, each Party shall grant to goods, services and suppliers of the 
 other Parties treatment no less favourable than that accorded by it to domestic  
 goods, services and suppliers. 
- 
-2. 
- 
-With respect to any measures regarding government procurement covered 
+   
+2.  With respect to any measures regarding government procurement covered 
 by this Chapter, no Party shall allow its entities to: 
  
-(a) 
-treat a locally established supplier less favourably than another locally  
+(a)  treat a locally established supplier less favourably than another locally  
 established supplier on the basis of the degree of foreign affiliation to, or 
 ownership by a person of, another Party; or 
  
-(b) 
-discriminate against a locally established supplier on the basis that the 
+(b)  discriminate against a locally established supplier on the basis that the 
 goods or services offered by that supplier are goods or services of 
 another Party. 
  
-3. 
-  A Party shall not discriminate in favour of any enterprise, whether or not the  
+3.    A Party shall not discriminate in favour of any enterprise, whether or not the  
 Party is a shareholder in that enterprise.   
- 
-4. 
- 
-This Article shall not apply to measures concerning customs duties and  
+   
+4.  This Article shall not apply to measures concerning customs duties and  
 charges of any kind imposed on or in connection with importation, the method of  
 levying such duties and charges, other import regulations, or to measures affecting 
 trade in services other than measures specifically governing procurement covered 
@@ -181,8 +151,7 @@ by this Chapter.
  
  
  
-11-3 
- 
+11-3  
  
  
 Article 11.5: Rules of Origin 
@@ -200,18 +169,14 @@ offsets at any stage of a procurement.
  
  
 Article 11.7: Non-Disclosure of Information 
- 
-1. 
- 
-The Parties, their entities and their review authorities shall not, except to the 
+   
+1.  The Parties, their entities and their review authorities shall not, except to the 
 extent required by law, disclose confidential information that would prejudice 
 legitimate commercial interests of a particular supplier or might prejudice fair  
 competition between suppliers without the written authorisation of the supplier that 
 provided the information.     
- 
-2. 
- 
-Nothing in this Chapter shall be construed as requiring a Party or its entities  
+   
+2.  Nothing in this Chapter shall be construed as requiring a Party or its entities  
 to disclose confidential information the disclosure of which would impede law 
 enforcement or otherwise be contrary to the public interest. 
  
@@ -220,64 +185,46 @@ Article 11.8: Publication of Information on Procurement Measures
  
 Each Party shall promptly publish:     
  
-(a) 
-its measures relating to government procurement covered by this  
+(a)  its measures relating to government procurement covered by this  
 Chapter; and 
  
-(b) 
-any modifications to such measures in the same manner as the original 
+(b)  any modifications to such measures in the same manner as the original 
 publication. 
  
  
 Article 11.9: Technical Specifications   
- 
-1. 
- 
-Each Party shall ensure that its entities do not prepare, adopt or apply any  
+   
+1.  Each Party shall ensure that its entities do not prepare, adopt or apply any  
 technical specification with the purpose or the effect of creating unnecessary  
 obstacles to trade among the Parties.   
- 
-2. 
- 
-Any technical specifications prescribed by an entity shall, where appropriate: 
+   
+2.  Any technical specifications prescribed by an entity shall, where appropriate: 
  
  
-11-4 
+11-4    
+   
+   
  
+(a)  be specified in terms of performance and functional requirements, rather 
  
- 
- 
- 
- 
+  than design or descriptive characteristics; and 
  
  
  
+(b)  be based on international standards, where applicable, or otherwise on 
+ 
+  national technical regulations, recognised national standards, or building 
+  codes.   
  
  
- 
-3. 
- 
- 
- 
-(a) 
-be specified in terms of performance and functional requirements, rather 
-than design or descriptive characteristics; and 
- 
-(b) 
-be based on international standards, where applicable, or otherwise on 
-national technical regulations, recognised national standards, or building 
-codes.   
- 
-Each Party shall ensure that its entities do not prescribe technical 
+3.  Each Party shall ensure that its entities do not prescribe technical 
 specifications that require or refer to a particular trademark or trade name, patent,  
 design or type, specific origin or producer or supplier, unless there is no sufficiently  
 precise or intelligible way of describing the procurement requirements and provided 
 that, in such cases, words such as "or equivalent" are included in the tender  
 documentation. 
- 
-4. 
- 
-Each Party shall ensure that an entity shall not seek or accept advice to be 
+   
+4.  Each Party shall ensure that an entity shall not seek or accept advice to be 
 used in the preparation or adoption of any technical specification for a specific 
 procurement from a person that may have a commercial interest in that  
 procurement, if to do so would prejudice fair competition. 
@@ -297,82 +244,65 @@ Article 11.11: Tendering Procedures
 Except as provided for in Article 11.18 entities shall award contracts by 
 means of open tendering procedures, in the course of which any interested 
 supplier may submit a tender or apply to meet conditions for participation in a 
-procurement.
-1  
+procurement.1  
  
  
 Article 11.12: Notice of Intended Procurement 
- 
-1. 
- 
-For each procurement covered by this Chapter, entities shal publish in 
+   
+1.  For each procurement covered by this Chapter, entities shal publish in 
 advance a notice of intended procurement inviting interested suppliers to submit a 
  
  
  
-1 The Parties understand that further procurements under contracts, which are awarded consistently 
+ The Parties understand that further procurements under contracts, which are awarded consistently 
+1
 with this Chapter, in particular Article 11.10, that provide that goods and services will be available to 
 entities on the same terms and conditions as the original contract are considered consistent with 
 this Chapter.  
-11-5 
- 
+11-5  
  
  
 tender or apply to meet conditions for participation in the procurement, except as 
 provided for in Article 11.18. 
- 
-2. 
- 
-The information in each notice of intended procurement shall include a 
+   
+2.  The information in each notice of intended procurement shall include a 
 description of the intended procurement; any conditions that suppliers must fulfil to 
 participate in the procurement, including the time limits for submission of tenders;  
 and contact details for obtaining of all relevant documents. 
- 
-3. 
- 
-Entities shall publish the notices in a timely manner through means which 
+   
+3.  Entities shall publish the notices in a timely manner through means which 
 offer the widest possible and non-discriminatory access to the interested suppliers 
 of the Parties.  These means shall be accessible free of charge, during the entire 
 period established for tendering, through a single electronic point of access  
 specified in Annex 11.B. 
- 
-4. 
- 
-Where an entity, during the course of a procurement, modifies the criteria 
+   
+4.  Where an entity, during the course of a procurement, modifies the criteria 
 referred to in the notice of intended procurement, it shall publish or transmit all 
 such modifications in writing: 
  
-(a) 
-to all suppliers that are participating in the procurement at the time the 
+(a)  to all suppliers that are participating in the procurement at the time the 
 criteria are modified, if the identities of such suppliers are known, and in 
 all other cases, in the same manner as the original information was 
 transmitted; and 
  
-(b) 
-in adequate time to allow such suppliers to modify and resubmit their 
+(b)  in adequate time to allow such suppliers to modify and resubmit their 
 tenders, as appropriate. 
- 
-5. 
- 
-Each notice of intended procurement under Paragraph 1 shall be published 
+   
+5.  Each notice of intended procurement under Paragraph 1 shall be published 
 sufficiently in advance to provide interested suppliers of all Parties with a 
 reasonable period of time in light of the nature, circumstances and complexity of 
 the procurement, to obtain the full tender documentation and to prepare and submit  
 responsive tenders by the closing date, or to apply for participation in the 
 procurement where applicable. 
- 
-6. 
- 
-Notwithstanding Paragraph 5, entities shall provide no less than 10 days  
+   
+6.  Notwithstanding Paragraph 5, entities shall provide no less than 10 days  
 between the date on which the notice of intended procurement is published and the 
 final date for the submission of tenders. 
  
  
 Article 11.13: Tender Documentation 
- 
-1. 
- 
-Tender documentation provided to suppliers shall contain all information 
+   
+1.  Tender documentation provided to suppliers shall contain all information 
 necessary to permit them to prepare and submit responsive tenders, including the 
 essential requirements and evaluation criteria for the award of the procurement 
 contract. 
@@ -380,69 +310,50 @@ contract.
  
  
  
-11-6 
- 
- 
- 
-2. 
- 
- 
- 
-Where contracting entities do not offer direct access to the entire tender  
+11-6    
+   
+   
+2.  Where contracting entities do not offer direct access to the entire tender  
 documents and any supporting documents by electronic means, entities shall 
 promptly make available the tender documentation at the request of any supplier of  
 the Parties. 
- 
-3. 
- 
-An entity shall endeavour to reply promptly to any reasonable request for 
+   
+3.  An entity shall endeavour to reply promptly to any reasonable request for 
 explanation or relevant information made by a supplier, provided that such 
 information does not give that supplier an advantage over its competitors in the 
 procedure for the award of the contract.  The explanation or information provided to 
 a supplier may be provided to all suppliers that are invited to tender. 
- 
-4. 
- 
-Where an entity, during the course of a procurement, modifies the essential 
+   
+4.  Where an entity, during the course of a procurement, modifies the essential 
 requirements and evaluation criteria of the tender documentation, it shall publish or 
 transmit all such modifications in writing: 
  
-(a) 
-to all suppliers who have requested tender documentation at the time 
+(a)  to all suppliers who have requested tender documentation at the time 
 the criteria are modified, and in the same manner the original 
 information was transmitted; and 
  
-(b) 
-in adequate time to allow such suppliers to modify and resubmit their 
+(b)  in adequate time to allow such suppliers to modify and resubmit their 
 tenders, as appropriate.   
  
  
 Article 11.14: Awarding of Contracts 
- 
-1. 
- 
-The Parties shall ensure that its entities receive, open and evaluate all 
+   
+1.  The Parties shall ensure that its entities receive, open and evaluate all 
 tenders under procedures that guarantee the fairness and impartiality of the 
 procurement process. 
- 
-2. 
- 
-To be considered for award, a tender must, at the time of opening, conform 
+   
+2.  To be considered for award, a tender must, at the time of opening, conform 
 to the essential requirements of the notice of intended procurement or tender  
 documentation and be submitted by a supplier who complies with the conditions for 
 participation.   
- 
-3. 
- 
-Unless an entity determines that it is not in the public interest to award a 
+   
+3.  Unless an entity determines that it is not in the public interest to award a 
 contract, it shall award the contract to the supplier that has been determined to be 
 fully capable of undertaking the contract and whose tender is determined to offer 
 the best value for money or be the most advantageous in terms of the essential 
 requirements and evaluation criteria set forth in the tender documentation. 
- 
-4. 
- 
-An entity shall not cancel a procurement covered by this Chapter, or 
+   
+4.  An entity shall not cancel a procurement covered by this Chapter, or 
 terminate or modify awarded contracts in order to circumvent the requirements of 
 this Chapter. 
  
@@ -450,64 +361,45 @@ this Chapter.
  
  
  
-11-7 
- 
+11-7  
  
  
 Article 11.15: Post-Award Information 
- 
-1. 
- 
-Entities shall promptly publish or inform suppliers that have submitted a 
+   
+1.  Entities shall promptly publish or inform suppliers that have submitted a 
 tender of the contract award decision. 
- 
-2. 
- 
-Entities shall, on request from an unsuccessful supplier, promptly provide 
+   
+2.  Entities shall, on request from an unsuccessful supplier, promptly provide 
 pertinent information concerning reasons for the rejection of its tender or the 
 relative advantages of the tender the entity selected. 
- 
-3. 
- 
-Entities shall, promptly after the award of a contract for a procurement 
+   
+3.  Entities shall, promptly after the award of a contract for a procurement 
 covered by this Chapter, publish a notice containing at least the following 
 information: 
- 
-(a) 
- 
-(b) 
- 
-(c) 
- 
-the name and address of the successful supplier; 
- 
-a description of the goods or services supplied; and 
- 
-the value of the contract award. 
+   
+(a)  the name and address of the successful supplier; 
+   
+(b)  a description of the goods or services supplied; and 
+   
+(c)  the value of the contract award. 
  
  
 Article 11.16: Conditions for Participation 
- 
-1. 
- 
-Where an entity requires suppliers to satisfy registration, qualification, or any  
+   
+1.  Where an entity requires suppliers to satisfy registration, qualification, or any  
 other conditions before being permitted to participate in a procurement, each Party 
 shall ensure that a notice inviting suppliers to apply for registration, qualification or  
 demonstration of the suppliers' satisfaction of any other conditions for participation 
 is published sufficiently in advance for interested suppliers to prepare and submit  
 responsive applications and for entities to evaluate and make their determinations  
 based on such applications. 
- 
-2. 
- 
-Entities shall consider for a particular procurement those suppliers of 
+   
+2.  Entities shall consider for a particular procurement those suppliers of 
 another Party that request to participate in the procurement and that are not yet 
 registered or qualified, provided there is sufficient time to complete the registration 
 or qualification procedures before the award of the contract. 
- 
-3. 
- 
-Any conditions for participation in the procurement, including financial 
+   
+3.  Any conditions for participation in the procurement, including financial 
 guarantees, technical qualifications and information necessary for establishing the 
 financial, commercial and technical capacity of suppliers, as well as the verification 
 of qualifications, shall be limited to those which are essential to ensure the firm's  
@@ -515,14 +407,11 @@ capability to fulfil the contract in question.  The financial, commercial and te
 capacity of a supplier shall be judged both on the basis of that supplier's global  
 business activity and its activity in the territory of the procuring entity, taking due 
 account of the legal relationship between the supply organisations. 
- 
-4. 
- 
-Nothing in this Article shall preclude an entity from excluding a supplier from 
+   
+4.  Nothing in this Article shall preclude an entity from excluding a supplier from 
 a procurement on grounds such as bankruptcy, liquidation or insolvency, false 
  
-11-8 
- 
+11-8  
  
  
 declarations relating to a procurement, or significant deficiency in the performance 
@@ -530,10 +419,8 @@ of any obligation under a prior contract.
  
  
 Article 11.17: Lists of Registered or Qualified Suppliers 
- 
-1. 
- 
-An entity may establish for continuing use a list of suppliers registered or 
+   
+1.  An entity may establish for continuing use a list of suppliers registered or 
 qualified to participate in procurements.  A current updated list of registered or 
 qualified suppliers shall be publicly available.  The entity shall ensure that suppliers 
 may apply for participation in the list of registered or qualified suppliers at any time, 
@@ -546,50 +433,38 @@ start the registration or qualification procedures and shall allow such supplier
 participate in the procurement, provided there is sufficient time to complete the 
 registration or procurement procedures within the time period established for the 
 award. 
- 
-2. 
- 
-The entity shall publish annually or otherwise make available continuously in 
+   
+2.  The entity shall publish annually or otherwise make available continuously in 
 electronic form a notice inviting interested suppliers to apply for inclusion on the 
 list.  The notice shall include: 
  
-(a) 
-a description of the goods and services for which the  list of suppliers 
+(a)  a description of the goods and services for which the  list of suppliers 
 may be used; and 
  
-(b) 
-the conditions to be satisfied by suppliers for inclusion on  the list of  
+(b)  the conditions to be satisfied by suppliers for inclusion on  the list of  
 registered or qualified suppliers. 
- 
-3. 
- 
-Entities shall notify qualified suppliers of the termination of, or of their 
+   
+3.  Entities shall notify qualified suppliers of the termination of, or of their 
 removal from a list of registered or qualified suppliers and state the reason for this 
 action. 
  
  
 Article 11.18: Exceptions to Open Tendering 
- 
-1. 
- 
-Provided that the tendering procedure is not used to avoid competition or to 
+   
+1.  Provided that the tendering procedure is not used to avoid competition or to 
 protect domestic suppliers, entities may award contracts by means other than open 
 tendering procedures in any of the following circumstances: 
  
-(a) 
-where, in response to a prior notice, invitation to participate, or invitation 
+(a)  where, in response to a prior notice, invitation to participate, or invitation 
 to tender under open tendering procedures 
  
-(i) 
-no tenders were submitted, 
+(i)  no tenders were submitted, 
  
  
-11-9 
+11-9  
  
  
- 
-(ii) 
-no tenders were submitted that conform to the essential 
+(ii)  no tenders were submitted that conform to the essential 
 requirements in the tender documentation, or 
  
 (iii) no suppliers satisfied the conditions for participation, and 
@@ -597,15 +472,13 @@ requirements in the tender documentation, or
 the entity does not substantially modify the essential requirements of the 
 procurement in the contract as awarded; 
  
-(b) 
-where, for works of art, or for reasons connected with the protection of 
+(b)  where, for works of art, or for reasons connected with the protection of 
 exclusive rights, such as patents or copyrights, or where there is an 
 absence of competition for technical reasons, the goods or services can 
 be supplied only by a particular supplier and no reasonable alternative 
 or substitute exists; 
  
-(c) 
-for additional deliveries by the original supplier which are intended either  
+(c)  for additional deliveries by the original supplier which are intended either  
 as replacement parts, extensions or continuing services for or upgrades 
 of existing equipment, software, services or installations, where a 
 change of supplier would compel the procuring entity to procure goods 
@@ -613,19 +486,16 @@ or services not meeting requirements of interchangeability with existing
 equipment, software, services or installations, or conditions under 
 original supplier warranties;   
  
-(d) 
-for goods purchased on a commodity market; 
+(d)  for goods purchased on a commodity market; 
  
-(e) 
-when an entity procures a prototype or a first good or service that is 
+(e)  when an entity procures a prototype or a first good or service that is 
 developed at its request in the course of, and for, a particular contract 
 for research, experiment, study or original development.  When such 
 contracts have been fulfilled, subsequent procurements of such goods  
 or services shall be subject to the principles and procedures laid down in 
 this Chapter; 
  
-(f) 
-when additional construction services which were not included in the 
+(f)  when additional construction services which were not included in the 
 initial contract but which were within the objectives of the original tender  
 documentation have, due to unforeseeable circumstances, become 
 necessary to complete the construction services described therein,  
@@ -633,8 +503,7 @@ provided that the total value of contracts awarded for additional
 construction services does not exceed 50 percent of the amount of the 
 main contract; 
  
-(g) 
-in so far as it is strictly necessary where, for reasons of extreme urgency  
+(g)  in so far as it is strictly necessary where, for reasons of extreme urgency  
 brought about by events unforeseeable by the entity, the goods or 
 services could not be obtained in time by means of an open tendering 
 procedure, and the use of such procedure would result in serious injury 
@@ -642,52 +511,37 @@ to the entity, the entity's programme responsibilities or the Party.  For
 purposes of this Subparagraph, lack of advance planning by an entity or 
  
  
-11-10 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-2. 
- 
- 
+11-10    
+   
+   
  
 its concerns relating to the amount of funds available to it do not  
-constitute unforeseeable events; 
  
-(h) 
-for purchases made under exceptionally advantageous conditions that  
-only arise in the very short term, including public auction or unusual 
-disposals, such as those resulting from liquidation, bankruptcy or  
+  constitute unforeseeable events; 
+ 
+ 
+ 
+(h)  for purchases made under exceptionally advantageous conditions that  
+ 
+  only arise in the very short term, including public auction or unusual 
+  disposals, such as those resulting from liquidation, bankruptcy or  
+ 
 receivership.  This provision is not intended to cover routine purchases  
-from regular suppliers; or 
  
-(i) 
-in the case of a contract awarded to the winner of a design contest 
+  from regular suppliers; or 
+   
+ 
+(i)  in the case of a contract awarded to the winner of a design contest 
+ 
 provided that the contest has been organised in a manner which is  
-consistent with the principles of this Chapter and that the contest is 
-judged by an independent jury with a view to a design contract being 
+ 
+  consistent with the principles of this Chapter and that the contest is 
+  judged by an independent jury with a view to a design contract being 
+ 
 awarded to the winner.   
  
-The Parties shall ensure that, whenever it is necessary for entities to resort 
+   
+2.  The Parties shall ensure that, whenever it is necessary for entities to resort 
 to a procedure other than open tendering procedures based on the circumstances  
 set forth in Paragraph 1, the entities shall maintain a record or prepare a written 
 report providing specific justification for the contract. 
@@ -702,19 +556,15 @@ part of those engaged in or having influence over a procurement.
  
  
 Article 11.20: Domestic Review of Supplier Complaints   
- 
-1. 
- 
-Each Party shall ensure that its entities accord impartial and timely  
+   
+1.  Each Party shall ensure that its entities accord impartial and timely  
 consideration to any complaints from suppliers regarding an alleged breach of  
 measures implementing this Chapter arising in the context of a procurement in 
 which they have, or have had, an interest.  Where appropriate, a Party may 
 encourage suppliers to seek clarification from its entities with a view to facilitating 
 the resolution of any such complaints.   
- 
-2. 
- 
-Each Party shall provide suppliers of any one of the other Parties with non- 
+   
+2.  Each Party shall provide suppliers of any one of the other Parties with non- 
 discriminatory, timely, transparent and effective access to an administrative or 
 judicial body competent to hear or review complaints of alleged breaches of the 
 procuring Party’s laws, regulations, procedures and practices regarding 
@@ -724,192 +574,782 @@ interest.
  
  
  
-11-11 
- 
- 
- 
-3. 
- 
- 
- 
-Each Party shall make information on complaint mechanisms generally 
+11-11    
+   
+   
+3.  Each Party shall make information on complaint mechanisms generally 
 available. 
- 
-4. 
- 
-Compensation for any breach of measures implementing this Chapter may 
+   
+4.  Compensation for any breach of measures implementing this Chapter may 
 be limited to the costs for tender preparation reasonably incurred by the supplier  
 for the purpose of the procurement. 
  
  
-Article 
-11.21: 
-Encouraging Use 
-of 
-Electronic 
-Communications 
-in 
+Article  11.21:  Encouraging Use  of  Electronic  Communications  in 
 Procurement 
- 
-1. 
- 
-The Parties shall seek to provide opportunities for government procurement  
+   
+1.  The Parties shall seek to provide opportunities for government procurement  
 to be undertaken through the Internet or a comparable computer-based  
 telecommunications network. 
- 
-2. 
- 
-In order to facilitate commercial opportunities for their suppliers under this  
-Chapter, each Party shall maintain a single electronic portal for access, 
-to 
+   
+2.  In order to facilitate commercial opportunities for their suppliers under this  
+Chapter, each Party shall maintain a single electronic portal for access,  to 
 comprehensive information on government procurement supply opportunities in its  
 territory, and information on measures relating to government procurement shall be 
 available.   The contact point or points from whom suppliers can obtain information 
 on government procurement shall either be specified in Annex 11.B, or be set out 
 in the information on the single electronic portal. 
- 
-3. 
- 
-The Parties shall encourage, to the extent possible, the use of electronic  
+   
+3.  The Parties shall encourage, to the extent possible, the use of electronic  
 means for the provision of tender documents and receipt of tenders. 
- 
-4. 
- 
-The Parties shall endeavour to ensure policies and procedures for the use 
+   
+4.  The Parties shall endeavour to ensure policies and procedures for the use 
 of electronic means in procurement are adopted that: 
  
-(a) 
-protect documentation from unauthorised and undetected alteration; and   
+(a)  protect documentation from unauthorised and undetected alteration; and   
  
-(b) 
-provide appropriate levels of security for data on, and passing through,  
+(b)  provide appropriate levels of security for data on, and passing through,  
 the procuring entity’s network. 
- 
-5. 
- 
-Each Party shall encourage its entities to publish as early as possible in the 
+   
+5.  Each Party shall encourage its entities to publish as early as possible in the 
 fiscal year information regarding the entities' indicative procurement plans in the 
 electronic portal referred to in Paragraph 2. 
  
  
 Article 11.22: Exceptions 
- 
-1. 
- 
-Nothing in this Chapter shall be construed to prevent any Party from taking 
+   
+1.  Nothing in this Chapter shall be construed to prevent any Party from taking 
 any action or not disclosing any information which it considers necessary for the 
 protection of its essential security interests relating to the procurement of arms, 
 ammunition or war materials, or to procurement indispensable for national security 
 or for national defence purposes. 
  
-11-12 
- 
- 
- 
- 
- 
-2. 
- 
- 
- 
- 
- 
-Subject to the requirement that such measures are not applied in a manner  
+11-12    
+   
+   
+   
+   
+2.  Subject to the requirement that such measures are not applied in a manner  
 that would constitute a means of arbitrary or unjustifiable discrimination between 
 Parties where the same conditions prevail or a disguised restriction on trade 
 between the Parties, nothing in this Chapter shall be construed to prevent a Party 
 from adopting or maintaining measures: 
  
-(a) 
-necessary to protect public morals, order, or safety; 
+(a)  necessary to protect public morals, order, or safety; 
  
-(b) 
-necessary to protect human, animal or plant life or health; 
+(b)  necessary to protect human, animal or plant life or health; 
  
-(c) 
-necessary to protect intellectual property; or 
+(c)  necessary to protect intellectual property; or 
  
-(d) 
-relating to goods or services of handicapped persons, of philanthropic or  
+(d)  relating to goods or services of handicapped persons, of philanthropic or  
 not for profit institutions, or of prison labour. 
- 
-3. 
- 
-The Parties understand that Subparagraph 2(b) includes environmental 
+   
+3.  The Parties understand that Subparagraph 2(b) includes environmental 
 measures necessary to protect human, animal or plant life or health. 
  
  
 Article 11.23: Modifications and Rectifications of Annexes 
  
-1.   
-A Party may modify its coverage under this Chapter in conformity with 
+1.    A Party may modify its coverage under this Chapter in conformity with 
 Article 17.2 (Functions of the Commission), provided that it: 
  
-(a) 
-notifies the other Parties of the modification; and 
+(a)  notifies the other Parties of the modification; and 
  
-(b) 
-provides the other Parties, within 30 days following the date of such 
+(b)  provides the other Parties, within 30 days following the date of such 
 notification, appropriate compensatory adjustments to its coverage in 
 order to maintain a level of coverage comparable to that existing prior to 
 the modification. 
  
-2.   
-Notwithstanding Subparagraph 1(b), no compensatory adjustments shall be 
+2.    Notwithstanding Subparagraph 1(b), no compensatory adjustments shall be 
 provided to the other Parties where the modification by a Party of its coverage 
 under this Chapter concerns: 
  
-(a) 
-the situation where the business or commercial operations or functions  
+(a)  the situation where the business or commercial operations or functions  
 of any of its entities or part thereof are constituted or established as an 
 enterprise with a legal entity separate and distinct from the government 
 of a Party, regardless of whether or not the government holds any 
 shares or interest in such a legal entity; or 
  
-(b) 
-rectifications of a purely formal nature and minor amendments to Annex 
+(b)  rectifications of a purely formal nature and minor amendments to Annex 
 11.A or Annex 11.B, including those under Subparagraph (a), made 
 through an Implementing Arrangement in accordance with Article 17.2 
 (Functions of the Commission). 
  
-11-13 
+11-13    
+   
+   
+   
+   
+  Annex 11.A 
  
  
+ 
+ 
+ 
+  List of Entities and Covered Goods and Services 
+ 
+ 
+CHILE 
+   
+A.  List of Entities   
+ 
+1.  Presidencia de la República (Office of the President of the Republic) 
+2.  Ministerio de Interior (Ministry of the Interior) 
+3.  Ministerio de Relaciones Exteriores (Ministry of Foreign Affairs) 
+4.  Ministerio de Defensa Nacional (Ministry of National Defense) 
+5.  Ministerio de Hacienda (Ministry of Finance) 
+6.  Ministerio Secretaría General de la Presidencia (Ministry of the General 
+Secretariat of the President’s Office) 
+7.  Ministerio Secretaría General de Gobierno (Ministry of the General 
+Secretariat of Government) 
+8.  Ministerio de Economía, Fomento, Reconstrucción y Energía (Ministry 
+of Economic Affairs, Development, Reconstruction and Energy) 
+9.  Ministerio de Minería (Ministry of Mining) 
+10. Ministerio de Planificación y Cooperación (Ministry of Planning and 
+Cooperation) 
+11. Ministerio de Educación (Ministry of Education) 
+12. Ministerio de Justicia  (Ministry of Justice) 
+13. Ministerio de Trabajo y Previsión Social (Ministry of Labour and Social 
+Welfare) 
+14. Ministerio de Obras Públicas (Ministry of Public Works) 
+15. Ministerio de Transporte y Telecomunicaciones  (Ministry of Transport 
+and Telecommunications) 
+16. Ministerio de Salud (Ministry of Health) 
+17. Ministerio de la Vivienda y Urbanismo (Ministry of Housing and Urban 
+Planning) 
+18. Ministerio de Bienes Nacionales (Ministry of National Assets) 
+19. Ministerio de Agricultura (Ministry of Agriculture) 
+20. Ministerio Servicio Nacional de la Mujer (Ministry of the National Bureau 
+for Women)  
+ 
+ 
+Gobiernos Regionales (Regional Governments)  
+ 
+Intendencia I Región 
+(Intendancy Region I) 
+Gobernación de Arica 
+ 
+11-14  
+ 
+ 
+(Governor’s Office – Arica) 
+Gobernación de Parinacota 
+(Governor’s Office - Parinacota) 
+Gobernación de Iquique 
+(Governor’s Office - Iquique) 
+Intendencia II Región 
+(Intendancy Region II) 
+Gobernación de Antofagasta 
+(Governor’s Office - Antofagasta) 
+Gobernación de El Loa 
+(Governor’s Office - El Loa) 
+Gobernación de Tocopilla 
+(Governor’s Office - Tocopilla) 
+Intendencia III Región 
+(Intendancy Region III) 
+Gobernación de Chañaral 
+(Governor’s Office - Chañaral) 
+Gobernación de Copiapó 
+(Governor’s Office - Copiapó) 
+Intendencia IV Región 
+(Intendancy Region IV) 
+Gobernación de Huasco 
+(Governor’s Office - Huasco) 
+Gobernación de El Elqui 
+(Governor’s Office - El Elqui) 
+Gobernación de Limarí 
+(Governor’s Office - Limarí) 
+Gobernación de Choapa 
+(Governor’s Office - Choapa) 
+Intendencia V Región 
+(Intendancy Region V) 
+Gobernación de Petorca 
+(Governor’s Office - Petorca) 
+Gobernación de Valparaíso 
+(Governor’s Office - Valparaiso) 
+Gobernación de San Felipe de Aconcagua 
+(Governor’s Office - San Felipe de Aconcagua) 
+Gobernación de Los Andes 
+(Governor’s Office - Los Andes) 
+Gobernación de Quillota 
+(Governor’s Office - Quillota) 
+Gobernación de San Antonio 
+(Governor’s Office - San Antonio)  
+Gobernación de Isla de Pascua 
+(Governor’s Office - Isla de Pascua) 
+Intendencia VI Región 
+ 
+11-15  
+ 
+ 
+(Intendancy Region VI) 
+Gobernación de Cachapoal 
+(Governor’s Office - Cachapoal) 
+Gobernación de Colchagua 
+(Governor’s Office - Colchagua) 
+Gobernación de Cardenal Caro 
+(Governor’s Office - Cardenal Caro) 
+Intendencia VII Región 
+(Intendancy Region VII) 
+Gobernación de Curicó  
+(Governor’s Office - Curicó) 
+Gobernación de Talca 
+(Governor’s Office - Talca) 
+Gobernación de Linares 
+(Governor’s Office - Linares) 
+Gobernación de Cauquenes 
+(Governor’s Office - Cauquenes) 
+Intendencia VIII Región 
+(Intendancy Region VIII) 
+Gobernación de Ñuble 
+(Governor’s Office - Ñuble) 
+Gobernación de Bío-Bío 
+(Governor’s Office - Bío-Bío) 
+Gobernación de Concepción 
+(Governor’s Office - Concepción) 
+Gobernación de Arauco 
+(Governor’s Office - Arauco) 
+Intendencia IX Región 
+(Intendancy Region IX) 
+Gobernación de Malleco 
+(Governor’s Office - Malleco) 
+Gobernación de Cautín 
+(Governor’s Office - Cautín) 
+Intendencia X Región 
+(Intendancy Region X) 
+Gobernación de Valdivia 
+(Governor’s Office - Valdivia) 
+Gobernación de Osorno 
+(Governor’s Office - Osorno) 
+Gobernación de Llanquihue 
+(Governor’s Office - Llanquihue) 
+Gobernación de Chiloé 
+(Governor’s Office - Chiloé) 
+Gobernación de Palena 
+(Governor’s Office - Palena) 
+Intendencia XI Región 
+ 
+11-16  
+ 
+ 
+(Intendancy Region XI) 
+Gobernación de Coihaique 
+(Governor’s Office - Coihaique) 
+Gobernación de Aysén 
+(Governor’s Office - Aysén) 
+Gobernación de General Carrera 
+(Governor’s Office - General Carrera) 
+Intendencia XII Región 
+(Intendancy Region XII) 
+Gobernación de Capitán Prat 
+(Governor’s Office - Capitán Prat) 
+Gobernación de Ultima Esperanza 
+(Governor’s Office - Ultima Esperanza) 
+Gobernación de Magallanes 
+(Governor’s Office - Magallanes)  
+Gobernación de Tierra del Fuego 
+(Governor’s Office - Tierra del Fuego) 
+Gobernación de Antártica Chilena 
+(Governor’s Office - Antártica Chilena) 
+Intendencia Región Metropolitana 
+(Intendancy Metropolitan Region) 
+Gobernación de Chacabuco 
+(Governor’s Office - Chacabuco)  
+Gobernación de Cordillera 
+(Governor’s Office - Cordillera) 
+Gobernación de Maipo 
+(Governor’s Office - Maipo) 
+Gobernación de Talagante 
+(Governor’s Office - Talagante) 
+Gobernación de Melipilla 
+(Governor’s Office - Melipilla) 
+Gobernación de Santiago 
+(Governor’s Office - Santiago) 
+ 
+ 
+Note to Section A: 
+ 
+Chapter 11 shall not apply to any procurement made by a listed entity on 
+behalf of a non-listed entity. 
+   
+   
+B.  Covered Goods and Services 
+   
+1.  Goods 
+ 
+Chapter 11 applies to all goods procured by the entities listed in Section A. 
+ 
+11-17    
+   
+   
+   
+   
+2.  Services 
+   
+  Chapter 11 applies to all services procured by the entities listed in   
+ 
+Section A, except all classes of financial services (as elaborated in the 
+ 
+  Common Classification System), which are excluded. 
+   
+3.  Construction Services 
+ 
+Chapter 11 applies to all construction services procured by the entities listed 
+in Section A.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11-18  
+ 
+ 
+NEW ZEALAND 
+   
+A.  List of Entities   
+ 
+Archives New Zealand 
+Crown Law Office 
+Department of Building and Housing 
+Department of Child, Youth and Family Services 
+Department of Conservation 
+Department of Corrections 
+Department of Internal Affairs 
+Department of Labour   
+Department of the Prime Minister and Cabinet 
+Education Review Office 
+Government Communications Security Bureau 
+Inland Revenue Department 
+Land Information New Zealand 
+Ministry of Agriculture and Forestry 
+Ministry for Culture and Heritage 
+Ministry of Defence 
+Ministry of Economic Development 
+Ministry of Education 
+Ministry for the Environment 
+Ministry of Fisheries 
+Ministry of Foreign Affairs and Trade 
+Ministry of Health 
+Ministry of Justice 
+Ministry of Maori Development 
+Ministry of Pacific Island Affairs 
+Ministry of Research, Science and Technology 
+Ministry of Social Development 
+Ministry of Transport 
+Ministry of Women's Affairs 
+National Library of New Zealand 
+New Zealand Customs Service 
+New Zealand Defence Force 
+New Zealand Police 
+Serious Fraud Office 
+State Services Commission 
+Statistics New Zealand  
+The Treasury 
+ 
+Note to Section A: 
+ 
+Chapter 11 shall not apply to any procurement made by a listed entity on  
+behalf of a non-listed entity.   
+ 
+11-19    
+   
+   
+   
+   
+B.  Covered Goods and Services 
+   
+1.  Goods 
+   
+  Chapter 11 applies to all goods procured by the entities listed in Section A. 
+ 
+ 
+2.  Services 
+   
+  Chapter 11 applies to all services procured by the entities listed in   
+ 
+Section A, except the following: 
+ 
+   
+  (a) procurement of research and development services;2  
+ 
+ 
+ 
+  (b) any procurement in respect of contracts for construction, 
+  refurbishment or furnishing of chanceries abroad;3 and 
+ 
+ 
+ 
+(c) procurement of public health, education and welfare services.4  
+ 
+   
+   
+3.  Construction Services 
+ 
+Chapter 11 applies to all construction services procured by the entities listed 
+in Section A, except for procurement covered by Paragraph 2(b) above. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  As defined in WTO document MTN.GNS/W/120 (CPC 851-853).  
+2
+ As regards construction services, this refers to WTO document MTN.GNS/W/120 sector heading 
+3
+“Construction and Related Engineering Services”.   
+ Refers to procurement, for provision to the public, of services classified in WTO document  
+4
+MTN.GNS/W/120 under the sector headings “Educational Services” and “Health Related and Social 
+Services”, and CPC item 913. 
+11-20  
+ 
+ 
+SINGAPORE 
+   
+A.  List of Entities   
+ 
+Auditor-General's Office 
+Attorney-General's Chambers 
+Cabinet Office 
+Istana 
+Judicature 
+Ministry of Transport 
+Ministry of Community Development and Sports 
+Ministry of Education 
+Ministry of Environment 
+Ministry of Finance 
+Ministry of Foreign Affairs 
+Ministry of Health 
+Ministry of Home Affairs 
+Ministry of Information, Communications and the Arts 
+Ministry of Manpower 
+Ministry of Law 
+Ministry of National Development  
+Ministry of Trade and Industry 
+Parliament  
+Presidential Councils 
+Prime Minister's Office 
+Public Service Commission 
+Ministry of Defence 
+ 
+This Agreement will generally apply to purchases by the Singapore Ministry of 
+Defence of the following  Federal Supply Classification (FSC) categories of the 
+United States of America (others being excluded) subject to the Government of  
+Singapore's determinations under the provisions of Article 11.22. 
+   
+   
+FSC  Description 
+   
+22  Railway Equipment 
+23  Ground Effect Vehicles, Motor Vehicles, Trailers and Cycles 
+24  Tractors 
+25  Vehicular Equipment Components 
+26  Tires and Tubes 
+29  Engine Accessories 
+30  Mechanical Power Transmission Equipment  
+31  Bearings 
+32  Woodworking Machinery and Equipment 
+34  Metalworking Machinery 
+ 
+11-21    
+   
+   
+35  Service and Trade Equipment 
+36  Special Industry Machinery 
+37  Agricultural Machinery and Equipment 
+38  Construction,  Mining,  Excavating  and Highway Maintenance   
+  Equipment  
+39  Materials Handling Equipment 
+40  Rope, Cable, Chain and Fittings 
+41  Refrigeration, Air Conditioning and Air Circulating Equipment 
+42  Fire Fighting, Rescue and Safety Equipment  
+43  Pumps and Compressors 
+44  Furnace, Steam Plant and Drying Equipment  
+45  Plumbing, Heating and Sanitation Equipment 
+46  Water Purification and Sewage Treatment Equipment 
+47  Pipe, Tubing, Hose and Fittings 
+48  Valves 
+51  Handtools 
+52  Measuring Tools 
+53 Hardware  and Abrasives 
+54  Prefabricated Structures and Scaffolding 
+55  Lumber, Millwork, Plywood and Veneer 
+56  Construction and Building Materials 
+61  Electric Wire, and Power and Distribution Equipment 
+62  Lighting, Fixtures and Lamps 
+63  Alarm, Signal and Security Detection Systems 
+65  Medical, Dental and Veterinary Equipment and Supplies 
+67  Photographic Equipment 
+68  Chemicals and Chemical Products  
+69  Training Aids and Devices 
+70  General  Purpose  Automatic  Data  Processing  Equipment, 
+  Software,Supplies and Support Equipment 
+71  Furniture 
+72  Household and Commercial Furnishings and Appliances 
+73  Food Preparation and Serving Equipment 
+74  Office Machines, Text Processing Systems and Visible Record 
+  Equipment  
+75  Office Supplies and Devices 
+76  Books, Maps and other Publications 
+77  Musical Instruments, Phonographs and Home-Type Radios 
+78  Recreational and Athletic Equipment 
+79  Cleaning Equipment and Supplies 
+80  Brushes, Paints, Sealers and Adhesives 
+81  Containers, Packaging and Packing Supplies 
+83  Textiles, Leather, Furs, Apparel and Shoe Findings, Tents and Flags  
+84  Clothing, Individual Equipment, and Insignia  
+85  Toiletries 
+87  Agricultural Supplies 
+ 
+11-22    
+   
+   
+88  Live Animals 
+89  Subsistence 
+91  Fuels, Lubricants, Oils and Waxes  
+93  Non-metallic Fabricated Materials  
+94  Non-metallic Crude Materials 
+95  Metal Bars, Sheets and Shapes 
+96  Ores, Minerals, and their Primary Products 
+99  Miscellaneous 
+ 
+ 
+Note to Section A: 
+ 
+Chapter 11 shall not apply to any procurement made by a listed entity on 
+behalf of a non-listed entity.   
+ 
+B. Covered Goods and Services 
+   
+1.  Goods 
+ 
+Chapter 11 applies to all goods procured by the entities listed in Section A. 
+ 
+2.    Services (Other than construction services) 
+ 
+The following services are contained in WTO document MTN.GNS/W/120 are 
+offered (others being excluded): 
+   
+CPC  Description 
+   
+862  Accounting, Auditing and Book-keeping Services 
+8671  Architectural Services 
+865  Management Consulting Services 
+874  Building-Cleaning Services 
+641-643  Hotels and Restaurants (incl. catering) 
+74710  Travel Agencies and Tour Operators 
+7472  Tourist Guide Services 
+843  Data Processing Services 
+844  Database Services  
+932  Veterinary Services  
+84100  Consultancy Services Related to the Installation of Computer 
+  Hardware 
+84210  Systems and Software Consulting Services 
+87905  Translation and Interpretation Services 
+7523  Electronic Mail 
+7523  Voice Mail 
+7523  On-Line Information and Database Retrieval 
+7523  Electronic Data Interchange 
+ 
+11-23    
+   
+   
+96112  Motion Picture or Video Tape Production Services 
+96113  Motion Picture or Video Tape Distribution Services 
+96121  Motion Picture Projection Services 
+96122  Video Tape Projection Services 
+96311  Library Services 
+8672  Engineering Services 
+7512  Courier Services 
+   -  Biotechnology Services 
+   -  Exhibition Services 
+   -  Commercial Market Research 
+   -  Interior Design Services, Excluding Architecture 
+   -  Professional, Advisory and Consulting Services Relating to  
+Agriculture, Forestry, Fishing and Mining, Including Oilfield 
+Services 
+ 
+C.    Construction Services  
+ 
+The following construction services in the sense of Division 51 of the CPC as  
+contained in WTO document MTN.GNS/W/120 are offered (others being 
+excluded): 
+ 
+List of construction services offered: 
+   
+CPC  Description 
+   
+512  General construction work for buildings 
+513  General construction work for civil engineering 
+514, 516  Installation and assembly work 
+517  Building completion and finishing work  
+511, 515, 518 Others 
+ 
+Notes to Section B: 
+   
+1.  Chapter 11 shall not apply to any procurement in respect of: 
+   
+  (a)  construction contracts for chanceries abroad and headquarters 
+ 
+buildings made by the Ministry of Foreign Affairs;  and 
+ 
+   
+  (b)  contracts made by the Internal Security Department, Criminal 
+ 
+Investigation Department, Security Branch and Central Narcotics Bureau of  
+ 
+  the Ministry of Home Affairs as well as procurement that have security  
+  considerations made by the Ministry. 
+ 
+ 
+2.  The offer regarding services and construction services is subject to the 
+limitations and conditions specified in the Government of Singapore’s offer under  
+the GATS negotiations. 
+ 
+11-24  
+ 
+ 
+Annex 11.B 
+ 
+ 
+Single Electronic Point of Access   
+ 
+ 
+For Chile:  
+ 
+http://www.chilecompra.cl  
+ 
+ 
+For New Zealand: 
+ 
+http://www.gets.govt.nz  
+ 
+ 
+For Singapore: 
+ 
+http://www.gebiz.gov.sg  
+ 
+ 
+Contact Point 
+ 
+ 
+For Brunei Darussalam:   
+ 
+State Tender Board (STB) 
+Ministry of Finance 
+Commonwealth Drive 
+Brunei Darussalam BB 3910 
+ 
+ 
+For New Zealand: 
+ 
+Regulatory and Competition Policy Branch 
+Ministry of Economic Development 
+Level 8, 33 Bowen Street 
+PO Box 1473 
+Wellington, New Zealand 
+ 
+ 
+For Singapore: 
+ 
+Expenditure & Procurement Policies Unit 
+Ministry of Finance 
+100, High Street 
+Singapore 179434 
+11-25    
+   
+   
  
 Annex 11.C 
  
-Thresholds 
+   
+  Thresholds 
  
  
-Threshold : SDR 50,000 
  
-Threshold : SDR 50,000 
  
-Threshold : SDR 5,000,000 
+ 
+Goods  Threshold : SDR 50,000 
+   
+Services    Threshold : SDR 50,000 
+   
+Construction  Threshold : SDR 5,000,000 
  
  
 Thresholds shall be converted to the respective national currencies in accordance 
 with the following provisions: 
- 
-1. 
- 
-Each Party shall calculate and publish the value of the thresholds under this  
+   
+1.  Each Party shall calculate and publish the value of the thresholds under this  
 Chapter expressed in the corresponding national currency. These calculations will 
 be based on the conversion rates published by the IMF in its monthly “International 
 Financial Statistics”. 
- 
-2. 
- 
-The conversion rates shall be the average of the daily values of the 
+   
+2.  The conversion rates shall be the average of the daily values of the 
 respective national currency in terms of the SDR over the two years preceding 
 1 September, 1 October or 1 November of the year prior to the thresholds in 
 national currency becoming effective which will be from 1 January. 
- 
-3. 
- 
-Thresholds expressed in national currencies will be fixed for two years, ie 
-calendar years, for all Parties. 
- 
+   
+3.  Thresholds expressed in national currencies will be fixed for two years, ie 
+calendar years, for all Parties.   
  
  
  

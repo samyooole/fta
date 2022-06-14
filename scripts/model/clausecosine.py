@@ -5,7 +5,6 @@ from random import sample, seed
 from scipy.spatial.distance import cosine
 from numpy import argmax
 import pandas as pd
-import numpy as np
 
 df = pd.read_csv('fta_clauses_list.csv')
 

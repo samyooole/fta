@@ -11,8 +11,8 @@ Article 1
  
 Intellectual Property 
  
-"Intellectual property" comprises in particular copyright, including computer 
-programmes and databases1, as well as neighbouring rights, trademarks for goods and 
+"Intellectual  property"  comprises  in  particular  copyright,  including  computer 
+programmes  and  databases1,  as  well  as  neighbouring  rights,  trademarks for goods and 
 services, geographical indications, including appellations of origin2, industrial designs, patents, 
 plant varieties, topographies of integrated circuits, as well as undisclosed information. 
  
@@ -21,52 +21,40 @@ Article 2
  
 International Conventions 
  
-1. 
-The Parties reaffirm their obligations set out in the international agreements to which 
+1.  The Parties reaffirm their obligations set out in the international agreements to which 
 they are parties, in particular the following multilateral agreements: 
  
-- 
-WTO Agreement of 15 April 1994 on Trade-Related Aspects of Intellectual 
+-  WTO Agreement of 15 April 1994 on Trade-Related Aspects of Intellectual 
 Property Rights (TRIPS Agreement); 
  
-- 
-Paris Convention of 20 March 1883 for the Protection of Industrial Property 
+-  Paris Convention of 20 March 1883 for the Protection of Industrial Property 
 (Stockholm Act, 1967); and 
  
-- 
-Berne Convention of 9 September 1886 for the Protection of Literary and 
+-  Berne  Convention  of  9  September  1886  for  the  Protection  of  Literary  and 
 Artistic Works (Paris Act, 1971). 
  
-2. 
-The Parties which are not party to one or more of the agreements listed below shall 
+2.  The Parties which are not party to one or more of the agreements listed below shall 
 undertake to obtain their adherence to the following multilateral agreements on or before 1 
 January 2005. 
  
-- 
-the Geneva Act (1999) of the Hague Agreement concerning the International 
+-  the Geneva Act (1999) of the Hague Agreement concerning the International 
 Registration of Industrial Designs; 
  
                                                  
-1  
-Databases are understood to be compilations of data or other material, in any form, which by 
+1   Databases are understood to be compilations of data or other material, in any form, which by 
 reason of selection or arrangement of their contents constitute intellectual creations. 
-2  
-Appellations of origin are understood to be one form of geographical indications. 
-- 2 - 
+2   Appellations of origin are understood to be one form of geographical indications. - 2 - 
  
  
-- 
-the WIPO Copyright Treaty (Geneva 1996); 
+-  the WIPO Copyright Treaty (Geneva 1996); 
  
-- 
-the WIPO Performances and Phonogram Treaty (Geneva 1996); 
+-  the WIPO Performances and Phonogram Treaty (Geneva 1996); 
  
-3. 
-The Parties agree to hold, without undue delay, expert consultations, upon request of 
-any Party, on activities relating to the identified or to future international conventions on 
+3.  The Parties agree to hold, without undue delay, expert consultations, upon request of 
+any  Party,  on  activities  relating  to  the  identified or to future international conventions on 
 harmonisation, administration and enforcement of intellectual property rights and on activities in 
 international organizations, such as the WTO and the World Intellectual Property Organization 
-(WIPO), as well as on relations of the Parties with third countries on matters concerning 
+(WIPO), as well  as on relations of the Parties with third countries on matters concerning 
 intellectual property. 
  
  
@@ -76,46 +64,40 @@ Patents
  
 The Parties shall ensure in their national laws at least the following: 
  
-(a) 
-adequate and effective patent protection for inventions in all fields of 
+(a)  adequate  and  effective  patent  protection  for  inventions  in  all  fields  of 
 technology. For Liechtenstein and Switzerland, this means protection on a 
-level corresponding to the one in the European Patent Convention of 
-5 October 1973, as implemented in their national law. For Iceland and 
+level  corresponding  to  the  one  in  the  European  Patent  Convention  of 
+5 October  1973,  as  implemented  in  their  national  law.  For  Iceland  and 
 Norway, this means protection on a level corresponding to the one in the 
 Agreement on the European Economic Area of 2 May 1992, as implemented 
-in their national law. For Singapore this means protection on a level 
+in  their  national  law.  For  Singapore  this  means  protection  on  a  level 
 corresponding to Articles 52 through 57 of the European Patent Convention 
 as revised at the diplomatic Conference of November 2000 and as reflected 
 under the Singapore Patents Act in force on 7 November 2001. Nothing in 
 this provision shall preclude the Parties from affording higher levels of patent 
 protection; 
  
-(b) 
+(b)   
  
- 
-(i) 
-with respect to pharmaceutical and plant protection products that are 
-subject to patent protection, an extension of the patent term to 
+(i)  with respect to pharmaceutical and plant protection products that are 
+subject  to  patent  protection,  an  extension  of  the  patent  term  to 
 compensate the patentee for curtailment of the patent term as a result 
 of the marketing approval process3, subject to a maximum of 5 years. 
 The overall term of patent protection, including any extension, shall not 
 exceed 25 years from the filing date of the patent application. This 
 compensatory extension will only apply when the marketing approval 
                                                  
-3  
-Marketing approval process is understood to encompass the period between the filing date of the 
+3   Marketing approval process is understood to encompass the period between the filing date of the 
 patent application and the date of the first market authorisation of the product in the territory of 
 the Party granting this authorisation. Singapore reserves the right to depart from the definition of 
 the marketing approval process if it is found to be inconsistent with well established and 
-recognised national or regional standards. 
-- 3 - 
+recognised national or regional standards. - 3 - 
  
  
 process takes more than 5 years; 
  
-(ii) 
-the implementation of paragraph (i) before or on 1 January 2005 and 
-in accordance with well established and recognised national or 
+(ii)  the implementation of paragraph (i) before or on 1 January 2005 and 
+in  accordance  with  well  established  and  recognised  national  or 
 regional standards 4. 
  
 Article 4 
@@ -131,13 +113,11 @@ Article 5
  
 Geographical Indications 
  
-1. 
-The Parties shall provide legal means to protect geographical indications, including 
+1.  The Parties shall provide legal means to protect geographical indications, including 
 appellations of origin, with regard to all products and services. 
  
-2. 
-The Parties may provide different legal means5 to prevent the misleading use of 
-geographical indications in relation to services than that provided for the protection of 
+2.  The  Parties  may  provide  different  legal  means5 to prevent the misleading use of 
+geographical  indications  in  relation  to  services  than  that  provided  for  the  protection  of 
 geographical indications for products and shall be deemed to be in full compliance with the 
 obligations under paragraph 1. 
  
@@ -156,19 +136,14 @@ Acquisition and Maintenance of Intellectual Property Rights
  
 Where the acquisition of an intellectual property right is subject to the right being 
                                                  
-4  
-Singapore reserves the right to adopt the US regime. 
-5  
-In accordance with the TRIPS Agreement. 
-6  
-As adopted by WIPO in September 1999. 
-- 4 - 
+4   Singapore reserves the right to adopt the US regime. 
+5   In accordance with the TRIPS Agreement. 
+6   As adopted by WIPO in September 1999. - 4 - 
  
  
 granted or registered, the Parties shall ensure that the procedures for grant or registration are 
 of the same level as that provided in the TRIPS Agreement, in particular Article 62. 
- 
-- 5 - 
+ - 5 - 
  
  
  

@@ -1,15 +1,11 @@
- 
- 
-Chapter 6 - Customs and Trade Facilitation 
-6-1 
+    Chapter 6 - Customs and Trade Facilitation 
 CHAPTER 6 
 CUSTOMS PROCEDURES AND TRADE FACILITATION 
  
  
 Article 6.1 
 Agreement on Trade Facilitation 
- 
- 
+   
 The Parties recognise the TFA and shall give effect to the provisions of Section I of the TFA 
 as per the implementation schedule of each Party. In the event of any inconsistency between 
 the obligations set out in Section I of the TFA and the obligations set out in the other provisions 
@@ -19,61 +15,46 @@ of this Chapter, the latter shall prevail to the extent of the inconsistency.
 Article 6.2 
 Advance Rulings 
  
-1. 
-A Party shall issue an advance ruling, on an application of an exporter, importer or any 
+1.  A Party shall issue an advance ruling, on an application of an exporter, importer or any 
 person with respect to: 
  
-(a) 
-the origin of goods; 
+(a)  the origin of goods; 
  
-(b) 
-the tariff classification of a product; and 
+(b)  the tariff classification of a product; and 
  
-(c) 
-the appropriate method or criteria, and the application therof, to be used for 
+(c)  the appropriate method or criteria, and the application therof, to be used for 
 determining the customs value under a particular set of facts. 
  
 The issuing Party shall issue its determination within sixty (60) days on receipt of all 
 necessary information.  
  
-2. 
-The issuing Party shall apply an advance ruling issued by it under paragraph 1 of this 
+2.  The issuing Party shall apply an advance ruling issued by it under paragraph 1 of this 
 Article. The customs administration of a Party shall establish a validity period for an 
 advance ruling of not less than one (1) year from the date of its issuance. 
  
-3. 
-The issuing Party may modify or revoke an advance ruling: 
+3.  The issuing Party may modify or revoke an advance ruling: 
  
-(a) 
-if the ruling was based on an error of fact; 
+(a)  if the ruling was based on an error of fact; 
  
-(b) 
-if there is a change in the material facts or circumstances on which the ruling was 
+(b)  if there is a change in the material facts or circumstances on which the ruling was 
 based; or 
   
-(c) 
-to conform with a judicial decision or a change in its domestic laws. 
+(c)  to conform with a judicial decision or a change in its domestic laws. 
  
-4. 
-Each Party shall provide, in its domestic law, that any modification or revocation of an 
+4.  Each Party shall provide, in its domestic law, that any modification or revocation of an 
 advance ruling shall be effective on the date on which the modification or revocation is 
 issued, or on such later date as may be specified therein, and shall not be applied to 
 importations of a good that have occurred prior to that date, unless the person to whom 
- 
- 
-Chapter 6 - Customs and Trade Facilitation 
-6-2 
+6-1     Chapter 6 - Customs and Trade Facilitation 
 the advance ruling was issued has not acted in accordance with the terms and conditions 
 of the advance ruling. 
  
-5. 
-Where a Party modifies or revokes an advance ruling, it shall provide written notice to 
+5.  Where a Party modifies or revokes an advance ruling, it shall provide written notice to 
 the applicant setting out the relevant facts and the basis for its decision. Where a Party 
 revokes or modifies an advance ruling with retrospective effect, it may only do so where 
 the advance ruling was based on incomplete, incorrect, false or misleading information.  
  
-6. 
-An advance ruling issued by a Party shall be binding on that Party in respect of the 
+6.  An advance ruling issued by a Party shall be binding on that Party in respect of the 
 applicant that sought it. The Party may provide that the advance ruling is binding on the 
 applicant. 
  
@@ -89,58 +70,42 @@ legislation for the exportation, importation and transit of goods.
 Article 6.4 
 Publication 
  
-1. 
-The Parties shall promptly publish or otherwise make available, including through 
-electronic means, the following information in a non-discriminatory and easily 
+1.  The Parties shall promptly publish or otherwise make available, including through 
+electronic  means,  the  following  information  in  a  non-discriminatory  and  easily 
 accessible manner, in order to enable interested parties to become acquainted with 
 them: 
                                                             
-(a) 
-importation, exportation and transit procedures (including port, airport, and 
+(a)  importation, exportation and transit procedures (including port, airport, and 
 other entry-point procedures) and required forms and documents; 
  
-(b) 
-applied rates of duties, and taxes of any kind imposed on or in connection with 
+(b)  applied rates of duties, and taxes of any kind imposed on or in connection with 
 importation or exportation; 
  
-(c) 
-rules for the classification or the valuation of products for customs purposes; 
+(c)  rules for the classification or the valuation of products for customs purposes; 
  
-(d) 
-laws, regulations and administrative rulings of general application relating to 
+(d)  laws, regulations and administrative rulings of general application relating to 
 rules of origin; 
  
-(e) 
-import, export or transit restrictions or prohibitions;  
+(e)  import, export or transit restrictions or prohibitions;  
  
-(f) 
-fees and charges imposed on or in connection with importation, exportation or 
+(f)  fees and charges imposed on or in connection with importation, exportation or 
 transit; 
  
-(g) 
-penalty provisions against breaches of import, export or transit formalities; 
+(g)  penalty provisions against breaches of import, export or transit formalities; 
  
-(h) 
-appeal procedures; 
+(h)  appeal procedures; 
+6-2     Chapter 6 - Customs and Trade Facilitation 
  
- 
-Chapter 6 - Customs and Trade Facilitation 
-6-3 
- 
-(i) 
-agreements or parts thereof with any country or countries relating to 
+(i)  agreements  or  parts  thereof  with  any  country  or  countries  relating  to 
 importation, exportation or transit; and 
  
-(j) 
-administrative procedures relating to the imposition of tariff quotas. 
+(j)  administrative procedures relating to the imposition of tariff quotas. 
  
-2. 
-The information in paragraph 1 of this Article shall, to the extent practicable, be made 
+2.  The information in paragraph 1 of this Article shall, to the extent practicable, be made 
 available on the Internet in English. 
  
-3. 
-The Parties shall designate or maintain one or more inquiry or information points to 
-address inquiries by interested persons concerning customs and trade facilitation 
+3.  The Parties shall designate or maintain one or more inquiry or information points to 
+address  inquiries  by  interested  persons  concerning  customs  and  trade  facilitation 
 matters. Such inquiries shall be addressed in English. 
  
  
@@ -158,50 +123,37 @@ Technical Co-operation
  
 In order to enhance co-operation on customs matters, the Parties shall, inter alia:  
  
-(a) 
-exchange information concerning their respective customs legislation, its 
+(a)  exchange  information  concerning  their  respective  customs  legislation,  its 
 implementation, and customs procedures, particularly in the following areas:  
  
-(i) 
-simplification and modernisation of customs procedures;  
+(i)  simplification and modernisation of customs procedures;  
  
-(ii) 
-border enforcement of intellectual property rights by the customs 
+(ii)  border  enforcement  of  intellectual  property  rights  by  the  customs 
 authorities;  
  
-(iii) 
-transit movements and transhipment; and  
+(iii)  transit movements and transhipment; and  
  
-(iv) 
-relations with the business community; 
+(iv)  relations with the business community; 
  
-(b) 
-consider developing joint initiatives relating to import, export and other customs 
+(b)  consider developing joint initiatives relating to import, export and other customs 
 procedures, as well as towards ensuring an effective service to the business 
 community;  
  
-(c) 
-work together on customs-related aspects of securing and facilitating the 
+(c)  work  together  on  customs-related  aspects  of  securing  and  facilitating  the 
 international trade supply chain; and 
  
- 
- 
-Chapter 6 - Customs and Trade Facilitation 
-6-4 
-(d) 
-strengthen co-ordination in international organisations such as the WTO and the 
+6-3     Chapter 6 - Customs and Trade Facilitation 
+(d)  strengthen co-ordination in international organisations such as the WTO and the 
 World Customs Organization. 
  
  
 Article 6.7 
 Customs Contact Points  
  
-1. 
-The Parties shall exchange lists of designated contact points for matters arising under 
+1.  The Parties shall exchange lists of designated contact points for matters arising under 
 this Chapter.  
  
-2. 
-The contact points shall endeavour to resolve operational matters covered by this 
+2.  The contact points shall endeavour to resolve operational matters covered by this 
 Chapter through consultations.  
  
  
@@ -212,43 +164,33 @@ The Parties shall ensure efficient clearance of all shipments, while maintaining
 control and customs selection.  In the event a Party’s existing system does not ensure efficient 
 clearance, it should adopt procedures to expedite express shipments. Such procedures shall: 
  
-(a) 
-provide for pre-arrival processing of information related to express shipments;  
+(a)  provide for pre-arrival processing of information related to express shipments;  
  
-(b) 
-permit, as a condition for release, the submission of a single document in the 
+(b)  permit, as a condition for release, the submission of a single document in the 
 form that the Party considers appropriate, such as a single manifest or a single 
 declaration, covering all of the goods in the shipment by an express service 
 company, through, if possible, electronic means; 
  
-(c) 
-minimise, to the extent possible, the documentation required for the release of 
+(c)  minimise, to the extent possible, the documentation required for the release of 
 express shipments; and 
  
-(d) 
-allow, in normal circumstances, for an express shipment to be released within 
+(d)  allow, in normal circumstances, for an express shipment to be released within 
 six (6) hours of the submission of necessary customs documentation. 
  
  
  Article 6.9 
 Risk Management 
  
-1. 
-The Parties shall adopt or maintain a risk management system for assessment and 
+1.  The Parties shall adopt or maintain a risk management system for assessment and 
 targeting that enables its customs administration to focus its inspection activities on 
 high-risk goods and that simplifies the clearance and movement of low-risk goods.  
  
-2. 
-The Parties shall design and apply risk management in a manner as to avoid arbitrary 
+2.  The Parties shall design and apply risk management in a manner as to avoid arbitrary 
 or unjustifiable discrimination, or a disguised restriction on international trade.  
  
-3. 
-The Parties shall base risk management on an assessment of risk through appropriate 
+3.  The Parties shall base risk management on an assessment of risk through appropriate 
 selectivity criteria. Such selectivity criteria may include, inter alia, the Harmonized 
- 
- 
-Chapter 6 - Customs and Trade Facilitation 
-6-5 
+6-4     Chapter 6 - Customs and Trade Facilitation 
 System Code, nature and description of the goods, country of origin, country from 
 which the goods were shipped, value of the goods, compliance record of traders, and 
 type of means of transport. 
@@ -257,13 +199,11 @@ type of means of transport.
 Article 6.10 
 Pre-Arrival Processing 
  
-1. 
-The Parties shall adopt or maintain procedures allowing for the submission of import 
+1.  The Parties shall adopt or maintain procedures allowing for the submission of import 
 documentation and other required information in order to begin processing prior to the 
 arrival of goods with a view to expediting the release of goods upon arrival.  
  
-2. 
-The Parties shall provide for advance lodging of documents in electronic format for 
+2.  The Parties shall provide for advance lodging of documents in electronic format for 
 pre-arrival processing of such documents.1  
  
  
@@ -271,12 +211,10 @@ Article 6.11
 Pre-Shipment Inspection 
  
  
-1. 
-The Parties shall not require the use of pre-shipment inspections in relation to tariff 
+1.  The Parties shall not require the use of pre-shipment inspections in relation to tariff 
 classification and customs valuation.  
  
-2. 
-Without prejudice to the rights of the Parties to use types of pre-shipment inspection 
+2.  Without prejudice to the rights of the Parties to use types of pre-shipment inspection 
 not prohibited by paragraph 1 of this Article, the Parties shall endeavour not to 
 introduce or apply new requirements for the use of pre-shipment inspections2. 
  
@@ -285,13 +223,11 @@ Article 6.12
 Post-Clearance Audit 
  
  
-1. 
-With a view to expediting the release of goods, the Parties shall adopt or maintain post-
-clearance audits to ensure compliance with customs and other related laws and 
+1.  With a view to expediting the release of goods, the Parties shall adopt or maintain post-
+clearance  audits  to  ensure  compliance  with  customs  and  other  related  laws  and 
 regulations. 
  
-2. 
-The Parties shall select a person or a consignment for post-clearance audit in a risk-
+2.  The Parties shall select a person or a consignment for post-clearance audit in a risk-
 based manner, which may include appropriate selectivity criteria. The Parties shall 
 conduct post-clearance audits in a transparent manner. Where conclusive results of a 
 post-clearance audit have been achieved, the Party conducting the post-clearance audit 
@@ -303,72 +239,55 @@ practicable.
 1 In the case of Sri Lanka, this provision is subject to legislation being passed by Sri Lanka. 
 2 This paragraph refers to pre-shipment inspections covered by the Agreement on Preshipment Inspection, and 
 does not preclude pre-shipment inspections for sanitary and phytosanitary purposes. 
- 
- 
-Chapter 6 - Customs and Trade Facilitation 
-6-6 
-3. 
-The Parties shall, wherever practicable, use the result of post-clearance audit in 
+6-5     Chapter 6 - Customs and Trade Facilitation 
+3.  The  Parties  shall,  wherever  practicable,  use  the  result  of  post-clearance  audit  in 
 applying risk management. 
  
  
 Article 6.13 
 Release of Goods 
  
-1. 
-The Parties shall adopt or maintain procedures: 
+1.  The Parties shall adopt or maintain procedures: 
  
-(a) 
-providing for the release of goods within a period of time no greater than that 
+(a)  providing for the release of goods within a period of time no greater than that 
 required to ensure compliance with its customs laws; 
  
-(b) 
-allowing, to the extent possible, goods to be released within forty-eight (48) 
+(b)  allowing, to the extent possible, goods to be released within forty-eight (48) 
 hours of arrival; and 
  
-(c) 
-allowing importers who have complied with the procedures that the relevant 
+(c)  allowing importers who have complied with the procedures that the relevant 
 Party may have in place relating to the determination of value and payment of 
 duty to obtain the release of goods from the customs authorities, but may require 
 importers to provide security as a condition for the release of goods, when such 
 security is required to ensure that obligations arising from the entry of the goods 
 will be fulfilled. 
  
-2. 
-The Parties shall: 
+2.  The Parties shall: 
  
-(a) 
-ensure that the amount of any security is no greater than that required to ensure 
+(a)  ensure that the amount of any security is no greater than that required to ensure 
 that obligations arising from the importation of the goods will be fulfilled, and, 
 where applicable, not in excess of the amount chargeable, based on tariff rates 
-under domestic and international law, including this Agreement, and on 
+under  domestic  and  international  law,  including  this  Agreement,  and  on 
 valuation in accordance with the Agreement on Implementation of Article VII of 
 the General Agreement on Tariffs and Trade 1994; 
  
-(b) 
-ensure that any security shall be discharged as soon as possible after the relevant 
+(b)  ensure that any security shall be discharged as soon as possible after the relevant 
 customs authorities are satisfied that the obligations arising from the importation 
 of the goods have been fulfilled; and 
  
-(c) 
-shall adopt procedures allowing: 
+(c)  shall adopt procedures allowing: 
  
-(i) 
-importers to provide security such as bank guarantees, bonds, or other 
+(i)  importers to provide security such as bank guarantees, bonds, or other 
 non-cash financial instruments covering multiple entries; and  
  
-(ii) 
-importers to provide security in any other forms specified by the relevant 
+(ii)  importers to provide security in any other forms specified by the relevant 
 customs authorities. 
  
  
  
  
  
- 
- 
-Chapter 6 - Customs and Trade Facilitation 
-6-7 
+6-6     Chapter 6 - Customs and Trade Facilitation 
 Article 6.14 
 Electronic Payment 
  
@@ -379,48 +298,37 @@ importation and exportation.
 Article 6.15 
 Trade Facilitation Measures for Authorised Operators 
  
-1. 
-The Parties shall provide additional trade facilitation measures related to import, export, 
-or transit formalities and procedures, pursuant to paragraph 3 of this Article, to 
-operators who meet specified criteria, hereinafter called authorised operators. 
+1.  The Parties shall provide additional trade facilitation measures related to import, export, 
+or  transit  formalities  and  procedures,  pursuant  to  paragraph  3  of  this Article,  to 
+operators  who  meet  specified  criteria,  hereinafter  called  authorised  operators. 
 Alternatively, a Party may offer such trade facilitation measures through customs 
 procedures generally available to all operators and is not required to establish a separate 
 scheme.  
  
-2. 
-The specified criteria to qualify as an authorised operator shall be related to compliance, 
+2.  The specified criteria to qualify as an authorised operator shall be related to compliance, 
 or the risk of non-compliance, and specified in a Party's laws, regulations or procedures.  
  
-(a) 
-Such criteria, which shall be published, may include:  
+(a)  Such criteria, which shall be published, may include:  
  
-(i) 
-an appropriate record of compliance with customs and other related laws 
+(i)  an appropriate record of compliance with customs and other related laws 
 and regulations;  
  
-(ii) 
-a system of managing records to allow for necessary internal controls; 
+(ii)  a system of managing records to allow for necessary internal controls; 
  
-(iii) 
-financial solvency, including, where appropriate, provision of a 
+(iii)  financial  solvency,  including,  where  appropriate,  provision  of  a 
 sufficient security or gurantee; and 
  
-(iv) 
-supply chain security. 
+(iv)  supply chain security. 
  
-(b) 
-Such criteria shall not:  
+(b)  Such criteria shall not:  
  
-(i) 
-be designed or applied so as to afford or create arbitrary or unjustifiable 
+(i)  be designed or applied so as to afford or create arbitrary or unjustifiable 
 discrimination between operators where the same conditions prevail; and 
  
-(ii) 
-to the extent possible, restrict the participation of small and medium-
+(ii)  to the extent possible, restrict the participation of small and medium-
 sized enterprises. 
  
-3. 
-The trade facilitation measures provided pursuant to paragraph 1 of this Article shall 
+3.  The trade facilitation measures provided pursuant to paragraph 1 of this Article shall 
 include at least three (3) of the following measures3:  
  
 (a) low documentary and data requirements, as appropriate; 
@@ -428,10 +336,7 @@ include at least three (3) of the following measures3:
                                                            
 3 A measure listed in sub-paragraphs 3(a) to 3(g) of this Article will be deemed to be provided to authorised 
 operators if it is generally available to all operators. 
- 
- 
-Chapter 6 - Customs and Trade Facilitation 
-6-8 
+6-7     Chapter 6 - Customs and Trade Facilitation 
 (b) low rate of physical inspections and examinations, as appropriate; 
  
 (c) rapid release time, as appropriate; 
@@ -445,20 +350,18 @@ Chapter 6 - Customs and Trade Facilitation
 (g) clearance of goods at the premises of the authorised operator or another place 
 authorised by the relevant customs authorities.  
  
-4. 
-The Parties shall endeavour to develop authorised operator schemes on the basis of 
+4.  The Parties shall endeavour to develop authorised operator schemes on the basis of 
 international standards, where such standards exist, except when such standards 
 would be an inappropriate or ineffective means for the fulfilment of the legitimate 
 objectives pursued.  
  
-5. 
-In order to enhance the trade facilitation measures provided to operators, a Party 
+5.  In order to enhance the trade facilitation measures provided to operators, a Party 
 shall afford to the other Party the possibility of negotiating mutual recognition of 
 authorised operator schemes.  
  
-6. 
-The Parties shall exchange relevant information about authorised operator schemes 
+6.  The Parties shall exchange relevant information about authorised operator schemes 
 in force. 
  
  
  
+6-8 

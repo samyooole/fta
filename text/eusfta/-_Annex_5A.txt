@@ -1,6 +1,3 @@
- 
-EUSFTA Annex 5-A - 1 
- 
 ANNEX 5-A 
  
  
@@ -14,26 +11,22 @@ Competent Authorities of the Union
 The competent authorities of the Union include the Member States' administrations and the 
 European Commission. In this respect, the following applies: 
  
-(a) 
-as regards exports to Singapore, the Member States' administrations are responsible for the 
+(a)  as regards exports to Singapore, the Member States' administrations are responsible for the 
 control of the production circumstances and requirements, including statutory inspections 
 and issuing health (or animal welfare) certifications attesting to the agreed standards and 
 requirements; 
  
-(b) 
-as regards imports from Singapore, the Member States' administrations are responsible for 
+(b)  as regards imports from Singapore, the Member States' administrations are responsible for 
 the control of the compliance of imports with the Union's import conditions; 
  
-(c) 
-the European Commission is responsible for the overall coordination, inspection and audits 
+(c)  the European Commission is responsible for the overall coordination, inspection and audits 
 of inspection systems and the necessary legislative action to ensure the uniform application 
 of standards and requirements within the Internal Market of the Union. 
  
  
  
-EUSFTA Annex 5-A - 2 
- 
-ARTICLE 2 
+EUSFTA Annex 5-A - 1 
+ ARTICLE 2 
  
 Competent Authorities of Singapore 
  
@@ -43,18 +36,15 @@ and plants, and facilitating trade in food and agricultural products.
  
 In this respect, the following applies: 
  
-(a) 
-the AVA is the competent authority responsible for import and export inspections and 
+(a)  the AVA is the competent authority responsible for import and export inspections and 
 quarantines; 
  
-(b) 
-the AVA is the national authority responsible for food safety for both primary and processed 
+(b)  the AVA is the national authority responsible for food safety for both primary and processed 
 food, ensures the safety of all food, from production to just before retail, adopts a 
 science-based risk analysis and management approach based on international standards to 
 evaluate and ensure food safety; and 
  
-(c) 
-the AVA is the national authority responsible for animal and plant health, it administers a 
+(c)  the AVA is the national authority responsible for animal and plant health, it administers a 
 comprehensive programme to prevent the introduction of animal diseases of agricultural, 
 economic and public health importance, and also a comprehensive programme to control, as 
 well as to prevent, the incursion of diseases and pests of economic and plant health 
@@ -62,4 +52,7 @@ importance.
  
  
 ________________ 
+ 
+ 
+EUSFTA Annex 5-A - 2 
  

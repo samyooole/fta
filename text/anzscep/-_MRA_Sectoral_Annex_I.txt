@@ -1,134 +1,108 @@
-10 
- 
 SECTORAL ANNEX I 
  
 MEDICINAL PRODUCTS 
  
-This Sectoral Annex specifies the implementation arrangements in respect of 
+This  Sectoral  Annex  specifies  the  implementation  arrangements  in  respect  of 
 medicinal products.  
  
  
 Section 1: Scope 
  
-1.1 
-This Sectoral Annex applies to the Good Manufacturing Practice (GMP) inspection of 
+1.1  This Sectoral Annex applies to the Good Manufacturing Practice (GMP) inspection of 
 manufacturers of medicinal products carried out in the territories of the Parties.  
  
-1.2 
-The Mandatory Requirements covered by this Sectoral Annex are the mandatory 
+1.2  The Mandatory Requirements covered by this Sectoral Annex are the mandatory 
 GMP requirements of the Parties.  
  
-1.3 
-Part III of this Agreement shall apply to this Sectoral Annex.  
+1.3  Part III of this Agreement shall apply to this Sectoral Annex.  
  
-1.4 
-For the purpose of this Sectoral Annex:  
+1.4  For the purpose of this Sectoral Annex:  
  
 Good Manufacturing Practice (GMP) means that part of quality assurance which ensures 
 that products are consistently produced and controlled during manufacture to the quality 
 standards appropriate to their intended use and as required by the marketing authorisation 
 granted by the importing Party;  
  
-Inspection Service means a Regulatory Authority responsible for the inspection of 
-manufacturers of medicinal products and the granting of manufacturing licences or 
+Inspection  Service  means  a  Regulatory  Authority  responsible  for  the  inspection  of 
+manufacturers  of  medicinal  products  and  the  granting  of  manufacturing  licences  or 
 certificates for medicinal products; and 
  
 medicinal products means all products regulated by the pharmaceutical legislation in each 
-Party. For the purposes of this Annex, the definition of medicinal products excludes 
+Party.  For  the  purposes  of  this  Annex,  the  definition  of  medicinal  products  excludes 
 veterinary products. 
  
  
 Section 2: Obligations 
  
-2.1 
-New Zealand shall accept the conclusions of GMP inspections of manufacturers 
-carried out by Singapore's Inspection Service and manufacturing certificates issued by 
+2.1  New  Zealand  shall  accept  the  conclusions  of GMP  inspections  of  manufacturers 
+carried  out  by  Singapore's  Inspection  Service  and  manufacturing  certificates  issued  by 
 Singapore's Inspection Service in accordance with Section 4.  
  
-2.2 
-Singapore shall accept the conclusions of GMP inspections of manufacturers carried 
+2.2  Singapore shall accept the conclusions of GMP inspections of manufacturers carried 
 out by New Zealand's Inspection Service and manufacturing certificates issued by New 
 Zealand's Inspection Service in accordance with Section 4.  
  
-2.3 
-With respect to medicinal products covered by the mandatory GMP requirements of 
+2.3  With respect to medicinal products covered by the mandatory GMP requirements of 
 one Party but not the other, manufacturing companies can request that, for the purpose of this 
 Sectoral Annex, an inspection be made by the other Party's Inspection Service.  
-11 
- 
- 
-2.4 
-In addition, the manufacturer’s certification of the conformity of each batch to its 
+10 
+  
+2.4  In addition, the manufacturer’s certification of the conformity of each batch to its 
 specifications will be recognised by the other Party without re-testing and certification at 
 import. 
  
  
 Section 3: Inspection Services 
  
-3.1 
-For the purpose of this Sectoral Annex, New Zealand's Inspection Service shall be:  
+3.1  For the purpose of this Sectoral Annex, New Zealand's Inspection Service shall be:  
  
+  Medsafe, The New Zealand Medicines and Medical Devices Safety Authority  
+  Ministry of Health 
  
-Medsafe, The New Zealand Medicines and Medical Devices Safety Authority  
+3.2  For the purpose of this Sectoral Annex, Singapore's Inspection Service shall be:  
  
-Ministry of Health 
- 
-3.2 
-For the purpose of this Sectoral Annex, Singapore's Inspection Service shall be:  
- 
- 
-Audit and Licensing Division 
- 
-Health Products Regulation Group 
- 
-Health Sciences Authority 
+  Audit and Licensing Division 
+  Health Products Regulation Group 
+  Health Sciences Authority 
  
  
 Section 4: Certification of Manufacturers 
  
-4.1 
-At the request of an exporter, importer or the regulatory authority of the other Party, 
+4.1  At the request of an exporter, importer or the regulatory authority of the other Party, 
 the Inspection Service shall assess and, where appropriate, certify that the manufacturer:  
  
-(a) 
-is appropriately authorised to manufacture the relevant medicinal product or to 
+(a)  is appropriately authorised to manufacture the relevant medicinal product or to 
 carry out the relevant specified manufacturing operation;  
  
-(b) 
-is regularly inspected by the authorities; and  
+(b)  is regularly inspected by the authorities; and  
  
-(c) 
-complies with the national GMP requirements recognised as equivalent by the 
+(c)  complies with the national GMP requirements recognised as equivalent by the 
 two Parties in accordance with Article 2.3. In cases where different GMP 
 requirements are used as a reference, this is to be mentioned in the certificate.  
  
-4.2 
-Certificates shall also identify the site(s) of manufacture and contract testing 
+4.2  Certificates  shall  also  identify  the  site(s)  of  manufacture  and  contract  testing 
 laboratories (if any). The format of the certificate is attached as Appendix 1 and may be 
 modified through agreement by the Parties.  
  
-4.3 
-Certificates shall be issued expeditiously and the time taken shall not exceed 30 
+4.3  Certificates shall be issued expeditiously and the time taken shall not exceed 30 
 calendar days. In exceptional cases, such as when a new inspection has to be carried out, this 
 period may be extended to 60 calendar days.  
  
  
 Section 5: Operational Provisions 
  
-5.1 
-Transmission of Inspection Reports  
+5.1  Transmission of Inspection Reports  
  
-12 
- 
-5.1.1 Upon reasoned request, the relevant Inspection Service shall forward a copy of the 
+11 
+ 5.1.1  Upon reasoned request, the relevant Inspection Service shall forward a copy of the 
 last inspection report of the manufacturing site or contract testing laboratory in the case 
 where analytical operations are contracted out. The request may concern a "full inspection 
 report" or a "detailed report" (see Section 5.2). The requesting Party shall deal with these 
 inspection reports with the degree of confidentiality requested by the other Party.  
  
-5.1.2 If the manufacturing operations of the medicinal product in question have not been 
+5.1.2  If the manufacturing operations of the medicinal product in question have not been 
 inspected recently, i.e. when the last inspection dates back to more than three years or a 
-particular need to inspect has been identified by either Party, a specific and detailed 
+particular  need  to  inspect  has  been  identified  by  either  Party,  a  specific  and  detailed 
 inspection may be requested by either Party. Where the last inspection dates back to three 
 years or less, the Party shall ensure that inspection reports are forwarded to the other Party in 
 no more than 30 calendar days. Where the last inspection dates back to more than three years, 
@@ -136,190 +110,144 @@ this period to forward the inspection reports to the other Party may be extended
 calendar days.  
  
  
-5.2 
-Inspection Reports  
+5.2  Inspection Reports  
  
-5.2.1 A "full inspection report" comprises a Site Master File (compiled by the manufacturer 
+5.2.1  A "full inspection report" comprises a Site Master File (compiled by the manufacturer 
 and verified by the Inspection Service) and a narrative report by the Inspection Service. A 
 "detailed report" responds to specific queries about a manufacturer by the other Party.  
  
  
-5.3 
-Reference GMP  
+5.3  Reference GMP  
  
-5.3.1 For the avoidance of doubt, with respect to medicinal products covered by the 
-mandatory GMP requirements of the importing Party but not the exporting one, GMP 
-inspections by the Inspection Service of the exporting Party shall be in relation to the 
+5.3.1  For  the  avoidance  of  doubt,  with  respect  to  medicinal  products  covered  by  the 
+mandatory  GMP  requirements  of  the  importing  Party  but  not  the  exporting  one,  GMP 
+inspections by  the  Inspection Service of the  exporting Party  shall be in  relation to  the 
 mandatory GMP requirements of the importing Party. This shall also be the case when the 
 mandatory GMP requirements of both Parties are not regarded as equivalent in accordance 
 with Article 2.3.  
  
-5.3.2 Equivalence of GMP requirements for specific products or classes of products shall be 
+5.3.2  Equivalence of GMP requirements for specific products or classes of products shall be 
 determined according to a procedure established by the Parties.  
  
  
-5.4 
-Nature of Inspections  
+5.4  Nature of Inspections  
  
-5.4.1 Inspection Services shall routinely assess the compliance of the manufacturer with 
+5.4.1  Inspection Services shall routinely assess the compliance of the manufacturer with 
 mandatory GMP requirements.  
  
-5.4.2 Inspection Services shall, on the request of the other Party, undertake product specific 
+5.4.2  Inspection Services shall, on the request of the other Party, undertake product specific 
 assessments of a manufacturer's compliance with mandatory GMP requirements.  
  
  
-5.5  
-Safeguard Clause for Inspections  
+5.5   Safeguard Clause for Inspections  
  
-13 
- 
-5.5.1 Each Regulatory Authority may, subject to the laws and regulations of the other Party, 
+12 
+ 5.5.1  Each Regulatory Authority may, subject to the laws and regulations of the other Party, 
 conduct its own inspection of manufacturers in the other Party for reasons identified to the 
 other Party. Such inspections shall be notified in advance to the other Party, which has the 
 option of joining the inspection. Recourse to this safeguard clause shall only be exercised in 
 exceptional circumstances for the purpose of health and safety and shall only occur with the 
 consent of the manufacturer.  
  
-5.6 
-Exchange of Information between Regulatory Authorities and Harmonisation of 
+5.6  Exchange of Information between Regulatory Authorities and Harmonisation of 
 Requirements  
  
-5.6.1 In accordance with this Agreement, the Parties shall exchange any information 
+5.6.1  In  accordance  with  this  Agreement,  the  Parties  shall  exchange  any  information 
 necessary for the mutual recognition of inspections.  
  
-5.6.2 In addition, the relevant Regulatory Authorities in New Zealand and in Singapore 
+5.6.2  In addition, the relevant Regulatory Authorities in New Zealand and in Singapore 
 shall keep each other informed of any new technical guidance or inspection procedure. Each 
 Party shall consult with the other Party before their adoption and shall endeavour to work 
 towards their harmonisation or equivalence.  
  
  
-5.7 
-Inspectors Training  
+5.7  Inspectors Training  
  
-5.7.1 In accordance with this Agreement, training sessions for inspectors on GMP, 
+5.7.1  In  accordance  with  this  Agreement,  training  sessions  for  inspectors  on  GMP, 
 organised by the Regulatory Authorities, shall be accessible to inspectors of the other Party. 
 The Parties shall keep each other informed of these sessions.  
  
  
-5.8 
-Joint Inspections  
+5.8  Joint Inspections  
  
-5.8.1 In accordance with this Agreement, and by mutual agreement between the Parties, 
+5.8.1  In accordance with this Agreement, and by mutual agreement between the Parties, 
 joint inspections may be conducted. These inspections are intended to develop common 
 understanding and interpretation of practice and requirements.  
  
-5.8.2 The fee for a joint inspection will be charged only by the Regulatory Authority of the 
+5.8.2  The fee for a joint inspection will be charged only by the Regulatory Authority of the 
 Party in whose territory the inspection is carried out if the Inspection Service of the other 
 Party participates in the joint inspection for the purposes of training.  
  
  
-5.9 
-Alert System  
+5.9  Alert System  
  
-5.9.1 Contact points shall be agreed between the Parties to permit Regulatory Authorities 
+5.9.1  Contact points shall be agreed between the Parties to permit Regulatory Authorities 
 and manufacturers of one Party to inform the Regulatory Authorities of the other Party with 
 appropriate speed in case of quality defect, batch recalls, counterfeiting and other problems 
-concerning quality, which could necessitate additional controls or suspension of the 
+concerning  quality,  which  could  necessitate  additional  controls  or  suspension  of  the 
 distribution of the batch. A detailed alert procedure shall be agreed.  
  
-5.9.2  The Parties shall ensure that any suspension or withdrawal (total or partial) of a 
+5.9.2   The Parties shall ensure that any suspension or withdrawal (total or partial) of a 
 manufacturing authorisation, based on non-compliance with mandatory GMP requirements 
-14 
- 
-and which could affect the protection of public health, is communicated to each other with 
+13 
+ and which could affect the protection of public health, is communicated to each other with 
 the appropriate degree of urgency. 
  
  
-5.10 
-Contact Points  
+5.10  Contact Points  
  
 5.10.1 For the purpose of this Sectoral Annex, the contact points for any technical question, 
-such as exchange of inspection reports, inspectors’ training sessions and technical 
+such  as  exchange  of  inspection  reports,  inspectors’  training  sessions  and  technical 
 requirements, will be:  
  
 5.10.2 For New Zealand:  
  
+  For GMP:  
+  Manager, Compliance Management Branch 
+  Medsafe 
+  The New Zealand Medicines and Medical Devices Safety Authority 
+  Ministry of Health 
+  PO Box 5013 
+  Wellington 
+  New Zealand 
  
-For GMP:  
+  Tel.: +64-4-819 6800 
+  Email: gmp@moh.govt.nz 
  
-Manager, Compliance Management Branch 
- 
-Medsafe 
- 
-The New Zealand Medicines and Medical Devices Safety Authority 
- 
-Ministry of Health 
- 
-PO Box 5013 
- 
-Wellington 
- 
-New Zealand 
- 
- 
-Tel.: +64-4-819 6800 
- 
-Email: gmp@moh.govt.nz 
- 
- 
-For the Alert System:   
- 
-Manager, Compliance Management Branch 
- 
-Medsafe 
- 
-The New Zealand Medicines and Medical Devices Safety Authority 
- 
-Ministry of Health 
- 
-PO Box 5013 
- 
-Wellington 
- 
-New Zealand 
- 
- 
- 
-Tel: +64 4 819 6800 
- 
-Email: recalls@moh.govt.nz 
+  For the Alert System:   
+  Manager, Compliance Management Branch 
+  Medsafe 
+  The New Zealand Medicines and Medical Devices Safety Authority 
+  Ministry of Health 
+  PO Box 5013 
+  Wellington 
+  New Zealand 
+   
+  Tel: +64 4 819 6800 
+  Email: recalls@moh.govt.nz 
  
  
 5.10.3 For Singapore:  
  
- 
-For GMP:  
- 
-Division Director, Audit and Licensing Division 
- 
-Health Products Regulation Group 
- 
-Health Sciences Authority 
+  For GMP:  
+  Division Director, Audit and Licensing Division 
+  Health Products Regulation Group 
+  Health Sciences Authority 
   
+  Tel: +65 6866 3509 
+  Fax: +65 6478 9068 
  
-Tel: +65 6866 3509 
- 
-Fax: +65 6478 9068 
- 
-15 
- 
- 
-For the Alert System:  
- 
-Director, Vigilance and Compliance Branch 
- 
-Health Products Regulation Group 
- 
-Health Sciences Authority 
+14 
+   For the Alert System:  
+  Director, Vigilance and Compliance Branch 
+  Health Products Regulation Group 
+  Health Sciences Authority 
   
- 
-Tel: +65 6866 3415  
- 
-  
+  Tel: +65 6866 3415  
+    
  
  
-5.11 
-Divergence of Views  
+5.11  Divergence of Views  
  
 5.11.1 The Regulatory Authorities shall use their best endeavours to resolve any divergence 
 of views concerning any aspect governed by this Sectoral Annex on Medicinal Products inter 
@@ -328,13 +256,10 @@ alia compliance of manufacturers and conclusions of inspection reports.
  
 Section 6: Entry into Force 
  
-6.1 
-For the avoidance of doubt, this Sectoral Annex shall enter into force on the day that 
-this Agreement enters into force. 
- 
-16 
- 
-APPENDIX 1 
+6.1  For the avoidance of doubt, this Sectoral Annex shall enter into force on the day that 
+this Agreement enters into force.   
+15 
+ APPENDIX 1 
 (Letterhead of Competent Authority) 
  
 Certificate No: _ _ _/_ _ _/_ _  
@@ -346,24 +271,22 @@ BETWEEN SINGAPORE AND NEW ZEALAND
 As requested by ……………………………..…….………………. on …/…/… (date), the 
 competent authority of ………........…………. (Country) confirms the following:  
  
-The company ……………………………………………….., whose legally registered 
+The  company  ………………………………………………..,  whose  legally  registered 
 address is:  
 …………………………………………………………. 
 …………………………………………………………. 
  
-has been authorised, in accordance with .…………………………………………….., 
+has  been  authorised,  in  accordance  with  .…………………………………………….., 
 transposed in the following national legislation ……………………………………….  
  
-under the authorisation reference number ……………….…….., covering the following 
+under  the  authorisation  reference  number  ……………….……..,  covering  the  following 
 site(s) of manufacture:  
 1. ………………………………………………………………. 
 2. ………………………………………………………………. 
  
 to carry out the following manufacturing operations:  
-+  
-complete manufacture, or  
-+  
-partial manufacture*  
++   complete manufacture, or  
++   partial manufacture*  
  
  
 in the following dosage forms/product types (see attached list of categories):  
@@ -378,15 +301,16 @@ Zealand and Singapore.
 This certificate remains valid for three years from the date of last inspection. 
  
 …/…/… (date)  
-Name and signature of a responsible officer of the 
+Name  and  signature  of  a  responsible  officer  of  the 
 Competent Authority of (country)  
 …………………………………………….  
 (name)  
 (title)  
-17 
- 
-(national authority)  
+16 
+ (national authority)  
 (phone and fax numbers)  
  
 _________________  
 (* delete that which does not apply) 
+17 
+ 

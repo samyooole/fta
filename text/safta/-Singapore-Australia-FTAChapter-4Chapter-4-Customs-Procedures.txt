@@ -1,31 +1,24 @@
  
  
  
-27
  
- 
-04 
-CUSTOMS PROCEDURES 
+04  CUSTOMS PROCEDURES 
  
  
 ARTICLE 1 
  
 Purpose and Definitions 
  
-1. 
-The purpose of this Chapter is to promote the objectives of this Agreement by 
+1.  The purpose of this Chapter is to promote the objectives of this Agreement by 
 simplifying customs procedures in relation to bilateral trade between the Parties. 
  
-2. 
-For the purposes of this Chapter: 
+2.  For the purposes of this Chapter: 
  
-(a) 
-“customs law” means any statutory and regulatory provisions 
+(a)  (cid:147)customs  law(cid:148)  means  any  statutory  and  regulatory  provisions 
 applicable or enforceable by the respective customs administration of each 
 Party; and 
  
-(b) 
- “customs procedures” means the treatment applied by the customs 
+(b)   (cid:147)customs procedures(cid:148) means the treatment applied by the customs 
 administration of each Party to goods which are subject to customs control. 
  
  
@@ -34,7 +27,7 @@ ARTICLE 2
  
 Scope 
  
-This Chapter shall apply, in accordance with the Parties’ respective national 
+This Chapter shall apply, in accordance with the Parties(cid:146) respective national 
 laws, rules and regulations, to customs procedures required for clearance of goods 
 traded between the Parties. 
  
@@ -43,59 +36,47 @@ ARTICLE 3
  
 General Provisions 
  
-1. 
-Customs procedures of both Parties shall conform, where possible and to the 
-extent permitted by their respective domestic laws, rules and regulations, to the 
+1.  Customs procedures of both Parties shall conform, where possible and to the 
+extent  permitted  by  their  respective  domestic  laws,  rules  and  regulations,  to the 
 standards and recommended practices of the World Customs Organisation, including 
-the principles of the revised International Convention on the Simplification and 
+the  principles  of  the  revised  International  Convention  on  the  Simplification  and 
 Harmonisation of Customs Procedures.  
  
-2. 
-The customs administrations of both Parties shall periodically review their 
+2.  The customs administrations of both Parties shall periodically review their 
 customs procedures with a view to their further simplification and the development of 
 further mutually beneficial arrangements to facilitate bilateral trade. 
  
-3. 
-To the extent permitted by their domestic laws, rules and regulations, the 
+3.  To the extent permitted by their domestic laws, rules and regulations, the 
 Customs administrations of both Parties shall provide each other with information to 
 assist in the investigation and prevention of infringements of customs law. 
  
+  27 
  
- 
- 
-28
-4. 
-Nothing in this Chapter shall be construed to require either Party to furnish or 
+4.  Nothing in this Chapter shall be construed to require either Party to furnish or 
 allow access to information the disclosure of which it considers would:  
  
-(a) 
-be contrary to the public interest as determined by its law, rules and 
+(a)  be  contrary  to  the  public  interest  as  determined  by  its  law,  rules  and 
 regulations;  
  
-(b) 
-be contrary to any of its laws, rules and regulations including but not limited 
+(b)  be contrary to any of its laws, rules and regulations including but not limited 
 to those protecting personal privacy or the financial affairs and accounts of 
 individual customers of financial institutions; or  
  
-(c) 
-impede law enforcement. 
+(c)  impede law enforcement. 
  
  
 ARTICLE 4 
  
 Paperless Trading 
  
-1. 
-The customs administrations of both Parties, in implementing initiatives which 
+1.  The customs administrations of both Parties, in implementing initiatives which 
 provide for the use of paperless trading, shall take into account the methodologies 
 agreed in APEC and the World Customs Organisation.   
  
-2. 
-The customs administration of each Party shall work towards having 
+2.  The  customs  administration  of  each  Party  shall  work  towards  having 
 electronic means for all its customs reporting requirements as soon as practicable. 
  
-3. 
-The customs administration of each Party shall provide electronic systems that 
+3.  The customs administration of each Party shall provide electronic systems that 
 support business applications between it and its trading community.   
  
  
@@ -103,12 +84,10 @@ ARTICLE 5
  
 Risk Management 
  
-1. 
-The Parties shall administer customs procedures at their respective borders so 
+1.  The Parties shall administer customs procedures at their respective borders so 
 as to facilitate the clearance of low-risk goods and focus on high-risk goods. 
  
-2. 
-The Parties shall apply and further develop risk management techniques in the 
+2.  The Parties shall apply and further develop risk management techniques in the 
 performance of their customs procedures. 
  
  
@@ -120,3 +99,4 @@ For future cooperative arrangements, both Parties shall facilitate initiatives t
 enhance further the exchange of information on best practices in relation to customs 
 procedures, including the application of risk management techniques. 
  
+  28

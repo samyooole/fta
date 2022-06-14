@@ -1,4 +1,3 @@
-EUSFTA Chapter 1 - 1 
  
 CHAPTER ONE 
  
@@ -21,8 +20,7 @@ The objectives of this Agreement are to liberalise and facilitate trade and inve
 between the Parties in accordance with the provisions of this Agreement. 
  
  
-EUSFTA Chapter 1 - 2 
-ARTICLE 1.3 
+EUSFTA Chapter 1 - 1 ARTICLE 1.3 
  
 Definitions of General Application 
  
@@ -47,8 +45,7 @@ Agreement;
  
 "day" means a calendar day; 
  
-EUSFTA Chapter 1 - 3 
-"DSU" means the Understanding on Rules and Procedures Governing the Settlement of 
+EUSFTA Chapter 1 - 2 "DSU" means the Understanding on Rules and Procedures Governing the Settlement of 
 Disputes contained in Annex 2 of the WTO Agreement; 
  
 "GATS" means the General Agreement on Trade in Services contained in Annex 1B of the 
@@ -71,12 +68,10 @@ contained in Annex 1A of the WTO Agreement;
 of the Union1, according to their respective legislation; 
  
                                                  
-1 
-The term "natural person" includes natural persons permanently residing in Latvia who are not citizens 
+1  The term "natural person" includes natural persons permanently residing in Latvia who are not citizens 
 of Latvia or any other state but who are entitled, under the laws and regulations of Latvia, to receive a 
 non-citizen's passport (Alien's Passport). 
-EUSFTA Chapter 1 - 4 
-"Partnership and Cooperation Agreement" means the Partnership and Cooperation 
+EUSFTA Chapter 1 - 3 "Partnership and Cooperation Agreement" means the Partnership and Cooperation 
 Agreement between the European Union and its Member States, of the one part, and the 
 Republic of Singapore, of the other part, signed in Brussels on 19 October 2018; 
  
@@ -104,3 +99,4 @@ Rights contained in Annex 1C of the WTO Agreement;
 "WTO Agreement" means the Marrakesh Agreement Establishing the World Trade 
 Organization done at Marrakesh on 15 April 1994. 
  
+EUSFTA Chapter 1 - 4 

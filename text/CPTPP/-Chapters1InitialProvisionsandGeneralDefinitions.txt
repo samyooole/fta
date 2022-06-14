@@ -1,5 +1,4 @@
  
-1-1 
  
  
 CHAPTER 1 
@@ -11,31 +10,26 @@ Section A:  Initial Provisions
  
 Article 1.1:  Establishment of a Free Trade Area 
  
- 
-The Parties, consistent with Article XXIV of GATT 1994 and Article V of 
+  The Parties, consistent with Article XXIV of GATT 1994 and Article V of 
 GATS, hereby establish a free trade area in accordance with the provisions of this 
 Agreement. 
  
  
 Article 1.2:  Relation to Other Agreements 
  
-1. 
-Recognising the Parties’ intention for this Agreement to coexist with their 
+1.  Recognising the Parties’ intention for this Agreement to coexist with their 
 existing international agreements, each Party affirms: 
  
-(a) 
-in relation to existing international agreements to which all Parties 
+(a)  in relation to existing international agreements to which all Parties 
 are party, including the WTO Agreement, its existing rights and 
 obligations with respect to the other Parties; and 
  
-(b) 
-in relation to existing international agreements to which that Party 
-and at least one other Party are party, its existing rights and 
+(b)  in relation to existing international agreements to which that Party 
+and  at  least  one  other  Party  are  party,  its  existing  rights  and 
 obligations with respect to that other Party or Parties, as the case 
 may be. 
  
-2. 
-If a Party considers that a provision of this Agreement is inconsistent with 
+2.  If a Party considers that a provision of this Agreement is inconsistent with 
 a provision of another agreement to which it and at least one other Party are party, 
 on request, the relevant Parties to the other agreement shall consult with a view to 
 reaching a mutually satisfactory solution.  This paragraph is without prejudice to a 
@@ -47,14 +41,12 @@ Party’s rights and obligations under Chapter 28 (Dispute Settlement).1
 agreement provides more favourable treatment of goods, services, investments or persons than that 
 provided for under this Agreement does not mean that there is an inconsistency within the meaning 
 of paragraph 2. 
- 
-1-2 
+1-1  
 Section B:  General Definitions 
  
 Article 1.3:  General Definitions 
  
- 
-For the purposes of this Agreement, unless otherwise provided in this 
+  For the purposes of this Agreement, unless otherwise provided in this 
 Agreement: 
  
 AD Agreement means the Agreement on Implementation of Article VI of the 
@@ -80,29 +72,25 @@ the laws of a Party for the administration of customs laws, regulations and, whe
 applicable, policies, and has for each Party the meaning set out in Annex 1-A 
 (Party-Specific Definitions); 
  
-customs duty includes any duty or charge of any kind imposed on or in 
+customs  duty  includes  any  duty  or  charge  of  any  kind  imposed  on  or  in 
 connection with the importation of a good, and any surtax or surcharge imposed in 
 connection with such importation, but does not include any: 
  
-(a) 
-charge equivalent to an internal tax imposed consistently with 
+(a)  charge  equivalent  to  an  internal  tax  imposed  consistently  with 
 Article III:2 of GATT 1994; 
  
-(b) 
-fee or other charge in connection with the importation 
+(b)  fee  or  other  charge  in  connection  with  the  importation 
 commensurate with the cost of services rendered; or  
   
-(c) 
-antidumping or countervailing duty; 
+(c)  antidumping or countervailing duty; 
  
-Customs Valuation Agreement means the Agreement on Implementation of 
+Customs  Valuation  Agreement  means  the  Agreement  on  Implementation  of 
 Article VII of the General Agreement on Tariffs and Trade 1994, set out in Annex 
 1A to the WTO Agreement;  
  
 days means calendar days;  
- 
-1-3 
-enterprise means any entity constituted or organised under applicable law, 
+1-2  
+enterprise  means  any  entity  constituted  or  organised  under  applicable  law, 
 whether or not for profit, and whether privately or governmentally owned or 
 controlled, including any corporation, trust, partnership, sole proprietorship, joint 
 venture, association or similar organisation;  
@@ -126,7 +114,7 @@ purposes and not with a view to commercial sale or resale or use in the producti
 or supply of goods or services for commercial sale or resale;  
  
 Harmonized System (HS) means the Harmonized Commodity Description and 
-Coding System, including its General Rules of Interpretation, Section Notes, 
+Coding  System,  including  its  General  Rules  of  Interpretation,  Section  Notes, 
 Chapter Notes and Subheading Notes as adopted and implemented by the Parties 
 in their respective laws;  
  
@@ -149,20 +137,17 @@ person means a natural person or an enterprise;
  
 person of a Party means a national or an enterprise of a Party; 
  
- 
-1-4 
-preferential tariff treatment means the customs duty rate applicable to an 
+1-3  
+preferential  tariff  treatment  means  the  customs  duty  rate  applicable  to  an 
 originating good, pursuant to each Party’s Tariff Schedule set out in Annex 2-D 
 (Tariff Commitments);  
  
 recovered material means a material in the form of one or more individual parts 
 that results from:  
  
-(a) 
-the disassembly of a used good into individual parts; and 
+(a)  the disassembly of a used good into individual parts; and 
  
-(b) 
-the cleaning, inspecting, testing or other processing of those parts 
+(b)  the cleaning, inspecting, testing or other processing of those parts 
 as necessary for improvement to sound working condition; 
  
 remanufactured good means a good classified in HS Chapters 84 through 90 or 
@@ -170,12 +155,10 @@ under heading 94.02 except goods classified under HS headings 84.18, 85.09,
 85.10, and 85.16, 87.03 or subheadings 8414.51, 8450.11, 8450.12, 8508.11, and 
 8517.11, that is entirely or partially composed of recovered materials and: 
  
-(a) 
-has a similar life expectancy and performs the same as or similar to 
+(a)  has a similar life expectancy and performs the same as or similar to 
 such a good when new; and 
  
-(b) 
-has a factory warranty similar to that applicable to such a good 
+(b)  has a factory warranty similar to that applicable to such a good 
 when new; 
  
 regional level of government has for each Party the meaning set out in Annex 1-
@@ -187,30 +170,29 @@ Safeguards Agreement means the Agreement on Safeguards, set out in Annex
 sanitary or phytosanitary measure means any measure referred to in paragraph 
 1 of Annex A to the SPS Agreement; 
  
-SCM Agreement means the Agreement on Subsidies and Countervailing 
+SCM  Agreement  means  the  Agreement  on  Subsidies  and  Countervailing 
 Measures, set out in Annex 1A to the WTO Agreement; 
  
-SME means a small and medium-sized enterprise, including a micro-sized 
+SME  means  a  small  and  medium-sized  enterprise,  including  a  micro-sized 
 enterprise;  
  
-SPS Agreement means the Agreement on the Application of Sanitary and 
+SPS  Agreement  means  the  Agreement  on  the  Application  of  Sanitary  and 
 Phytosanitary Measures, set out in Annex 1A to the WTO Agreement; 
  
-state enterprise means an enterprise that is owned, or controlled through 
+state  enterprise  means  an  enterprise  that  is  owned,  or  controlled  through 
 ownership interests, by a Party; 
  
 subheading means the first six digits in the tariff classification number under the 
 Harmonized System; 
  
- 
-1-5 
+1-4  
 territory has for each Party the meaning set out at Annex 1-A (Party-Specific 
 Definitions); 
  
 textile or apparel good means a good listed in Annex 4-A (Textiles and Apparel 
 Product-Specific Rules of Origin); 
  
-TRIPS Agreement means the Agreement on Trade-Related Aspects of 
+TRIPS  Agreement  means  the  Agreement  on  Trade-Related  Aspects  of 
 Intellectual Property Rights, set out in Annex 1C to the WTO Agreement;2 
  
 WTO means the World Trade Organization; and 
@@ -221,8 +203,7 @@ Organization, done at Marrakesh on April 15, 1994.
 2  For greater certainty, TRIPS Agreement includes any waiver in force between the Parties of any 
 provision of the TRIPS Agreement granted by WTO Members in accordance with the WTO 
 Agreement. 
- 
-1-6 
+1-5  
  
  
 ANNEX 1-A 
@@ -230,355 +211,275 @@ ANNEX 1-A
 PARTY-SPECIFIC DEFINITIONS 
  
  
- 
-Further to Article 1.3 (General Definitions), for the purposes of this 
+  Further  to  Article  1.3  (General  Definitions),  for  the  purposes  of  this 
 Agreement, unless provided elsewhere in this Agreement: 
  
 central level of government means: 
  
-(a) 
-for Australia, the Commonwealth Government; 
+(a)  for Australia, the Commonwealth Government; 
  
-(b) 
-for Brunei Darussalam, the national level of government; 
+(b)  for Brunei Darussalam, the national level of government; 
  
-(c) 
-for Canada, the Government of Canada; 
+(c)  for Canada, the Government of Canada; 
  
-(d) 
-for Chile, the national level of government; 
+(d)  for Chile, the national level of government; 
  
-(e) 
-for Japan, the Government of Japan; 
+(e)  for Japan, the Government of Japan; 
  
-(f) 
-for Malaysia, the federal level of government; 
+(f)  for Malaysia, the federal level of government; 
  
-(g) 
-for Mexico, the federal level of government; 
+(g)  for Mexico, the federal level of government; 
  
-(h) 
-for New Zealand, the national level of government; 
+(h)  for New Zealand, the national level of government; 
  
-(i) 
-for Peru, the national level of government; 
+(i)  for Peru, the national level of government; 
  
-(j) 
-for Singapore, the national level of government; 
+(j)  for Singapore, the national level of government; 
  
-(k) 
-for the United States, the federal level of government; and 
+(k)  for the United States, the federal level of government; and 
  
-(l) 
-for Viet Nam, the national level of government; 
+(l)  for Viet Nam, the national level of government; 
  
 customs administration means: 
  
-(a) 
-for Australia, the Department of Immigration and Border 
+(a)  for  Australia,  the  Department  of  Immigration  and  Border 
 Protection; 
  
-(b) 
-for Brunei Darussalam, the Royal Customs and Excise Department; 
+(b)  for Brunei Darussalam, the Royal Customs and Excise Department; 
  
-(c) 
-for Canada, the Canada Border Services Agency; 
+(c)  for Canada, the Canada Border Services Agency; 
  
-(d) 
-for Chile, the National Customs Service of Chile (Servicio 
+(d)  for  Chile,  the  National  Customs  Service  of  Chile  (Servicio 
 Nacional de Aduanas); 
+1-6  
+(e)  for Japan, the Ministry of Finance; 
  
-1-7 
-(e) 
-for Japan, the Ministry of Finance; 
+(f)  for Malaysia, the Royal Malaysian Customs Department; 
  
-(f) 
-for Malaysia, the Royal Malaysian Customs Department; 
- 
-(g) 
-for Mexico, the Ministry of Finance and Public Credit (Secretaría 
+(g)  for Mexico, the Ministry of Finance and Public Credit (Secretaría 
 de Hacienda y Crédito Público); 
  
-(h) 
-for New Zealand, the New Zealand Customs Service;  
+(h)  for New Zealand, the New Zealand Customs Service;  
  
-(i) 
-for Peru, the National Superintendence of Customs and Tax 
-Administration (Superintendencia Nacional de Aduanas y de 
+(i)  for  Peru,  the  National  Superintendence  of  Customs  and  Tax 
+Administration  (Superintendencia  Nacional  de  Aduanas  y  de 
 Administración Tributaria); 
  
-(j) 
-for Singapore, the Singapore Customs; 
+(j)  for Singapore, the Singapore Customs; 
  
-(k) 
-for the United States, U.S. Customs and Border Protection; and, 
+(k)  for the United States, U.S. Customs and Border Protection; and, 
 with respect to provisions that concern enforcement, information 
 sharing and investigations, this also means U.S. Immigration and 
 Customs Enforcement, as applicable; and 
  
-(l) 
-for Viet Nam, the General Department of Viet Nam Customs, 
+(l)  for Viet Nam, the General Department of Viet Nam Customs, 
  
 or any successor of such customs administration; 
  
 natural person who has the nationality of a Party means: 
  
-(a) 
-for Australia, a natural person who is an Australian citizen as 
+(a)  for  Australia,  a  natural  person  who  is  an  Australian  citizen  as 
 defined in the Australian Citizenship Act 2007, as amended from 
 time to time, or any successor legislation;  
  
-(b) 
-for Brunei Darussalam, a subject of His Majesty the Sultan and 
-Yang Di-Pertuan in accordance with the laws of Brunei 
+(b)  for Brunei Darussalam, a subject of His Majesty the Sultan and 
+Yang  Di-Pertuan  in  accordance  with  the  laws  of  Brunei 
 Darussalam; 
  
-(c) 
-for Canada, a natural person who is a citizen of Canada under 
+(c)  for Canada, a natural person who is a citizen of Canada under 
 Canadian legislation; 
  
-(d) 
-for Chile, a Chilean as defined in Article 10 of the Political 
+(d)  for  Chile,  a  Chilean  as  defined  in  Article  10  of  the  Political 
 Constitution of the Republic of Chile (Constitución Política de la 
 República de Chile); 
  
-(e) 
-for Japan, a natural person who has the nationality of Japan under 
+(e)  for Japan, a natural person who has the nationality of Japan under 
 its laws; 
  
-(f) 
-for Malaysia, a natural person who is a citizen of Malaysia in 
+(f)  for Malaysia, a natural person who is a citizen of Malaysia in 
 accordance with its laws and regulations; 
  
- 
-1-8 
-(g) 
-for Mexico, a person who has the nationality of Mexico in 
+1-7  
+(g)  for  Mexico,  a  person  who  has  the  nationality  of  Mexico  in 
 accordance with its applicable laws; 
  
-(h) 
-for New Zealand, a natural person who is a citizen as defined in the 
-Citizenship Act 1977, as amended from time to time, or any 
+(h)  for New Zealand, a natural person who is a citizen as defined in the 
+Citizenship  Act  1977,  as  amended  from  time  to  time,  or  any 
 successor legislation; 
  
-(i) 
-for Peru, a natural person who has the nationality of Peru by birth, 
-naturalisation or option in accordance with the Political 
+(i)  for Peru, a natural person who has the nationality of Peru by birth, 
+naturalisation  or  option  in  accordance  with  the  Political 
 Constitution of Peru (Constitución Política del Perú) and other 
 relevant domestic legislation; 
  
-(j) 
-for Singapore, a person who is a citizen of Singapore within the 
+(j)  for Singapore, a person who is a citizen of Singapore within the 
 meaning of its Constitution and its domestic laws; 
  
-(k) 
-for the United States, a “national of the United States” as defined in 
+(k)  for the United States, a “national of the United States” as defined in 
 the Immigration and Nationality Act; and 
  
-(l) 
-for Viet Nam, a natural person who is a citizen of Viet Nam within 
+(l)  for Viet Nam, a natural person who is a citizen of Viet Nam within 
 the meaning of its Constitution and its domestic laws; 
  
 regional level of government means: 
  
-(a) 
-for Australia, a state of Australia, the Australian Capital Territory, 
+(a)  for Australia, a state of Australia, the Australian Capital Territory, 
 or the Northern Territory; 
  
-(b) 
-for Brunei Darussalam, the term regional level of government is 
+(b)  for Brunei Darussalam, the term regional level of government is 
 not applicable; 
  
-(c) 
-for Canada, a provincial or territorial government; 
+(c)  for Canada, a provincial or territorial government; 
  
-(d) 
-for Chile, as a unitary Republic, the term regional level of 
+(d)  for  Chile,  as  a  unitary  Republic,  the  term  regional  level  of 
 government is not applicable; 
  
-(e) 
-for Japan, the term regional level of government is not applicable; 
+(e)  for Japan, the term regional level of government is not applicable; 
  
-(f) 
-for Malaysia, a State of the Federation of Malaysia in accordance 
+(f)  for Malaysia, a State of the Federation of Malaysia in accordance 
 with the Federal Constitution of Malaysia; 
  
-(g) 
-for Mexico, a state of the United Mexican States; 
+(g)  for Mexico, a state of the United Mexican States; 
  
-(h) 
-for New Zealand, the term regional level of government is not 
+(h)  for New Zealand, the term regional level of government is not 
 applicable; 
  
-(i) 
-for Peru, regional government in accordance with the Political 
+(i)  for  Peru,  regional  government  in  accordance  with  the  Political 
 Constitution of Peru (Constitución Política del Perú) and other 
 applicable legislation; 
- 
-1-9 
-(j) 
-for Singapore, the term regional level of government is not 
+1-8  
+(j)  for  Singapore,  the  term  regional  level  of  government  is  not 
 applicable; 
  
-(k) 
-for the United States, a state of the United States, the District of 
+(k)  for the United States, a state of the United States, the District of 
 Columbia, or Puerto Rico; and 
  
-(l) 
-for Viet Nam, the term regional level of government is not 
+(l)  for  Viet  Nam,  the  term  regional  level  of  government  is  not 
 applicable; and 
  
 territory means: 
  
-(a) 
-for Australia, the territory of Australia: 
+(a)  for Australia, the territory of Australia: 
  
-(i) 
-excluding all external territories other than the Territory of 
-Norfolk Island, the Territory of Christmas Island, the 
-Territory of Cocos (Keeling) Islands, the Territory of 
+(i)  excluding all external territories other than the Territory of 
+Norfolk  Island,  the  Territory  of  Christmas  Island,  the 
+Territory  of  Cocos  (Keeling)  Islands,  the  Territory  of 
 Ashmore and Cartier Islands, the Territory of Heard Island 
 and McDonald Islands, and the Coral Sea Islands Territory; 
 and 
  
-(ii) 
-including Australia’s air space, territorial sea, contiguous 
+(ii)  including Australia’s air space, territorial sea, contiguous 
 zone, exclusive economic zone and continental shelf over 
 which Australia exercises sovereign rights or jurisdiction in 
 accordance with international law; 
  
-(b) 
-for Brunei Darussalam, the land territory, internal waters and 
+(b)  for  Brunei  Darussalam,  the  land  territory,  internal  waters  and 
 territorial sea of Brunei Darussalam, extending to the air space 
 above its territorial sea, as well as to its sea-bed and subsoil over 
 which it exercises sovereignty, and the maritime area beyond its 
 territorial sea, which has been or may hereafter be designated under 
 the laws of Brunei Darussalam in accordance with international law 
-as an area over which Brunei Darussalam exercises sovereign 
+as  an  area  over  which  Brunei  Darussalam  exercises  sovereign 
 rights and jurisdiction with respect to the seabed, the subsoil and 
 superjacent waters to the seabed and subsoil as well as the natural 
 resources; 
  
-(c) 
-for Canada:  
+(c)  for Canada:  
  
-(i) 
-the land territory, air space, internal waters and territorial 
+(i)  the land territory, air space, internal waters and territorial 
 seas of Canada; 
  
-(ii) 
-the exclusive economic zone of Canada, as determined by 
-its domestic law, consistent with Part V of the United 
+(ii)  the exclusive economic zone of Canada, as determined by 
+its  domestic  law,  consistent  with  Part  V  of  the  United 
 Nations Convention on the Law of the Sea done at Montego 
 Bay on December 10, 1982 (UNCLOS); and 
  
-(iii) 
-the continental shelf of Canada, as determined by its 
- 
-1-10 
+(iii)  the  continental  shelf  of  Canada,  as  determined  by  its 
+1-9  
 domestic law, consistent with Part VI of UNCLOS; 
  
-(d) 
-for Chile, the land, maritime, and air space under its sovereignty, 
+(d)  for Chile, the land, maritime, and air space under its sovereignty, 
 and the exclusive economic zone and the continental shelf within 
 which it exercises sovereign rights and jurisdiction in accordance 
 with international law and its domestic law; 
  
-(e) 
-for Japan, the territory of Japan, and all the area beyond its 
-territorial sea, including the sea-bed and subsoil thereof, over 
-which Japan exercises sovereign rights or jurisdiction in 
+(e)  for  Japan,  the  territory  of  Japan,  and  all  the  area  beyond  its 
+territorial  sea,  including  the  sea-bed  and  subsoil  thereof,  over 
+which  Japan  exercises  sovereign  rights  or  jurisdiction  in 
 accordance with international law including the UNCLOS and the 
 laws and regulations of Japan; 
  
-(f) 
-for Malaysia, its land territory, internal waters and territorial sea, as 
+(f)  for Malaysia, its land territory, internal waters and territorial sea, as 
 well as any maritime area situated beyond the territorial sea as 
-designated or that might in the future be designated under its 
-national law, in accordance with international law, as an area 
+designated  or  that  might  in  the  future  be  designated  under  its 
+national  law,  in  accordance  with  international  law,  as  an  area 
 within which Malaysia exercises sovereign rights and jurisdiction 
 with regards to the seabed, subsoil and superjacent waters to the 
 seabed and subsoil as well as the natural resources; 
  
-(g) 
-for Mexico:  
+(g)  for Mexico:  
  
-(i) 
-the states of the Federation and the Federal District; 
+(i)  the states of the Federation and the Federal District; 
  
-(ii) 
-the islands, including the reefs and keys, in the adjacent 
+(ii)  the islands, including the reefs and keys, in the adjacent 
 seas;  
  
-(iii) 
-the islands of Guadalupe and Revillagigedo, situated in the 
+(iii)  the islands of Guadalupe and Revillagigedo, situated in the 
 Pacific Ocean; 
  
-(iv) 
-the continental shelf and the submarine shelf of such 
+(iv)  the  continental  shelf  and  the  submarine  shelf  of  such 
 islands, keys and reefs; 
  
-(v) 
-the waters of the territorial seas, in accordance with 
+(v)  the  waters  of  the  territorial  seas,  in  accordance  with 
 international law, and its interior maritime waters; 
  
-(vi) 
-the space located above the national territory, in accordance 
+(vi)  the space located above the national territory, in accordance 
 with international law; and 
  
-(vii) 
-any areas beyond the territorial seas of Mexico within 
+(vii)  any  areas  beyond  the  territorial  seas  of  Mexico  within 
 which, in accordance with international law, including the 
 United Nations Convention on the Law of the Sea done at 
 Montego Bay on December 10, 1982, and its domestic law, 
 Mexico may exercise sovereign rights or jurisdiction; 
  
-(h) 
-for New Zealand, the territory of New Zealand and the exclusive 
- 
-1-11 
-economic zone, seabed and subsoil over which it exercises 
+(h)  for New Zealand, the territory of New Zealand and the exclusive 
+1-10  
+economic  zone,  seabed  and  subsoil  over  which  it  exercises 
 sovereign rights with respect to natural resources in accordance 
 with international law, but does not include Tokelau; 
  
-(i) 
-for Peru, the mainland territory, the islands, the maritime areas and 
+(i)  for Peru, the mainland territory, the islands, the maritime areas and 
 the air space above them, under sovereignty or sovereign rights and 
-jurisdiction of Peru, in accordance with the provisions of the 
+jurisdiction  of  Peru,  in  accordance  with  the  provisions  of  the 
 Political Constitution of Peru (Constitución Política del Perú) and 
 other relevant domestic law and international law; 
  
-(j) 
-for Singapore, its land territory, internal waters and territorial sea, 
+(j)  for Singapore, its land territory, internal waters and territorial sea, 
 as well as any maritime area situated beyond the territorial sea 
 which has been or might in the future be designated under its 
-national law, in accordance with international law, as an area 
-within which Singapore may exercise sovereign rights or 
+national  law,  in  accordance  with  international  law,  as  an  area 
+within  which  Singapore  may  exercise  sovereign  rights  or 
 jurisdiction with regards to the sea, the sea-bed, the subsoil and the 
 natural resources; 
  
-(k) 
-for the United States: 
+(k)  for the United States: 
  
-(i) 
-the customs territory of the United States, which includes 
+(i)  the customs territory of the United States, which includes 
 the 50 states, the District of Columbia, and Puerto Rico; 
  
-(ii) 
-the foreign trade zones located in the United States and 
+(ii)  the foreign trade zones located in the United States and 
 Puerto Rico; and 
  
-(iii) 
-the territorial sea of the United States and any area beyond 
-the territorial sea within which, in accordance with 
-customary international law as reflected in the United 
-Nations Convention on the Law of the Sea, the United 
+(iii)  the territorial sea of the United States and any area beyond 
+the  territorial  sea  within  which,  in  accordance  with 
+customary  international  law  as  reflected  in  the  United 
+Nations  Convention  on  the  Law  of  the  Sea,  the  United 
 States may exercise sovereign rights or jurisdiction; and 
  
-(l) 
-for Viet Nam, the land territory, islands, internal waters, territorial 
+(l)  for Viet Nam, the land territory, islands, internal waters, territorial 
 sea, and air space above them, the maritime areas beyond territorial 
 sea including seabed, subsoil and natural resources thereof over 
-which Viet Nam exercises its sovereignty, sovereign rights or 
+which  Viet  Nam  exercises  its  sovereignty,  sovereign  rights  or 
 jurisdiction in accordance with its domestic laws and international 
 law. 
+1-11 

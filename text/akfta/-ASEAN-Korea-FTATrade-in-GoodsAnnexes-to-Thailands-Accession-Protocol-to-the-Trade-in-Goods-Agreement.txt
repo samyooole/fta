@@ -1,0 +1,39 @@
+ATTACHMENT I
+NORMAL TRACK 2
+Tariff lines subject to tariff reduction on 1 April
+1ATTACHMENT I
+NORMAL TRACK 2
+Tariff lines subject to tariff reduction on 1 April
+2ATTACHMENT I
+NORMAL TRACK 2
+Tariff lines subject to tariff reduction on 1 January
+3ATTACHMENT I
+NORMAL TRACK 2
+Tariff lines subject to tariff reduction on 1 January
+4ATTACHMENT I
+NORMAL TRACK 2
+Tariff lines subject to tariff reduction on 1 January
+5ATTACHMENT II
+SENSITIVE LIST
+6ATTACHMENT II
+SENSITIVE LIST
+7ATTACHMENT II
+SENSITIVE LIST
+8ATTACHMENT II
+SENSITIVE LIST
+9ATTACHMENT III
+HIGHLY SENSITIVE LIST
+GROUP A: Tariff lines subject to 50% tariff rate capping
+10ATTACHMENT III
+HIGHLY SENSITIVE LIST
+GROUP B: Tariff lines subject to tariff reduction by 20%
+11ATTACHMENT III
+HIGHLY SENSITIVE LIST
+GROUP C: Tariff lines subject to tariff reduction by 50%
+12ATTACHMENT III
+HIGHLY SENSITIVE LIST
+GROUP D: Tariff lines subject to TRQs
+13ATTACHMENT III
+HIGHLY SENSITIVE LIST
+GROUP E: Tariff lines exempted from tariff concession
+14

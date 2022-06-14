@@ -1,0 +1,49 @@
+ANNEX 1: EXPORT DUTIES 
+ 
+ 
+HS 2002   Description of Goods 
+2601  IRON ORES AND CONCENTRATES, INCLUDING ROASTED IRON 
+PYRITES: 
+2601.1  -Iron ores and concentrates, other than roasted iron pyrites: 
+2601.11  --Non-agglomerated 
+ 
+2614.00  TITANIUM ORES AND CONCENTRATES 
+   
+2615  NIOBIUM, TANTALUM, VANADIUM OR ZIRCONIUM ORES AND 
+CONCENTRATES: 
+2615.10  --Zirconium ores and concentrates 
+   
+2701  COAL; BRIQUETTES, OVOIDS AND SIMILAR SOLID FUELS 
+MANUFACTURED FROM COAL: 
+2701.1  -Coal, whether or not pulverised, but not agglomerated: 
+2701.11  --Anthracite 
+2701.12  --Bituminous coal 
+2701.19  --Other coal 
+2701.20  --Briquettes, ovoids and similar solid fuels manufactured from coal 
+   
+2702  LIGNITE, WHETHER OR NOT AGGLOMERATED, EXCLUDING JET: 
+2702.10  --Lignite, whether or not pulverised, but not agglomerated: 
+2702.20  --Agglomerated lignite 
+   
+2703.00  PEAT (INCLUDING PEAT LITTER), WHETHER OR NOT 
+  AGGLOMERATED 
+ 
+2704.00  COKE AND SEMI-COKE OF COAL, OF LIGNITE OR OF PEAT WHETHER 
+  OR NOT AGGLOMERATED; RETORT CARBON 
+ 
+7403  REFINED COPPER AND COPPER ALLOYS, UNWROUGHT: 
+7403.1  -Refined copper: 
+7403.11  --Cathodes and sections of cathodes 
+   
+7501  NICKEL MATTES, NICKEL OXIDE SINTERS AND OTHER 
+INTERMEDIATE PRODUCTS OF NICKEL METALLURGY: 
+7501.20  -Nickel oxide sinters and other intermediate products of nickel metallurgy 
+   
+7502  UNWROUGHT NICKEL: 
+7502.10  -Nickel, not alloyed 
+   
+7801  UNWROUGHT LEAD: 
+7801.9  -Other: 
+7801.99  --Unwrought, unrefined lead not containing by weight antimony as the principal 
+  other element 
+ 

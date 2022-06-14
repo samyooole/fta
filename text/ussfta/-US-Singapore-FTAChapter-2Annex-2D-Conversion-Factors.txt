@@ -1,0 +1,94 @@
+   
+   
+   
+ 
+16 
+ 
+ 
+ANNEX  2D  
+ 
+CONVERSION FACTORS 
+ 
+The following conversion factors shall be used to calculate quantities in SME for purposes of 
+Article 2.12.  
+       
+U.S.  Conversion  Description  Primary Unit 
+Category  Factor    of Measure 
+ 
+237    19.20    PLAYSUITS, SUNSUITS, ETC    DZ  
+239    6.30    BABIES' GARMENTS & CLOTHING  KG  
+    ACCESS.     
+     
+330    1.40    COTTON HANDKERCHIEFS    DZ  
+331    2.90    COTTON GLOVES AND MITTENS    DPR  
+332    3.80    COTTON HOSIERY    DPR  
+333    30.30    M&B SUITTYPE COATS, COTTON    DZ  
+334    34.50    OTHER M&B COATS, COTTON    DZ  
+335    34.50    W&G COTTON COATS    DZ  
+336    37.90    COTTON DRESSES    DZ  
+338    6.00    M&B COTTON KNIT SHIRTS    DZ  
+339    6.00    W&G COTTON KNIT SHIRTS/BLOUSES    DZ  
+340    20.10    M&B COTTON SHIRTS, NOT KNIT    DZ  
+341    12.10    W&G COTTON SHIRTS/BLOUSES,NOT  DZ  
+    KNIT     
+     
+342    14.90    COTTON SKIRTS    DZ  
+345    30.80    COTTON SWEATERS    DZ  
+347    14.90    M&B COTTON  DZ  
+    TROUSERS/BREECHES/SHORTS     
+     
+348    14.90    W&G COTTON  DZ  
+TROUSERS/BREECHES/SHORTS          
+       
+       
+     
+17 
+     
+       
+349    4.00    BRASSIERES, OTHER BODY SUPPORT  DZ  
+GARMENTS  
+350    42.60    COTTON DRESSING GOWNS, ROBES ETC.  DZ  
+351    43.50    COTTON NIGHTWEAR/PAJAMAS    DZ  
+352    9.20    COTTON UNDERWEAR    DZ  
+353    34.50    M&B COTTON DOWNFILLED COATS    DZ  
+354    34.50    W&G COTTON DOWNFILLED COATS    DZ  
+359    8.50    OTHER COTTON APPAREL    KG  
+630    1.40    MMF HANDKERCHIEFS    DZ  
+631    2.90    MMF GLOVES AND MITTENS    DPR  
+632    3.80    MMF HOSIERY    DPR  
+633    30.30    M&B MMF SUITTYPE COATS    DZ  
+634    34.50    OTHER M&B MMF COATS    DZ  
+635    34.50    W&G MMF COATS    DZ  
+636    37.90    MMF DRESSES    DZ  
+638    15.00    M&B MMF KNIT SHIRTS    DZ  
+639    12.50    W&G MMF KNIT SHIRTS & BLOUSES    DZ  
+640    20.10    M&B NOT-KNIT MMF SHIRTS    DZ  
+641    12.10    W&G NOT-KNIT MMF SHIRTS &  DZ  
+    BLOUSES     
+     
+642    14.90    MMF SKIRTS    DZ  
+643    3.76    M&B MMF SUITS    NO  
+644    3.76    W&G MMF SUITS    NO  
+645    30.80    M&B MMF SWEATERS    DZ  
+646    30.80    W&G MMF SWEATERS    DZ  
+647    14.90    M&B MMF  DZ  
+TROUSERS/BREECHES/SHORTS          
+       
+       
+     
+18 
+     
+       
+    TROUSERS/BREECHES/SHORTS     
+     
+648    14.90    W&G MMF  DZ  
+    TROUSERS/BREECHES/SHORTS     
+     
+649    4.00    MMF BRAS & OTHER BODY SUPPORT  DZ  
+GARMENTS  
+650    42.60    MMF ROBES, DRESSING GOWNS, ETC.    DZ  
+651    43.50    MMF NIGHTWEAR & PAJAMAS    DZ  
+652    13.40    MMF UNDERWEAR    DZ  
+653    34.50    M&B MMF DOWNFILLED COATS    DZ  
+654    34.50    W&G MMF DOWNFILLED COATS    DZ  
+659    14.40    OTHER MMF APPAREL    KG  

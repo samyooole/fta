@@ -1,5 +1,3 @@
-ANNEX 4-I(B) – SINGAPORE – 1 
- 
  
  
  
@@ -15,41 +13,26 @@ SERVICES) AND CHAPTER 8
  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 1 
+  
+1.   
  
+Sector:   All  
+   
+Sub-Sector:   -  
+   
+Industry Classification:  -  
  
-ANNEX 4-I(B) – SINGAPORE – 2 
- 
- 
-1. 
- 
- 
-Sector:  
- 
-All  
- 
-Sub-Sector:  
- 
--  
- 
-Industry Classification: 
- 
--  
-Obligations Concerned:  
- 
-National Treatment (Investment)   
- 
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-This is an administrative policy of the Government of Singapore 
-and is inscribed in the Memorandum and Articles of Association 
+Obligations Concerned:   National Treatment (Investment)   
+   
+Level of Government:   Central  
+   
+Measures:   This is an administrative policy of the Government of Singapore 
+  and is inscribed in the Memorandum and Articles of Association 
 of PSA Corporation.  
  
-Description:  
-Investment  
+Description:   Investment  
  
 The aggregate of foreign shareholdings in PSA Corporation or 
 its successor body is subject to a 49 per cent limit.  
@@ -66,40 +49,26 @@ by Singapore citizens or by the Singapore Government; or
 Singapore Government. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 2 
+ 2.   
  
+Sector:   All  
  
-ANNEX 4-I(B) – SINGAPORE – 3 
+Sub-Sector:   - 
  
-2. 
- 
- 
-Sector:  
- 
-All  
-Sub-Sector:  
- 
-- 
-Industry Classification: 
+Industry Classification:  - 
   
-- 
-Obligations Concerned:  
- 
-National Treatment (Investment)   
- 
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-This is an administrative policy of the Government of Singapore 
-and is inscribed in the Memorandum and Articles of Association 
+Obligations Concerned:   National Treatment (Investment)   
+   
+Level of Government:   Central  
+   
+Measures:   This is an administrative policy of the Government of Singapore 
+  and is inscribed in the Memorandum and Articles of Association 
 of the relevant enterprises below.  
  
-Description:  
- 
-Investment  
- 
+Description:   Investment  
+   
 All individual investors, apart from the Singapore government, 
 will be subject to the following equity ownership limits in the 
 enterprises, or its successor bodies, as listed below:  
@@ -110,45 +79,31 @@ enterprises, or its successor bodies, as listed below:
  
 (c) Singapore Airlines – 5 per cent.  
  
-For the purposes of this entry, ownership of equity by an 
+For  the  purposes  of  this  entry,  ownership  of  equity  by  an 
 investor in these enterprises or its successor bodies includes both 
 direct and indirect ownership of equity.  
  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 3 
+ 3.   
  
+Sector:   All  
+   
+Sub-Sector:   - 
  
-ANNEX 4-I(B) – SINGAPORE – 4 
- 
-3. 
- 
- 
-Sector:  
- 
-All  
- 
-Sub-Sector:  
- 
-- 
-Industry Classification: 
+Industry Classification:  - 
   
-- 
-Obligations Concerned:  
-Local Presence  
+Obligations Concerned:   Local Presence  
  
-Level of Government:  
+Level of Government:   Central  
+   
+Measures:   Business Registration Act, Cap. 32  
+  Business Registration Regulations  
  
-Central  
- 
-Measures:  
- 
-Business Registration Act, Cap. 32  
-Business Registration Regulations  
- 
-Description:  
- 
-Cross-Border Trade in Services  
- 
+Description:   Cross-Border Trade in Services  
+   
 Where a person required to be registered under the Business 
 Registration Act, Cap. 32, 2001 Rev Ed, is, or, in the case of any 
 corporation, the directors are, or the secretary of the corporation 
@@ -160,174 +115,116 @@ be appointed.
  
  
  
- 
- 
+   
                                                  
 1 Persons who qualify to be appointed in such a capacity are primarily Singapore nationals and EntrePass 
 holders (all with local addresses). 
-ANNEX 4-I(B) – SINGAPORE – 5 
+ANNEX 4-I(B) – SINGAPORE – 4 
+ 4.   
  
-4. 
+Sector:   Business Services  
  
- 
-Sector:  
- 
-Business Services  
-Sub-Sector:  
- 
-Leasing or rental services concerning private cars, goods 
-transport vehicles and other land transport equipment without 
+Sub-Sector:   Leasing  or  rental  services  concerning  private  cars,  goods 
+  transport vehicles and other land transport equipment without 
 operator  
  
-Industry Classification: 
- 
-CPC 83101, 83102, 83105 Leasing or rental services 
-concerning private cars, goods transport vehicles and other land 
+Industry Classification:  CPC  83101,  83102,  83105  Leasing  or  rental  services 
+  concerning private cars, goods transport vehicles and other land 
 transport equipment without operator  
  
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services) 
+Obligations Concerned:   National Treatment (Cross-Border Trade in Services) 
 Market Access  
  
-Level of Government: 
-Central  
+Level of Government:  Central  
  
-Measures:  
+Measures:   Road Traffic Act, Cap. 276, 2004 Rev Ed  
  
-Road Traffic Act, Cap. 276, 2004 Rev Ed  
-Description:  
- 
-Cross-Border Trade in Services  
- 
+Description:   Cross-Border Trade in Services  
+   
 The cross-border rental of private cars, goods transport vehicles 
-and other land transport equipment without operator by 
-Singapore residents with the intent to use the vehicles in 
+and  other  land  transport  equipment  without  operator  by 
+Singapore  residents  with  the  intent  to  use  the  vehicles  in 
 Singapore is prohibited. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 5 
+ 5.   
  
- 
-ANNEX 4-I(B) – SINGAPORE – 6 
- 
-5. 
- 
- 
-Sector:  
- 
-Business Services  
- 
-Sub-Sector:  
- 
-Patent agent services  
- 
-Industry Classification:  
+Sector:   Business Services  
+   
+Sub-Sector:   Patent agent services  
+   
+Industry Classification:   - 
   
-- 
-Obligations Concerned:  
- 
-Local Presence  
- 
-Measures:  
- 
-Patents Act, Cap. 221, 2005 Rev Ed  
- 
-Description:  
- 
-Cross-Border Trade in Services  
- 
+Obligations Concerned:   Local Presence  
+   
+Measures:   Patents Act, Cap. 221, 2005 Rev Ed  
+   
+Description:   Cross-Border Trade in Services  
+   
 Only service suppliers registered with the Intellectual Property 
 Office of Singapore (IPOS) or its successor body and resident 
 in Singapore shall be allowed to carry on a business, practise or 
 act as a patent agent in Singapore.  
  
-Only service suppliers which have at least one Singapore-
+Only  service  suppliers  which  have  at  least  one  Singapore-
 registered patent agent resident in Singapore either as a director 
 or partner, shall be allowed to carry on a business, practise or 
 act as a patent agent in Singapore. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 6 
+ 6.   
  
- 
-ANNEX 4-I(B) – SINGAPORE – 7 
- 
-6. 
- 
- 
-Sector:  
- 
-Business Services  
- 
-Sub-Sector:  
- 
-Placement and supply services of personnel  
- 
-Industry Classification: 
+Sector:   Business Services  
+   
+Sub-Sector:   Placement and supply services of personnel  
+   
+Industry Classification:  - 
   
-- 
-Obligations Concerned:  
- 
-Local Presence  
- 
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Employment Agencies Act, Cap. 92  
- 
-Description:  
-Cross-Border Trade in Services  
+Obligations Concerned:   Local Presence  
+   
+Level of Government:   Central  
+   
+Measures:   Employment Agencies Act, Cap. 92  
+   
+Description:   Cross-Border Trade in Services  
  
 Only service suppliers with local presence shall be allowed to 
-set up employment agencies and place foreign workers in 
+set  up  employment  agencies  and  place  foreign  workers  in 
 Singapore.  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 7 
+ 7.   
  
+Sector:   Business Services  
+   
+Sub-Sector:   Private investigation services  
+  Unarmed guard services  
  
-ANNEX 4-I(B) – SINGAPORE – 8 
- 
-7. 
- 
- 
-Sector:  
- 
-Business Services  
- 
-Sub-Sector:  
- 
-Private investigation services  
-Unarmed guard services  
- 
-Industry Classification: 
- 
-CPC 87301 Investigation Services  
-CPC 87302 Security Consultation Services  
+Industry Classification:  CPC 87301 Investigation Services  
+  CPC 87302 Security Consultation Services  
 CPC 87305 Guard Services (only applies to unarmed security guard 
 services)  
  
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
 Most-Favoured-Nation Treatment (Cross-Border Trade in Services 
 and Investment) 
 Market Access  
 Local Presence  
  
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Private Security Industry Act, Cap. 250A, 2008 Rev Ed  
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services  
- 
-Foreigners are permitted to set up security agencies to provide 
+Level of Government:   Central  
+   
+Measures:   Private Security Industry Act, Cap. 250A, 2008 Rev Ed  
+   
+Description:   Investment and Cross-Border Trade in Services  
+   
+Foreigners  are  permitted  to  set  up  security  agencies  to  provide 
 unarmed guards for hire but must register a company with local 
 participation. At least two of the directors must be a Singapore 
 national.  
@@ -335,51 +232,35 @@ national.
 Foreigners, except Malaysians, shall not be allowed to work as 
 guards, but can be involved in the administration of the company.  
  
-The foreign directors shall produce a certificate of no criminal 
+The  foreign  directors  shall  produce  a  certificate  of  no  criminal 
 conviction from their country of origin or a statutory declaration 
 before a Singapore commissioner of oaths, to the effect that they 
 have never been convicted in any court of law for any criminal 
 offence.  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 8 
+ 8.   
  
+Sector:   Community, Personal and Social Services  
+   
+Sub-Sector:   Services furnished by co-operative societies  
+   
+Industry Classification:  CPC 959 Services furnished by membership organizations n.e.c (only 
+  applies to co-operative society services) 
  
-ANNEX 4-I(B) – SINGAPORE – 9 
- 
-8. 
- 
- 
-Sector:  
- 
-Community, Personal and Social Services  
- 
-Sub-Sector:  
- 
-Services furnished by co-operative societies  
- 
-Industry Classification: 
- 
-CPC 959 Services furnished by membership organizations n.e.c (only 
-applies to co-operative society services) 
- 
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and Investment) 
+Obligations Concerned:   National Treatment (Cross-Border Trade in Services and Investment) 
 Senior Management and Boards of Directors  
 Local Presence  
  
-Level of Government:  
+Level of Government:   Central  
+   
+Existing Measures:   Co-operative Societies Act, Cap. 62, 2009 Rev Ed  
+  Co-operative Societies Rules 2009 
  
-Central  
- 
-Existing Measures:  
- 
-Co-operative Societies Act, Cap. 62, 2009 Rev Ed  
-Co-operative Societies Rules 2009 
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services   
- 
+Description:   Investment and Cross-Border Trade in Services   
+   
 Only service suppliers with a local presence can be registered under 
 the Co-operative Societies Act. Registration allows a co-operative 
 society to be exempt from taxation measures applicable to other 
@@ -391,184 +272,126 @@ society may opt.
 As a general rule, only Singapore citizens are allowed to hold office 
 or be a member of the management committee of a co-operative 
 society. Foreigners may be allowed to hold office or be a member of 
-the management committee of a co-operative society, with the 
+the  management  committee  of  a  co-operative  society,  with  the 
 approval of the Registrar of Co-operative Societies.  
  
 A person who is not a Singapore citizen can form and join a co-
 operative society if he or she is resident in Singapore.  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 9 
+ 9.   
  
- 
-ANNEX 4-I(B) – SINGAPORE – 10 
- 
-9. 
- 
- 
-Sector:  
- 
-Education Services  
- 
-Sub-Sector:  
- 
-Higher education services in relation to the training of doctors  
- 
-Industry Classification: 
- 
-CPC 92390 Other Higher Education Services  
-(Only applies to Higher Education Services in relation to the training 
+Sector:   Education Services  
+   
+Sub-Sector:   Higher education services in relation to the training of doctors  
+   
+Industry Classification:  CPC 92390 Other Higher Education Services  
+  (Only applies to Higher Education Services in relation to the training 
 of doctors) 
   
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
 Market Access  
  
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Medical Registration Act, Part V, Specialist Accreditation Board, 
-Sections 2, 3, 34 and 35  
+Level of Government:   Central  
+   
+Measures:   Medical Registration Act, Part V, Specialist Accreditation Board, 
+  Sections 2, 3, 34 and 35  
 Private Education Act, Cap. 247A, 2011 Rev Ed  
-Description:  
- 
-Investment and Cross-Border Trade in Services  
- 
+Description:   Investment and Cross-Border Trade in Services  
+   
 Only local tertiary institutions which are established pursuant to an 
 Act of Parliament, or as designated by the Ministry of Education 
 shall be allowed to operate undergraduate or graduate programmes 
 for the training of doctors in Singapore.  
  
-Currently, only the National University of Singapore and the 
-Nanyang Technological University are allowed to operate 
+Currently,  only  the  National  University  of  Singapore  and  the 
+Nanyang  Technological  University  are  allowed  to  operate 
 undergraduate or graduate programmes for the training of doctors in 
 Singapore.  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 10 
+ 10.   
  
- 
-ANNEX 4-I(B) – SINGAPORE – 11 
- 
-10. 
- 
- 
-Sector:  
- 
-Health and Social Services  
- 
-Sub-Sector:  
- 
-Medical services 
-Pharmacy services 
+Sector:   Health and Social Services  
+   
+Sub-Sector:   Medical services 
+  Pharmacy services 
 Deliveries and related services, nursing services, physiotherapeutic 
 and para-medical services and allied health services 
 Optometrists and opticians  
  
-Industry Classification:  
+Industry Classification:   - 
  
-- 
-Obligations Concerned:  
-Local Presence  
+Obligations Concerned:   Local Presence  
  
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Medical Registration Act, Cap. 174  
-Pharmacists Registration Act, Cap. 230 
+Level of Government:   Central  
+   
+Measures:   Medical Registration Act, Cap. 174  
+  Pharmacists Registration Act, Cap. 230 
 Medicines Act, Cap. 176,  
-Medicines (Registration of Pharmacies) Regulations, Cap. 176, 
+Medicines  (Registration  of  Pharmacies)  Regulations,  Cap.  176, 
 Regulation 4 
 Nurses and Midwives Act, Cap. 209  
 Allied Health Professions Act, Act 1 of 2011 
 Optometrists and Opticians Act, Cap. 213A  
  
-Description:  
- 
-Cross-Border Trade in Services  
- 
+Description:   Cross-Border Trade in Services  
+   
 Only persons who are resident in Singapore are allowed to provide 
-the following services: medical services, pharmacy services, 
+the  following  services:  medical  services,  pharmacy  services, 
 deliveries and related services, nursing services, physiotherapeutic 
 and para-medical services and allied health services and optometry 
 and opticianry services. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 11 
+ 11.   
  
+Sector:   Import, export and trading services  
+   
+Sub-Sector:   - 
  
-ANNEX 4-I(B) – SINGAPORE – 12 
- 
-11. 
- 
- 
-Sector:  
- 
-Import, export and trading services  
- 
-Sub-Sector:  
- 
-- 
-Industry Classification: 
+Industry Classification:  - 
   
-- 
-Obligations Concerned:  
-Local Presence  
+Obligations Concerned:   Local Presence  
  
-Level of Government:  
+Level of Government:   Central  
+   
+Measures:   Regulation of Imports and Exports Act, Cap. 272A  
+  Regulation of Imports and Exports Regulations  
  
-Central  
- 
-Measures:  
- 
-Regulation of Imports and Exports Act, Cap. 272A  
-Regulation of Imports and Exports Regulations  
- 
-Description:  
- 
-Cross-Border Trade in Services  
- 
+Description:   Cross-Border Trade in Services  
+   
 Only services suppliers with local presence shall be allowed to apply 
-for import/export permits, certificates of origin or other trade 
+for  import/export  permits,  certificates  of  origin  or  other  trade 
 documents from the relevant authorities. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 12 
+ 12.   
+ 
+Sector:   Postal Services  
+   
+Sub-Sector:   - 
+ 
+Industry Classification:  - 
  
  
-ANNEX 4-I(B) – SINGAPORE – 13 
- 
-12. 
- 
- 
-Sector:  
- 
-Postal Services  
- 
-Sub-Sector:  
- 
-- 
-Industry Classification: 
- 
- 
-- 
-Obligations Concerned:  
-Market Access  
+Obligations Concerned:   Market Access  
 Local Presence  
  
-Level of Government:  
+Level of Government:   Central 
  
-Central 
-Measures:  
- 
-Postal Services Act, Cap. 237A  
- 
-Description:  
- 
-Cross-Border Trade in Services  
- 
+Measures:   Postal Services Act, Cap. 237A  
+   
+Description:   Cross-Border Trade in Services  
+   
 For the provision of basic letter services, all service suppliers must 
 be incorporated as companies under the Companies Act, Cap. 50, 
 2006 Rev Ed. 
@@ -579,39 +402,26 @@ be incorporated as companies under the Companies Act, Cap. 50,
  
  
  
+   
+   
+ANNEX 4-I(B) – SINGAPORE – 13 
+ 13.   
  
+Sector:   Telecommunications Services  
  
+Sub-Sector:   Telecommunications services  
+Industry Classification:   - 
  
+Obligations Concerned:   Market Access  
+  Local Presence  
  
-ANNEX 4-I(B) – SINGAPORE – 14 
+Level of Government:   Central 
  
-13. 
- 
- 
-Sector:  
- 
-Telecommunications Services  
-Sub-Sector:  
-Telecommunications services  
-Industry Classification:  
- 
-- 
-Obligations Concerned:  
- 
-Market Access  
-Local Presence  
- 
-Level of Government:  
- 
-Central 
-Measures:  
- 
-Info-communications Development Authority of Singapore Act, 
-Cap. 137A  
+Measures:   Info-communications Development Authority of Singapore Act, 
+  Cap. 137A  
 Telecommunications Act, Cap. 323  
  
-Description:  
-Cross-Border Trade in Services  
+Description:   Cross-Border Trade in Services  
  
 1. Facilities-based operators and service-based operators must 
 be locally incorporated under the Companies Act, Cap. 50, 2006 
@@ -619,147 +429,105 @@ Rev Ed.
  
 “Facilities-based operators” are operators who deploy any 
 form of telecommunication networks, systems and facilities, 
-outside of their own property boundaries, to offer 
-telecommunication services to third parties, which may 
-include other licensed telecommunication operators, 
+outside  of  their  own  property  boundaries,  to  offer 
+telecommunication  services  to  third  parties,  which  may 
+include  other  licensed  telecommunication  operators, 
 business customers, or the general public. 
  
-“Services-based operators” are operators who lease 
+“Services-based  operators”  are  operators  who  lease 
 telecommunication network elements (such as transmission 
 capacity and switching services) from any Facilities-Based 
 Operator (FBO) licensed by the IDA so as to provide their 
-own telecommunication services, or to resell the 
+own  telecommunication  services,  or  to  resell  the 
 telecommunication services of FBOs to third parties. 
  
 2. The number of licences granted will be limited only by 
 resource constraints, such as the availability of radio frequency 
 spectrum. In view of spectrum constraints, parties interested in 
-deploying networks based on wireless technology may be 
+deploying  networks  based  on  wireless  technology  may  be 
 licensed to use radio frequency spectrum via a tender or auction 
 process.  
  
+   
+   
+ANNEX 4-I(B) – SINGAPORE – 14 
+ 14.   
  
- 
- 
- 
-ANNEX 4-I(B) – SINGAPORE – 15 
- 
-14. 
- 
- 
-Sector:  
- 
-Telecommunications Services  
- 
-Sub-Sector:  
- 
-Telecommunications services  
-Domain name allocation policies in Internet country code top 
+Sector:   Telecommunications Services  
+   
+Sub-Sector:   Telecommunications services  
+  Domain name allocation policies in Internet country code top 
 level domains (ccTLDs) corresponding to Singapore territories 
 (.sg) 
  
-Industry Classification: 
+Industry Classification:  - 
  
-- 
-Obligations concerned:  
-Market Access  
+Obligations concerned:   Market Access  
 Local Presence  
  
-Level of Government:  
+Level of Government:   Central 
  
-Central 
-Measures:  
- 
-Info-communications Development Authority of Singapore Act, 
-Cap. 137A  
+Measures:   Info-communications Development Authority of Singapore Act, 
+  Cap. 137A  
 Telecommunications Act, Cap. 323  
 The Internet Corporation for Assigned Names and Numbers 
 (ICANN), which recognises the ultimate authority of sovereign 
 Governments over ccTLDs corresponding to their territories.  
  
-Description:   
- 
-Cross-Border Trade in Services  
- 
-A registrar must be a company incorporated or a foreign 
+Description:    Cross-Border Trade in Services  
+   
+A  registrar  must  be  a  company  incorporated  or  a  foreign 
 company registered under the Companies Act, Cap. 50, 2006 
 Rev Ed. 
  
  
  
-ANNEX 4-I(B) – SINGAPORE – 16 
+ANNEX 4-I(B) – SINGAPORE – 15 
+    
+15.   
  
+Sector:   Power Supply  
+   
+Sub-Sector:   - 
  
+Industry Classification:   - 
  
-15. 
+Obligations Concerned:   Market Access  
  
- 
-Sector:  
- 
-Power Supply  
- 
-Sub-Sector:  
- 
-- 
-Industry Classification:  
- 
-- 
-Obligations Concerned:  
-Market Access  
- 
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Electricity Act, Cap. 89A, 2002 Rev Ed, Sections 6(1) and 9(1)  
- 
-Description:  
- 
-Cross-Border Trade in Services  
- 
+Level of Government:   Central  
+   
+Measures:   Electricity Act, Cap. 89A, 2002 Rev Ed, Sections 6(1) and 9(1)  
+   
+Description:   Cross-Border Trade in Services  
+   
 Power producers shall not be allowed to sell power directly to 
-consumers and shall only sell power through the Singapore 
-electricity wholesale market operators licensed by the Energy 
+consumers  and  shall  only  sell  power  through  the  Singapore 
+electricity  wholesale  market  operators  licensed  by  the  Energy 
 Market Authority.   
  
 The amount of power supplied cumulatively by power producers 
 located outside of Singapore to Singapore’s wholesale power market 
 shall not exceed 600 MW.  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 16 
+ 16.    
  
+Sector:   Power Supply  
+   
+Sub-Sector:   - 
  
-ANNEX 4-I(B) – SINGAPORE – 17 
+Industry Classification:  - 
  
-16.  
- 
- 
-Sector:  
- 
-Power Supply  
- 
-Sub-Sector:  
- 
-- 
-Industry Classification: 
- 
-- 
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
 Market Access  
  
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Electricity Act, Cap. 89A, 2002 Rev Ed, Sections 6(1) and 9(1)  
- 
-Description:  
-Investment and Cross-Border Trade in Services  
+Level of Government:   Central  
+   
+Measures:   Electricity Act, Cap. 89A, 2002 Rev Ed, Sections 6(1) and 9(1)  
+   
+Description:   Investment and Cross-Border Trade in Services  
  
 Only a Market Support Service Licensee shall be allowed to supply 
 electricity to:  
@@ -770,83 +538,53 @@ electricity to:
 consumption is below 4,000 kWh.  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 17 
+ 17.   
  
+Sector:   Power Transmission and Distribution  
+   
+Sub-Sector:   - 
  
-ANNEX 4-I(B) – SINGAPORE – 18 
- 
-17. 
- 
- 
-Sector:  
- 
-Power Transmission and Distribution  
- 
-Sub-Sector:  
- 
-- 
-Industry Classification:  
+Industry Classification:   - 
   
-- 
-Obligations Concerned:  
- 
-National Treatment (Cross-Border Trade in Services and 
-Investment) 
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
+  Investment) 
 Market Access  
  
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Electricity Act, Cap. 89A, 2002 Rev Ed, Sections 6(1) and 9(1)  
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services  
- 
+Level of Government:   Central  
+   
+Measures:   Electricity Act, Cap. 89A, 2002 Rev Ed, Sections 6(1) and 9(1)  
+   
+Description:   Investment and Cross-Border Trade in Services  
+   
 Only a Transmission Licensee shall be the owner and operator 
-of the electricity transmission and distribution network in 
+of  the  electricity  transmission  and  distribution  network  in 
 Singapore. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 18 
+ 18.   
  
- 
-ANNEX 4-I(B) – SINGAPORE – 19 
- 
-18. 
- 
- 
-Sector:  
- 
-Tourism and Travel Related Services  
- 
-Sub-Sector:  
- 
-Food or beverage serving services in eating facilities run by the 
-government  
+Sector:   Tourism and Travel Related Services  
+   
+Sub-Sector:   Food or beverage serving services in eating facilities run by the 
+  government  
 Food or beverage catering services 
  
-Industry Classification:  
+Industry Classification:   - 
  
-- 
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
 Market Access  
  
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Environmental Public Health Act, Cap. 95, 2002 Rev Ed  
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services  
- 
+Level of Government:   Central  
+   
+Measures:   Environmental Public Health Act, Cap. 95, 2002 Rev Ed  
+   
+Description:   Investment and Cross-Border Trade in Services  
+   
 Only a Singapore national can apply for a licence to operate a 
 stall in government-run markets or hawker centres, in their 
 personal capacity. 
@@ -857,93 +595,59 @@ in Singapore, and apply for the food establishment licence in the
 name of the limited company. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 19 
+ 19.   
  
+Sector:   Sewage  and  Refuse  Disposal,  Sanitation  and  other 
+  Environmental Protection Services  
  
-ANNEX 4-I(B) – SINGAPORE – 20 
+Sub-Sector:   Waste management, including collection, disposal, and treatment 
+  of hazardous waste 
  
-19. 
+Industry Classification:  - 
  
+Obligations Concerned:   Market Access  
+  Local Presence  
  
-Sector:  
+Level of Government:   Central  
+   
+Measures:  Environmental Public Health Act, Cap. 95 
  
-Sewage 
-and 
-Refuse 
-Disposal, 
-Sanitation 
-and 
-other 
-Environmental Protection Services  
- 
-Sub-Sector:  
- 
-Waste management, including collection, disposal, and treatment 
-of hazardous waste 
- 
-Industry Classification: 
- 
-- 
-Obligations Concerned:  
- 
-Market Access  
-Local Presence  
- 
-Level of Government:  
- 
-Central  
- 
-Measures: 
-Environmental Public Health Act, Cap. 95 
- 
-Description:  
- 
-Cross-Border Trade in Services  
- 
-Foreign service suppliers must be locally incorporated in 
+Description:   Cross-Border Trade in Services  
+   
+Foreign  service  suppliers  must  be  locally  incorporated  in 
 Singapore.  
  
-The public waste collectors (PWCs) rendering services to 
+The  public  waste  collectors  (PWCs)  rendering  services  to 
 domestic and trade premises are appointed by public competitive 
-tender. The number of PWCs is limited by the number of 
+tender.  The  number  of  PWCs  is  limited  by  the  number  of 
 geographical sectors in Singapore. For industrial and commercial 
-waste, the market is opened to any licensed general waste 
+waste,  the  market  is  opened  to  any  licensed  general  waste 
 collectors (GWCs).  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 20 
+ 20.   
  
+Sector:   Trade Services  
  
-ANNEX 4-I(B) – SINGAPORE – 21 
+Sub-Sector:  Distribution and Sale of Hazardous Substances 
  
-20. 
+Industry Classification:  - 
  
+Obligations Concerned:   Local Presence  
  
-Sector:  
-Trade Services  
+Level of Government:   Central  
+   
+Measures:   Environmental Protection and Management Act, Cap. 94A, 2002 
+  Rev Ed, Section 22  
  
-Sub-Sector: 
- 
-Distribution and Sale of Hazardous Substances 
-Industry Classification: 
- 
-- 
-Obligations Concerned:  
-Local Presence  
- 
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Environmental Protection and Management Act, Cap. 94A, 2002 
-Rev Ed, Section 22  
- 
-Description:  
- 
-Cross-Border Trade in Services  
- 
+Description:   Cross-Border Trade in Services  
+   
 Only service suppliers with a local presence shall be allowed to 
-distribute and sell hazardous substances as defined in the 
+distribute  and  sell  hazardous  substances  as  defined  in  the 
 Environmental Protection and Management Act.  
  
 Singapore reserves the right and flexibility to modify or increase the 
@@ -951,42 +655,27 @@ list of hazardous substances as defined or listed in the Environmental
 Protection and Management Act. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 21 
+ 21.   
  
- 
-ANNEX 4-I(B) – SINGAPORE – 22 
- 
-21. 
- 
- 
-Sector:  
- 
-Trade Services  
- 
-Sub-Sector:  
- 
-Distribution services  
-Retailing services  
+Sector:   Trade Services  
+   
+Sub-Sector:   Distribution services  
+  Retailing services  
 Wholesale trade services  
  
-Industry Classification:  
+Industry Classification:   - 
  
-- 
-Obligations Concerned:  
-Local Presence  
+Obligations Concerned:   Local Presence  
  
-Level of Government:  
+Level of Government:   Central  
+   
+Measures:   Medicines Act, Cap. 176, 1985 Rev Ed  
+  Health Products Act, Cap. 122D, 2008 Rev Ed 
  
-Central  
- 
-Measures:  
- 
-Medicines Act, Cap. 176, 1985 Rev Ed  
-Health Products Act, Cap. 122D, 2008 Rev Ed 
- 
-Description:  
- 
-Cross-Border Trade in Services  
- 
+Description:   Cross-Border Trade in Services  
+   
 Only service suppliers with a local presence shall be allowed to 
 supply wholesale, retail and distribution services for medical and 
 health-related products and materials as defined under the Medicines 
@@ -996,8 +685,7 @@ or injury, as well as any other such items that may have an impact
 on the health and well-being of the human body.  
  
 Such products and materials include but are not limited to drugs and 
-pharmaceuticals, 
-traditional medicines, health supplements, 
+pharmaceuticals,  traditional  medicines,  health  supplements, 
 diagnostic test kits, medical devices, cosmetics, tobacco products, 
 radioactive materials and irradiating apparatuses.   
  
@@ -1006,149 +694,101 @@ list of medical and health-related products and materials as defined
 or listed in the Medicines Act and Health Products Act. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 22 
+ 22.   
  
+Sector:   Transport Services  
+   
+Sub-Sector:   Air Transport Services - Ground Handling Services (including but 
+  not limited to cargo handling services) 
  
-ANNEX 4-I(B) – SINGAPORE – 23 
- 
-22. 
- 
- 
-Sector:  
- 
-Transport Services  
- 
-Sub-Sector:  
- 
-Air Transport Services - Ground Handling Services (including but 
-not limited to cargo handling services) 
- 
-Industry Classification:  
- 
--  
- 
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Industry Classification:   -  
+   
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
 Market Access  
  
  
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Civil Aviation Authority of Singapore Act, Cap. 41, 1985 Rev Ed 
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services 
- 
-Only Singapore Airport Terminal Services (SATS) and Changi 
-International Airport Services (CIAS) and/or their respective 
-successor bodies shall be allowed to provide ground handling 
+Level of Government:   Central  
+   
+Measures:   Civil Aviation Authority of Singapore Act, Cap. 41, 1985 Rev Ed 
+   
+Description:   Investment and Cross-Border Trade in Services 
+   
+Only  Singapore  Airport  Terminal  Services  (SATS)  and  Changi 
+International  Airport  Services  (CIAS)  and/or  their  respective 
+successor  bodies  shall  be  allowed  to  provide  ground  handling 
 services, including but not limited to cargo handling services at 
 airports. 
  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 23 
+ 23.   
  
- 
-ANNEX 4-I(B) – SINGAPORE – 24 
- 
-23. 
- 
- 
-Sector:  
- 
-Transport Services  
- 
-Sub-Sector:  
- 
-Air transport services 
-Passengers transportation by air 
+Sector:   Transport Services  
+   
+Sub-Sector:   Air transport services 
+  Passengers transportation by air 
 Freight transportation by air  
  
-Industry Classification:  
+Industry Classification:   CPC 731 Passenger Transportation by Air 
+  CPC 732 Freight Transportation by Air  
  
-CPC 731 Passenger Transportation by Air 
-CPC 732 Freight Transportation by Air  
- 
-Obligations Concerned:  
-National Treatment (Investment) 
+Obligations Concerned:   National Treatment (Investment) 
 Most-Favoured-Nation Treatment (Investment) 
 Senior Management and Boards of Directors  
  
-Level of Government:  
+Level of Government:   Central  
+   
+Measures:   Air Navigation (Licensing of Air Services) Regulations, Cap. 6, 
+  Regulation 2 
  
-Central  
- 
-Measures:  
- 
-Air Navigation (Licensing of Air Services) Regulations, Cap. 6, 
-Regulation 2 
- 
-Description:  
- 
-Investment 
- 
+Description:   Investment 
+   
 Service suppliers providing air transport services (for both passenger 
 and freight) as a Singapore designated airline shall have to comply 
-with the “effective control” and/or “substantial ownership” 
+with  the  “effective  control”  and/or  “substantial  ownership” 
 requirements of Singapore’s bilateral and multilateral air services 
 agreements. 
  
 Compliance with the requirements of these agreements may require 
-these service suppliers to comply with conditions on effective 
-control and limits on the foreign ownership as stipulated in 
+these  service  suppliers  to  comply  with  conditions  on  effective 
+control  and  limits  on  the  foreign  ownership  as  stipulated  in 
 Singapore’s bilateral and multilateral air services agreements. 
  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 24 
+ 24.   
  
- 
-ANNEX 4-I(B) – SINGAPORE – 25 
- 
-24. 
- 
- 
-Sector:  
- 
-Transport Services  
- 
-Sub-Sector:  
- 
-Maritime transport services  
-Cargo handling services  
+Sector:   Transport Services  
+   
+Sub-Sector:   Maritime transport services  
+  Cargo handling services  
 Pilotage Services  
 Supply of desalinated water to ships berthed at Singapore ports 
 or in Singapore territorial waters  
  
-Industry Classification:  
- 
-CPC 741 Cargo Handling Services  
-CPC 74520 Pilotage and Berthing Services (only applies to 
+Industry Classification:   CPC 741 Cargo Handling Services  
+  CPC  74520  Pilotage  and  Berthing  Services  (only  applies  to 
 Pilotage Services)  
 CPC 74590 Other Supporting Services for Water Transport  
  
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
 Market Access  
  
-Level of Government:  
+Level of Government:   Central  
+   
+Measures:   Maritime and Port Authority of Singapore Act, Cap. 170A, 1997 
+  Rev Ed, Section 81  
  
-Central  
- 
-Measures:  
- 
-Maritime and Port Authority of Singapore Act, Cap. 170A, 1997 
-Rev Ed, Section 81  
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services  
- 
+Description:   Investment and Cross-Border Trade in Services  
+   
 Only PSA Corporation Ltd and Jurong Port Pte Ltd or their 
 respective successor bodies shall be allowed to provide cargo 
 handling services. 
@@ -1158,43 +798,27 @@ to provide pilotage services and supply desalinated water to ships
 berthed at Singapore ports or in Singapore territorial waters. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 25 
+ 25.   
  
- 
-ANNEX 4-I(B) – SINGAPORE – 26 
- 
-25. 
- 
- 
-Sector:  
- 
-Transport Services  
- 
-Sub-Sector:  
- 
-Maritime transport services  
- 
-Industry Classification: 
- 
--  
- 
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Sector:   Transport Services  
+   
+Sub-Sector:   Maritime transport services  
+   
+Industry Classification:  -  
+   
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
 Market Access  
  
-Level of Government:  
+Level of Government:   Central  
+   
+Measures:   Maritime and Port Authority of Singapore Act, Cap. 170A, 1997 Rev 
+  Ed, Section 81  
  
-Central  
- 
-Measures:  
- 
-Maritime and Port Authority of Singapore Act, Cap. 170A, 1997 Rev 
-Ed, Section 81  
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services  
- 
+Description:   Investment and Cross-Border Trade in Services  
+   
 Only local service suppliers shall be allowed to operate and manage 
 cruise and ferry terminals.  
  
@@ -1202,41 +826,27 @@ Local service suppliers are either Singapore citizens or legal persons
 which are more than 50 per cent owned by Singapore citizens.  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 26 
+ 26.   
  
+Sector:   Transportation and Distribution of Manufactured Gas and Natural 
+  Gas  
  
-ANNEX 4-I(B) – SINGAPORE – 27 
+Sub-Sector:   - 
  
-26. 
+Industry Classification:    - 
  
- 
-Sector:  
- 
-Transportation and Distribution of Manufactured Gas and Natural 
-Gas  
- 
-Sub-Sector:  
- 
-- 
-Industry Classification:   
- 
-- 
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
 Market Access  
  
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Gas Act, Cap. 116A, 2002 Rev Ed 
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services  
- 
+Level of Government:   Central  
+   
+Measures:   Gas Act, Cap. 116A, 2002 Rev Ed 
+   
+Description:   Investment and Cross-Border Trade in Services  
+   
 Only the holder of a gas transporter licence shall be allowed to 
 transport and distribute manufactured and natural gas.  
  
@@ -1244,42 +854,28 @@ Only one gas transport licence has been issued given the size of the
 Singapore market. 
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 27 
+ 27.   
  
+Sector:   Manufacturing and Services Incidental to Manufacturing 
+   
+Sub-Sector:   - 
  
-ANNEX 4-I(B) – SINGAPORE – 28 
+Industry Classification:    - 
  
-27. 
- 
- 
-Sector:  
- 
-Manufacturing and Services Incidental to Manufacturing 
- 
-Sub-Sector:  
- 
-- 
-Industry Classification:   
- 
-- 
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
 Most-Favoured-Nation Treatment (Cross-Border Trade in Services 
 and Investment) 
 Prohibition of Performance Requirements  
  
-Level of Government:  
- 
-Central  
- 
-Measures:  
- 
-Control of Manufacture Act, Cap. 57, 2004 Rev Ed 
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services  
- 
+Level of Government:   Central  
+   
+Measures:   Control of Manufacture Act, Cap. 57, 2004 Rev Ed 
+   
+Description:   Investment and Cross-Border Trade in Services  
+   
 The manufacture of the following products, and services incidental 
 to the manufacture of these products, in Singapore, may be subject 
 to certain restrictions:  
@@ -1301,185 +897,138 @@ which an order under section 54 of the Act has been made);
  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 28 
+ 28.   
  
+Sector:   All 
+   
+Sub-Sector:   - 
  
-ANNEX 4-I(B) – SINGAPORE – 29 
+Industry Classification:  - 
  
-28. 
- 
- 
-Sector:  
- 
-All 
- 
-Sub-Sector:  
- 
-- 
-Industry Classification: 
- 
-- 
-Obligations Concerned:  
-National Treatment (Cross-Border Trade in Services and 
+Obligations Concerned:   National  Treatment  (Cross-Border  Trade  in  Services  and 
 Investment) 
  
-Level of Government:  
- 
-Central  
- 
-Measures: 
-Banking Act, Cap. 19, MAS Notice 757  
+Level of Government:   Central  
+   
+Measures:  Banking Act, Cap. 19, MAS Notice 757  
 Monetary Authority of Singapore Act, Cap. 186, MAS Notice 
 1105 
 Finance Companies Act, Cap. 108, MAS Notice 816  
 Insurance Act, Cap. 142, MAS Notice 109  
 Securities and Futures Act, Cap. 289, MAS Notice SFA 04-N04 
  
-Description:  
- 
-Investment and Cross-Border Trade in Services 
- 
-A 
-non-resident 
-financial 
-institution 
-may 
-in 
-certain 
+Description:   Investment and Cross-Border Trade in Services 
+   
+A  non-resident  financial  institution  may  in  certain 
 circumstances be unable to borrow in Singapore dollars more 
 than S$5 million from a resident financial institution owing to 
-the following restrictions placed on financial institutions’ 
-lending of the Singapore dollar to non-resident financial 
+the  following  restrictions  placed  on  financial  institutions’ 
+lending  of  the  Singapore  dollar  to  non-resident  financial 
 institutions. 
  
-A financial institution shall not extend to any non-resident 
+A financial  institution shall not  extend to  any  non-resident 
 financial institution Singapore dollar credit facilities exceeding 
 S$5 million per non-resident financial institution: 
  
 (a) where the Singapore dollar proceeds are to be used outside 
 of Singapore, unless: 
  
-i. (i) such proceeds are swapped or converted into foreign 
+i. (i)  such  proceeds  are  swapped  or  converted  into  foreign 
 currency upon draw-down or before remittance abroad; or  
  
 ii. (ii) such proceeds are for the purpose of preventing settlement 
-failures where the financial institution extends a temporary 
+failures  where the financial institution extends a temporary 
 Singapore dollar overdraft to any vostro account of any non-
 resident financial institution, and the financial institution takes 
 reasonable efforts to ensure that the overdraft is covered within 
 two business days; and  
  
 (b) where there is reason to believe that the Singapore dollar 
-proceeds may be used for Singapore dollar currency 
-speculation, regardless of whether the Singapore dollar 
+proceeds  may  be  used  for  Singapore  dollar  currency 
+speculation,  regardless  of  whether  the  Singapore  dollar 
 proceeds are to be used in Singapore or outside of Singapore.  
-ANNEX 4-I(B) – SINGAPORE – 30 
- 
- 
+ANNEX 4-I(B) – SINGAPORE – 29 
+  
 A financial institution shall not arrange Singapore dollar equity 
 or bond issues for any non-resident financial institution where 
 the Singapore dollar proceeds are to be used outside Singapore, 
-unless the proceeds are swapped or converted into foreign 
+unless  the  proceeds  are  swapped  or  converted  into  foreign 
 currency upon draw-down or before remittance abroad.  
  
-“Non-residents financial institution” means any financial 
+“Non-residents  financial  institution”  means  any  financial 
 institution which is not a resident as defined in the relevant 
 notice. 
  
  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 30 
+ 29.   
  
+Sector:   Business Services  
  
-ANNEX 4-I(B) – SINGAPORE – 31 
+Sub-Sector:   Credit bureau services  
  
-29. 
+Industry Classification:   - 
  
- 
-Sector:  
- 
-Business Services  
-Sub-Sector:  
- 
-Credit bureau services  
-Industry Classification:  
- 
-- 
-Obligations Concerned:  
-Market Access  
+Obligations Concerned:   Market Access  
 Local Presence  
  
-Level of Government:  
+Level of Government:   Central  
+   
+Measures:   Administrative  measure  pursuant  to  the  Monetary  Authority  of 
+  Singapore Act, Cap. 186 
  
-Central  
- 
-Measures:  
- 
-Administrative measure pursuant to the Monetary Authority of 
-Singapore Act, Cap. 186 
- 
-Description:  
- 
-Cross-Border Trade in Services 
- 
+Description:   Cross-Border Trade in Services 
+   
 Singapore reserves the right to limit the number of suppliers of credit 
 bureau services where information provided by the supplier of credit 
 bureau services is obtained from financial institutions in Singapore. 
 The supplier must be established in Singapore.  
  
+   
+ANNEX 4-I(B) – SINGAPORE – 31 
+ 30.   
  
+Sector  Business Services 
  
-ANNEX 4-I(B) – SINGAPORE – 32 
+Sub-Sector  Legal Services 
+   
+Industry Classification  - 
  
-30. 
- 
- 
-Sector 
- 
-Business Services 
-Sub-Sector 
- 
-Legal Services 
- 
-Industry Classification 
- 
-- 
-Obligations Concerned 
- 
-National Treatment (Cross-Border Trade in Services and 
-Investment) 
+Obligations Concerned  National  Treatment  (Cross-Border  Trade  in  Services  and 
+  Investment) 
 Most-Favoured-Nation Treatment (Cross-Border Trade in Services 
 and Investment) 
 Market Access  
 Local Presence  
  
-Level of Government: 
- 
-Central 
- 
-Measures: 
- 
-Legal Profession Act, Cap. 161  
- 
-Description: 
-Investment and Cross Border Trade in Services 
+Level of Government:  Central 
+   
+Measures:  Legal Profession Act, Cap. 161  
+   
+Description:  Investment and Cross Border Trade in Services 
  
 Australian law practices shall apply for licensing as foreign law 
 practices (as defined under Singapore law) for their practice of 
-Australian law, international law and/or third country law with 
+Australian  law,  international  law  and/or  third  country  law  with 
 offices in Singapore, and upon obtaining such licence, they can 
 employ:  
  
-(i) qualified foreign lawyers (as defined under Singapore law) 
+(i)  qualified foreign lawyers (as defined under Singapore law) 
 of any nationality to practise Australian law, international 
 law and/or third country law;  
  
-(ii) Singapore lawyers (as defined under Singapore law) to 
+(ii)  Singapore  lawyers  (as  defined  under  Singapore  law)  to 
 practise only Australian law, international law and/or third 
 country law but not Singapore law; and  
  
 (iii) non-legally trained local staff in their Singapore offices.  
  
 Australian lawyers shall apply for registration as foreign lawyers for 
-their practice of Australian law, international law and/or third 
+their  practice  of  Australian  law,  international  law  and/or  third 
 country law with physical presence in Singapore in order to work in 
 foreign law practices (either from Australia or any other jurisdiction) 
 in Singapore.  
@@ -1487,16 +1036,15 @@ in Singapore.
 Australian lawyers who are registered as foreign lawyers for the 
 practice of Australian law, international law and/or third country law 
 with local presence in Singapore and are working in foreign law 
-practices (either from Australia or any other jurisdiction) in 
+practices  (either  from  Australia  or  any  other  jurisdiction)  in 
 Singapore shall be allowed to participate in international commercial 
 arbitration proceedings in Singapore by:  
  
-ANNEX 4-I(B) – SINGAPORE – 33 
+ANNEX 4-I(B) – SINGAPORE – 32 
+ (i)  representing any party in arbitration proceedings; and 
  
-(i) representing any party in arbitration proceedings; and 
- 
-(ii) engaging in the giving of advice, preparation of documents 
-or any other assistance in relation to or arising out of 
+(ii)  engaging in the giving of advice, preparation of documents 
+or  any  other  assistance  in  relation  to  or  arising  out  of 
 arbitration proceedings except for the right of audience in 
 Singapore court proceedings. 
  
@@ -1504,22 +1052,22 @@ Australian law practices may provide legal services in relation to
 Singapore law through a Joint Law Venture or Formal Law Alliance 
 with a Singapore law practice, only to the extent allowed by the laws, 
 rules, and regulations concerning Joint Law Ventures and Formal 
-Law Alliances, and subject to the conditions and requirements 
+Law  Alliances,  and  subject  to  the  conditions  and  requirements 
 relating to Joint Law Ventures and Formal Law Alliances. However, 
 Singapore undertakes to waive and modify the following statutory 
 conditions governing Joint Law Ventures and Formal Law Alliances 
 for any Australian law practice which is licensed as a foreign law 
 practice in Singapore:  
  
-In relation to Rule 51(2)(b) and Rule 54(1)(b) of the Legal 
+In  relation  to  Rule 51(2)(b) and Rule 54(1)(b) of the  Legal 
 Profession (Law Practice Entities) Rules 2015: 
  
-(i) the minimum number of Australian lawyers resident in 
+(i)  the  minimum  number  of  Australian  lawyers  resident  in 
 Singapore which the Australian law practice is required to 
 maintain in a Joint Law Venture or a Formal Law Alliance 
 shall be reduced from 5 to 3; 
  
-(ii) the minimum relevant legal expertise and experience in the 
+(ii)  the minimum relevant legal expertise and experience in the 
 permitted areas of legal practice required of the 3 Australian 
 lawyers referred to in subparagraph (i) shall be considered on 
 an aggregate basis of 15 years for all 3 Australian lawyers, 
@@ -1530,7 +1078,7 @@ In relation to Rule 5(1)(g) of the Legal Profession (Regulated
 Individuals) Rules 2015: 
  
 (iii) the minimum relevant legal expertise and experience in the 
-permitted areas of legal practice required for Australian 
+permitted  areas  of  legal  practice  required  for  Australian 
 lawyers working in a Joint Law Venture who wish to apply 
 to practise Singapore law under the Legal Profession Act 
 shall be maintained at 3 years. 
@@ -1538,4 +1086,6 @@ shall be maintained at 3 years.
  
  
  
+ 
+ANNEX 4-I(B) – SINGAPORE – 33 
  

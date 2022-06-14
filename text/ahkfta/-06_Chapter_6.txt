@@ -1,5 +1,3 @@
-133 
- 
 CHAPTER 6 
  
  
@@ -13,13 +11,11 @@ Definitions
  
 For the purposes of this Chapter:  
  
-(a) 
-TBT Agreement means the Agreement on 
+(a)  TBT  Agreement  means  the  Agreement  on 
 Technical Barriers to Trade in Annex 1A to the 
 WTO Agreement; and  
  
-(b) 
-the definitions in Annex 1 of the TBT Agreement 
+(b)  the definitions in Annex 1 of the TBT Agreement 
 are incorporated into and shall form part of this 
 Chapter, mutatis mutandis. 
  
@@ -30,67 +26,55 @@ Objectives
 The objectives of this Chapter are to facilitate trade in 
 goods among the Parties by: 
  
-(a)  ensuring that standards, technical regulations, 
+(a)   ensuring  that  standards,  technical  regulations, 
 and conformity assessment procedures do not 
 create unnecessary obstacles to trade;  
  
-(b)  promoting mutual understanding of each Party’s 
+(b)   promoting mutual understanding of each Party’s 
 standards, technical regulations, and conformity 
 assessment procedures; 
  
-134 
- 
-(c)   strengthening information exchange among the 
+133 
+ (c)    strengthening information exchange among the 
 Parties on standards, technical regulations, and 
 conformity assessment procedures; 
  
-(d)  strengthening co-operation among the Parties in 
-the work of international bodies related to 
-standardisation and conformity assessments; 
+(d)   strengthening co-operation among the Parties in 
+the  work  of  international  bodies  related  to 
+standardisation  and  conformity  assessments; 
 and 
  
-(e)  providing a framework to implement supporting 
+(e)   providing a framework to implement supporting 
 mechanisms to realise these objectives. 
   
 Article 3 
  
 Scope 
  
-1.  
-For the mutual benefit of the Parties, this Chapter 
-applies to all standards, technical regulations, and 
+1.   For the mutual benefit of the Parties, this Chapter 
+applies  to  all  standards,  technical  regulations,  and 
 conformity assessment procedures of the Parties that 
 may affect trade in goods among the Parties except: 
  
-(a)   purchasing 
-specifications 
-prepared 
-by 
-governmental bodies for the production or 
-consumption requirements of such bodies; 
+(a)   purchasing  specifications  prepared  by 
+governmental  bodies  for  the  production  or 
+consumption  requirements  of  such  bodies; 
 and 
  
-(b)  sanitary or phytosanitary measures as 
+(b)   sanitary  or  phytosanitary  measures  as 
 defined in paragraph 1 of Annex A of the SPS 
 Agreement, which are covered by Chapter 5 
 (Sanitary and Phytosanitary Measures). 
  
-2.  
-Nothing in this Chapter shall limit the right of a 
+2.   Nothing in this Chapter shall limit the right of a 
 Party to prepare, adopt and apply, in accordance with 
 its rights and obligations under the TBT Agreement, 
-standards, technical regulations, and conformity 
+standards,  technical  regulations,  and  conformity 
 assessment procedures to the extent necessary to fulfil 
 a legitimate objective.  Such legitimate objectives are, 
-inter 
-alia, 
-national 
-security 
-requirements, 
-the 
-135 
- 
-prevention of deceptive practices, and the protection of 
+inter  alia,  national  security  requirements,  the 
+134 
+ prevention of deceptive practices, and the protection of 
 human health or safety, animal or plant life or health, 
 or the environment. 
  
@@ -98,340 +82,269 @@ Article 4
  
 Affirmation of the TBT Agreement 
  
-1.  
-Each Party affirms its rights and obligations with 
+1.   Each Party affirms its rights and obligations with 
 respect to another Party under the TBT Agreement. 
  
-2.  
-In the implementation of this Chapter, each Party 
-shall take such reasonable measures as may be 
-available to it to ensure compliance by local 
-government and non-governmental bodies, where 
+2.   In the implementation of this Chapter, each Party 
+shall  take  such  reasonable  measures  as  may  be 
+available  to  it  to  ensure  compliance  by  local 
+government  and  non-governmental  bodies,  where 
 applicable, within its Area, which are responsible for 
 the preparation, adoption and application of standards, 
-technical regulations, and conformity assessment 
+technical  regulations,  and  conformity  assessment 
 procedures.  
  
 Article 5 
  
 Standards 
  
-1. 
-With respect to the preparation, adoption and 
+1.  With  respect  to  the  preparation,  adoption  and 
 application of standards, each Party shall ensure that 
-its central government standardising bodies accept 
+its  central  government  standardising  bodies  accept 
 and comply with Annex 3 of the TBT Agreement.  Each 
 Party shall take such reasonable measures as may be 
-available to it to ensure other standardising bodies 
+available  to  it  to  ensure  other  standardising  bodies 
 within its Area accept and comply with Annex 3 of the 
 TBT Agreement. 
  
-2. 
-Each Party shall encourage the standardising 
+2.  Each  Party  shall  encourage  the  standardising 
 body or bodies, where applicable, in its Area to co-
 operate with the standardising body or bodies of the 
 other Parties.  Such co-operation shall include: 
  
-136 
+135 
+ (a)  exchange of information on standards; 
  
-(a) exchange of information on standards; 
- 
-(b) exchange of information relating to standard 
+(b)  exchange of information relating to standard 
 setting procedures; and 
  
-(c) co-operation in the work of international 
-standardising bodies in areas of mutual 
+(c)  co-operation  in  the  work  of  international 
+standardising  bodies  in  areas  of  mutual 
 interest. 
  
 Article 6 
  
 Technical Regulations 
  
-1. 
-Where relevant international standards exist or 
-their completion is imminent, each Party shall use 
-them, or relevant parts of them, as a basis for its 
+1.  Where relevant international standards exist or 
+their  completion  is  imminent,  each  Party  shall  use 
+them,  or  relevant  parts  of  them,  as  a  basis  for  its 
 technical regulations except when such international 
 standards or relevant parts would be an ineffective or 
 inappropriate means for the fulfilment of the legitimate 
-objectives 
-pursued, 
-for 
-instance 
-because 
-of 
-fundamental climatic or geographical factors or 
+objectives  pursued,  for  instance  because  of 
+fundamental  climatic  or  geographical  factors  or 
 fundamental technological problems. 
  
-2. 
-Each Party shall give positive consideration to 
-accepting as equivalent technical regulations of 
+2.  Each Party shall give positive consideration to 
+accepting  as  equivalent  technical  regulations  of 
 another Party, even if these regulations differ from its 
-own, provided it is satisfied that these regulations 
+own,  provided  it  is  satisfied  that  these  regulations 
 adequately fulfil the objectives of its own regulations. 
  
-3.  
-Where a Party does not accept a technical 
+3.   Where  a  Party  does  not  accept  a  technical 
 regulation of another Party as equivalent to its own, it 
-shall, upon request of that other Party, explain the 
+shall,  upon  request  of  that  other  Party,  explain  the 
 reasons for its decision. 
  
- 
- 
-137 
- 
-Article 7 
+   
+136 
+ Article 7 
  
 Conformity Assessment Procedures 
  
-1.   
-Each Party shall give positive consideration to 
-accepting the results of conformity assessment 
-procedures of another Party, even when those 
+1.    Each Party shall give positive consideration to 
+accepting  the  results  of  conformity  assessment 
+procedures  of  another  Party,  even  when  those 
 procedures differ from its own, provided it is satisfied 
 that those procedures offer an assurance of conformity 
-with applicable technical regulations or standards 
+with  applicable  technical  regulations  or  standards 
 equivalent to its own procedures.  
  
-2.  
-Each Party shall facilitate the acceptance of the 
-results 
-of 
-conformity 
-assessment 
-procedures 
+2.   Each Party shall facilitate the acceptance of the 
+results  of  conformity  assessment  procedures 
 conducted in the Area of another Party with a view to 
-increasing 
-efficiency, 
-avoiding 
-duplication, 
-and 
-ensuring 
-cost 
-effectiveness 
-of 
-the 
-conformity 
+increasing  efficiency,  avoiding  duplication,  and 
+ensuring  cost  effectiveness  of  the  conformity 
 assessments.  In this regard, each Party may choose, 
 depending on the situation of the Party and the specific 
 sectors involved, a broad range of approaches.  These 
 may include: 
  
-(a) 
-recognition by a Party of the results of 
+(a)  recognition  by  a  Party  of  the  results  of 
 conformity assessments performed in the 
 Area of another Party; 
  
-(b) 
-recognition of co-operative arrangements 
+(b)  recognition  of  co-operative  arrangements 
 between accreditation bodies in the Areas 
 of the Parties; 
  
-(c) 
-mutual 
-recognition 
-of 
-conformity 
-assessment procedures conducted by 
+(c)  mutual  recognition  of  conformity 
+assessment  procedures  conducted  by 
 bodies located in the Area of each Party; 
  
-(d) 
-accreditation of conformity assessment 
+(d)  accreditation  of  conformity  assessment 
 bodies in the Area of another Party; 
  
-138 
- 
-(e) 
-use of existing regional and international 
-multilateral recognition agreements and 
+137 
+ (e)  use of existing regional and international 
+multilateral  recognition  agreements  and 
 arrangements; 
  
-(f) 
-designating conformity assessment bodies 
-located in the Area of another Party to 
+(f)  designating conformity assessment bodies 
+located  in  the  Area  of  another  Party  to 
 perform conformity assessment; and 
  
-(g) 
-suppliers’ declaration of conformity, where 
+(g)  suppliers’ declaration of conformity, where 
 applicable. 
  
-3.  
-Each Party shall exchange information with 
+3.   Each  Party  shall  exchange  information  with 
 another Party on its experience in the development and 
 application of the approaches set out in subparagraphs 
 2 (a) to (g) and other appropriate approaches with a 
-view to facilitating the acceptance of the results of 
+view  to  facilitating  the  acceptance  of  the  results  of 
 conformity assessment procedures. 
  
-4.  
-A Party shall, upon request of another Party, 
+4.   A  Party  shall,  upon  request  of  another  Party, 
 explain its reasons for not accepting the results of any 
-conformity assessment procedure performed in the 
+conformity  assessment  procedure  performed  in  the 
 Area of the requesting Party.  
  
 Article 8 
  
 Co-operation 
  
-1.  
-The Parties shall co-operate in the field of 
-standards, technical regulations, and conformity 
-assessment procedures with a view to facilitating 
+1.   The  Parties  shall  co-operate  in  the  field  of 
+standards,  technical  regulations,  and  conformity 
+assessment  procedures  with  a  view  to  facilitating 
 access to each other’s markets. 
  
-2.  
-A Party shall, upon request of another Party, give 
+2.   A Party shall, upon request of another Party, give 
 positive consideration to proposals on co-operation in 
-the field of standards, technical regulations, and 
-conformity assessment procedures.  Such co-
+the  field  of  standards,  technical  regulations,  and 
+conformity  assessment  procedures.    Such  co-
 operation, which shall be on mutually determined terms 
 and conditions, may include: 
-139 
- 
-(a)  advice or technical assistance relating to the 
-development and application of standards, 
-technical 
-regulations, 
-and 
-conformity 
+138 
+ (a)   advice or technical assistance relating to the 
+development  and  application  of  standards, 
+technical  regulations,  and  conformity 
 assessment procedures; 
  
-(b)  co-operation between conformity assessment 
-bodies, 
-both 
-governmental 
-and 
-non-
-governmental, in the Area of each of the 
+(b)   co-operation between conformity assessment 
+bodies,  both  governmental  and  non-
+governmental,  in  the  Area  of  each  of  the 
 Parties such as: 
  
-(i)  
-use of accreditation to qualify conformity 
+(i)   use of accreditation to qualify conformity 
 assessment bodies; and 
  
-(ii)  enhancing infrastructure in calibration, 
-testing, inspection, certification and 
-accreditation 
-to 
-meet 
-relevant 
-international 
-standards, 
+(ii)   enhancing  infrastructure  in  calibration, 
+testing,  inspection,  certification  and 
+accreditation  to  meet  relevant 
+international  standards, 
 recommendations and guidelines; 
  
 (c)  co-operation in areas of mutual interest in the 
-work of relevant regional and international 
-bodies relating to the development and 
-application of standards and conformity 
-assessment procedures such as enhancing 
-participation in the existing frameworks for 
-mutual recognition developed by relevant 
+work  of  relevant  regional  and  international 
+bodies  relating  to  the  development  and 
+application  of  standards  and  conformity 
+assessment  procedures  such  as  enhancing 
+participation  in  the  existing  frameworks  for 
+mutual  recognition  developed  by  relevant 
 regional and international bodies; and 
  
-(d)  enhancing co-operation in the development 
+(d)  enhancing  co-operation  in  the  development 
 and improvement of technical regulations and 
 conformity assessment procedures such as: 
  
-(i) 
-co-operation in the development and 
+(i)  co-operation  in  the  development  and 
 promotion of good regulatory practice; 
  
-(ii)  transparency, including ways to promote 
-improved access to information on 
-140 
- 
-standards, technical regulations, and 
+(ii)   transparency, including ways to promote 
+improved  access  to  information  on 
+139 
+ standards,  technical  regulations,  and 
 conformity assessment procedures; and 
  
-(iii)  management of risks relating to health, 
-safety, the environment and deceptive 
+(iii)   management of risks relating to health, 
+safety,  the  environment  and  deceptive 
 practices. 
  
-3.  
-A Party shall, upon request of another Party, give 
+3.   A Party shall, upon request of another Party, give 
 positive consideration to a sector-specific proposal that 
-the requesting Party makes for further co-operation 
-under this Chapter.  Such co-operation shall be on 
+the  requesting  Party  makes  for  further  co-operation 
+under this  Chapter.   Such co-operation  shall  be  on 
 mutually determined terms and conditions. 
  
 Article 9 
  
 Consultations  
  
-1.  
-Consultations on any matter arising under this 
+1.   Consultations on any matter arising under this 
 Chapter shall be held at the request of a Party which 
-considers that another Party has taken a measure 
+considers  that  another  Party  has  taken  a  measure 
 which is likely to create, or has created, an obstacle to 
 trade.  Such consultations shall take place within 60 
 days from the request with the objective of finding a 
 mutually acceptable solution.  Such consultations may 
 be conducted by any means agreed by the Parties. 
  
-2.  
-Where a matter covered under this Chapter 
+2.   Where  a  matter  covered  under  this  Chapter 
 cannot be clarified or resolved through consultations, 
 the Parties concerned may establish an ad hoc working 
-group with a view to identifying a workable and 
+group  with  a  view  to  identifying  a  workable  and 
 practical solution to facilitate trade.  The ad hoc working 
-group shall comprise representatives of the Parties 
+group  shall  comprise  representatives  of  the  Parties 
 concerned. 
  
-3.    Where a Party declines a request from another 
+3.     Where a Party declines a request from another 
 Party to establish an ad hoc working group referred to 
 in paragraph 2, it shall, upon request of the requesting 
 Party, explain the reasons for its decision.  
-141 
- 
- 
-4.  
-Where an imported consignment does not 
-comply with the technical regulations or conformity 
-assessment procedures of the importing Party, the 
+140 
+  
+4.   Where  an  imported  consignment  does  not 
+comply  with  the  technical  regulations  or  conformity 
+assessment  procedures  of  the  importing  Party,  the 
 Parties concerned shall undertake the necessary steps 
 to address the non-compliance without undue delay. 
  
-5.  
-Any action taken pursuant to this Article shall be 
+5.   Any action taken pursuant to this Article shall be 
 without prejudice to the rights and obligations of the 
 Parties under Chapter 13 (Consultations and Dispute 
-Settlement) or under the WTO Dispute Settlement 
+Settlement)  or  under  the  WTO  Dispute  Settlement 
 Understanding. 
  
 Article 10 
  
 Agreements or Arrangements 
  
-1. 
-The Parties shall seek to identify trade-facilitating 
+1.  The Parties shall seek to identify trade-facilitating 
 initiatives regarding standards, technical regulations, 
-and conformity assessment procedures that are 
+and  conformity  assessment  procedures  that  are 
 appropriate for particular issues or sectors. 
  
-2. 
-Such trade-facilitating initiatives may include 
-agreements or arrangements on regulatory issues, 
-such as alignment of standards, convergence or 
-equivalence of technical regulations, conformity 
+2.  Such  trade-facilitating  initiatives  may  include 
+agreements  or  arrangements  on  regulatory  issues, 
+such  as  alignment  of  standards,  convergence  or 
+equivalence  of  technical  regulations,  conformity 
 assessment procedures and compliance issues. 
  
-3. 
-Parties to an existing agreement or arrangement 
+3.  Parties to an existing agreement or arrangement 
 shall, upon request of another Party, give consideration 
 to extending such an agreement or arrangement to the 
 requesting Party.  Such consideration may be subject 
 to appropriate confidence building processes including 
 information exchange, co-operation, consultations and 
 training to ensure equivalence of relevant standards, 
-technical regulations, or conformity assessment 
+technical  regulations,  or  conformity  assessment 
 procedures. 
  
-142 
- 
-4. 
-Where a Party declines a request of another 
-Party to consider extending the application of an 
-existing agreement or arrangement referred to in 
+141 
+ 4.  Where  a  Party  declines  a  request  of  another 
+Party  to  consider  extending  the  application  of  an 
+existing  agreement  or  arrangement  referred  to  in 
 paragraph 3, it shall, upon request of the requesting 
 Party, explain the reasons for its decision.  
  
@@ -439,117 +352,89 @@ Article 11
  
 Transparency 
  
-1.  
-Each Party affirms its commitment to ensuring 
+1.   Each Party affirms its commitment to ensuring 
 that information regarding proposed new or amended 
-standards, technical regulations, and conformity 
-assessment 
-procedures 
-is 
-made 
-available 
-in 
+standards,  technical  regulations,  and  conformity 
+assessment  procedures  is  made  available  in 
 accordance with the relevant requirements of the TBT 
 Agreement. 
  
-2.  
-Each Party shall ensure that the information 
-relating to standards, technical regulations, and 
-conformity assessment procedures is published in 
+2.   Each  Party  shall  ensure  that  the  information 
+relating  to  standards,  technical  regulations,  and 
+conformity  assessment  procedures  is  published  in 
 accordance with the relevant requirements of the TBT 
-Agreement.  Such information should be made 
-available in printed form and, where possible, in 
+Agreement.    Such  information  should  be  made 
+available  in  printed  form  and,  where  possible,  in 
 electronic form. 
  
-3.   
-In connection with the notification requirements 
+3.    In connection with the notification requirements 
 under Article 2 and Article 5 of the TBT Agreement, 
 each Party shall allow at least 60 days for any other 
-Party to present comments on proposed technical 
-regulations or conformity assessment procedures 
-except where urgent problems of safety, health, 
+Party  to  present  comments  on  proposed  technical 
+regulations  or  conformity  assessment  procedures 
+except  where  urgent  problems  of  safety,  health, 
 environmental protection or national security arise, or 
 threaten to arise, for that Party. 
  
-4.   
-Each Party shall take into due consideration the 
+4.    Each Party shall take into due consideration the 
 comments of any other Party presented pursuant to 
 paragraph 3 and shall endeavour to provide responses 
 to these comments upon request.  
-143 
- 
- 
+142 
+  
 Article 12 
  
 Contact Points 
  
-1.   
-Each Party shall designate a contact point or 
-contact points which shall, for that Party, have 
-responsibility for coordinating the implementation of 
+1.    Each  Party  shall  designate  a  contact  point  or 
+contact  points  which  shall,  for  that  Party,  have 
+responsibility  for  coordinating  the  implementation  of 
 this Chapter. 
  
-2.   
-Each Party shall provide the other Parties with 
+2.    Each Party shall provide the other Parties with 
 the name of each designated contact point and the 
-contact details of the relevant official or officials, 
-including telephone, facsimile, email and any other 
+contact  details  of  the  relevant  official  or  officials, 
+including  telephone,  facsimile,  email  and  any  other 
 relevant details. 
  
-3.   
-A Party shall notify the other Parties promptly of 
+3.    A Party shall notify the other Parties promptly of 
 any change of its contact point or contact points or any 
 amendments to the details of the relevant officials.  
  
-4.   
-Each Party shall ensure that its contact point or 
-contact points facilitate the exchange of information 
+4.    Each Party shall ensure that its contact point or 
+contact points  facilitate the  exchange  of  information 
 among the Parties on standards, technical regulations, 
 and conformity assessment procedures, in response to 
-all reasonable requests for such information from a 
+all  reasonable  requests  for such  information from  a 
 Party. 
  
- 
- 
-144 
- 
-Article 13 
+   
+143 
+ Article 13 
  
 Sub-Committee on Standards, Technical 
 Regulations and Conformity Assessment 
 Procedures 
  
 1.  The Parties hereby establish a Sub-Committee on 
-Standards, Technical Regulations and Conformity 
-Assessment 
-Procedures 
-(the 
-“STRACAP 
-Sub-
-Committee”), consisting of representatives of the 
-Parties, to promote and monitor the implementation 
+Standards,  Technical  Regulations  and  Conformity 
+Assessment  Procedures  (the  “STRACAP  Sub-
+Committee”),  consisting  of  representatives  of  the 
+Parties, to  promote  and  monitor the  implementation 
 and administration of this Chapter, including monitoring 
-consultations 
-conducted 
-pursuant 
-to 
-Article 
-9 
+consultations  conducted  pursuant  to  Article  9 
 (Consultations). 
  
-2.   
-The STRACAP Sub-Committee shall meet as 
+2.    The  STRACAP  Sub-Committee  shall  meet  as 
 mutually determined by the Parties.  Meetings may be 
-conducted in person, or by any other means as 
+conducted  in  person,  or  by  any  other  means  as 
 mutually determined by the Parties. 
  
-3.   
-The STRACAP Sub-Committee shall determine 
+3.    The STRACAP Sub-Committee shall determine 
 its terms of reference in accordance with this Chapter. 
  
-4.   
-The STRACAP Sub-Committee shall determine 
-its work programme in response to priorities as 
+4.    The STRACAP Sub-Committee shall determine 
+its  work  programme  in  response  to  priorities  as 
 identified and agreed by the Parties. 
  
  
@@ -560,5 +445,6 @@ identified and agreed by the Parties.
  
  
  
- 
+   
+144 
  

@@ -1,6 +1,4 @@
  
-EUSFTA Appendix 4-A-3- 1 
- 
 Appendix 4-A-3 
  
  
@@ -16,13 +14,11 @@ applications for which it was made;
 "electromagnetic compatibility" means that equipment is designed and manufactured, 
 having regard to the state of the art, so as to ensure that: 
  
-(a) 
-the electromagnetic disturbance generated does not exceed the level above which 
+(a)  the electromagnetic disturbance generated does not exceed the level above which 
 radio and telecommunications equipment or other equipment cannot operate as 
 intended; and 
  
-(b) 
-the equipment has a level of immunity to the electromagnetic disturbance that is to 
+(b)  the equipment has a level of immunity to the electromagnetic disturbance that is to 
 be expected in its intended use, which allows it to operate without unacceptable 
 degradation of the performance of the equipment when used as intended. 
  
@@ -30,9 +26,8 @@ degradation of the performance of the equipment when used as intended.
 degrade the performance of equipment, including electromagnetic noise, an unwanted 
 signal or a change in the propagation medium itself; 
  
- 
-EUSFTA Appendix 4-A-3- 2 
- 
+EUSFTA Appendix 4-A-3- 1 
+  
 "immunity" means the ability of equipment to perform as intended and without 
 degradation of performance in the presence of an electromagnetic disturbance; 
  
@@ -51,4 +46,6 @@ out these specific tasks.
 The definitions of "standard", "technical regulation" and "conformity assessment 
 procedures" are the same as those provided in Annex I of the TBT Agreement. 
  
+ 
+EUSFTA Appendix 4-A-3- 2 
  

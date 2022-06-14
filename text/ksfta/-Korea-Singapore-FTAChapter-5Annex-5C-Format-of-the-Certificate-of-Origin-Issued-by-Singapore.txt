@@ -1,69 +1,7 @@
- 
-4 
+  4 
 ANNEX 5C : FORMAT OF THE CERTIFICATE OF ORIGIN ISSUED BY 
 SINGAPORE 
  
-1 Exporter (Name & Address) 
-CR No. 
- 
- 
- 
-2 Consignee (Name, Full Address & Country) 
- 
- 
- 
- 
-REPUBLIC OF SINGAPORE 
- 
-KOREA - SINGAPORE FREE TRADE 
-AGREEMENT 
- 
-PREFERENTIAL CERTIFICATE OF ORIGIN 
- 
- 
- 
-No. 
- 
-NO UNAUTHORISED ADDITION/ALTERATION MAY BE 
-MADE TO THIS CERTIFICATE 
-3 Departure Date 
-4 Vessel’s Name/Flight No. 
-5 Port of Discharge 
-6 Country of Final Destination 
-7 Country of Origin of Goods 
-8 DECLARATION BY THE EXPORTER 
- 
-We hereby declare that the details and statements 
-provided in this Certificate are true and correct. 
- 
-Signature: 
-Name: 
-Designation: 
- 
- 
-     Stamp 
-Date: 
-9 Marks & 
- 
-Numbers 
-10 No. & Kind of Packages 
- 
-Description of Goods 
- 
-(include brand names if necessary) 
- 
- 
-HS Subheading: 
- 
- 
-Origin Criterion: 
-11  Quantity 
- 
-& Unit 
-12 CERTIFICATION BY THE COMPETENT AUTHORITY 
- 
-We hereby certify that evidence has been produced to satisfy us that the goods specified above originate in the country shown 
-in box 7. 
  
  
  
@@ -81,86 +19,11 @@ in box 7.
  
  
  
- 
- 
-5 
+   5 
 EXPLANATORY NOTES TO THE FORMAT OF PREFERENTIAL CERTIFICATE OF ORIGIN 
 ISSUED BY SINGAPORE 
  
  
-Box 
-No. 
-Description 
-Type of Information Required 
-1 
-Exporter 
-The Central Registration Number, name and address 
-of the exporter.  The Central Registration Number is 
-a unique number issued by Singapore Customs to 
-companies which intend to import or export. 
-2 
-Consignee 
-The name and address of the importer. 
-3 
-Departure Date 
-The departure date when the vessel/aircraft left 
-port/airport. 
-4 
-Vessel’s Name/Flight No. 
-The vessel’s name or the aircraft flight number. 
-5 
-Port of Discharge 
-The final port in which the goods will be discharged. 
-Where goods are transshipped, the additional details 
-of the route may be declared in box 10 or in a 
-separate attachment to this Certificate. 
-6 
-Country of Final Destination The country of final destination will be Korea. 
-7 
-Country of Origin of Goods 
-The country of origin must be Singapore. 
-8 
-Declaration by the Exporter  
-The exporter will sign in this box. 
-9 
-Marks & Numbers 
-The marks and numbers of the goods, to be attached 
-in separate sheet, where necessary. 
-10 
-Number 
-& 
-Kind 
-of 
-Packages; Description of 
-Goods 
-The following information will be declared in this 
-box: 
-• The description of the products exported. This 
-should be identical to the description of the 
-products contained in the invoice. An accurate 
-description will help the Customs Authority of 
-the country of destination to clear your products 
-quickly.  
-• The 6-digit HS subheading for each product.  
-• The relevant origin criterion for each product. 
-11 
-Quantity & Unit 
-The quantity and its unit of measurement (such as 
-pieces, kg) of the goods. 
-12 
-Certification 
-by 
-the 
-Competent Authority 
-Signature and seal or stamp of the certification body 
-of the exporting Party. 
- 
-Certificate 
-Reference 
-Number 
-A unique number will be assigned to each Certificate 
-issued by the certification body of the exporting 
-Party. 
  
  
  

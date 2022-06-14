@@ -1,8 +1,4 @@
 Protocol 1 
- 
- 
- 1 
- 
 PROTOCOL 1 
  
 CONCERNING THE DEFINITION OF THE CONCEPT OF “ORIGINATING 
@@ -49,11 +45,8 @@ Article 21 Certification of Origin
 Article 22 Validity of Certificates of Origin 
 Article 23 Claims for Preferential Treatment 
 Article 24 Importation by Instalments 
-Protocol 1 
- 
- 
- 2 
- 
+      1 
+ Protocol 1 
 Article 25 Waiver of Certificates of Origin 
 Article 26 Preservation of Certificates of Origin and Supporting Documents 
 Article 27 Discrepancies and Formal Errors 
@@ -78,22 +71,16 @@ Article 36 Review and Appeal
  
 List of Annexes  
  
-ANNEX A:  
-INTRODUCTORY NOTES TO THE LIST OF PRODUCT SPECIFIC 
+ANNEX A:   INTRODUCTORY NOTES TO THE LIST OF PRODUCT SPECIFIC 
 RULES IN ANNEX B  
  
-ANNEX B:  
-LIST OF PRODUCT SPECIFIC RULES  
+ANNEX B:   LIST OF PRODUCT SPECIFIC RULES  
  
-ANNEX C:  
-FORMAT OF CERTIFICATES OF ORIGIN   
+ANNEX C:   FORMAT OF CERTIFICATES OF ORIGIN   
  
  
-Protocol 1 
- 
- 
- 3 
- 
+      2 
+ Protocol 1 
 SECTION 1 
  
 GENERAL PROVISIONS 
@@ -102,88 +89,67 @@ GENERAL PROVISIONS
 Article 1 
 Definitions 
  
-1.  
-For the purposes of this Protocol:  
+1.   For the purposes of this Protocol:  
  
  
-(a)  
-“chapters” and “headings” and “sub-headings” mean the chapters, the 
+(a)   “chapters”  and  “headings”  and  “sub-headings”  mean  the  chapters,  the 
 headings and sub-headings used in the nomenclature which makes up the HS 
 with the changes pursuant to the Recommendation of 26 June 2004 of the 
 Customs Co-operation Council;  
  
-(b) 
-“classified” refers to the classification of a product or material under a 
+(b)  “classified”  refers  to  the  classification  of  a  product  or  material  under  a 
 particular chapter, heading, or sub-heading of the HS;  
  
-(c)  
-“consignment” means products which are either sent simultaneously from one 
+(c)   “consignment” means products which are either sent simultaneously from one 
 exporter to one consignee or covered by a single transport document covering 
 their shipment from the exporter to the consignee or, in the absence of such a 
 document, by a single invoice;  
  
-(d)  
-“customs value” means the value as determined in accordance with the 
+(d)   “customs  value”  means  the  value  as  determined  in  accordance  with  the 
 Customs Valuation Agreement;  
  
-(e)  
-“ex-works price” means the price paid for the product ex-works to the 
+(e)   “ex-works  price”  means  the  price  paid  for  the  product  ex-works  to  the 
 manufacturer in whose undertaking the last working or processing is carried 
 out, provided that the price includes the value of all the materials used and all 
 other costs related to its production, minus any internal taxes which are, or 
 may be, repaid when the product obtained is exported. 
  
-Where the actual price paid does not reflect all costs related to the 
+Where  the  actual  price  paid  does  not  reflect  all  costs  related  to  the 
 manufacturing of the product which are actually incurred in Sri Lanka or in 
 Singapore, the ex-works price means the sum of all those costs, minus any 
 internal taxes which are, or may be, repaid when the product obtained is 
 exported;  
  
-(f) 
- “fungible materials” means materials that are of the same kind and 
+(f)   “fungible  materials”  means  materials  that  are  of  the  same  kind  and 
 commercial quality, with the same technical and physical characteristics, and 
 which cannot be distinguished from one another once they are incorporated 
 into the finished product;  
  
-Protocol 1 
- 
- 
- 4 
- 
-(g) 
-“Generally Accepted Accounting Principles” means those principles 
-recognised by consensus or with substantial authoritative support in the 
+      3 
+ Protocol 1 
+(g)  “Generally  Accepted  Accounting  Principles”  means  those  principles 
+recognised  by  consensus  or  with  substantial  authoritative  support  in  the 
 territory of a Party with respect to the recording of revenues, expenses, costs, 
 assets and liabilities; the disclosure of information; and the preparation of 
 financial statements. These principles may encompass broad guidelines for 
 general application, as well as detailed standards, practices and procedures; 
+     
+(h)   “goods” means both materials and products;  
  
+(i)   “manufacture” means any kind of working or processing including assembly; 
  
- 
-(h)  
-“goods” means both materials and products;  
- 
-(i)  
-“manufacture” means any kind of working or processing including assembly; 
- 
-(j)  
-“material” means any ingredient, raw material, component or part, etc., used 
+(j)   “material” means any ingredient, raw material, component or part, etc., used 
 in the manufacture of the product; 
  
-(k) 
-“product” means the product being manufactured, even if it is intended for 
+(k)  “product” means the product being manufactured, even if it is intended for 
 later use in another manufacturing operation; and  
  
-(l) 
-“value of materials” means the customs value at the time of importation of 
+(l)  “value of materials” means the customs value at the time of importation of 
 the non-originating materials used, or, if this is not known and cannot be 
 ascertained, the first ascertainable price paid for the materials in Sri Lanka or 
 in Singapore.  
- 
- 
- 
-2.  
-For the purposes of sub-paragraph 1(e) of this Article, where the last working or 
+     
+2.   For the purposes of sub-paragraph 1(e) of this Article, where the last working or 
 processing has been subcontracted to a manufacturer, the term “manufacturer” may 
 refer to the enterprise that has employed the subcontractor.  
  
@@ -194,28 +160,22 @@ DEFINITION OF THE CONCEPT OF “ORIGINATING PRODUCTS”
  
  
 Article 2 
- 
-Originating Products 
+  Originating Products 
  
 For the purposes of this Agreement, the following products shall be considered as originating 
 in a Party:  
  
-(a) 
-products wholly obtained in a Party within the meaning of Article 4 (Wholly 
+(a)  products wholly obtained in a Party within the meaning of Article 4 (Wholly 
 Obtained Products); and  
  
-(b) 
-products obtained in a Party incorporating materials which have not been 
+(b)  products obtained in a Party incorporating materials which have not been 
 wholly obtained there, provided that such materials have undergone sufficient 
 working or processing in the Party concerned within the meaning of Article 5 
 (Sufficiently Worked or Processed Products).  
  
  
-Protocol 1 
- 
- 
- 5 
- 
+      4 
+ Protocol 1 
 Article 3 
 Cumulation of Origin 
  
@@ -230,41 +190,31 @@ Wholly Obtained Products
  
 The following shall be considered as wholly obtained in a Party: 
   
-(a) 
-mineral products extracted from their soil or from their seabed;  
+(a)  mineral products extracted from their soil or from their seabed;  
  
-(b) 
-plants and vegetable products grown or harvested there;  
+(b)  plants and vegetable products grown or harvested there;  
  
-(c) 
-live animals born and raised there;  
+(c)  live animals born and raised there;  
  
-(d) 
-products from live animals raised there; 
+(d)  products from live animals raised there; 
  
-(e) 
-products from slaughtered animals born and raised there; 
+(e)  products from slaughtered animals born and raised there; 
  
-(f) 
-products obtained by hunting or fishing conducted there; 
+(f)  products obtained by hunting or fishing conducted there; 
  
-(g) 
-products of aquaculture, where the fish, crustaceans and molluscs are born and 
+(g)  products of aquaculture, where the fish, crustaceans and molluscs are born and 
 raised there; 
  
-(h) 
-fish, shellfish and other marine life taken from the sea, seabed or subsoil outside 
+(h)  fish, shellfish and other marine life taken from the sea, seabed or subsoil outside 
 the territories of the Parties and, in accordance with international law, outside the 
 territorial sea of non-Parties1 by vessels that are registered, listed or recorded with 
 a Party and entitled to fly the flag of that Party; 
  
-(i) 
-a good produced from goods referred to in sub-paragraph (h) of this Article on 
+(i)  a good produced from goods referred to in sub-paragraph (h) of this Article on 
 board a factory ship that is registered, listed or recorded with a Party and entitled 
 to fly the flag of that Party; 
  
-(j) 
-a good other than fish, shellfish and other marine life taken by a Party or a person 
+(j)  a good other than fish, shellfish and other marine life taken by a Party or a person 
 of a Party from the seabed or subsoil outside the territories of the Parties, and 
 beyond areas over which non-Parties exercise jurisdiction provided that Party or 
 person of that Party has the right to exploit that seabed or subsoil in accordance 
@@ -273,27 +223,19 @@ with international law;
                                                            
 1 Nothing in this Protocol shall prejudice the positions of the Parties with respect to matters relating to the law 
 of the sea. 
-Protocol 1 
+      5 
+ Protocol 1 
+(k)  used articles collected there fit only for the recovery of raw materials;  
  
+(l)  waste and scrap resulting from manufacturing operations conducted there; 
  
- 6 
- 
-(k) 
-used articles collected there fit only for the recovery of raw materials;  
- 
-(l) 
-waste and scrap resulting from manufacturing operations conducted there; 
- 
-(m) 
-waste and scrap derived from used goods collected in the exporting Party, 
+(m)  waste and scrap derived from used goods collected in the exporting Party, 
 provided that those goods are fit only for the recovery of raw materials; 
  
-(n) 
-products extracted from marine soil or subsoil outside their territorial seas 
+(n)  products extracted from marine soil or subsoil outside their territorial seas 
 provided that they have sole rights to work that soil or subsoil; and 
  
-(o)  
-goods produced there exclusively from products specified in sub-paragraphs 
+(o)   goods produced there exclusively from products specified in sub-paragraphs 
 (a) to (n) of this Article.  
  
  
@@ -305,17 +247,14 @@ not wholly obtained in a Party are considered to be sufficiently worked or proce
 territory of one or both Parties if: 
  
  
-(a) 
-it is classified in a heading, at the four digit level, of the HS different from 
+(a)  it is classified in a heading, at the four digit level, of the HS different from 
 those in which all the non-originating materials used in its manufacture are 
 classified (“change in tariff heading”); or 
  
-(b) 
-it fulfils a qualifying value content of not less than thirty-five (35) percent in 
+(b)  it fulfils a qualifying value content of not less than thirty-five (35) percent in 
 accordance with Article 6 (Qualifying Value Content); or 
  
-(c) 
-it satisfies the applicable Product Specific Rule as set out in Annex B of this 
+(c)  it satisfies the applicable Product Specific Rule as set out in Annex B of this 
 Protocol, including the Product Specific Rules set out in the Chapter Notes2 in 
 Annex B of this Protocol. 
  
@@ -323,63 +262,51 @@ Annex B of this Protocol.
 Article 6 
 Qualifying Value Content 
  
-1. 
-For the purpose of Article 5 (Sufficiently Worked or Processed Products), the 
+1.  For  the  purpose  of  Article  5  (Sufficiently  Worked  or  Processed  Products),  the 
 following formula for qualifying value content shall be applied:. 
  
-𝑄𝑉𝐶 = 𝐹𝑂𝐵 − 𝑉𝑁𝑀
+𝐹𝑂𝐵−𝑉𝑁𝑀
+𝑄𝑉𝐶 =  𝑋 100 
 𝐹𝑂𝐵
-𝑋 100 
  
  
                                                            
 2 The Product Specific Rules set out in the Chapter Notes in Annex B of this Protocol are applicable to all the 
 tariff lines of that Chapter, even where the tariff lines are not specifically listed in Annex B of this Protocol. 
-Protocol 1 
- 
- 
- 7 
- 
+      6 
+ Protocol 1 
 Where:  
  
-(a) 
-“QVC” is the qualifying value content of the good, expressed as a percentage; 
+(a)  “QVC” is the qualifying value content of the good, expressed as a percentage; 
  
-(b) 
-“FOB” is the Free On Board value of the particular good determined in 
+(b)  “FOB”  is  the  Free  On  Board  value  of  the  particular  good  determined  in 
 accordance with the Customs Valuation Agreement; and  
  
-(c) 
-“VNM” is the value of non-originating materials used by the producer in the 
+(c)  “VNM” is the value of non-originating materials used by the producer in the 
 production of the good, calculated in accordance with paragraph 2 of this 
 Article.  
  
-2. 
-For the purpose of calculating the value of non-originating materials pursuant to sub-
+2.  For the purpose of calculating the value of non-originating materials pursuant to sub-
 paragraph (c) above, the following formula shall be applied: 
  
-𝑉𝑁𝑀 = 𝑇𝑉𝑀 − 𝑄𝑉𝑀 
+𝑉𝑁𝑀 = 𝑇𝑉𝑀−𝑄𝑉𝑀 
  
 Where:  
  
-(a) 
-“TVM” is the total value of materials; and 
-(b) 
-“QVM” is the qualifying value of materials, which shall be calculated as:  
+(a)  “TVM” is the total value of materials; and 
+(b)  “QVM” is the qualifying value of materials, which shall be calculated as:  
  
-i. 
-the total value of the material if the material satisfies the rules 
+i.  the  total  value  of  the  material  if  the  material  satisfies  the  rules 
 established in Articles 4 (Wholly Obtained Products) and 5 (Sufficiently 
 Worked or Processed Products), and the material has undergone its last 
 production or operation in the territory of either Party; or  
  
-ii. the value of the material that can be attributed to one or both of the 
+ii.  the value of the material that can be attributed to one or both of the 
 Parties if the material does not satisfy the rule established in Articles 4 
 (Wholly Obtained Products) and 5 (Sufficiently Worked or Processed 
 Products).  
  
-3. 
-All costs considered for the calculation of qualifying value content shall be recorded 
+3.  All costs considered for the calculation of qualifying value content shall be recorded 
 and maintained in conformity with the Generally Accepted Accounting Principles 
 applicable in the territory of the Party where the good is produced. 
  
@@ -395,95 +322,69 @@ than ten (10) percent of the FOB value of the good.
  
  
  
-Protocol 1 
- 
- 
- 8 
- 
+      7 
+ Protocol 1 
  
 Article 8 
 Insufficient Working or Processing 
  
-1.  
-Without prejudice to paragraph 2 of this Article, the following operations shall be 
+1.   Without prejudice to paragraph 2 of this Article, the following operations shall be 
 considered as insufficient working or processing to confer the status of originating 
-products, whether or not the requirements of Article 5 (Sufficiently Worked or 
+products,  whether  or  not  the  requirements  of  Article  5  (Sufficiently  Worked  or 
 Processed Products) are satisfied:  
  
-(a)  
-preserving operations to ensure that the products remain in good condition 
+(a)   preserving operations to ensure that the products remain in good condition 
 during transport and storage;  
  
-(b)  
-breaking-up and assembly of packages;  
+(b)   breaking-up and assembly of packages;  
  
-(c)  
-washing, cleaning; removal of dust, oxide, oil, paint or other coverings;  
+(c)   washing, cleaning; removal of dust, oxide, oil, paint or other coverings;  
  
-(d)  
-ironing or pressing of textiles and textile articles;  
+(d)   ironing or pressing of textiles and textile articles;  
  
-(e) 
-simple painting and polishing operations;  
+(e)  simple painting and polishing operations;  
  
-(f)  
-husking and partial or total milling of rice; polishing and glazing of cereals 
+(f)   husking and partial or total milling of rice; polishing and glazing of cereals 
 and rice;  
  
-(g)  
-operations to colour or flavour sugar or form sugar lumps; partial or total 
+(g)   operations to colour or flavour sugar or form sugar lumps; partial or total 
 milling of crystal sugar;  
  
-(h)  
-peeling, stoning and shelling, of fruits, nuts and vegetables;  
+(h)   peeling, stoning and shelling, of fruits, nuts and vegetables;  
  
-(i)  
-sharpening, simple grinding, simple cutting or simple slicing;  
+(i)   sharpening, simple grinding, simple cutting or simple slicing;  
  
-(j)  
-sifting, screening, sorting, classifying, grading, matching (including the 
+(j)   sifting,  screening,  sorting,  classifying,  grading,  matching  (including  the 
 making-up of sets of articles);  
  
-(k)  
-simple placing in bottles, cans, flasks, bags, cases, boxes, fixing on cards or 
+(k)   simple placing in bottles, cans, flasks, bags, cases, boxes, fixing on cards or 
 boards and all other simple packaging operations;  
  
-(l)  
-affixing or printing marks, labels, logos and other like distinguishing signs on 
+(l)   affixing or printing marks, labels, logos and other like distinguishing signs on 
 products or their packaging;  
  
-(m)  
-simple mixing of products, whether or not of different kinds; mixing of sugar 
+(m)   simple mixing of products, whether or not of different kinds; mixing of sugar 
 with any material;  
  
-(n)  
-simple addition of water or dilution or dehydration or denaturation of 
+(n)   simple  addition  of  water  or  dilution  or  dehydration  or  denaturation  of 
 products;  
  
-(o) 
-simple assembly of parts of articles to constitute a complete article or 
+(o)  simple  assembly  of  parts  of  articles  to  constitute  a  complete  article  or 
 disassembly of products into parts;  
-Protocol 1 
+      8 
+ Protocol 1 
  
- 
- 9 
- 
- 
-(p)  
-a combination of two or more of the operations specified in sub-paragraphs (a) 
+(p)   a combination of two or more of the operations specified in sub-paragraphs (a) 
 to (o); or  
  
-(q)  
-slaughter of animals.  
+(q)   slaughter of animals.  
  
-2.  
-For the purpose of paragraph 1 of this Article, operations shall be considered simple 
+2.   For the purpose of paragraph 1 of this Article, operations shall be considered simple 
 when neither special skills nor machines, apparatus or tools especially produced or 
 installed for those operations are required for their performance.  
  
-3.  
-All operations carried out either in Sri Lanka or in Singapore on a given product shall 
-be considered together when determining whether the working or processing 
+3.   All operations carried out either in Sri Lanka or in Singapore on a given product shall 
+be  considered  together  when  determining  whether  the  working  or  processing 
 undergone by that product is to be regarded as insufficient within the meaning of 
 paragraph 1 of this Article.  
  
@@ -491,63 +392,50 @@ paragraph 1 of this Article.
 Article 9 
 Unit of Qualification 
  
-1.  
-The unit of qualification for the application of the provisions of this Protocol shall be 
+1.   The unit of qualification for the application of the provisions of this Protocol shall be 
 the product which is considered as the basic unit when determining classification 
 using the nomenclature of the HS.  
  
-2.  
-When a consignment consists of a number of identical products classified under the 
+2.   When a consignment consists of a number of identical products classified under the 
 same heading of the HS, each individual item shall be taken into account when 
 applying the provisions of this Protocol.  
  
-3. 
-Where, under General Interpretative Rule 5 of the HS, packaging is included with the 
-product for classification purposes, it shall be included for the purposes of 
+3.  Where, under General Interpretative Rule 5 of the HS, packaging is included with the 
+product  for  classification  purposes,  it  shall  be  included  for  the  purposes  of 
 determining origin.  
  
  
 Article 10 
 Accessories, Spare Parts, Tools or Instructional or Other Information Materials 
  
-1. 
-Each Party shall provide that:  
+1.  Each Party shall provide that:  
  
-(a) 
-in determining whether a good is wholly obtained, or satisfies a process or 
+(a)  in determining whether a good is wholly obtained, or satisfies a process or 
 change in tariff classification requirement as set out in Article 5 (Sufficiently 
 Worked or Processed Products), accessories, spare parts, tools or instructional 
 or other information materials, as described in paragraph 3 of this Article, are to 
 be disregarded; or  
  
-(b) 
-in determining whether a good meets a regional value content requirement, the 
+(b)  in determining whether a good meets a regional value content requirement, the 
 value of the accessories, spare parts, tools or instructional or other information 
-materials, as described in paragraph 3 of this Article, are to be taken into 
-account as originating or non-originating materials, as the case may be, in 
+materials, as described in  paragraph 3  of this Article, are to  be taken into 
+account  as originating  or non-originating materials,  as the  case may  be, in 
 calculating the regional value content of the good.  
-Protocol 1 
+      9 
+ Protocol 1 
  
- 
- 10 
- 
- 
-2. 
-Each Party shall provide that a good’s accessories, spare parts, tools or instructional 
+2.  Each Party shall provide that a good’s accessories, spare parts, tools or instructional 
 or other information materials, as described in paragraph 3 of this Article, have the 
 originating status of the good with which they are delivered.  
  
-3. 
-For the purposes of this Article, accessories, spare parts, tools or instructional or other 
+3.  For the purposes of this Article, accessories, spare parts, tools or instructional or other 
 information materials are covered when:  
  
-(a) 
-the accessories, spare parts, tools or instructional or other information 
+(a)  the  accessories,  spare  parts,  tools  or  instructional  or  other  information 
 materials are classified with, delivered with but not invoiced separately from 
 the good; and 
  
-(b) 
-the types, quantities, and value of the accessories, spare parts, tools or 
+(b)  the  types,  quantities,  and  value  of  the  accessories,  spare  parts,  tools  or 
 instructional or other information materials are customary for that good.  
  
  
@@ -567,33 +455,24 @@ Neutral Elements
 In order to determine whether a product originates, it shall not be necessary to determine the 
 origin of the following which might be used in its manufacture:  
  
-(a)  
-energy and fuel;  
+(a)   energy and fuel;    
  
+(b)   plant and equipment, including goods to be used for their maintenance;    
  
-(b)  
-plant and equipment, including goods to be used for their maintenance;  
- 
- 
-(c)  
-machines and tools and dies and moulds; spare parts and materials used in the 
+(c)   machines and tools and dies and moulds; spare parts and materials used in the 
 maintenance of equipment and buildings; lubricants, greases, compounding 
 materials and other materials used in production or used to operate equipment 
-and buildings; gloves, glasses, footwear, clothing, safety equipment and 
+and  buildings;  gloves,  glasses,  footwear,  clothing,  safety  equipment  and 
 supplies; equipment, devices and supplies used for testing or inspecting the 
 good; catalyst and solvent; and  
  
-(d)  
-other goods which do not enter and which are not intended to enter into the 
+(d)   other goods which do not enter and which are not intended to enter into the 
 final composition of the product.  
  
  
  
-Protocol 1 
- 
- 
- 11 
- 
+      10 
+ Protocol 1 
  
 Article 13 
 Fungible Goods or Materials 
@@ -601,84 +480,69 @@ Fungible Goods or Materials
 Each Party shall provide that a fungible good or material is treated as originating based on 
 the: 
  
-(a) 
-physical segregation of each fungible good or material; or 
+(a)  physical segregation of each fungible good or material; or 
  
-(b) 
-use of any inventory management method recognised in the Generally 
-Accepted Accounting Principles if the fungible good or material is 
+(b)  use  of  any  inventory  management  method  recognised  in  the  Generally 
+Accepted  Accounting  Principles  if  the  fungible  good  or  material  is 
 commingled, provided that the inventory management method selected is used 
-throughout the fiscal year of the person that selected the inventory 
+throughout  the  fiscal  year  of  the  person  that  selected  the  inventory 
 management method. 
  
  
 Article 14 
 Treatment of Recovered Materials Used in Production of a Remanufactured Good 
  
-1. 
-Each Party shall provide that a recovered material derived in the territory of one or 
+1.  Each Party shall provide that a recovered material derived in the territory of one or 
 both of the Parties is treated as originating when it is used in the production of, and 
 incorporated into, a remanufactured good.  
  
-2. 
-For greater certainty:  
+2.  For greater certainty:  
  
-(a) 
-a remanufactured good is originating only if it satisfies the applicable 
-requirements of Article 4 (Wholly Obtained Products) or Article 5 
+(a)  a  remanufactured  good  is  originating  only  if  it  satisfies  the  applicable 
+requirements  of  Article  4  (Wholly  Obtained  Products)  or  Article  5 
 (Sufficiently Worked or Processed Products); and  
  
-(b) 
-a recovered material that is not used or incorporated in the production of a 
-remanufactured good is originating only if it satisfies the applicable 
-requirements of Article 4 (Wholly Obtained Products) or Article 5 
+(b)  a recovered material that is not used or incorporated in the production of a 
+remanufactured  good  is  originating  only  if  it  satisfies  the  applicable 
+requirements  of  Article  4  (Wholly  Obtained  Products)  or  Article  5 
 (Sufficiently Worked or Processed Products).  
  
 Definitions: 
 “remanufactured good” means a good3, that is entirely or partially composed of 
 recovered materials and:  
  
-(a) 
-has a similar life expectancy and performs the same as or similar to such a 
+(a)  has a similar life expectancy and performs the same as or similar to such a 
 good when new; and  
                                                            
 3 For greater certainty, such good is limited to those classified under commodity codes 840910, 841221, 
 841229, 841239, 842619, 848120 and 852610 based on the Harmonized Commodity Description and Coding 
 System (2017 Version) developed by the World Customs Organization. 
-Protocol 1 
- 
- 
- 12 
- 
-(b) 
-has a factory warranty similar to that applicable to such a good when new. 
+      11 
+ Protocol 1 
+(b)  has a factory warranty similar to that applicable to such a good when new. 
  
  
 “recovered material” means a material in the form of individual parts that results 
 from:  
  
-(a) 
-the disassembly of a used good into individual parts; and  
-(b) 
-the cleaning, inspecting, testing or other processing of those parts as necessary 
+(a)  the disassembly of a used good into individual parts; and  
+(b)  the cleaning, inspecting, testing or other processing of those parts as necessary 
 for improvement to sound working condition. 
  
  
 Article 15 
 Packaging Materials and Containers for Retail Sale 
  
-1. 
-Each Party shall provide that packaging materials and containers in which a good is 
+1.  Each Party shall provide that packaging materials and containers in which a good is 
 packaged for retail sale, if classified with the good, are disregarded in determining 
 whether all the non-originating materials used in the production of the good have 
 satisfied the applicable process or change in tariff classification requirement set out in 
 Article 5 (Sufficiently Worked or Processed Products) or whether the good is wholly 
 obtained or produced.  
  
-2. 
-Each Party shall provide that if a good is subject to a regional value content 
+2.  Each  Party  shall  provide  that  if  a  good  is  subject  to  a  regional  value  content 
 requirement, the value of the packaging materials and containers in which the good is 
-packaged for retail sale, if classified with the good, are taken into account as 
+packaged  for  retail  sale,  if  classified  with  the  good,  are  taken  into  account  as 
 originating or non-originating, as the case may be, in calculating the regional value 
 content of the good.  
  
@@ -697,86 +561,64 @@ TERRITORIAL REQUIREMENTS
 Article 17 
 Principle of Territoriality 
  
-1.  
-The conditions set out in Section 2 (Definition of the Concept of “Originating 
+1.   The  conditions  set  out  in  Section  2  (Definition  of  the  Concept  of  “Originating 
 Products”) relating to the acquisition of originating status must be fulfilled without 
 interruption in a Party.  
  
-Protocol 1 
- 
- 
- 13 
- 
-2.  
-If originating goods exported from a Party to a non-Party return, they must be 
+      12 
+ Protocol 1 
+2.   If  originating  goods  exported  from  a  Party  to  a  non-Party  return,  they  must  be 
 considered as non-originating, unless it can be demonstrated to the satisfaction of the 
 customs authorities that:  
  
-(a) 
-the returning goods are the same as those exported; and  
+(a)  the returning goods are the same as those exported; and  
  
-(b)  
-they have not undergone any operation beyond that necessary to preserve them 
+(b)   they have not undergone any operation beyond that necessary to preserve them 
 in good condition while in that non-Party or while being exported.  
  
  
 Article 18 
 Direct Consignment 
  
-1. 
-The originating goods of a Party shall be deemed to meet the consignment criteria 
+1.  The originating goods of a Party shall be deemed to meet the consignment criteria 
 under this Agreement when they are: 
  
-(a) 
-transported directly from the territory of that Party to the territory of the other 
+(a)  transported directly from the territory of that Party to the territory of the other 
 Party; or 
  
-(b) 
-transported through the territory or territories of one or more non-Parties for 
+(b)  transported through the territory or territories of one or more non-Parties for 
 the purpose of transit or temporary storing in warehouses in such territory or 
 territories, and the goods have not entered into trade or consumption there, 
 provided that: 
  
-(i) 
-they do not undergo operations other than unloading, reloading, or 
+(i)  they do not undergo operations other than unloading, reloading, or 
 operations to preserve them in good condition; or 
  
-(ii) 
-the transit entry is justified for geographical reasons or by 
+(ii)  the  transit  entry  is  justified  for  geographical  reasons  or  by 
 considerations related exclusively to transport requirements. 
  
-2. 
-Evidence that the conditions set out in paragraph 1 of this Article have been fulfilled 
+2.  Evidence that the conditions set out in paragraph 1 of this Article have been fulfilled 
 shall be supplied to the customs authorities of the importing Party by the production 
 of: 
  
-(a) 
-a single transport document covering the passage from the exporting Party 
+(a)  a single transport document covering the passage from the exporting Party 
 through the country of transit; or 
  
-(b) 
-a certificate issued by the customs authorities of the country of transit: 
+(b)  a certificate issued by the customs authorities of the country of transit: 
  
-(i) 
-giving an exact description of the goods; 
+(i)  giving an exact description of the goods; 
  
-(ii) 
-stating the dates of unloading and reloading of the goods and, where 
+(ii)  stating the dates of unloading and reloading of the goods and, where 
 applicable, the names of the ships, or the other means of the transport 
 used; and 
  
-(iii) 
-certifying the conditions under which goods remained in the transit 
+(iii)  certifying the conditions under which goods remained in the transit 
 country; or 
  
-Protocol 1 
- 
- 
- 14 
- 
-(c) 
-where the documents referred to under sub-paragraphs (a) or (b) above cannot 
-be produced, any substantiating documents acceptable to the customs 
+      13 
+ Protocol 1 
+(c)  where the documents referred to under sub-paragraphs (a) or (b) above cannot 
+be  produced,  any  substantiating  documents  acceptable  to  the  customs 
 authorities. 
  
  
@@ -786,37 +628,30 @@ authorities.
 Article 19 
 Exhibitions 
  
-1. 
-Notwithstanding Article 18 (Direct Consignment), originating products sent for 
+1.  Notwithstanding  Article  18  (Direct  Consignment),  originating  products  sent  for 
 exhibition in a country other than a Party and sold after the exhibition for importation 
 in a Party shall benefit on importation from the provisions of this Agreement provided 
 it is shown to the satisfaction of the customs authorities that:  
  
-(a)  
-an exporter has consigned these products from a Party to the country in which 
+(a)   an exporter has consigned these products from a Party to the country in which 
 the exhibition is held and has exhibited them there;  
  
-(b)  
-the products have been sold or otherwise disposed of by that exporter to a 
+(b)   the products have been sold or otherwise disposed of by that exporter to a 
 person in a Party;  
  
-(c)  
-the products have been consigned during the exhibition or immediately 
+(c)   the  products  have  been  consigned  during  the  exhibition  or  immediately 
 thereafter in the state in which they were sent for exhibition; and  
  
-(d)  
-the products have not, since they were consigned for exhibition, been used for 
+(d)   the products have not, since they were consigned for exhibition, been used for 
 any purpose other than demonstration at the exhibition.  
  
-2.  
-A certificate of origin shall be issued or made out in accordance with the provisions of 
+2.   A certificate of origin shall be issued or made out in accordance with the provisions of 
 Section 4 (Certification of Origin) and submitted to the customs authorities of the 
 importing Party in the normal manner. The name and address of the exhibition must 
-be indicated thereon. Where necessary, additional documentary evidence of the 
+be  indicated  thereon.  Where  necessary,  additional  documentary  evidence  of  the 
 conditions under which they have been exhibited may be required.  
  
-3. 
-Paragraph 1 of this Article shall apply to any trade, industrial, agricultural or crafts 
+3.  Paragraph 1 of this Article shall apply to any trade, industrial, agricultural or crafts 
 exhibition, fair or similar public show or display which is not organised for private 
 purposes in shops or business premises with a view to the sale of foreign products, 
 and during which the products remain under customs control.  
@@ -829,11 +664,8 @@ and during which the products remain under customs control.
  
  
  
-Protocol 1 
- 
- 
- 15 
- 
+      14 
+ Protocol 1 
 SECTION 4 
  
 CERTIFICATION OF ORIGIN  
@@ -842,58 +674,46 @@ CERTIFICATION OF ORIGIN
 Article 20 
 General Requirements 
  
-1.  
-Products originating in Sri Lanka shall, on importation into Singapore, and products 
+1.   Products originating in Sri Lanka shall, on importation into Singapore, and products 
 originating in Singapore shall, on importation into Sri Lanka, benefit from preferential 
 tariff treatment of this Agreement upon submission of a Certificate of Origin.  
  
-2.  
-Originating products within the meaning of this Protocol shall, in the cases specified 
-in Article 25 (Waiver of Certificate of Origin), benefit from preferential tariff 
+2.   Originating products within the meaning of this Protocol shall, in the cases specified 
+in  Article  25  (Waiver  of  Certificate  of  Origin),  benefit  from  preferential  tariff 
 treatment of this Agreement without it being necessary to submit the Certificate of 
 Origin referred to in paragraph 1 of this Article.  
  
  
 Article 21 
 Certification of Origin 
- 
- 
-1. 
-For the purpose of obtaining preferential tariff treatment in the other Party, a 
+   
+1.  For  the  purpose  of  obtaining  preferential  tariff  treatment  in  the  other  Party,  a 
 Certificate of Origin shall be issued by the authorised body of the exporting Party.  
   
-2. 
-Each Party shall inform the customs authorities of the other Party of the names and 
+2.  Each Party shall inform the customs authorities of the other Party of the names and 
 addresses of the authorised bodies issuing the Certificate of Origin and shall provide 
 specimen impressions of official seals used by such authorised bodies.  Any change in 
 names, addresses or official seals shall be promptly notified to the other Party.  
  
-3. 
-The Certificate of Origin shall be issued before or at the time of exportation whenever 
+3.  The Certificate of Origin shall be issued before or at the time of exportation whenever 
 the goods to be exported can be considered originating in that Party subject to this 
 Protocol.  The exporter or producer shall submit an application for the Certificate of 
 Origin together with appropriate supporting documents proving that the products to be 
 exported qualify for the issuance of a Certificate of Origin.  
   
-4. 
-The Certificate of Origin, based on the format as set out in Annex C (Format of 
+4.  The Certificate of Origin, based on the format as set out in Annex C (Format of 
 Certificates of Origin) of this Protocol, shall be completed in the English language and 
-duly signed and stamped, of which the signature and seal may be applied 
+duly  signed  and  stamped,  of  which  the  signature  and  seal  may  be  applied 
 electronically, covering one or more goods under one consignment.   
   
-5. 
-In cases where a Certificate of Origin has not been issued before or at the time of 
-exportation due to involuntary errors or omissions or other valid causes, the 
+5.  In cases where a Certificate of Origin has not been issued before or at the time of 
+exportation  due  to  involuntary  errors  or  omissions  or  other  valid  causes,  the 
 Certificate of Origin may be issued retrospectively but not later than one (1) year from 
 the date of shipment, bearing the words "ISSUED RETROSPECTIVELY".  
   
-Protocol 1 
- 
- 
- 16 
- 
-6. 
-In cases of theft, loss or accidental destruction of a Certificate of Origin, the exporter 
+      15 
+ Protocol 1 
+6.  In cases of theft, loss or accidental destruction of a Certificate of Origin, the exporter 
 or producer may, within validity of the original Certificate of Origin, make a written 
 request to the authorised bodies of the exporting Party for issuing a certified copy, 
 provided that the exporter or producer makes sure that the original copy previously 
@@ -904,19 +724,16 @@ TRUE COPY of the original Certificate of Origin number ___ dated ___”.
 Article 22 
 Validity of Certificates of Origin 
  
-1.  
-A Certificate of Origin shall be valid for twelve (12) months from the date of issue in 
+1.   A Certificate of Origin shall be valid for twelve (12) months from the date of issue in 
 the exporting Party. Preferential tariff treatment shall be claimed within the said 
 period to the customs authorities of the importing Party.  
  
-2.  
-Certificates of Origin which are submitted to the customs authorities of the importing 
+2.   Certificates of Origin which are submitted to the customs authorities of the importing 
 Party after the period of validity specified in paragraph 1 of this Article may be 
 accepted for the purposes of applying preferential treatment, where the failure to 
 submit these documents within such period is due to exceptional circumstances. 
  
-3.  
-In cases of belated submission of Certificates of Origin in circumstances other than 
+3.   In cases of belated submission of Certificates of Origin in circumstances other than 
 those provided for in paragraph 2 of this Article, the customs authorities of the 
 importing Party may accept the Certificates of Origin where the products have been 
 imported before the expiry of the period of validity specified in paragraph 1 of this 
@@ -926,53 +743,41 @@ Article.
 Article 23 
 Claims for Preferential Treatment 
  
-1.  
-Each Party shall require an importer in its territory that claims preferential tariff 
+1.   Each Party shall require an importer in its territory that claims preferential tariff 
 treatment for a good imported into its territory from the territory of the other Party to: 
  
-(a)  
-make a declaration for preference as part of the import application prescribed 
+(a)   make a declaration for preference as part of the import application prescribed 
 by its legislation, based on importer’s knowledge or information including a 
 valid Certificate of Origin, that the good qualifies as an originating good; 
  
-(b)  
-submit the Certificate of Origin or other documentary evidence of origin at the 
+(b)   submit the Certificate of Origin or other documentary evidence of origin at the 
 time of the declaration referred to in sub-paragraph (a) above, to its customs 
 authorities upon request; and 
  
-(c)  
-promptly make a corrected declaration and pay any duties owing, where the 
-importer has reason to believe that a Certificate of Origin on which a 
+(c)   promptly make a corrected declaration and pay any duties owing, where the 
+importer  has  reason  to  believe  that  a  Certificate  of  Origin  on  which  a 
 declaration was based contains information that is incorrect. 
  
-Protocol 1 
- 
- 
- 17 
- 
-2.  
-Each Party shall provide that the importing Party applies preferential tariff treatment 
+      16 
+ Protocol 1 
+2.   Each Party shall provide that the importing Party applies preferential tariff treatment 
 only in cases where an importer proves the accuracy of origin of the imported goods 
 through documentary evidence or any other relevant information in accordance with 
 its laws and regulations. 
  
-3.  
-A Party may deny preferential tariff treatment to an imported good if the importer 
+3.   A Party may deny preferential tariff treatment to an imported good if the importer 
 fails to comply with requirements of this Protocol. 
  
-4.  
-The importing Party shall grant preferential tariff treatment to goods imported after 
+4.   The importing Party shall grant preferential tariff treatment to goods imported after 
 the date of entry into force of this Agreement, in cases where the importer does not 
 have the Certificate of Origin or other documentary evidence of origin at the time of 
 importation, provided that4: 
  
-(a)  
-the importer had, at the time of importation, indicated to the customs 
-authorities of the importing Party his intention to claim preferential tariff 
+(a)   the  importer  had,  at  the  time  of  importation,  indicated  to  the  customs 
+authorities of the importing Party his  intention to  claim  preferential  tariff 
 treatment; and 
  
-(b)  
-the Certificate of Origin or other documentary evidence of origin is submitted 
+(b)   the Certificate of Origin or other documentary evidence of origin is submitted 
 to its customs authorities within such period from the date of payment of 
 customs duties in accordance with the domestic laws and regulations in the 
 importing Party. 
@@ -993,7 +798,7 @@ Waiver of Certificates of Origin
 Each Party shall provide that a Certificate of Origin shall not be required for the importation 
 of any good whose custom value does not exceed US$400 or its equivalent amount in the 
 Party’s currency; or such higher amount as may be established by a Party which is importing, 
-provided that the importation does not form part of a series of importations that may 
+provided  that  the  importation  does  not  form  part  of  a  series  of  importations  that  may 
 reasonably be considered to have been undertaken or arranged for the purpose of avoiding the 
 declaration requirements. 
  
@@ -1002,72 +807,58 @@ declaration requirements.
 of a surety, a deposit or other appropriate instrument provided for in its laws and regulations. Such guarantee 
 shall not be greater than the amount required by the Party to ensure payment of customs duties, taxes, fees and 
 charges ultimately due for the goods should preferential treatment not be granted. 
-Protocol 1 
- 
- 
- 18 
- 
+      17 
+ Protocol 1 
  
 Article 26 
 Preservation of Certificates of Origin and Supporting Documents 
  
-1.  
-Each Party shall provide that an exporter and a producer in its territory that has 
+1.   Each Party shall provide that an exporter and a producer in its territory that has 
 obtained a Certificate of Origin shall maintain in its territory, for three (3) years after 
 the date on which the Certificate of Origin was issued or for such longer period as the 
 Party may specify, all records relating to the origin of a good for which preferential 
 tariff treatment was claimed in the territory of the other Party, including records 
 associated with: 
  
-(a) 
-the purchase of, cost of, value of, shipping of, and payment for, the good that 
+(a)  the purchase of, cost of, value of, shipping of, and payment for, the good that 
 is exported from its territory; 
  
-(b) 
-the sourcing of, the purchase of, cost of, value of, and payment for, all 
+(b)  the  sourcing  of,  the  purchase  of,  cost  of,  value  of,  and  payment  for,  all 
 materials, including neutral elements, used in the production of the good that is 
 exported from its territory; and 
  
-(c) 
-the production of the good in the form in which the good is exported from its 
+(c)  the production of the good in the form in which the good is exported from its 
 territory. 
  
-2.  
-Each Party shall provide that an importer claiming preferential tariff treatment for a 
+2.   Each Party shall provide that an importer claiming preferential tariff treatment for a 
 good imported into the Party's territory shall maintain in that territory, for three (3) 
 years after the date of importation of the good or for such longer period as the Party 
 may specify, such documentation, including a copy of the Certificate of Origin, as the 
 Party may require relating to the importation of the good. 
  
-3.  
-Each Party shall permit, in accordance with that Party’s laws and regulations, 
-exporters in its territory to maintain documentation or records in any medium, 
+3.   Each  Party  shall  permit,  in  accordance  with  that  Party’s  laws  and  regulations, 
+exporters  in  its  territory  to  maintain  documentation  or  records  in  any  medium, 
 provided that the documentation or records can be retrieved and printed.  
  
  
 Article 27 
 Discrepancies and Formal Errors 
  
-1.  
-The discovery of slight discrepancies between the statements made in the Certificate 
+1.   The discovery of slight discrepancies between the statements made in the Certificate 
 of Origin and those made in the documents submitted to the customs authorities for 
 the purposes of carrying out the formalities for importing the products shall not ipso 
 facto render the Certificate of Origin null and void if it is duly established that this 
 document does correspond to the products imported.  
  
-2.  
-Obvious formal errors such as typing errors on a Certificate of Origin should not 
+2.   Obvious formal errors such as typing errors on a Certificate of Origin should not 
 cause the document to be rejected if these errors are not such as to create doubts 
 concerning the correctness of the statements made in the document. 
  
  
  
  
-Protocol 1 
- 
- 
- 19 
- 
+      18 
+ Protocol 1 
 SECTION 5 
  
 ARRANGEMENTS FOR ADMINISTRATIVE CO-OPERATION 
@@ -1076,12 +867,10 @@ ARRANGEMENTS FOR ADMINISTRATIVE CO-OPERATION
 Article 28 
 Co-operation between Competent Authorities 
  
-1. 
-The customs authorities of the Parties shall provide each other with the addresses of 
+1.  The customs authorities of the Parties shall provide each other with the addresses of 
 the competent authorities responsible for verification.  
  
-2.  
-In order to ensure the proper application of this Protocol, the Parties shall assist each 
+2.   In order to ensure the proper application of this Protocol, the Parties shall assist each 
 other, through their competent authorities, in checking the authenticity of the origin 
 declarations and the correctness of the information given in these documents.  
  
@@ -1089,86 +878,71 @@ declarations and the correctness of the information given in these documents.
 Article 29 
 Verification  
  
-1. 
-For the purposes of determining whether a good imported into its territory from the 
+1.  For the purposes of determining whether a good imported into its territory from the 
 territory of the other Party is eligible for preferential tariff treatment, the importing 
 Party may, through its customs authorities, conduct a verification, which may be in 
 sequence, by means of: 
  
-(a)  request for a Certificate of Origin from the importer; 
+(a)   request for a Certificate of Origin from the importer; 
  
-(b) 
-request for Cost and Production Statement and information from an exporter or a 
+(b)  request for Cost and Production Statement and information from an exporter or a 
 producer in the territory of the other Party through the other Party’s competent 
 authorities; 
  
-(c) 
-visit to the premises of an exporter or a producer in the territory of the other Party 
+(c)  visit to the premises of an exporter or a producer in the territory of the other Party 
 to review the records referred to in paragraph 1 of Article 26 (Preservation of 
 Certificates of Origin and Supporting Documents) and observe the facilities used 
 in the production of the good, or to that effect any facilities used in the production 
 of the materials; or 
  
-(d)  such other procedure as the Parties may agree to. 
+(d)   such other procedure as the Parties may agree to. 
  
-2.  
-The importer, exporter or producer that receives a written request pursuant to sub-
+2.   The importer, exporter or producer that receives a written request pursuant to sub-
 paragraphs 1(a) or 1(b) of this Article shall answer and return it within a period of sixty 
 (60) days from the date on which it was received. During this period, the importer, 
 exporter or producer may have one opportunity to make a written request to the Party 
 conducting the verification for an extension of the answering period, for a period not 
 exceeding thirty (30) days. 
  
-Protocol 1 
- 
- 
- 20 
- 
-3. 
-In the case where the importer, exporter, or producer does not return the written request 
+      19 
+ Protocol 1 
+3.  In the case where the importer, exporter, or producer does not return the written request 
 for information made by the importing Party within the given period or its extension, or 
 that the information provided is false or incomplete, the Party may deny preferential 
 tariff treatment. 
  
-4.  
-Prior to conducting a verification visit pursuant to sub-paragraph 1(c) of this Article, a 
+4.   Prior to conducting a verification visit pursuant to sub-paragraph 1(c) of this Article, a 
 Party shall, through its customs authorities: 
  
-(a)  deliver a written notification of its intention to conduct the visit to: 
+(a)   deliver a written notification of its intention to conduct the visit to: 
  
-(i)  
-the exporter or producer whose premises are to be visited; and 
-(ii)  the competent authorities of the other Party; and 
+(i)   the exporter or producer whose premises are to be visited; and 
+(ii)   the competent authorities of the other Party; and 
  
-(b)  obtain the written consent of the exporter or producer whose premises are to be 
+(b)   obtain the written consent of the exporter or producer whose premises are to be 
 visited. 
  
-5.  
-Where an exporter or producer has not given its written consent to a proposed 
+5.   Where  an  exporter  or  producer  has  not  given  its  written  consent  to  a  proposed 
 verification visit within thirty (30) days from the receipt of notification pursuant to 
 paragraph 4 of this Article, the notifying Party may deny preferential tariff treatment to 
 the relevant good. 
  
-6.  
-Each Party shall provide that, upon receipt of notification pursuant to paragraph 4 of 
+6.   Each Party shall provide that, upon receipt of notification pursuant to paragraph 4 of 
 this Article, such an exporter or producer may, within thirty (30) days of receiving the 
 notification, have one opportunity to request to the Party conducting the verification for 
 a postponement of the proposed verification visit, for a period not exceeding sixty (60) 
 days. This extension shall be notified to the customs authorities of the importing and 
 exporting Parties. 
  
-7.  
-A Party shall not deny preferential tariff treatment to a good solely because a 
+7.   A  Party  shall  not  deny  preferential  tariff  treatment  to  a  good  solely  because  a 
 verification visit was postponed pursuant to paragraph 6 of this Article. 
  
-8.  
-After the conclusion of a verification visit, the Party conducting the verification, shall 
+8.   After the conclusion of a verification visit, the Party conducting the verification, shall 
 provide the exporter or producer whose good was verified, with a written determination 
 of whether the good is eligible for preferential tariff treatment, based on the relevant 
 law and findings of fact. 
  
-9.  
-Where verifications by a Party show that an exporter or producer repeatedly makes 
+9.   Where verifications by a Party show that an exporter or producer repeatedly makes 
 false or unsupported representations that a good imported into the Party’s territory 
 qualifies as an originating good, the Party may suspend the preferential tariff treatment 
 to be accorded to subsequent shipment of identical good exported or produced by such 
@@ -1179,11 +953,8 @@ the suspension made.
  
  
  
-Protocol 1 
- 
- 
- 21 
- 
+      20 
+ Protocol 1 
  
 Article 30 
 Third Party Invoices 
@@ -1197,15 +968,13 @@ of this Protocol.
 Article 31 
 Settlement of Disputes 
  
-1.  
-Without prejudice to Chapter 16 (Dispute Settlement), where disputes arise in relation 
+1.   Without prejudice to Chapter 16 (Dispute Settlement), where disputes arise in relation 
 to the verification procedures of Article 29 (Verification) which cannot be settled 
 between the competent authorities of both Parties, or where they raise a question as to 
 the interpretation of this Protocol, such disputes or questions shall be submitted to the 
 Joint Committee. 
  
-2.  
-All disputes between the importer and the competent authorities of the importing 
+2.   All disputes between the importer and the competent authorities of the importing 
 Party shall be settled under the legislation of that Party.  
  
  
@@ -1233,11 +1002,8 @@ information.
  
  
  
-Protocol 1 
- 
- 
- 22 
- 
+      21 
+ Protocol 1 
  
 Article 34 
 Amendments or Modifications to this Protocol 
@@ -1254,7 +1020,7 @@ and which on the date of entry into force of this Agreement are either in transi
 in temporary storage, in customs warehouses or in free zones, subject to the submission to the 
 customs authorities of the importing Party, no later than one (1) year after the import of the 
 goods into the territory of that Party, of a Certificate of Origin made out retrospectively in 
-accordance with Article 21 (Certification of Origin), and if requested together with the 
+accordance with  Article 21  (Certification of Origin), and if  requested together with  the 
 documents showing that the goods have been transported directly in accordance with Article 
 18 (Direct Consignment).  
  
@@ -1265,11 +1031,8 @@ Review and Appeal
 The importing Party shall grant the right of appeal in matters relating to the eligibility for 
 preferential tariff treatment to importers of goods traded or to be traded between the Parties, 
 in accordance with its domestic laws, regulations and administrative practices. 
-Protocol 1 
- 
- 
- 23 
- 
+      22 
+ Protocol 1 
 ANNEX A 
  
 INTRODUCTORY NOTES TO THE LIST OF PRODUCT SPECIFIC RULES IN 
@@ -1278,65 +1041,49 @@ ANNEX B
  
 Note 1 – General introduction 
  
-1.1 
-The specific rule, or specific set of rules, that applies to a particular subheading is set 
+1.1  The specific rule, or specific set of rules, that applies to a particular subheading is set 
 out immediately adjacent to the subheading, heading, or chapter, as applicable. 
  
-1.2 
-Where a tariff heading or sub-heading is subject to alternative Product Specific Rules, 
+1.2  Where a tariff heading or sub-heading is subject to alternative Product Specific Rules, 
 it shall be sufficient to comply with one of the rules. 
  
-1.3 
-A requirement of a change in tariff classification applies only to non-originating 
+1.3  A requirement of a change in tariff classification applies only to non-originating 
 materials. 
  
-1.4 
-For the purposes of Annex B: 
+1.4  For the purposes of Annex B: 
  
- 
-“subheading” means the first six digits in the tariff classification number under the 
+  “subheading” means the first six digits in the tariff classification number under the 
 HS; 
  
- 
-“heading” means the first four digits in the tariff classification number under the HS; 
+  “heading” means the first four digits in the tariff classification number under the HS; 
 and 
  
+  “chapter” means the first two digits in the tariff classification number under the HS. 
  
-“chapter” means the first two digits in the tariff classification number under the HS. 
+1.5  For the purposes of column “Product Specific Rule” of Annex B: 
  
-1.5 
-For the purposes of column “Product Specific Rule” of Annex B: 
- 
- 
-“CTSH” means that all non-originating materials used in the production of the good 
+  “CTSH” means that all non-originating materials used in the production of the good 
 have undergone a change in tariff classification at the 6-digit level; and 
  
- 
-“Refining” means a refining process (chemical or physical), which entails eliminating 
+  “Refining” means a refining process (chemical or physical), which entails eliminating 
 the odour, taste, colour and acidity of a crude fat or oil. 
  
-1.6 
-Chapter Notes within Annex B apply to all headings or subheadings within the 
+1.6  Chapter  Notes  within  Annex  B  apply  to  all  headings  or  subheadings  within  the 
 indicated chapter. Heading notes within Annex B apply to all subheadings within the 
 indicated heading. 
  
-1.7 
-The first column in the list gives the heading number used in the HS. The second 
+1.7  The first column in the list gives the heading number used in the HS. The second 
 column in the list gives the subheading number used in the HS. For each entry, a rule 
 is specified in column 4. Where, in some cases, the entry in column 2 is preceded by 
-an “ex”, this signifies that the rules in column 4 apply only to the part of that 
+an “ex”,  this  signifies  that  the  rules  in  column 4  apply  only  to  the  part  of  that 
 subheading as described in column 3. 
  
   
-Protocol 1 
- 
- 
- 24 
- 
+      23 
+ Protocol 1 
  
 Note 2 – Examples of how to apply the rules 
-2.1. 
-Article 5 (Sufficiently Worked or Processed Products) of this Protocol, concerning 
+2.1.  Article 5 (Sufficiently Worked or Processed Products) of this Protocol, concerning 
 products having acquired originating status which are used in the manufacture of 
 other products, shall apply, regardless of whether this status has been acquired inside 
 the factory where these products are used or in another factory located in the territory 
@@ -1344,13 +1091,11 @@ of a Party.
  
 Note 3 – General provisions concerning certain goods 
  
-3.1 
-A fish, crustacean, mollusc or other aquatic invertebrate obtained in the territory of a 
+3.1  A fish, crustacean, mollusc or other aquatic invertebrate obtained in the territory of a 
 Party is originating even if obtained from eggs, larvae, fry, fingerlings, parr, smolts or 
 other immature fish at a post-larval stage that are imported from a non-Party. 
  
-3.2 
-Agricultural goods falling under Section II of the HS (Vegetable Products) which are 
+3.2  Agricultural goods falling under Section II of the HS (Vegetable Products) which are 
 grown or harvested in the territory of a Party shall be treated as originating even if 
 grown from seeds, bulbs, rhizomes, rootstock, cuttings, slips, grafts, shoots, buds, or 
 other live parts of plants imported from a non-Party. 
@@ -1358,91 +1103,489 @@ other live parts of plants imported from a non-Party.
 Note 4 - Definition of specific processes carried out in respect of certain products of 
 Chapters 27 to 39 of Annex B 
  
-4.1. 
-A “chemical reaction” is a process (including a biochemical process) which results in 
+4.1.  A “chemical reaction” is a process (including a biochemical process) which results in 
 a molecule with a new structure by breaking intramolecular bonds and by forming 
-new intramolecular bonds, or by altering the spatial arrangement of atoms in a 
+new  intramolecular  bonds,  or  by  altering  the  spatial  arrangement  of  atoms  in  a 
 molecule. For the purposes of goods under the headings 39.01-39.15, this comprises 
 all types of polymerization reactions. 
  
-  
-The following are not chemical reactions: 
+   The following are not chemical reactions: 
  
-(a) 
-dissolving in water or other solvents; 
-(b) 
-the elimination of solvents, including solvent water; or 
-(c) 
-the addition or elimination of water of crystallisation. 
+(a)  dissolving in water or other solvents; 
+(b)  the elimination of solvents, including solvent water; or 
+(c)  the addition or elimination of water of crystallisation. 
  
-4.2 
-“Atmospheric distillation” means a separation process in which petroleum oils are 
+4.2  “Atmospheric distillation” means a separation process in which petroleum oils are 
 converted, in a distillation tower, into fractions according to boiling point and the 
-vapour then condensed into different liquefied fractions. Goods produced from 
-petroleum distillation may include liquefied petroleum gas, naphtha, gasoline, 
+vapour  then  condensed  into  different  liquefied  fractions.  Goods  produced  from 
+petroleum  distillation  may  include  liquefied  petroleum  gas,  naphtha,  gasoline, 
 kerosene, diesel/heating oil, light gas oils and lubricating oil. 
  
-4.3 
-“Vacuum distillation” means distillation at a pressure below atmospheric but not so 
+4.3  “Vacuum distillation” means distillation at a pressure below atmospheric but not so 
 low that it would be classed as molecular distillation. Vacuum distillation is used for 
-distilling high-boiling and heat-sensitive materials such as heavy distillates in 
+distilling  high-boiling  and  heat-sensitive  materials  such  as  heavy  distillates  in 
 petroleum oils to produce light to heavy vacuum gas oils and residuum. In some 
 refineries, gas oils may be further processed into lubricating oils. 
-Protocol 1 
- 
- 
- 25 
- 
-4.4 
-“Direct blending” means a process whereby various petroleum streams from 
-processing units or petroleum components from holding or storage tanks are 
+      24 
+ Protocol 1 
+4.4  “Direct  blending”  means  a  process  whereby  various  petroleum  streams  from 
+processing  units  or  petroleum  components  from  holding  or  storage  tanks  are 
 combined to create a finished product with pre-determined parameters. 
-4.5 
-“Standards material” (including a standard solution) is a preparation suitable for 
+4.5  “Standards material” (including a standard solution) is a preparation suitable for 
 analytical, calibrating or referencing uses with precise degrees of purity or proportions 
 certified by the manufacturer. 
-4.6 
-“Mixing and blending” means the deliberate and proportionally controlled mixing or 
-blending (including dispersing) of materials to conform to predetermined 
+4.6  “Mixing and blending” means the deliberate and proportionally controlled mixing or 
+blending  (including  dispersing)  of  materials  to  conform  to  predetermined 
 specifications, that results in the production of a good having physical or chemical 
 characteristics that are relevant to the purposes or uses of the good and are different 
 from the input materials.  
-4.7 
-“Change in particle size” is the deliberate and controlled modification in particle size 
-of a good, including micronizing by dissolving a polymer and subsequent 
+4.7  “Change in particle size” is the deliberate and controlled modification in particle size 
+of  a  good,  including  micronizing  by  dissolving  a  polymer  and  subsequent 
 precipitation, other than by merely crushing or pressing, resulting in a good with a 
 defined particle size, defined particle size distribution or defined surface area, that is 
 relevant to the purposes of the resulting good and with different physical or chemical 
 characteristics from the input materials. 
-4.8 
-“Purification” means the elimination of eighty (80) percent of the content of existing 
+4.8  “Purification” means the elimination of eighty (80) percent of the content of existing 
 impurities. This reduction or elimination of impurities could result in a good suitable 
 for: 
-(a) 
-pharmaceutical, medicinal, cosmetic, veterinary, or food grade substances; 
+(a)  pharmaceutical, medicinal, cosmetic, veterinary, or food grade substances; 
  
-(b) 
-chemical products and reagents for analytical, diagnostic or laboratory uses; 
+(b)  chemical products and reagents for analytical, diagnostic or laboratory uses; 
  
-(c) 
-elements and components for use in micro-elements; 
+(c)  elements and components for use in micro-elements; 
  
-(d) 
-specialized optical uses; 
+(d)  specialized optical uses; 
  
-(e) 
-non toxic uses for health and safety 
+(e)  non toxic uses for health and safety 
  
-(f) 
-biotechnical use 
+(f)  biotechnical use 
  
-(g) 
-carriers used in a separation process; or 
+(g)  carriers used in a separation process; or 
  
-(h) 
-nuclear grade uses. 
+(h)  nuclear grade uses. 
  
-4.9 
-“Isomer separation” means the isolation or separation of isomers from mixtures of 
+4.9  “Isomer separation” means the isolation or separation of isomers from mixtures of 
 isomers.
+      25 
+ Protocol 1 
+   
+ 
+ANNEX B 
+LIST OF PRODUCT SPECIFIC RULES5 
+ 
+                                                           
+5 These product-specific rules may be applied to any good classified in this Annex pursuant to subparagraph (c) of Article 5 (Sufficiently Worked or Processed 
+Products) of this Protocol. 
+26 
+ Protocol 1 
+   
+ 
+27 
+ Protocol 1 
+   
+ 
+28 
+ Protocol 1 
+   
+ 
+29 
+ Protocol 1 
+   
+ 
+30 
+ Protocol 1 
+   
+ 
+31 
+ Protocol 1 
+   
+ 
+32 
+ Protocol 1 
+   
+ 
+33 
+ Protocol 1 
+   
+ 
+34 
+ Protocol 1 
+   
+ 
+35 
+ Protocol 1 
+   
+ 
+36 
+ Protocol 1 
+   
+ 
+37 
+ Protocol 1 
+   
+ 
+38 
+ Protocol 1 
+   
+ 
+39 
+ Protocol 1 
+   
+ 
+40 
+ Protocol 1 
+   
+ 
+41 
+ Protocol 1 
+   
+ 
+42 
+ Protocol 1 
+   
+ 
+43 
+ Protocol 1 
+   
+ 
+44 
+ Protocol 1 
+   
+ 
+45 
+ Protocol 1 
+   
+ 
+46 
+ Protocol 1 
+   
+ 
+47 
+ Protocol 1 
+   
+ 
+48 
+ Protocol 1 
+   
+ 
+49 
+ Protocol 1 
+   
+ 
+50 
+ Protocol 1 
+   
+ 
+51 
+ Protocol 1 
+   
+ 
+52 
+ Protocol 1 
+   
+ 
+53 
+ Protocol 1 
+   
+ 
+54 
+ Protocol 1 
+   
+ 
+55 
+ Protocol 1 
+   
+ 
+56 
+ Protocol 1 
+   
+ 
+57 
+ Protocol 1 
+   
+ 
+58 
+ Protocol 1 
+   
+ 
+59 
+ Protocol 1 
+   
+ 
+60 
+ Protocol 1 
+   
+ 
+61 
+ Protocol 1 
+   
+ 
+62 
+ Protocol 1 
+   
+ 
+63 
+ Protocol 1 
+   
+ 
+64 
+ Protocol 1 
+   
+ 
+65 
+ Protocol 1 
+   
+ 
+66 
+ Protocol 1 
+   
+ 
+67 
+ Protocol 1 
+   
+ 
+68 
+ Protocol 1 
+   
+ 
+69 
+ Protocol 1 
+   
+ 
+70 
+ Protocol 1 
+   
+ 
+71 
+ Protocol 1 
+   
+ 
+72 
+ Protocol 1 
+   
+ 
+73 
+ Protocol 1 
+   
+ 
+74 
+ Protocol 1 
+   
+ 
+75 
+ Protocol 1 
+   
+ 
+76 
+ Protocol 1 
+   
+ 
+77 
+ Protocol 1 
+   
+ 
+78 
+ Protocol 1 
+   
+ 
+79 
+ Protocol 1 
+   
+ 
+80 
+ Protocol 1 
+   
+ 
+81 
+ Protocol 1 
+   
+ 
+82 
+ Protocol 1 
+   
+ 
+83 
+ Protocol 1 
+   
+ 
+84 
+ Protocol 1 
+   
+ 
+85 
+ Protocol 1 
+   
+ 
+86 
+ Protocol 1 
+   
+ 
+87 
+ Protocol 1 
+   
+ 
+88 
+ Protocol 1 
+   
+ 
+89 
+ Protocol 1 
+   
+ 
+90 
+ Protocol 1 
+   
+ 
+91 
+ Protocol 1 
+   
+ 
+92 
+ Protocol 1 
+   
+ 
+93 
+ Protocol 1 
+   
+ 
+94 
+ Protocol 1 
+   
+ 
+95 
+ Protocol 1 
+   
+ 
+96 
+ Protocol 1 
+   
+ 
+97 
+ Protocol 1 
+   
+ 
+98 
+ Protocol 1 
+   
+ 
+99 
+ Protocol 1 
+   
+ 
+100 
+ Protocol 1 
+   
+ 
+101 
+ Protocol 1 
+   
+ 
+102 
+ Protocol 1 
+   
+ 
+103 
+ Protocol 1 
+   
+ 
+104 
+ Protocol 1 
+   
+ 
+105 
+ Protocol 1 
+   
+ 
+106 
+ Protocol 1 
+   
+ 
+107 
+ Protocol 1 
+   
+ 
+108 
+ Protocol 1 
+   
+ 
+109 
+ Protocol 1 
+   
+ 
+110 
+ Protocol 1 
+   
+ 
+111 
+ Protocol 1 
+   
+ 
+112 
+ Protocol 1 
+   
+ 
+113 
+ Protocol 1 
+   
+ 
+114 
+ Protocol 1 
+   
+ 
+115 
+ Protocol 1 
+   
+ 
+116 
+ Protocol 1 
+   
+ 
+117 
+ Protocol 1 
+   
+ 
+118 
+ Protocol 1 
+   
+ 
+119 
+ Protocol 1 
+   
+ 
+120 
+ Protocol 1 
+   
+ 
+ 
+121 
+ Protocol 1 
+   
+ 
+ANNEX C 
+FORMAT OF CERTIFICATES OF ORIGIN 
+ 
+Certification Issued by Singapore 
+ 
+122 
+ Protocol 1 
+   
+ 
+ 
+Certification Issued by Sri Lanka 
+ 
+   
+123 
+ Protocol 1 
+   
+ 
+EXPLANATORY NOTES TO THE FORMAT OF CERTIFICATE OF ORIGIN 
+ 
+124 
+ Protocol 1 
+   
+ 
+ 
+ 
+ 
+125 
  

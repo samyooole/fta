@@ -38,8 +38,7 @@ competitiveness,
 HAVE AGREED as follows: 
  
 CHAPTER 1 
-GENERAL PROVISIONS 
- 
+GENERAL PROVISIONS  
 Article 1.1 
 Objectives 
 The objectives of this Framework Agreement are to: 
@@ -76,8 +75,7 @@ Framework Agreement means this Framework Agreement on Comprehensive Economic
 Cooperation among the Governments of the ASEAN Member Countries and the Republic of Korea; 
 GATS means the General Agreement on Trade in Services, which is a part of the WTO Agreement; 
 GATT 1994 means the General Agreement on Tariffs and Trade 1994, including its Notes and 
-Supplementary Provisions, which is a part of the WTO Agreement; 
-Implementing Committee means the Implementing Committee established under Article 5.3; 
+Supplementary Provisions, which is a part of the WTO Agreement; Implementing Committee means the Implementing Committee established under Article 5.3; 
 Korea means the Republic of Korea; 
 new ASEAN Member Countries means the Kingdom of Cambodia, the Lao People's Democratic 
 Republic, the Union of Myanmar and the Socialist Republic of Vietnam; 
@@ -114,8 +112,7 @@ implementation of this Framework Agreement.
 Article 1.4 
  Legal Coverage and Relations to Other Agreements 
 1.  The following agreements shall form part of legal instruments establishing the ASEAN-Korea FTA 
-upon their respective entry into force: 
- 
+upon their respective entry into force:  
 (a) this Framework Agreement (including the Annex on Economic Cooperation); 
 (b) the Agreement on Trade in Goods under this Framework Agreement as provided for in Article 2.1; 
 (c) an agreement on trade in services to be concluded in accordance with Article 2.2; 
@@ -151,8 +148,7 @@ other related matters;
 (c) modification of commitments; 
 (d) non-tariff measures, sanitary and phytosanitary measures, and technical barriers to trade; 
 (e) safeguards measures; and 
-(f) WTO disciplines and reduction and elimination of non-tariff barriers. 
- 
+(f) WTO disciplines and reduction and elimination of non-tariff barriers.  
 Article 2.2 
 Trade in Services 
 1.  The Parties shall progressively liberalise trade in services among the Parties with substantial 
@@ -189,8 +185,7 @@ transparency of investment rules and regulations; and
 a goal of concluding the negotiations not later than 31 December 2006. 
  
 Article 2.4 
-Most-Favoured Nation Treatment 
-Korea shall accord to all the ASEAN Member Countries which are not WTO members the Most-
+Most-Favoured Nation Treatment Korea shall accord to all the ASEAN Member Countries which are not WTO members the Most-
 Favoured Nation Treatment consistent with the WTO rules and disciplines upon the entry into force of 
 this Framework Agreement. 
  
@@ -219,8 +214,7 @@ the following areas:
 (p) energy; 
 (q) natural resources; 
 (r) shipbuilding and maritime transport; and 
-(s) film. 
-2. The Parties shall undertake economic cooperation projects at mutually agreed time periods, when 
+(s) film. 2. The Parties shall undertake economic cooperation projects at mutually agreed time periods, when 
 feasible.  These projects shall be monitored by the Implementing Committee for their effective 
 implementation. 
 3.  Details of such cooperation are specified in the Annex on Economic Cooperation. 
@@ -259,8 +253,7 @@ CHAPTER 4
 OTHER AREAS 
  
 Article 4.1 
-Expansion of Economic Partnership into New Areas 
- With the aim of achieving the comprehensive ASEAN-Korea FTA, the Parties shall explore ways and 
+Expansion of Economic Partnership into New Areas  With the aim of achieving the comprehensive ASEAN-Korea FTA, the Parties shall explore ways and 
 means to expand their economic partnership into new areas where the Parties have mutual interests, 
 as may be agreed by the Parties. 
  
@@ -301,8 +294,7 @@ supervision and guidance of the AEM + Korea.
 provisions of this Framework Agreement and any other agreements concluded or to be concluded in 
 accordance with this Framework Agreement; 
 (b) review the implementation of this Framework Agreement and any other agreements concluded or 
-to be concluded in accordance with this Framework Agreement; 
-(c) supervise the work of the committees and working groups established under this Framework 
+to be concluded in accordance with this Framework Agreement; (c) supervise the work of the committees and working groups established under this Framework 
 Agreement and any other agreements concluded or to be concluded in accordance with this 
 Framework Agreement; and 
 (d) consider any other matter that may affect the operation of this Framework Agreement and any 
@@ -343,8 +335,7 @@ matter and assist in facilitating communications with the requesting Party.
  
 Article 5.5 
 Annexes and Future Legal Instruments 
-1. The Annex on Economic Cooperation shall form an integral part of this Framework Agreement. 
-2. The Parties may adopt legal instruments in the future pursuant to the provisions of this Framework 
+1. The Annex on Economic Cooperation shall form an integral part of this Framework Agreement. 2. The Parties may adopt legal instruments in the future pursuant to the provisions of this Framework 
 Agreement.  Upon their respective entry into force, such instruments shall form part of this Framework 
 Agreement. 
  
@@ -386,8 +377,7 @@ For the Royal Government of Cambodia:
 SAMDECH HUN SEN 
 Prime Minister 
  
-For the Government of the Republic of Indonesia: 
-SUSILO BAMBANG YUDHOYONO 
+For the Government of the Republic of Indonesia: SUSILO BAMBANG YUDHOYONO 
 President 
  
 For the Government of the Lao People’s Democratic Republic: 
@@ -423,5 +413,4 @@ For the Government of the Republic of Korea:
 ROH MOO-HYUN 
 President 
  
- 
-Click here for the Annex on Economic Cooperation 
+  Click here for the Annex on Economic Cooperation 

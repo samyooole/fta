@@ -1,6 +1,3 @@
- 
-EUSFTA Chapter 7 - 1 
- 
 CHAPTER SEVEN 
  
 NON-TARIFF BARRIERS TO TRADE AND INVESTMENT  
@@ -20,69 +17,57 @@ regional and international standards.
  
  
  
-EUSFTA Chapter 7 - 2 
- 
-ARTICLE 7.2 
+EUSFTA Chapter 7 - 1 
+ ARTICLE 7.2 
  
 Definitions 
  
 For the purposes of this Chapter: 
  
-(a) 
-"local content requirement" means 
+(a)  "local content requirement" means 
  
-(i) 
-with respect to goods, a requirement for an enterprise to purchase or use goods 
+(i)  with respect to goods, a requirement for an enterprise to purchase or use goods 
 of domestic origin or goods from a domestic source, whether that requirement 
 is specified in terms of particular products, in terms of volume or value of 
 products, or in terms of a proportion of volume or value of its local production; 
  
-(ii) 
-with respect to services, a requirement which restricts the choice of the service 
+(ii)  with respect to services, a requirement which restricts the choice of the service 
 supplier or the service supplied, to the detriment of services or service suppliers 
 from the other Party; 
  
-(b) 
-"measure" means any measure within the scope of this Chapter that is taken by a 
+(b)  "measure" means any measure within the scope of this Chapter that is taken by a 
 Party, whether in the form of a law, regulation, rule, procedure, decision, 
 administrative action, or any other form; 
  
-(c) 
-"measures requiring the formation of partnerships with local companies" means any 
+(c)  "measures requiring the formation of partnerships with local companies" means any 
 requirements to jointly establish or operate with local companies or other businesses 
 any legal entity such as a corporation, trust, partnership, joint venture or to enter into 
 other contractual relations; 
  
  
  
-EUSFTA Chapter 7 - 3 
- 
-(d) 
-"offset" means any condition that encourages local development, such as the 
+EUSFTA Chapter 7 - 2 
+ (d)  "offset" means any condition that encourages local development, such as the 
 unjustified licensing of technology, investment, obligation to contract with a particular 
 financial institution, counter-trade, and similar requirements; and 
  
-(e) 
-"service supplier" means as defined in paragraph (l) of Article 8.2 (Definitions). 
+(e)  "service supplier" means as defined in paragraph (l) of Article 8.2 (Definitions). 
  
  
 ARTICLE 7.3 
  
 Scope 
  
-1. 
-This Chapter applies to measures which may affect trade and investment between 
+1.  This Chapter applies to measures which may affect trade and investment between 
 the Parties related to the generation of energy from renewable and sustainable non-fossil 
 sources, namely wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, 
 hydropower, biomass, landfill gas, sewage treatment plant gas and biogases, but not to the 
 products from which energy is generated. 
  
-2. 
-This Chapter does not apply to research and development projects and to 
+2.  This Chapter does not apply to research and development projects and to 
 demonstration projects carried out on a non-commercial scale. 
  
-3. 
-This Chapter is without prejudice to the application of any other relevant provisions 
+3.  This Chapter is without prejudice to the application of any other relevant provisions 
 of this Agreement, including any exceptions, reservations or restrictions to those provisions, 
 to the measures mentioned in paragraph 1, mutatis mutandis. For greater certainty, in the 
 event of any inconsistency between this Chapter and any other provisions of this 
@@ -91,48 +76,39 @@ inconsistency.
  
  
  
-EUSFTA Chapter 7 - 4 
- 
-ARTICLE 7.4 
+EUSFTA Chapter 7 - 3 
+ ARTICLE 7.4 
  
 Principles 
  
 Each Party shall: 
  
-(a) 
-refrain from adopting measures providing for local content requirements or any other 
+(a)  refrain from adopting measures providing for local content requirements or any other 
 offset affecting the other Party's products, service suppliers, entrepreneurs or 
 establishments; 
  
-(b) 
-refrain from adopting measures requiring the formation of partnerships with local 
+(b)  refrain from adopting measures requiring the formation of partnerships with local 
 companies, unless such partnerships are deemed necessary for technical reasons and 
 the Party can demonstrate such technical reasons upon request by the other Party; 
  
-(c) 
-ensure that any rules concerning the authorisation, certification and licensing 
+(c)  ensure that any rules concerning the authorisation, certification and licensing 
 procedures that are applied, in particular to equipment, plants and associated 
 transmission network infrastructures, are objective, transparent, and non-arbitrary, 
 and do not discriminate against applicants from the other Party; 
  
-(d) 
-ensure that administrative charges imposed on or in connection with the: 
+(d)  ensure that administrative charges imposed on or in connection with the: 
  
-(i) 
-importation and use of goods originating in the other Party, or affecting the 
+(i)  importation and use of goods originating in the other Party, or affecting the 
 provision of goods by the other Party's suppliers, are subject to Article 2.10 (Fees 
 and Formalities Connected with Importation and Exportation); and 
  
  
-EUSFTA Chapter 7 - 5 
- 
-(ii) 
-provision of services by the other Party's suppliers are subject to Article 8.18 
+EUSFTA Chapter 7 - 4 
+ (ii)  provision of services by the other Party's suppliers are subject to Article 8.18 
 (Scope and Definitions), Article 8.19 (Conditions for Licensing and Qualification) 
 and Article 8.20 (Licensing and Qualification Procedures); and 
  
-(e) 
-ensure that the terms, conditions and procedures for the connection and access to 
+(e)  ensure that the terms, conditions and procedures for the connection and access to 
 electricity transmission grids are transparent and do not discriminate against suppliers 
 of the other Party. 
  
@@ -141,8 +117,7 @@ ARTICLE 7.5
  
 Standards, Technical Regulations and Conformity Assessment 
  
-1. 
-Where international or regional standards exist with respect to products for the 
+1.  Where international or regional standards exist with respect to products for the 
 generation of energy from renewable and sustainable non-fossil sources, the Parties shall 
 use those standards, or the relevant parts of those standards, as a basis for their technical 
 regulations except when such international standards or relevant parts would be an 
@@ -152,25 +127,20 @@ Standardization (hereinafter referred to as "ISO") and the International Electro
 Commission (hereinafter referred to as "IEC"), in particular, shall be considered relevant 
 international standard-setting bodies. 
  
-2. 
-Where appropriate, the Parties shall specify technical regulations based on product 
+2.  Where appropriate, the Parties shall specify technical regulations based on product 
 requirements in terms of performance, including environmental performance, rather than in 
 terms of design or descriptive characteristics. 
  
  
-EUSFTA Chapter 7 - 6 
- 
-3. 
-With respect to products listed in Chapter 84 of the Harmonized System (except 
+EUSFTA Chapter 7 - 5 
+ 3.  With respect to products listed in Chapter 84 of the Harmonized System (except 
 8401) as well as in HS 850231 and 854140: 
  
-(a) 
-the Union will accept declarations of conformity from Singapore suppliers under the 
+(a)  the Union will accept declarations of conformity from Singapore suppliers under the 
 same terms as from Union suppliers and without any further requirements, for the 
 purpose of placing such products on the market; and 
  
-(b) 
-Singapore will accept EU declarations of conformity or test reports without any further 
+(b)  Singapore will accept EU declarations of conformity or test reports without any further 
 requirements, for the purpose of placing such products on the market. Singapore may 
 require mandatory third party testing or certification under the conditions set out in 
 Article 5 (Safeguard Measures) of Annex 4-A. 
@@ -184,17 +154,14 @@ ARTICLE 7.6
  
 Exceptions 
  
-1. 
-This Chapter is subject to the exceptions provided for in Article 2.14 (General 
+1.  This Chapter is subject to the exceptions provided for in Article 2.14 (General 
 Exceptions), Article 8.62 (General Exceptions), Article 9.3 (Security and General Exceptions) 
 and, for greater certainty, to the relevant provisions of Chapter Sixteen (Institutional, 
 General and Final Provisions). 
  
  
-EUSFTA Chapter 7 - 7 
- 
-2. 
-For greater certainty, subject to the requirement that such measures are not applied 
+EUSFTA Chapter 7 - 6 
+ 2.  For greater certainty, subject to the requirement that such measures are not applied 
 in a manner which would constitute a means of arbitrary or unjustifiable discrimination 
 between the Parties' products, service suppliers or investors where the same conditions 
 prevail, or a disguised restriction on trade and investment between the Parties, nothing in 
@@ -207,40 +174,33 @@ ARTICLE 7.7
  
 Implementation and Cooperation 
  
-1. 
-The Parties shall cooperate and exchange information on any issues relevant for the 
+1.  The Parties shall cooperate and exchange information on any issues relevant for the 
 implementation of this Chapter in the Trade Committee established pursuant to 
 Article 16.1 (Trade Committee). The Parties may, by decision of the Trade Committee, adopt 
 appropriate implementing measures to this effect and update this Chapter as appropriate. 
  
-2. 
-The cooperation may include: 
+2.  The cooperation may include: 
  
-(a) 
-exchanging information, regulatory experiences and best practices in areas such as: 
+(a)  exchanging information, regulatory experiences and best practices in areas such as: 
  
-(i) 
-the design and non-discriminatory implementation of measures promoting the 
+(i)  the design and non-discriminatory implementation of measures promoting the 
 uptake of energy from renewable sources; 
  
-(ii) 
-carbon capture and storage; 
+(ii)  carbon capture and storage; 
  
-(iii) 
-smart grids; 
+(iii)  smart grids; 
+ 
+ 
+EUSFTA Chapter 7 - 7 
+ (iv)  energy efficiency; and 
+ 
+(v)  technical regulations, standards and conformity assessment procedures, such as 
+those relating to grid code requirements; and 
+ 
+(b)  promoting, also in relevant regional fora, the convergence of their domestic or 
+regional technical regulations, regulatory concepts, standards, requirements and 
+conformity assessment procedures with international standards. 
  
  
 EUSFTA Chapter 7 - 8 
- 
-(iv) 
-energy efficiency; and 
- 
-(v) 
-technical regulations, standards and conformity assessment procedures, such as 
-those relating to grid code requirements; and 
- 
-(b) 
-promoting, also in relevant regional fora, the convergence of their domestic or 
-regional technical regulations, regulatory concepts, standards, requirements and 
-conformity assessment procedures with international standards. 
  

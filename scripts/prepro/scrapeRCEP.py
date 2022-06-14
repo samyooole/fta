@@ -1,29 +1,54 @@
-from bs4 import BeautifulSoup
 import requests
 import re
-import pdfx
 import fitz
 import os
+import pdfplumber as pb
 
 
 def linkClicker(link):
     page = requests.get(link)
-    f = open("temp2.pdf", "wb")                                              # I don't quite like this move - could be more elegant
+    f = open("temp3.pdf", "wb")                                              # I don't quite like this move - could be more elegant
     f.write(page.content)                                        # We write it off as a pdf then read it again, because pypdf2 does not (?) have an direct parser. To find and improve.
     f.close()
 
-    try:
-        #pdf = textract.process('temp2.pdf', method = 'pdfminer', encoding = 'ascii')
-        with fitz.open("temp2.pdf") as doc:
-            text = ""
-            for page in doc:
-                text += page.get_text()
-        os.remove('temp2.pdf')
-        return text
-    except:
-        print(link + " is probably a scanned PDF, no text returned")
-        os.remove('temp2.pdf')
-        return None
+    plaintext=""
+    with pb.open("temp3.pdf") as pdf:
+        for page in pdf.pages:
+            # Get the bounding boxes of the tables on the page.
+            if (page.curves == []) & (page.edges ==[]):
+                text=page.extract_text()
+                plaintext+=text
+            else:
+                bboxes = [
+                    table.bbox
+                    for table in page.find_tables(
+                        table_settings={
+                            "vertical_strategy": "explicit",
+                            "horizontal_strategy": "explicit",
+                            "explicit_vertical_lines": page.curves + page.edges,
+                            "explicit_horizontal_lines": page.curves + page.edges,
+                        }
+                    )
+                ]
+
+                def not_within_bboxes(obj):
+                    """
+                    credit: samkit jain
+                    Check if the object is in any of the table's bbox."""
+                    def obj_in_bbox(_bbox):
+                        """See https://github.com/jsvine/pdfplumber/blob/stable/pdfplumber/table.py#L404"""
+                        v_mid = (obj["top"] + obj["bottom"]) / 2
+                        h_mid = (obj["x0"] + obj["x1"]) / 2
+                        x0, top, x1, bottom = _bbox
+                        return (h_mid >= x0) and (h_mid < x1) and (v_mid >= top) and (v_mid < bottom)
+
+                    return not any(obj_in_bbox(__bbox) for __bbox in bboxes)
+                text = page.filter(not_within_bboxes).extract_text()
+                plaintext += text
+
+    os.remove('temp3.pdf')
+    return plaintext
+
 
 motherpdf = fitz.open('temp.pdf')
 
@@ -39,27 +64,27 @@ os.chdir('rcep')
 for page in motherpdf.pages():
     linklist = page.get_links()
     for item in linklist:
-        url = item['uri']
-        
-        if re.search('terms-of-use', url.lower()) is not None :
-            continue # I don't want to go to the terms of use website
-
-        text = linkClicker(url)
-
-        sub_fta = url
-
+        sub_fta = item['uri']
 
         if re.search('terms-of-use', sub_fta.lower()) is not None :
             continue # I don't want to go to the terms of use website
+
+        if 'enterprisesg' not in sub_fta:
+            continue
+
+        if "static_post" in sub_fta:
+            continue
+
+        if 'error' in requests.get(sub_fta).url:
+            continue
         
-        sub_fta_text = linkClicker(sub_fta)
-        #simple cleaning: NOTE should try to be less brute force? very manual rn based on observations
-        
-        #try:
-        #    sub_fta_text = str.replace(sub_fta_text, "\n", "")
-        #except:
-        #    continue
-        #sub_fta_text = str.replace(sub_fta_text, "™", "'")
+        try:
+            sub_fta_text = linkClicker(sub_fta)
+        except:
+            continue
+
+        if sub_fta_text =='':
+            continue
         #finding a name
         sub_fta_name = re.sub(pattern = 'rcep', repl = '', string = sub_fta, flags = re.IGNORECASE)
         sub_fta_name = re.sub(pattern = "https", repl = '', string = sub_fta_name, flags = re.IGNORECASE)
@@ -77,7 +102,8 @@ for page in motherpdf.pages():
         sub_fta_name = re.sub(pattern = ':', repl = '', string = sub_fta_name)
 
         #dump as txt file
-        f = open(sub_fta_name + ".txt", "w")
-        f.write(sub_fta_text)
-        f.close()
+        with open(sub_fta_name + ".txt", "w", encoding="utf-8") as outfile:
+            outfile.write(sub_fta_text)
+
+        print(sub_fta_name + " from " + fta_name + " is done")
         

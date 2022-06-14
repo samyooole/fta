@@ -1,23 +1,19 @@
  
- 
-12 
- 
 Chapter 3 
 Rules of Origin 
  
  
 Article 3.1: Definitions 
  
- 
-For purposes of this Chapter:  
+  For purposes of this Chapter:  
  
 aquaculture refers to the farming of aquatic organisms including fish, 
 molluscs, crustaceans, other aquatic invertebrates and aquatic plants, 
-from seed-stock such as eggs, fry, fingerlings and larvae, by 
+from  seed-stock  such  as  eggs,  fry,  fingerlings  and  larvae,  by 
 intervention in the rearing or growth processes to enhance production, 
 such as regular stocking, feeding, protection from predators, etc; 
  
-fungible goods or materials means goods or materials that are 
+fungible  goods  or  materials  means  goods  or  materials  that  are 
 interchangeable for commercial purposes and whose properties are 
 essentially identical; 
  
@@ -25,13 +21,7 @@ Generally Accepted Accounting Principles means the recognized
 consensus or substantial authoritative support in the territory of a Party, 
 with respect to the recording of revenues, expenses, costs, assets, and 
 liabilities, the disclosure of information and the preparation of financial 
-statements. 
- 
-Generally 
-Accepted 
-Accounting 
-Principles 
-may 
+statements.    Generally  Accepted  Accounting  Principles  may 
 encompass broad guidelines for general application, as well as detailed 
 standards, practices, and procedures; 
  
@@ -39,45 +29,35 @@ good means any merchandise, product, article, or material;
  
 indirect material means a good used in the production, testing, or 
 inspection of a good but not physically incorporated into the good, or a 
-good used in the maintenance of buildings or the operation of 
+good  used  in  the  maintenance  of  buildings  or  the  operation  of 
 equipment associated with the production of a good, including: 
  
-(a) 
-fuel and energy; 
+(a)  fuel and energy; 
  
-(b) 
-tools, dies, and molds; 
+(b)  tools, dies, and molds; 
  
-(c) 
-spare parts and materials used in the maintenance of 
+(c)  spare  parts and  materials  used in  the  maintenance  of 
 equipment and buildings; 
  
-(d) 
-lubricants, greases, compounding materials, and other 
-materials used in production or used to operate 
+(d)  lubricants,  greases,  compounding  materials,  and  other 
+materials  used  in  production  or  used  to  operate 
 equipment and buildings; 
  
-(e) 
-gloves, glasses, footwear, clothing, safety equipment, 
+(e)  gloves,  glasses,  footwear,  clothing,  safety  equipment, 
 and supplies; 
  
-(f) 
-equipment, devices, and supplies used for testing or 
+(f)  equipment,  devices,  and  supplies  used  for  testing  or 
 inspecting the good; 
+1 2 
+  
+(g)  catalysts and solvents; and 
  
- 
-13 
- 
-(g) 
-catalysts and solvents; and 
- 
-(h) 
-any other goods that are not incorporated into the good 
-but whose use in the production of the good can 
-reasonably be demonstrated to be a part of that 
+(h)  any other goods that are not incorporated into the good 
+but  whose  use  in  the  production  of  the  good  can 
+reasonably  be  demonstrated  to  be  a  part  of  that 
 production; 
  
-material refers to a good used in the production of another good, 
+material  refers  to  a  good  used in the  production  of  another good, 
 including any parts or ingredients; 
  
 non-originating good or non-originating material means a good or 
@@ -91,24 +71,22 @@ good is packaged for retail sale;
 producer means a person who engages in the production of a good in 
 the territory of a Party; 
  
-production means growing, harvesting, extracting, mining, raising, 
+production  means  growing,  harvesting,  extracting,  mining,  raising, 
 capturing, fishing, trapping, hunting, manufacturing, remanufacturing, 
 processing, assembling or disassembling a good; 
  
 recovered goods means materials in the form of individual parts that 
 result from: 
  
-(a) 
-the complete disassembly of used goods into individual 
+(a)  the complete disassembly of used goods into individual 
 parts; and 
  
-(b) 
-the cleaning, inspecting, or testing, and one or more of 
+(b)  the cleaning, inspecting, or testing, and one or more of 
 the following processes as necessary for improvement to 
 sound working condition: welding, flame spraying, surface 
 machining, knurling, plating, sleeving, and rewinding in 
 order for such parts to be assembled with other parts, 
-including other recovered parts in the production of a 
+including  other  recovered  parts  in  the  production  of  a 
 remanufactured good; 
  
 remanufactured good means an industrial good under chapters 84 to 
@@ -116,18 +94,13 @@ remanufactured good means an industrial good under chapters 84 to
 headings 8418, 8423, 8510, 8516 and 8536 that, assembled in the 
 territory of a Party: 
  
-(a) 
-is entirely or partially comprised of recovered goods; 
+(a)  is entirely or partially comprised of recovered goods; 
  
-(b) 
-has the same life expectancy and meets the same 
+(b)  has  the  same  life  expectancy  and  meets  the  same 
 performance standards as a new good; and 
  
- 
- 
-14 
-(c) 
-enjoys the same factory warranty as such a new good; 
+1 3 
+ (c)  enjoys the same factory warranty as such a new good; 
 and 
  
 used means used or consumed in the production of goods. 
@@ -135,276 +108,218 @@ used means used or consumed in the production of goods.
  
 Article 3.2: Originating Goods 
  
-1. 
-Except as otherwise provided in this Chapter, each Party shall provide 
+1.  Except as otherwise provided in this Chapter, each Party shall provide 
 that a good is originating where: 
  
-(a) 
-the good is wholly obtained or produced entirely in the territory 
+(a)  the good is wholly obtained or produced entirely in the territory 
 of one or both Parties, according to Article 3.4 (Wholly Obtained 
 or Produced Goods); 
  
-(b) 
-the good is produced entirely in the territory of one or both 
+(b)  the  good is  produced  entirely  in  the  territory  of  one  or  both 
 Parties, exclusively from materials whose origin complies with 
 the provisions of this Chapter; or 
  
-(c) 
-the good is produced in the territory of one or both Parties, using 
-non-originating materials that conform to a change in tariff 
-classification, a qualifying value content, or any other 
+(c)  the good is produced in the territory of one or both Parties, using 
+non-originating  materials  that  conform  to  a  change  in  tariff 
+classification,  a  qualifying  value  content,  or  any  other 
 requirements, according to Article 3.5 (Not Wholly Obtained or 
 Produced Goods). 
  
-2. 
-In addition to paragraph 1, the good shall meet the other applicable 
+2.  In addition to paragraph 1, the good shall meet the other applicable 
 requirements under this Chapter.  
  
  
 Article 3.3: Minimal Operations 
  
- 
-Notwithstanding any provision in this Chapter and Annex 3.1 
+  Notwithstanding  any  provision  in  this  Chapter  and  Annex  3.1 
 (Exceptions for the General Rule of Origin under Article 3.5), a good shall not 
 be considered to have satisfied the requirements for an originating good merely 
 by reason of going through any or all of the following operations: 
  
-(a) 
-operations to ensure the conservation or preservation of goods 
-in good condition during transport and storage, such as 
+(a)  operations to ensure the conservation or preservation of goods 
+in  good  condition  during  transport  and  storage,  such  as 
 ventilation, cooling, freezing, extraction of damaged parts, drying 
 or addition of substances; 
  
-(b) 
-sifting, peeling, classifying, selecting, washing, filtering, cutting, 
+(b)  sifting, peeling, classifying, selecting, washing, filtering, cutting, 
 shelling, and drying; 
  
-(c) 
-packaging, re-packaging, breaking up and putting the good for 
+(c)  packaging, re-packaging, breaking up and putting the good for 
 retail sale; 
  
-(d) 
-affixing of marks, labels, trade marks or other distinguishing 
+(d)  affixing  of  marks,  labels,  trade  marks  or  other  distinguishing 
 signs on goods; 
  
- 
- 
-15 
-(e) 
-simple mixing, dilution in water or in another watery substance, 
+1 4 
+ (e)  simple mixing, dilution in water or in another watery substance, 
 ionized or saline; 
  
-(f) 
-application of oil, salt, sugar or any sweetener; 
+(f)  application of oil, salt, sugar or any sweetener; 
  
-(g) 
-disassembly of goods in its parts; 
+(g)  disassembly of goods in its parts; 
  
-(h) 
-placing in bottles, cases, boxes and other packaging operation; 
+(h)  placing in bottles, cases, boxes and other packaging operation; 
 and 
  
-(i) 
-simple2
-  
- assembly of parts or goods to constitute a complete 
+(i)  simple2 assembly of parts or goods to constitute a complete 
 good.  
+  
  
 Article 3.4: Wholly Obtained or Produced Goods 
  
 Goods wholly obtained or produced entirely in the territory of one or 
 both Parties means goods that are: 
  
-(a) 
-plants and plant products harvested or gathered in the territory 
+(a)  plants and plant products harvested or gathered in the territory 
 of one or both Parties; 
  
-(b) 
-live animals born and raised in the territory of one or both 
+(b)  live  animals  born  and  raised  in  the  territory  of  one  or  both 
 Parties;  
  
-(c) 
-goods obtained in the territory of one or both Parties from live 
+(c)  goods obtained in the territory of one or both Parties from live 
 animals; 
  
-(d) 
-goods obtained from hunting, trapping, fishing, or aquaculture 
+(d)  goods obtained from hunting, trapping, fishing, or aquaculture 
 conducted in the territory of one or both Parties; 
  
-(e) 
-minerals and other non-living natural resource not included in 
-subparagraphs (a) through (d) extracted or taken from the 
+(e)  minerals and other non-living natural resource not included in 
+subparagraphs  (a)  through  (d)  extracted  or  taken  from  the 
 territory of one or both Parties; 
  
-(f) 
-goods of sea fishing and other marine goods taken from outside 
+(f)  goods of sea fishing and other marine goods taken from outside 
 its territory by a vessel registered, recorded or licensed with that 
-Party, and entitled to fly its flag3
+Party, and entitled to fly its flag3; 
  
-; 
-(g) 
-goods produced and/or made on board a factory ship from 
+(g)  goods  produced  and/or  made  on  board  a  factory  ship  from 
 goods referred to in subparagraph (f), provided such factory ship 
 is registered, recorded or licensed with that Party and entitled to 
 fly its flag; 
                                                 
-2 “Simple” generally describes an activity which does not need special skills, machines, 
+2 “Simple” generally  describes an activity  which does not need special skills, machines, 
 apparatus or equipment specially produced or installed for carrying out the activity. 
  
-3 Costa Rica reiterates, under its domestic laws and international instruments, the 
+3 Costa  Rica  reiterates,  under  its  domestic  laws  and  international  instruments,  the 
 commitments undertaken on the adoption, respect and promotion of responsible fisheries 
 through fisheries management measures. 
  
- 
- 
-16 
- 
-(h) 
-goods taken by a Party, or a person of a Party, from the seabed 
+1 5 
+  
+(h)  goods taken by a Party, or a person of a Party, from the seabed 
 or beneath the seabed outside its territory, provided that the 
 Party has rights to exploit such seabed; 
  
-(i) 
-waste and scrap derived from: 
+(i)  waste and scrap derived from: 
  
-i. 
-production in the territory of one or both Parties; or 
+i.  production in the territory of one or both Parties; or 
  
-ii. 
-used goods collected in the territory of one or both 
-Parties, provided that such goods are fit only for the 
+ii.  used  goods  collected  in  the  territory  of  one  or  both 
+Parties,  provided  that  such  goods  are  fit  only  for  the 
 recovery of raw materials; 
  
-(j) 
-recovered goods derived in the territory of one or both Parties 
-from used goods and utilized in the territory of one or both 
+(j)  recovered goods derived in the territory of one or both Parties 
+from  used  goods  and  utilized  in  the  territory  of  one  or  both 
 Parties in the production of remanufactured goods; and 
  
-(k) 
-goods produced in the territory of one or both Parties exclusively 
+(k)  goods produced in the territory of one or both Parties exclusively 
 from goods referred to in subparagraphs (a) through (j), or from 
 their derivatives, at any stage of production. 
  
  
 Article 3.5: Not Wholly Obtained or Produced Goods 
  
-1. 
-For purposes of this Agreement, goods, which have undergone 
+1.  For  purposes  of  this  Agreement,  goods,  which  have  undergone 
 sufficient production in the territory of one or both Parties, as provided under 
 this Article, shall be treated as originating goods of that Party. 
  
-2. 
-A good is considered to have undergone sufficient production in the 
+2.  A good is considered to have undergone sufficient production in the 
 territory of one or both Parties if: 
  
-(a) 
-it fulfills the product-specific rule as set out in Annex 3.1 
+(a)  it  fulfills  the  product-specific  rule  as  set  out  in  Annex  3.1 
 (Exceptions for the General Rule of Origin under Article 3.5); or 
  
-(b) 
-where there is no product-specific rule as set out in Annex 3.1 
+(b)  where there is no product-specific rule as set out in Annex 3.1 
 (Exceptions for the General Rule of Origin under Article 3.5), it 
 shall undergo a change in tariff classification at the six digit level 
 of the Harmonized System from that of the good (“change in 
-tariff subheading”); or the good shall fulfill a qualifying value 
+tariff  subheading”); or  the  good  shall  fulfill a  qualifying  value 
 content of not less than 35% determined in accordance with 
 Article 3.6 (Qualifying Value Content). 
  
+1 6 
+ Article 3.6: Qualifying Value Content 
  
- 
-17 
-Article 3.6: Qualifying Value Content 
- 
-1. 
-For the purpose of paragraph 2 of Article 3.5 (Not Wholly Obtained or 
+1.  For the purpose of paragraph 2 of Article 3.5 (Not Wholly Obtained or 
 Produced Goods), the following formula for qualifying value content shall be 
 applied: 
  
-QVC = 
      FOB - VNM 
-X 100 
+QVC =  X 100 
      FOB 
  
 Where: 
  
-(a) 
-“QVC” is the qualifying value content of the good, expressed as 
+(a)  “QVC” is the qualifying value content of the good, expressed as 
 a percentage; 
  
-(b) 
-“FOB” is the Free On Board value of the particular good 
-determined in accordance with the Customs Valuation 
+(b)  “FOB”  is  the  Free  On  Board  value  of  the  particular  good 
+determined  in  accordance  with  the  Customs  Valuation 
 Agreement; and 
  
-(c) 
-“VNM” is the value of non-originating materials used by the 
+(c)  “VNM”  is  the  value  of  non-originating  materials  used  by  the 
 producer in the production of the good, calculated in accordance 
 with paragraph 2 below. 
  
-2. 
-For the purpose of calculating the value of non-originating materials 
+2.  For the purpose of calculating the value of non-originating materials 
 pursuant to subparagraph (c) above, the following formula shall be applied: 
  
 VNM = TVM - QVM 
  
 Where: 
  
-(a) 
-“TVM” is the total value of materials; and 
+(a)  “TVM” is the total value of materials; and 
  
-(b) 
-“QVM” is the qualifying value of materials, which shall be 
+(b)  “QVM”  is  the  qualifying  value  of  materials,  which  shall  be 
 calculated as: 
  
-i. 
-the total value of the material if the material satisfies the 
+i.  the total value of the material if the material satisfies the 
 rule established in Article 3.2 (Originating Goods), and 
-the material has undergone its last production or 
+the  material  has  undergone  its  last  production  or 
 operation in the territory of either Party; or 
  
-ii. 
-the value of the material that can be attributed to one or 
+ii.  the value of the material that can be attributed to one or 
 both of the Parties if the material does not satisfy the rule 
 established in Article 3.2 (Originating Goods). 
  
-3. 
-All costs considered for the calculation of qualifying value content shall 
-be recorded and maintained in conformity with the Generally Accepted 
+3.  All costs considered for the calculation of qualifying value content shall 
+be  recorded  and  maintained  in  conformity  with  the  Generally  Accepted 
 Accounting Principles applicable in the territory of the Party where the good is 
 produced. 
  
- 
- 
-18 
-Article 3.7: Value of Materials 
+1 7 
+ Article 3.7: Value of Materials 
  
 For purposes of Article 3.6 (Qualifying Value Content), the value of a material 
 shall be: 
  
-(a) 
-the CIF (Cost, Insurance and Freight) value of the material, 
-determined in accordance with the Customs Valuation 
+(a)  the  CIF  (Cost,  Insurance  and  Freight)  value  of  the  material, 
+determined  in  accordance  with  the  Customs  Valuation 
 Agreement, for a material imported directly by the producer of 
 the good; 
  
-(b) 
-for a material acquired by the producer in the territory where the 
+(b)  for a material acquired by the producer in the territory where the 
 good is produced, the transaction value, or if this is not known 
 and cannot be ascertained, the first ascertainable price paid for 
 the material in the Party; or 
  
-(c) 
-for a material that is self-produced, or where the relationship 
+(c)  for a material that is self-produced, or where the relationship 
 between the producer of the good and the seller of the material 
 influences the price actually paid or payable for the material, 
 including a material obtained without charge, the sum of: 
  
-i. 
-all expenses incurred in the production of the material, 
+i.  all expenses incurred in the production of the material, 
 including general expenses; and 
  
-ii. 
-an amount for profit equivalent to the profit added in the 
+ii.  an amount for profit equivalent to the profit added in the 
 normal course of trade. 
  
  
@@ -412,7 +327,7 @@ Article 3.8: De Minimis
  
 Notwithstanding Article 3.5 (Not Wholly Obtained or Produced Goods), 
 a good shall be considered to be originating if the value of all non-originating 
-materials used in the production of that good, which do not satisfy the 
+materials  used  in  the  production  of  that  good,  which  do  not  satisfy  the 
 requirement of change in tariff classification as set out in Article 3.5 (Not 
 Wholly Obtained or Produced Goods) is not more than 10% of the FOB value 
 of the good. 
@@ -420,38 +335,30 @@ of the good.
  
 Article 3.9: Accumulation 
  
-1. 
-Originating goods or materials from the territory of one or both Parties, 
+1.  Originating goods or materials from the territory of one or both Parties, 
 used in the production of a good in the territory of the other Party, shall be 
 considered to originate in the territory of the other Party. 
  
-2. 
-The production of one or both Parties includes the production at 
+2.  The  production  of  one  or  both  Parties  includes  the  production  at 
 different stages undertaken by one or more producers located in its territory. 
  
+1 8 
+ Article 3.10: Accessories, Spare Parts, Tools 
  
- 
-19 
-Article 3.10: Accessories, Spare Parts, Tools 
- 
-1. 
-Each Party shall provide that accessories, spare parts, or tools 
+1.  Each  Party  shall  provide  that  accessories,  spare  parts,  or  tools 
 delivered with a good that form part of the good’s standard accessories, spare 
-parts, or tools, shall be treated as originating goods if the good is an 
+parts,  or  tools,  shall  be  treated  as  originating  goods  if  the  good  is  an 
 originating good, and shall be disregarded in determining whether all the non-
-originating materials used in the production of the good undergo the 
+originating  materials  used  in  the  production  of  the  good  undergo  the 
 applicable change in tariff classification, provided that: 
  
-(a) 
-the accessories, spare parts, or tools are not invoiced separately 
+(a)  the accessories, spare parts, or tools are not invoiced separately 
 from the good; and 
  
-(b) 
-the quantities and value of the accessories, spare parts, or tools 
+(b)  the quantities and value of the accessories, spare parts, or tools 
 are customary for the good. 
  
-2. 
-If the good is subject to a qualifying value content requirement, the 
+2.  If the good is subject to a qualifying value content requirement, the 
 value of the accessories, spare parts, or tools shall be taken into account as 
 originating or non-originating materials, as the case may be, in calculating the 
 qualifying value content of the good. 
@@ -462,10 +369,10 @@ Article 3.11: Packaging Materials and Containers for Retail Sale
 Each Party shall provide that packaging materials and containers in 
 which a good is packaged for retail sale, if classified with the good, shall be 
 disregarded in determining whether all the non-originating materials used in 
-the production of the good undergo the applicable change in tariff 
+the  production  of  the  good  undergo  the  applicable  change  in  tariff 
 classification set out in Article 3.5 (Not Wholly Obtained or Produced Goods) 
 and, if the good is subject to qualifying value content requirement, the value of 
-such packaging materials and containers shall be taken into account as 
+such  packaging  materials  and  containers  shall  be  taken  into  account  as 
 originating or non-originating materials, as the case may be, in calculating the 
 qualifying value content of the good. 
  
@@ -479,20 +386,16 @@ good is originating.
  
 Article 3.13: Fungible Goods and Materials 
  
-1. 
-Each Party shall provide that the determination of whether fungible 
+1.  Each Party shall provide that the determination of whether fungible 
 goods or materials are originating goods shall be made either by physical 
 segregation of each good or material or through the use of any inventory 
 management method, such as averaging, last-in first-out, or first-in first-out, 
 recognized in the Generally Accepted Accounting Principles of the Party in 
 which the production is performed or otherwise accepted by the Party in which 
 the production is performed. 
- 
- 
-20 
- 
-2. 
-Each Party shall provide that an inventory management method 
+1 9 
+  
+2.  Each  Party  shall  provide  that  an  inventory  management  method 
 selected under paragraph 1 for particular fungible goods or materials shall 
 continue to be used for those fungible goods or materials throughout the fiscal 
 year of the person that selected the inventory management method. 
@@ -507,37 +410,32 @@ cost registered in the accounting records of the producer of the good.
  
 Article 3.15: Transit Through Non-Parties 
  
-1. 
-Preferential tariff treatment provided for in this Agreement shall be 
+1.  Preferential  tariff  treatment  provided  for in  this  Agreement  shall  be 
 applied to goods that satisfy the requirements of this Chapter and which are 
 directly transported among the Parties.  
  
-2. 
-Notwithstanding paragraph 1, goods that transit through non-Party 
+2.  Notwithstanding  paragraph  1,  goods  that  transit  through  non-Party 
 countries, with or without transhipment or temporary storage, shall be eligible 
 for preferential treatment when proved to the satisfaction of the importing 
 country’s customs authority, that:  
  
-(a) 
-the goods have not undergone any operation there other than 
+(a)  the goods have not undergone any operation there other than 
 unloading, reloading, or any operation necessary to preserve 
 them in good condition;   
  
-(b) 
-the goods have not entered into the commerce of such non-
-Parties after the shipment from the Party and before the 
+(b)  the goods have not entered into the commerce of such non-
+Parties  after  the  shipment  from  the  Party  and  before  the 
 importation into the other Party; 
  
-(c) 
-the transit entry is justified for geographical reason or by 
+(c)  the  transit  entry  is  justified  for  geographical  reason  or  by 
 consideration related exclusively to transport requirements; and 
  
-(d) 
-the goods remain under the control of customs authorities4
- 
- in 
+(d)  the goods remain under the control of customs authorities4 in 
 the territory of a non-Party. 
+ 
                                                 
 4 The control referred to in subparagraph (d) refers to that which is exercised by the customs 
 authority or the entity designated by the government of the non-Party to exercise customs 
 functions or administer free trade zones. 
+2 0 
+ 

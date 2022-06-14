@@ -1,5 +1,3 @@
-19 
- 
  
  
  
@@ -46,9 +44,8 @@ NEW CHAPTER 5 (CUSTOMS PROCEDURES AND TRADE FACILITATION)
  
  
  
-20 
- 
- 
+19 
+  
 CHAPTER 5 
 CUSTOMS PROCEDURES AND TRADE FACILITATION 
  
@@ -58,40 +55,27 @@ Definitions
  
 For the purposes of this Chapter: 
  
-(a) 
-customs administration means: 
+(a)  customs administration means: 
  
-(i) 
-in relation to the People’s Republic of China, the General 
+(i)  in  relation  to  the  People’s  Republic  of  China,  the  General 
 Administration of Customs of the People’s Republic of China; and 
-(ii)  
-in relation to the Republic of Singapore, the Singapore Customs; 
+(ii)   in relation to the Republic of Singapore, the Singapore Customs; 
  
-(b) 
-customs law means the statutory and regulatory provisions relating to 
-the importation, exportation, movement or storage of goods, the 
+(b)  customs law means the statutory and regulatory provisions relating to 
+the  importation,  exportation,  movement  or  storage  of  goods,  the 
 administration and enforcement of which are specifically charged to the 
 customs administration of a Party, and any regulations made by the 
 customs administration under its statutory powers; 
  
-(c) 
-customs procedures means the treatment applied by the customs 
+(c)  customs procedures means the treatment applied by the customs 
 administration of each Party to goods and the means of transport, which 
 are subject to that Party’s customs law;  
  
-(d) 
-Customs 
-Valuation 
-Agreement 
-means 
-the 
-Agreement 
-on 
+(d)  Customs  Valuation  Agreement  means  the  Agreement  on 
 Implementation of Article VII of the General Agreement on Tariffs and 
 Trade 1994, which is part of the WTO Agreement. and; 
  
-(e) 
-means of transport means various types of vessels, vehicles and 
+(e)  means  of  transport means  various  types of  vessels,  vehicles  and 
 aircrafts which enter or leave the territory carrying persons and/or goods.  
  
  
@@ -100,66 +84,54 @@ Objectives
  
 The objectives of this Chapter are to: 
  
-(a)  
-ensure predictability, consistency and transparency in the application of 
+(a)   ensure predictability, consistency and transparency in the application of 
 the customs laws of the Parties;  
  
-(b)  
-promote efficient, economical administration of customs procedures, 
+(b)   promote efficient, economical administration of customs procedures, 
 and the expeditious clearance of goods; 
  
-(c)  
-simplify and promote harmonisation of customs procedures of the 
+(c)   simplify  and  promote  harmonisation  of  customs  procedures  of  the 
 Parties; and 
  
-(d)  
-promote cooperation between the customs administrations of the 
+(d)   promote  cooperation  between  the  customs  administrations  of  the 
 Parties. 
-21 
- 
- 
+20 
+  
  
 ARTICLE 3 
 Scope 
  
-1.   
-This Chapter shall apply to customs procedures applied to goods traded 
+1.    This  Chapter  shall  apply  to  customs  procedures  applied  to  goods  traded 
 between the Parties and to the movement of means of transport between the Parties. 
  
-2.  
-This Chapter shall apply in accordance with the Parties’ respective international 
-obligations and domestic laws and regulations, and within the competence and 
+2.   This Chapter shall apply in accordance with the Parties’ respective international 
+obligations  and  domestic  laws  and  regulations,  and  within  the  competence  and 
 available resources of their respective customs administrations. 
  
  
 ARTICLE 4 
 Facilitation 
  
-1.  
-Each Party shall ensure that its customs procedures and practices are 
+1.   Each  Party  shall  ensure  that  its  customs  procedures  and  practices  are 
 predictable, consistent, transparent and trade facilitating while maintaining appropriate 
 customs controls.  
  
-2.  
-Each Party shall use efficient customs procedures with the aim to reduce costs 
+2.   Each Party shall use efficient customs procedures with the aim to reduce costs 
 and unnecessary delays in trade between both Parties, based, as appropriate, on 
-international standards, in particular, trade-related instruments, standards and 
+international  standards,  in  particular,  trade-related  instruments,  standards  and 
 recommended practices of the World Customs Organisation, to which that Party is a 
 contracting Party.  
  
-3.  
-The customs administration of each Party shall periodically review its customs 
-procedures with a view to exploring options for their simplification and the 
+3.   The customs administration of each Party shall periodically review its customs 
+procedures  with  a  view  to  exploring  options  for  their  simplification  and  the 
 enhancement of mutually beneficial arrangements to facilitate international trade. 
  
-4.  
-Each Party shall limit controls, formalities and the number of documents 
+4.   Each  Party  shall  limit  controls,  formalities  and  the  number  of  documents 
 required in the context of trade in goods between the Parties to those necessary to 
 ensure compliance with legal requirements.  
  
-5.  
-Each Party shall administer, in a uniform, impartial and reasonable manner, its 
-customs law relevant to trade between the Parties, and endeavour to ensure 
+5.   Each Party shall administer, in a uniform, impartial and reasonable manner, its 
+customs  law  relevant  to  trade  between  the  Parties,  and  endeavour  to  ensure 
 consistency across nationwide implementation of its customs law among its regional 
 customs offices. 
  
@@ -167,53 +139,45 @@ customs offices.
 ARTICLE 5 
 Use of Automated Systems 
  
-1.  
-The customs administrations shall use information technology to support 
+1.   The  customs  administrations  shall  use  information  technology  to  support 
 customs operations, including sharing of best practices for the purposes of improving 
 their customs procedures, where it is cost effective and efficient, particularly in the 
 paperless trading context taking into account development in this area within the World 
 Customs Organization (the “WCO”).  
  
-22 
- 
-2.  
-In using information technology to support customs operations, the customs 
+21 
+ 2.   In using information technology to support customs operations, the customs 
 administration of each Party shall take into account: 
  
-(a)  
-their available infrastructure and capabilities; and  
+(a)   their available infrastructure and capabilities; and  
  
-(b)  
-the relevant standards such as the WCO Data Model and best practices 
+(b)   the relevant standards such as the WCO Data Model and best practices 
 recommended by the WCO. 
  
  
 ARTICLE 6 
 Single Window 
  
-1.   
-Each Party shall establish or maintain a single window, enabling traders to 
+1.    Each Party shall establish or maintain a single window, enabling traders to 
 submit documentation and/or data requirements for importation, exportation or transit 
 of goods through a single entry point to the participating authorities or agencies. After 
 the examination by the participating authorities or agencies of the documentation 
 and/or data, the results shall be notified to the applicants through the single window in 
 a timely manner. 
  
-2.  
-In cases where documentation and/or data requirements have already been 
-received through the single window, the same documentation and/or data 
+2.   In cases where documentation and/or data requirements have already been 
+received  through  the  single  window,  the  same  documentation  and/or  data 
 requirements shall not be requested by participating authorities or agencies except in 
 urgent circumstances and other limited exceptions which are made public. 
  
-3.   
-Each Party shall, to the extent possible and practicable, use information 
+3.    Each  Party  shall,  to  the  extent  possible  and  practicable,  use  information 
 technology to support its single window. 
  
  
 ARTICLE 7 
 Customs Valuation 
  
-The Parties shall apply Article VII of GATT 1994 and the Customs Valuation 
+The  Parties  shall  apply  Article  VII  of  GATT  1994  and  the  Customs  Valuation 
 Agreement to goods traded between them. 
  
  
@@ -231,95 +195,75 @@ Description and Coding System to goods traded between them.
 ARTICLE 9 
 Publication and Enquiry Points 
  
-23 
- 
-1.  
-Each Party shall publish, including on the Internet, its laws, regulations, and 
+22 
+ 1.   Each Party shall publish, including on the Internet, its laws, regulations, and 
 where applicable, administrative rules or procedures, of general application, relevant 
 to trade in goods between the Parties. 
  
-2.  
-Each Party shall designate and maintain one or more enquiry points to address 
+2.   Each Party shall designate and maintain one or more enquiry points to address 
 enquiries from interested persons pertaining to customs matters, and shall make 
 available on the Internet information concerning the procedures for making such 
 inquiries.  
  
-3.  
-For greater certainty, nothing in this Article or in any part of this Agreement shall 
+3.   For greater certainty, nothing in this Article or in any part of this Agreement shall 
 require any Party to publish law enforcement procedures and internal operational 
-guidelines including those related to conducting risk analysis and targeting 
+guidelines  including  those  related  to  conducting  risk  analysis  and  targeting 
 methodology. 
  
  
 ARTICLE 10 
 Risk Management 
  
-1.  
-The customs administration of each Party shall, based on risk management, 
+1.   The customs administration of each Party shall, based on risk management, 
 determine which persons, goods or means of transport are to be examined and the 
 extent of such examination. 
  
-2.  
-The Parties shall adopt a risk management approach in determining the risk 
+2.   The Parties shall adopt a risk management approach in determining the risk 
 profile of goods to facilitate the clearance of low-risk consignments, while focusing its 
 control measures on high-risk goods. 
  
-3. 
-The Parties shall exchange best practices on risk management techniques 
+3.  The Parties shall exchange best practices on risk management techniques 
 used for customs purposes. 
  
  
 ARTICLE 11 
 Advance Rulings 
  
-1.  
-Each Party shall issue an advance ruling, prior to the importation of a good into 
-its territory, at the written request containing all necessary information, on an 
-application of the exporter, importer or any person with a justifiable cause or a 
+1.   Each Party shall issue an advance ruling, prior to the importation of a good into 
+its  territory,  at  the  written  request  containing  all  necessary  information,  on  an 
+application  of  the  exporter,  importer  or  any  person  with  a  justifiable  cause  or a 
 representative thereof1, with respect to: 
  
-(a)  
-origin of goods; 
-(b)  
-tariff classification of a product; and 
-(c)  
-the appropriate method or criteria, and the application thereof, to be used 
+(a)   origin of goods; 
+(b)   tariff classification of a product; and 
+(c)   the appropriate method or criteria, and the application thereof, to be used 
 for determining the customs value under a particular set of facts, in 
 accordance with the provisions of the Customs Valuation Agreement. 
  
-2.  
-The importing Party shall issue an advance ruling within sixty (60) days on 
+2.   The importing Party shall issue an advance ruling within sixty (60) days on 
 receipt of all necessary information. 
  
                                                            
 1 An applicant for an advance ruling from China shall be registered with China Customs. 
-24 
- 
-3.  
-The customs administration of each Party shall establish a validity period for an 
+23 
+ 3.   The customs administration of each Party shall establish a validity period for an 
 advance ruling of three (3) years from the date of its issuance. 
  
-4.  
-The importing Party may modify or revoke an advance ruling: 
+4.   The importing Party may modify or revoke an advance ruling: 
  
-(a) 
-if the advance ruling was based on an error of fact; 
-(b) 
-if there is a change in the material facts or circumstances on which the 
+(a)  if the advance ruling was based on an error of fact; 
+(b)  if there is a change in the material facts or circumstances on which the 
 advance ruling was based; 
-(c) 
-to conform with a change in its domestic laws, a judicial decision or a 
+(c)  to conform with a change in its domestic laws, a judicial decision or a 
 modification of this Chapter; or 
-(d)  
-if incorrect information was provided or relevant information was 
+(d)   if  incorrect  information  was  provided  or  relevant  information  was 
 withheld. 
  
-5.  
-Each Party shall provide that any modification or revocation of an advance 
+5.   Each Party shall provide that any modification or revocation of an advance 
 ruling shall be effective on the date on which the modification or revocation is issued, 
-or on such later date as may be specified therein, and shall not be applied to 
+or  on  such  later  date  as  may  be  specified  therein,  and  shall not  be  applied  to 
 importations of a good that have occurred prior to that date, unless the person to whom 
-the advance ruling was issued has not acted in accordance with its terms and 
+the  advance  ruling  was  issued  has  not  acted  in  accordance  with  its  terms  and 
 conditions. 
  
  
@@ -334,66 +278,55 @@ regulations relating to this Chapter in accordance with its domestic legislation
 ARTICLE 13 
 Review and Appeal 
  
-1.  
-Each Party shall, in accordance with its domestic laws and regulations, provide 
-that the importer, exporter or any other person affected by its administrative 
+1.   Each Party shall, in accordance with its domestic laws and regulations, provide 
+that  the  importer,  exporter  or  any  other  person  affected  by  its  administrative 
 determinations or decisions on a customs matter, have access to:  
  
-(a)  
-a level of administrative review 2  by its customs administration 
+(a)   a  level  of  administrative  review 2  by  its  customs  administration 
 independent of the official or office responsible for the administrative 
 determinations or decisions under review; and 
  
-(b)  
-judicial appeal or review of the determinations or decisions, subject to its 
+(b)   judicial appeal or review of the determinations or decisions, subject to its 
 laws and regulations. 
  
-2.  
-The decision on review and/or appeal shall be given to the applicant and/or 
+2.   The decision on review and/or appeal shall be given to the applicant and/or 
 appellant and, subject to the Party’s domestic laws and regulations the reasons for 
 such decision shall be provided in writing. 
  
                                                            
-2 For Singapore, the level of administrative review may include the Ministry supervising the customs 
+2  For Singapore, the level of administrative review may include the Ministry supervising the customs 
 administration. 
-25 
- 
- 
+24 
+  
 ARTICLE 14 
 Pre-Arrival Processing 
  
-1.  
-Each Party shall adopt or maintain procedures allowing for the submission of 
+1.   Each Party shall adopt or maintain procedures allowing for the submission of 
 import documentation and other required information in order to begin processing prior 
 to the arrival of goods with a view to expediting the release of goods upon arrival. 
  
-2.  
-Each Party shall, as appropriate, provide for advance lodging of documents in 
+2.   Each Party shall, as appropriate, provide for advance lodging of documents in 
 electronic format for pre-arrival processing of such documents. 
  
  
 ARTICLE 15 
 Release of Goods 
  
-1. 
-Each Party shall adopt or maintain simplified customs procedures for the 
+1.  Each  Party  shall adopt  or  maintain  simplified  customs  procedures  for  the 
 efficient release of goods in order to facilitate trade between the Parties. For greater 
 certainty, this paragraph shall not require a Party to release a good if its requirements 
 for release have not been met.  
  
-2.  
-In accordance with paragraph 1, each Party shall adopt or maintain procedures 
+2.   In accordance with paragraph 1, each Party shall adopt or maintain procedures 
 that: 
  
-(a)  
-provide for the release of goods within a period of time no greater than 
+(a)   provide for the release of goods within a period of time no greater than 
 that required to ensure compliance with its customs law, and to the 
 extent possible, within forty-eight (48) hours of goods’ arrival, provided 
 all necessary regulatory and examination requirements have been met; 
 and 
   
-(b)  
-allow importers who have complied with that Party’s procedures relating 
+(b)   allow importers who have complied with that Party’s procedures relating 
 to the determination of value and payment of duty to withdraw goods 
 from customs, provided that all necessary regulatory and examination 
 requirements have been met. As a condition for such release, a Party 
@@ -404,8 +337,7 @@ domestic laws and regulations that does not exceed the amount the
 Party requires to ensure payment of customs duties, taxes, fees and 
 charges ultimately due for the goods covered by the guarantee. 
  
-3. 
-If any goods are selected for further examination, such an examination shall be 
+3.  If any goods are selected for further examination, such an examination shall be 
 limited to what is necessary and shall be completed without undue delay. 
  
  
@@ -414,24 +346,20 @@ limited to what is necessary and shall be completed without undue delay.
 ARTICLE 16 
 Express Shipments 
  
-26 
- 
-Each Party shall adopt or maintain separate and expedited customs procedures for 
+25 
+ Each Party shall adopt or maintain separate and expedited customs procedures for 
 express shipments while maintaining appropriate control and customs selection. Such 
 procedures shall:  
  
-(a)  
-permit, as a condition for release, the submission of a single document 
+(a)   permit, as a condition for release, the submission of a single document 
 in the form that the Party considers appropriate, such as a manifest or a 
 declaration, covering all of the goods in an express shipment, through, if 
 possible, electronic means; 
  
-(b)  
-minimise, to the extent possible, the documentation required for the 
+(b)   minimise, to the extent possible, the documentation required for the 
 release of express shipments; and 
  
-(c) 
-allow express shipments to be released under normal circumstances as 
+(c)  allow express shipments to be released under normal circumstances as 
 rapidly as possible after goods’ arrival, provided all necessary customs 
 documentation required for release have been submitted, and when 
 possible within six (6) hours. 
@@ -440,22 +368,19 @@ possible within six (6) hours.
 ARTICLE 17 
 Post-Clearance Audit 
  
-1.  
-With a view to expediting the release of goods and enhancing customs control, 
+1.   With a view to expediting the release of goods and enhancing customs control, 
 each Party shall adopt or maintain post clearance audit to ensure compliance with 
 customs law and other related laws and regulations. 
  
-2.  
-Each Party shall select a person or a consignment for post-clearance audit in a 
+2.   Each Party shall select a person or a consignment for post-clearance audit in a 
 risk-based manner, which may include appropriate selectivity criteria. Each Party shall 
 conduct post clearance audits in a transparent manner. Where the person is involved 
 in the audit process and a conclusive result has been achieved, the Party shall, without 
 delay, notify the person concerned of the result of the case, the rights and obligations 
 it has, audit findings and the reasons for the result. 
  
-3.  
-Parties shall, wherever practicable, use the result of post-clearance audit in 
-applying risk management and in assessing the customs compliance records of 
+3.   Parties shall, wherever practicable, use the result of post-clearance audit in 
+applying  risk  management  and  in assessing  the  customs  compliance  records  of 
 traders. 
  
  
@@ -465,28 +390,23 @@ Temporary Admission of Goods
 Each Party shall allow, as provided for in its laws and regulations, goods to be brought 
 into its customs territory conditionally relieved, totally or partially, from payment of 
 import duties and taxes if such goods are brought into its customs territory for a specific 
-purpose, are intended for re-exportation within a specific period, and have not 
+purpose,  are  intended  for  re-exportation  within  a  specific  period,  and  have  not 
 undergone any change except normal depreciation and wastage due to the use made 
 of them. 
  
  
 ARTICLE 19 
 Customs Cooperation 
-27 
- 
- 
-1.  
-Subject to its domestic laws and regulations, the customs administration of 
+26 
+  
+1.   Subject to its domestic laws and regulations, the customs administration of 
 each Party may, as deemed appropriate, assist each other in relation to:  
  
-(a)   
-the implementation and operation of this Chapter; and 
+(a)    the implementation and operation of this Chapter; and 
  
-(b)   
-such other issues as the Parties mutually determine. 
+(b)    such other issues as the Parties mutually determine. 
  
-2.  
-Each Party shall endeavour to provide the other Party with timely notice of any 
+2.   Each Party shall endeavour to provide the other Party with timely notice of any 
 significant modification of its customs law or customs procedures that are likely to 
 substantially affect the operation of this Agreement. 
  
@@ -494,21 +414,18 @@ substantially affect the operation of this Agreement.
 ARTICLE 20 
 Consultation 
  
-1.  
-The customs administration of each Party may at any time request 
+1.   The  customs  administration  of  each  Party  may  at  any  time  request 
 consultations with the customs administration of the other Party, on any matter arising 
 from the implementation or operation of this Chapter, where there are reasonable 
 grounds provided by the requesting Party. Such consultations shall be conducted 
 through the relevant contact points, and shall take place within sixty (60) days of the 
 request, or any other possible time period that the Parties may mutually determine. 
  
-2.  
-In the event that such consultations fail to resolve any such matter, the 
+2.   In  the  event  that  such  consultations  fail  to  resolve  any  such  matter,  the 
 requesting Party may refer the matter to the Committee on Customs Procedures and 
 Trade Facilitation for further consideration. 
  
-3.  
-The customs administration of each Party shall designate one or more contact 
+3.   The customs administration of each Party shall designate one or more contact 
 points for the purposes of this Chapter. Information on the contact points shall be 
 provided to the other Party and any amendment of the said information shall be notified 
 promptly. 
@@ -517,48 +434,37 @@ promptly.
 ARTICLE 21 
 Committee on Customs Procedures and Trade Facilitation  
  
-1.  
-With the view to the effective implementation and operation of this Chapter, a 
+1.   With the view to the effective implementation and operation of this Chapter, a 
 Committee on Customs Procedures and Trade Facilitation (Committee on CPTF) is 
 hereby established, under the FTA Joint Committee. 
  
-2.  
-The functions of the Committee on CPTF shall be as follows: 
+2.   The functions of the Committee on CPTF shall be as follows: 
  
-(a)  
-ensure the proper function of this Chapter and resolve all issues arising 
+(a)   ensure the proper function of this Chapter and resolve all issues arising 
 from its application; 
  
-(b)  
-review the interpretation and implementation of this Chapter, as well as 
+(b)   review the interpretation and implementation of this Chapter, as well as 
 revise this Chapter as appropriate; 
  
-(c)  
-ensure the effective, uniform and consistent administration of this 
+(c)   ensure  the  effective,  uniform  and  consistent  administration  of  this 
 Chapter, and enhance the cooperation in this regard; 
-28 
- 
- 
-(d)  
-identify areas related to this Chapter to be improved for facilitating trade 
+27 
+  
+(d)   identify areas related to this Chapter to be improved for facilitating trade 
 between the Parties; 
  
-(e)  
-exchange information on customs strategic development of each Party 
+(e)   exchange information on customs strategic development of each Party 
 to strengthen cooperation between the two Parties; and 
  
-(f)  
-make recommendations and report to the FTA Joint Committee. 
+(f)   make recommendations and report to the FTA Joint Committee. 
  
-3.  
-The Committee on CPTF shall consist of representatives from customs 
+3.   The  Committee  on  CPTF  shall  consist  of  representatives  from  customs 
 administrations of both Parties. When both Parties deem necessary and appropriate, 
 representatives from other relevant government agencies or relevant non-government 
 organisations may be invited to the meetings of the Committee on CPTF. One or more 
 contact points shall be designated for this purpose. 
  
-4.  
-The Committee on CPTF shall meet at such venues and times as the Parties 
+4.   The Committee on CPTF shall meet at such venues and times as the Parties 
 may mutually agree. 
  
  
@@ -568,5 +474,6 @@ may mutually agree.
  
  
  
- 
+   
+28 
  

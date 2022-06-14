@@ -1,7 +1,5 @@
  
  
-15 
- 
  
 CHAPTER 3 
  
@@ -29,50 +27,41 @@ the good when the good is loaded onto the carrier at the named port of exportati
 value includes the cost of the good and all costs necessary to bring the good onto the 
 carrier; 
  
-generally accepted accounting principles refers to the recognised consensus or 
+generally  accepted  accounting  principles  refers  to  the  recognised  consensus  or 
 substantial authoritative support in the territory of a Party at a particular time as to which 
 economic resources and obligations should be recorded as assets and liabilities, which 
 changes in assets and liabilities should be recorded, how the assets and liabilities and 
 changes in them should be measured, what information should be disclosed and how it 
 should be disclosed, and which financial statements should be prepared.  These standards 
-may be broad guidelines of general application as well as detailed practices, and 
+may  be  broad  guidelines  of  general  application  as  well  as  detailed  practices,  and 
 procedures;  
  
 Harmonised System means the Harmonised Commodity Description and Coding 
 System; 
  
 identical and interchangeable materials means materials being of the same kind and 
-commercial quality, possessing the same technical and physical characteristics, and 
+commercial  quality,  possessing  the  same  technical  and  physical  characteristics,  and 
 which once they are incorporated into the finished product cannot be distinguished from 
 one another for origin purposes by virtue of any markings etc; 
 indirect material means a good used in the production, testing or inspection of a good 
 but not physically incorporated into the good, or a good used in the maintenance of 
-buildings or the operation of equipment associated with the production of a good, 
+buildings  or  the  operation  of  equipment  associated  with  the  production  of  a  good, 
 including: 
-(a) 
-fuel and energy; 
+(a)  fuel and energy; 
+  15  
  
- 
-16 
- 
-(b) 
-tools, dies, and moulds; 
-(c) 
-parts and materials used in the maintenance of equipment and buildings; 
-(d) 
-lubricants, greases, compounding materials, and other materials used in 
+(b)  tools, dies, and moulds; 
+(c)  parts and materials used in the maintenance of equipment and buildings; 
+(d)  lubricants, greases, compounding materials, and other materials used in 
 production or used to operate equipment and buildings; 
-(e) 
-gloves, glasses, footwear, clothing, safety equipment, and supplies; 
+(e)  gloves, glasses, footwear, clothing, safety equipment, and supplies; 
  
-(f) 
-equipment, devices, and supplies used for testing or inspecting the goods; 
+(f)  equipment, devices, and supplies used for testing or inspecting the goods; 
  
-(g) 
-catalysts and solvents; and 
+(g)  catalysts and solvents; and 
  
 any other goods that are not incorporated into the good but whose use in the 
-production of the good can reasonably be demonstrated to be part of that 
+production  of  the  good  can  reasonably  be  demonstrated  to  be  part  of  that 
 production; 
  
 material means ingredients, raw materials, parts, components, subassemblies and goods 
@@ -86,8 +75,8 @@ cannot be determined (undetermined origin);
 originating material means a material that fulfils the criteria set out in either Article 3.3 
 or Article 3.4; 
  
-production means methods of obtaining goods including manufacturing, producing, 
-assembling, processing, raising, growing, breeding, mining, extracting, harvesting, 
+production  means  methods  of  obtaining  goods  including  manufacturing,  producing, 
+assembling,  processing,  raising,  growing,  breeding,  mining,  extracting,  harvesting, 
 fishing, trapping, gathering, collecting, hunting and capturing. 
  
  
@@ -95,85 +84,56 @@ SECTION B: ORIGIN DETERMINATION
  
 ARTICLE 3.2: ORIGINATING GOODS 
  
-For purposes of this Agreement, products shall be deemed originating and 
+For  purposes  of  this  Agreement,  products  shall  be  deemed  originating  and 
 eligible for preferential treatment if they are consigned according to Article 3.14 and 
 conform to the origin requirement under any of the following conditions: 
  
-(a) 
-Products wholly produced or obtained in the territory of the exporting 
+(a)  Products wholly produced or obtained in the territory of the exporting 
 Party, in accordance with Article 3.3; or 
  
-(b) 
-Products not wholly produced or obtained in the territory of the exporting 
+(b)  Products not wholly produced or obtained in the territory of the exporting 
 Party, provided that the said products are eligible under Article 3.4. 
  
  
  
- 
- 
-17 
+  16  
  
 ARTICLE 3.3: WHOLLY OBTAINED OR PRODUCED 
   
- 
-For the purposes of this Agreement, goods wholly obtained or produced in the 
+  For the purposes of this Agreement, goods wholly obtained or produced in the 
 territory of a Party shall be treated as originating goods of that Party.  The following 
 goods only shall be considered as being wholly obtained or produced in a Party: 
  
- 
-(a) 
-a raw or mineral good3-1/product  extracted from its soil, waters, seabed, 
+  (a)  a raw or mineral good3-1/product  extracted from its soil, waters, seabed, 
 or beneath the seabed; 
  
+    (b)  a vegetable good3-2 harvested or produced there; 
  
+    (c)  an animal born and raised there; 
  
-(b) 
-a vegetable good3-2 harvested or produced there; 
+    (d)  a good obtained from animals referred to in (c) above; 
  
- 
- 
-(c) 
-an animal born and raised there; 
- 
- 
- 
-(d) 
-a good obtained from animals referred to in (c) above; 
- 
- 
- 
-(e) 
-a good obtained from hunting, trapping, fishing or aquaculture conducted 
+    (e)  a good obtained from hunting, trapping, fishing or aquaculture conducted 
 there; 
  
-(f) 
-a good of sea fishing and other marine goods taken from outside its 
+(f)  a good of sea fishing  and other marine  goods  taken from outside its 
 territory/territorial waters and Exclusive Economic Zone (EEZ) by vessels 
 registered with a Party and flying its Flag; 
  
-(g) 
-a good processed and/or made on board factory ships registered with a 
-Party and flying its Flag exclusively from products referred to in 
+(g)  a good processed and/or made on board factory ships registered with a 
+Party  and  flying  its  Flag  exclusively  from  products  referred  to  in 
 paragraph (f) above;  
  
- 
-(h) 
-a good taken by a Party, or a person of a Party, from the sea bed or 
+  (h)  a good taken by a Party, or a person of a Party, from the sea bed or 
 beneath the sea bed outside the territorial waters/sea of that Party, in 
 accordance with the provisions of the United Nations Convention on the 
 Law of the Sea; 
  
- 
- 
-(i) 
-articles collected there which can no longer perform their original purpose 
+    (i)  articles collected there which can no longer perform their original purpose 
 nor are capable of being restored or repaired and are fit only for disposal 
 or recovery of parts or raw materials, or for recycling purposes3-3; and 
  
- 
- 
-(j) 
-a good produced there exclusively from goods referred to in (a) through 
+    (j)  a good produced there exclusively from goods referred to in (a) through 
 (i), or from their derivatives, at any stage of production. 
  
  
@@ -189,75 +149,47 @@ products that can no longer perform the purposes for which they were produced an
 disposal for the recovery of parts or raw materials. Such manufacturing or processing operations shall 
 include all types of processing not only industrial or chemical but also mining, agriculture, construction, 
 refining, incineration and sewage treatment operations. 
- 
- 
-18 
+  17  
  
 ARTICLE 3.4: NOT WHOLLY OBTAINED OR PRODUCED 
  
-1. 
-Within the meaning of paragraph (b) of Article 3.2 and subject to the provisions 
+1.  Within the meaning of paragraph (b) of Article 3.2 and subject to the provisions 
 of Articles 3.6, 3.9 and that the final process of manufacturing is performed within the 
 territory of the exporting Party, products would be considered as originating if:  
  
-(a) 
-(i) 
-the total value of the materials, parts or produce originating from 
+(a)  (i)  the total value of the materials, parts or produce originating from 
 countries other than the Parties or of undetermined origin used in 
 the manufacture of the product does not exceed 60% of the FOB 
 value of the product so produced or obtained; and, 
  
-(ii) 
-the product so produced or obtained is classified in a heading, at 
+(ii)  the product so produced or obtained is classified in a heading, at 
 the four digit level, of the Harmonised System different from those 
 in which all the non-originating materials used in its manufacture 
 are classified; or  
  
-(b) 
-the product satisfies the Product Specific Rules as specified in Annex 3B. 
+(b)  the product satisfies the Product Specific Rules as specified in Annex 3B. 
  
-2. 
-For the purposes of calculating the local value added content, either of the 
+2.  For  the  purposes  of  calculating  the  local  value  added  content,  either  of  the 
 following methods can be applied:   
  
-(a) 
-Direct Method 
+(a)  Direct Method 
  
-Value of 
-Originating 
-materials 
+Value of    Direct    Direct     
  
-+ 
-Direct 
-Labour 
-Cost 
+Originating  +  Labour  +  Overhead  +  Profit 
  
-+ 
-Direct 
-Overhead 
-Cost 
- 
-+ 
- 
-Profit 
+materials  Cost  Cost 
+x 100 % (cid:1) 40% 
 FOB Price 
  
+  (b)  Indirect Method 
  
-x 100 % � 40% 
- 
- 
-(b) 
-Indirect Method 
- 
-Value of Non-originating 
-materials3-4 
+Value of Non-originating   
+materials3-4   
+x 100 % (cid:2) 60% 
 FOB Price 
  
- 
-x 100 % � 60% 
- 
-3. 
-For the purpose of paragraph 2, if the material does not satisfy the requirements 
+3.  For the purpose of paragraph 2, if the material does not satisfy the requirements 
 of paragraph 1, the non-qualifying value of the materials shall be that proportion which 
 cannot be attributed to one or both of the Parties, provided that the requirements of 
 Article 3.6 at each stage of value accumulation are satisfied. 
@@ -272,59 +204,45 @@ the accounting records of the producer of the good.
  
                                                  
 3-4 As defined in Article 3.1. 
- 
- 
-19 
+  18  
  
  
 ARTICLE 3.6: INSUFFICIENT OPERATIONS 
  
-1. 
-The following operations or processes shall not be considered as sufficient 
+1.  The  following  operations  or  processes  shall  not  be  considered  as  sufficient 
 transformation provided for in Article 3.4: 
  
-(a) 
-operations to ensure the preservation of products in good condition during 
-transport and storage (such as drying, freezing, keeping in brine, 
+(a)  operations to ensure the preservation of products in good condition during 
+transport  and  storage  (such  as  drying,  freezing,  keeping  in  brine, 
 ventilation, spreading out, chilling, placing in salt, sulphur dioxide or 
 other aqueous solutions, removal of damaged parts, and like operations); 
  
-(b) 
-simple operations consisting of removal of dust, sifting or screening, 
-sorting, classifying, matching (including the making-up of sets of 
+(b)  simple  operations  consisting  of  removal  of  dust,  sifting  or  screening, 
+sorting,  classifying,  matching  (including  the  making-up  of  sets  of 
 articles), washing, painting, cutting; 
  
-(c) 
-changes of packing and breaking up and assembly of consignments; 
+(c)  changes of packing and breaking up and assembly of consignments; 
  
-(d) 
-simple cutting,  slicing and repacking or placing in bottles, flasks, bags, 
+(d)  simple cutting,  slicing and repacking or placing in bottles, flasks, bags, 
 boxes, fixing on cards or boards, and all other simple packing operations; 
  
-(e) 
-affixing of marks, labels or other like distinguishing signs on products or 
+(e)  affixing of marks, labels or other like distinguishing signs on products or 
 their packaging; 
  
-(f) 
-simple mixing of products whether or not of different kinds, where one or 
+(f)  simple mixing of products whether or not of different kinds, where one or 
 more components of the mixture do not meet the conditions laid down in 
 this Chapter to enable them to be considered as originating products; 
  
-(g) 
-simple assembly of parts of products to constitute a complete product; 
+(g)  simple assembly of parts of products to constitute a complete product; 
  
-(h) 
-disassembly; 
+(h)  disassembly; 
  
-(i) 
-slaughter of animals; 
+(i)  slaughter of animals; 
  
-(j) 
-mere dilution with water or another substance that does not materially 
+(j)  mere dilution with water or another substance that does not materially 
 alter the characteristics of the goods; and 
  
-(k) 
-a combination of two or more operations referred to in paragraphs (a) to 
+(k)  a combination of two or more operations referred to in paragraphs (a) to 
 (j). 
  
  
@@ -332,17 +250,13 @@ ARTICLE 3.7: VALUE OF NON-ORIGINATING MATERIALS
  
 The value of a non-originating material used in the production of a good shall be: 
  
-(a) 
-For imported materials, parts or produce, the CIF value at the time of 
+(a)  For imported materials, parts or produce, the CIF value at the time of 
 importation determined in accordance with the Agreement on Customs 
 Valuation; and/or  
  
+  19  
  
- 
-20 
- 
-(b) 
-For materials, parts or produce of undetermined origin, the earliest price 
+(b)  For materials, parts or produce of undetermined origin, the earliest price 
 as ascertained by the certifying authority to have been paid for in the 
 territory   of the Party where the working or processing takes place. 
  
@@ -356,20 +270,16 @@ the satisfaction of the authority issuing the certificate of origin.
  
 ARTICLE 3.9: ACCUMULATION 
  
-1. 
-A product manufactured in one Party and used in the territory of the other Party 
+1.  A product manufactured in one Party and used in the territory of the other Party 
 as a material for the finished product shall be considered as a product originating in the 
 territory of the latter Party provided that it: 
  
-(a) 
-complies with the origin requirements provided for in Articles 3.3 or 3.4; 
+(a)  complies with the origin requirements provided for in Articles 3.3 or 3.4; 
 and  
  
-(b) 
-fulfils the criteria in Article 3.6. 
+(b)  fulfils the criteria in Article 3.6. 
  
-2. 
-The origin of the finished product would be determined under Article 3.4. 
+2.  The origin of the finished product would be determined under Article 3.4. 
  
  
 ARTICLE 3.10: ACCESSORIES, SPARE PARTS AND TOOLS 
@@ -380,15 +290,12 @@ treated as originating goods if the good is an originating good, and shall be di
 in determining whether all the non-originating materials used in the production of the 
 good undergo the applicable change in tariff classification, provided that: 
  
-(a) 
-the accessories, spare parts and tools  are not invoiced separately from the 
+(a)  the accessories, spare parts and tools  are not invoiced separately from the 
 good; 
-(b) 
-the quantities and value of the accessories, spare parts and  tools  are  
-standard trade practice for the good in the domestic market of the 
+(b)  the quantities and value of the accessories, spare parts and  tools  are  
+standard  trade  practice  for  the  good  in  the  domestic  market  of  the 
 exporting Party; and 
-(c) 
- if the good is subject to a qualifying value content requirement, the value 
+(c)   if the good is subject to a qualifying value content requirement, the value 
 of the accessories, spare parts, or tools shall be taken into account as 
 originating or non-originating materials, as the case may be, in calculating 
 the qualifying value content of the good. 
@@ -396,29 +303,23 @@ the qualifying value content of the good.
  
 ARTICLE 3.11: TREATMENT OF PACKING 
  
-(a) 
-Packages and packing materials for retail sale: 
+(a)  Packages and packing materials for retail sale: 
+  20  
  
  
-21 
- 
- 
-(i) 
-Packages and packing materials for retail sale, when classified 
+(i)  Packages and packing materials for retail sale, when classified 
 together with the packaged product, according to General Rule 
 5(b) of the Harmonised System, shall not be taken into account for 
-considering whether all non-originating materials used in the 
+considering  whether  all  non-originating  materials  used  in  the 
 manufacture of a product fulfil the criterion corresponding to a 
 change of tariff classification of the said product. 
  
-(ii) 
-If the product is subject to an ad valorem percentage criterion, the 
+(ii)  If the product is subject to an ad valorem percentage criterion, the 
 value of the packages and packing materials for retail sale shall be 
 taken into account in its origin assessment, in case they are treated 
 as being one for customs purposes with the products in question. 
  
-(b) 
-Containers and packing materials for transport: 
+(b)  Containers and packing materials for transport: 
  
 The containers and packing materials exclusively used for the transport of 
 a product shall not be taken into account for determining the origin of any 
@@ -427,50 +328,40 @@ product, in accordance with General Rule 5(b) of the Harmonised System.
  
 ARTICLE 3.12: IDENTICAL AND INTERCHANGEABLE MATERIALS 
   
-1. 
-Where identical and interchangeable originating and non-originating materials 
+1.  Where identical and interchangeable originating and non-originating materials 
 including materials of undetermined origin are used in the manufacture of a product, 
 those materials shall be physically segregated, according to their origin, during storage. 
  
-2. 
-A producer facing considerable costs or material difficulties in keeping separate 
-stocks of identical and interchangeable originating and non-originating materials 
+2.  A producer facing considerable costs or material difficulties in keeping separate 
+stocks  of  identical  and  interchangeable  originating  and  non-originating  materials 
 including materials of undetermined origin used in the manufacture of a product, may 
 use the so-called “accounting segregation” method for managing stocks. 
  
-3. 
-The accounting method shall be recorded, applied and maintained in accordance 
-with generally accepted accounting principles applicable in the Party in which the 
+3.  The accounting method shall be recorded, applied and maintained in accordance 
+with  generally  accepted  accounting  principles  applicable  in  the  Party  in  which  the 
 product is manufactured. The method chosen must: 
  
-(a) 
-permit a clear distinction to be made between originating and non 
+(a)  permit  a  clear  distinction  to  be  made  between  originating  and  non 
 originating materials including materials of undetermined origin acquired 
 and/or kept in stock; and  
  
-(b) 
-guarantee that no more products receive originating status than would be 
+(b)  guarantee that no more products receive originating status than would be 
 the case if the materials had been physically segregated. 
  
-4. 
-The producer using this facilitation shall only complete origin declarations for the 
+4.  The producer using this facilitation shall only complete origin declarations for the 
 quantity of products considered as originating and shall assume full responsibility for the 
 origin declarations and for keeping all documentary evidence of origin of the materials. 
 At the request of the competent authorities of the exporting Party, the producer shall 
 provide satisfactory information on how the stocks have been managed. 
  
-5. 
-A Party may require that the application of the method for managing stocks as 
+5.  A Party may require that the application of the method for managing stocks as 
 provided for in this Article is subject to prior authorisation. 
- 
- 
-22 
+  21  
  
  
 ARTICLE 3.13: ADVANCE RULINGS  
  
-1. 
-Each Party shall provide for the issuance of written advance rulings, prior to the 
+1.  Each Party shall provide for the issuance of written advance rulings, prior to the 
 importation of a good into its territory, to an importer of the good in its territory or to an 
 exporter or producer of the good in the exporting party, as to whether the good qualifies 
 as an originating good. The importing Party may request, at any time during the course 
@@ -478,38 +369,30 @@ of evaluating the request for an advance ruling, additional information necessar
 evaluate the request. The importing party shall issue its determination regarding the 
 origin of the good within 120 days after receipt of all necessary information. 
  
-2. 
-The importing Party shall apply an advance ruling to importation into its territory 
+2.  The importing Party shall apply an advance ruling to importation into its territory 
 of the good for which the ruling was issued, for such period, which may be specified in 
 the ruling. 
  
-3. 
-The importing Party may modify or revoke an advance ruling: 
+3.  The importing Party may modify or revoke an advance ruling: 
  
-(a) 
-if the ruling was based on an error of fact; 
+(a)  if the ruling was based on an error of fact; 
  
-(b) 
-if there is a change in the material facts or circumstances on which the  
+(b)  if there is a change in the material facts or circumstances on which the  
 ruling was based; or 
  
-(c)  
-to conform with a modification of this Chapter. 
+(c)   to conform with a modification of this Chapter. 
  
-4. 
-Where the importing Party modifies or revokes an advance ruling, such 
+4.  Where  the  importing  Party  modifies  or  revokes  an  advance  ruling,  such 
 modification or revocation shall only take effect 60 days after the date on which the 
 modification or revocation is issued, and shall not apply to importation of a good that has 
 occurred prior to the effective date. 
  
-5. 
-Notwithstanding paragraphs 3 and 4 above, the importing Party may revoke any 
+5.  Notwithstanding paragraphs 3 and 4 above, the importing Party may revoke any 
 advance ruling ab initio, if the importer or exporter to whom the advance ruling was 
 issued had provided false or incorrect information pursuant to the application for the 
 ruling.    
  
-6. 
-Apart from the advance ruling being revoked ab initio, the person who had 
+6.  Apart from the advance ruling being revoked ab initio, the person who had 
 provided the false or incorrect information shall also be liable to appropriate penalties 
 under the domestic laws of the respective Parties. 
  
@@ -519,25 +402,19 @@ ARTICLE 3.14: CONSIGNMENT CRITERIA
 The originating goods of the other Party shall be deemed to meet the consignment 
 criteria when they are: 
  
-(a) 
-transported directly from the territory of the other Party; or 
+(a)  transported directly from the territory of the other Party; or 
  
-(b) 
-transported through the territory or territories of one or more non-Parties 
+(b)  transported through the territory or territories of one or more non-Parties 
 for the purpose of transit or temporary storing in warehouses in such 
 territory or territories, and the products have not entered into trade or 
 consumption there, provided that  
+  22  
  
  
-23 
- 
- 
-(i) 
-they do not undergo operations other than unloading, reloading or 
+(i)  they do not undergo operations other than unloading, reloading or 
 operations to preserve them in good condition; or 
  
-(ii) 
-the transit entry is justified for geographical reason or by 
+(ii)  the  transit  entry  is  justified  for  geographical  reason  or  by 
 considerations related exclusively to transport requirements. 
  
  
@@ -546,7 +423,7 @@ SECTION C: DOCUMENTATION REQUIREMENTS
 ARTICLE 3.15: CERTIFICATE OF ORIGIN 
  
 Products eligible for preferential concessions shall be supported by a Certificate 
-of Origin issued by a government authority designated by the government of the 
+of  Origin  issued  by  a  government  authority  designated  by  the  government  of  the 
 exporting Party and notified to the other Party (referred to herein as “the certifying 
 authority”) in accordance with the Operational Certification Procedures, as set out in 
 Annex 3B.  
@@ -556,46 +433,38 @@ SECTION D : VERIFICATION OF ORIGIN
  
 ARTICLE 3.16: CO-OPERATION ON VERIFICATION OF CERTIFICATES OF ORIGIN 
  
-1. 
-The Parties shall co-operate with each other to verify the authenticity and the 
+1.  The Parties shall co-operate with each other to verify the authenticity and the 
 correctness of the information given in the certificates of origin.  
  
-2. 
-For the purpose of implementing the provisions of paragraph 1, the customs 
+2.  For the purpose of implementing the provisions of paragraph 1, the customs 
 administration of the importing Party shall return the certificate of origin, or a copy of 
 the document, to the certifying authority of the exporting Party, giving the reason for the 
 enquiry. Any document and/or information obtained suggesting that the information 
 given on the certificate of origin is incorrect shall be forwarded in support of the request 
 for verification. 
  
-3. 
-The verification shall be carried out by the certifying authority of the exporting 
+3.  The verification shall be carried out by the certifying authority of the exporting 
 Party.  
  
  
 ARTICLE 3.17: DENIAL OF PREFERENTIAL TARIFF TREATMENT 
  
-1. 
-Export of consignments accompanied by an authentic Certificate of Origin will 
+1.  Export of consignments accompanied by an authentic Certificate of Origin will 
 not be subjected to any detention or delays by the Customs Authorities of the importing 
 country. 
  
-2. 
-In case of reasonable doubt about the authenticity of Certificate of Origin, the 
+2.  In case of reasonable doubt about the authenticity of Certificate of Origin, the 
 Customs authority of the importing country may seek a clarification from the certifying 
 authority of the exporting country, which will furnish the same within a period of 30 
 days.  Meanwhile, the subject consignment will be allowed entry into the importing 
-country on a provisional basis against a bond or a guarantee i.e. a legally binding 
+country  on  a  provisional  basis  against  a  bond or  a  guarantee  i.e.  a  legally  binding 
 undertaking as may be required.  After examining the information so provided by the 
+  23  
  
- 
-24 
- 
-certifying authority, the Customs Authority in the importing country would take 
+certifying  authority,  the  Customs  Authority  in  the  importing  country  would  take 
 appropriate action to finalise the provisional assessment. 
  
-3. 
-Where the clarification carried on in above paragraph 2 is not conclusive, the 
+3.  Where the clarification carried on in above paragraph 2 is not conclusive, the 
 importing Party may, upon informing the exporting Party and with the knowledge of the 
 importer concerned and with the consent of the exporter or manufacturer concerned, visit 
 the exporter or manufacturer concerned for the purpose of verifying the preference claim.  
@@ -611,3 +480,4 @@ ARTICLE 3.18: CONSULTATION AND MODIFICATIONS
 These rules may be reviewed as and when necessary upon the request of either 
 Party and may be modified by mutual agreement pursuant to Article 16.7. 
  
+  24 

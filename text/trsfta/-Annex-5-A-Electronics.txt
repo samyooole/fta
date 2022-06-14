@@ -1,85 +1,64 @@
 Annex 5-A – Electronics 
  
-1 
- 
 ANNEX 5-A  
 ELECTRONICS 
  
- 
-Article 1  
- 
+  Article 1    
 General Provisions 
  
-1.  
-The Parties confirm the following shared objectives and principles: 
+1.   The Parties confirm the following shared objectives and principles: 
  
-(a) 
-eliminating and preventing non-tariff barriers to bilateral trade; 
+(a)  eliminating and preventing non-tariff barriers to bilateral trade; 
  
-(b) 
-basing their standards, technical regulations and conformity assessment 
+(b)  basing  their  standards,  technical  regulations  and  conformity  assessment 
 procedures, wherever appropriate, on relevant international standards;  
  
-(c) 
-eliminating 
-duplicative 
-and 
-unnecessarily 
-burdensome 
-conformity 
+(c)  eliminating  duplicative  and  unnecessarily  burdensome  conformity 
 assessment procedures; and 
  
-(d) 
-enhancing cooperation to foster development in their bilateral trade in 
+(d)  enhancing  cooperation  to  foster  development  in  their  bilateral  trade  in 
 electronics. 
  
-2.  
-This Annex shall apply only to standards, technical regulations and conformity 
+2.   This Annex shall apply only to standards, technical regulations and conformity 
 assessment procedures of either Party related to the safety and electromagnetic 
-compatibility (hereinafter referred to as “EMC”) of electrical and electronic 
+compatibility  (hereinafter  referred  to  as  “EMC”)  of  electrical  and  electronic 
 equipment, electrical household appliances and consumer electronics as defined in 
 Appendix 5-A-1 (hereinafter referred to as “covered products”). 
  
 Article 2 
 International Standards and Standard-setting Bodies 
  
-1.  
-The Parties recognise that the International Organization for Standardization 
+1.   The  Parties  recognise  that  the  International  Organization  for  Standardization 
 (hereinafter referred to as “ISO”), the International Electrotechnical Commission 
 (hereinafter referred to as “IEC”) and the International Telecommunication Union 
 (hereinafter referred to as “ITU”) are the relevant international standard-setting 
 bodies for EMC and safety of products covered by this Annex.1 
  
-2.  
-Where relevant international standards established by ISO, IEC and ITU exist, the 
+2.   Where relevant international standards established by ISO, IEC and ITU exist, the 
 Parties shall use these international standards or the relevant parts of them as a 
 basis for any standard, technical regulation or conformity assessment procedure, 
 except for cases where such international standards or relevant parts would be an 
-ineffective or inappropriate means for the fulfilment of legitimate objectives 
+ineffective  or  inappropriate  means  for  the  fulfilment  of  legitimate  objectives 
 pursued. In those cases, a Party shall, upon request from the other Party, identify 
 the parts of the respective standard, technical regulation or conformity assessment 
 procedure which substantially deviate from the relevant international standard and 
 provide justification as to the reasons for the deviation. 
  
-3.  
-Without prejudice to Article 2.3 of the TBT Agreement, insofar as a Party 
+3.   Without  prejudice  to  Article  2.3  of  the  TBT  Agreement,  insofar  as  a  Party 
                                                            
-1  
-The Parties may, by decision of the Joint Committee, agree on any new international standard-setting 
+1   The Parties may, by decision of the Joint Committee, agree on any new international standard-setting 
 bodies which they deem relevant for the purposes of implementing this Annex. 
-Annex 5-A – Electronics 
+1 
+ Annex 5-A – Electronics 
  
-2 
- 
-maintains technical regulations that deviate from existing relevant international 
-standards as referred to in paragraph 2, that Party shall review these technical 
+maintains technical regulations that  deviate from existing relevant international 
+standards as referred to in paragraph 2, that Party shall review these  technical 
 regulations at regular intervals, not exceeding five years, in order to assess whether 
 the circumstances that gave rise to the deviation from the relevant international 
 standard still exist. The outcome of these reviews shall be communicated to the 
 other Party upon request. 
  
-4.  
-The Parties shall encourage their standard-setting bodies to participate in the 
+4.   The  Parties  shall  encourage  their  standard-setting  bodies  to  participate  in  the 
 development of international standards in the ISO, IEC and ITU, and to consult 
 within the framework of those international standard-setting bodies with a view to 
 establishing common approaches. 
@@ -87,263 +66,225 @@ establishing common approaches.
 Article 3  
 Innovation 
  
-1. 
-No Party shall prevent or unduly delay the placing on its market of a product on the 
+1.  No Party shall prevent or unduly delay the placing on its market of a product on the 
 ground that it incorporates a new technology or a new feature which has not yet 
 been regulated. 
  
-2. 
-Paragraph 1 shall not prejudice the right of the importing Party, if it demonstrates 
-duly substantiated concerns to the supplier, to require evidence that the new 
+2.  Paragraph 1 shall not prejudice the right of the importing Party, if it demonstrates 
+duly  substantiated  concerns  to  the  supplier,  to  require  evidence  that  the  new 
 technology or new feature concerned does not create a risk for safety or EMC or 
 any other legitimate objective as listed in Article 2.2 of the TBT Agreement. 
  
 Article 4 
 Conformity Assessment Procedures 
  
-1. 
-The Parties shall not prepare, adopt or apply conformity assessment procedures 
+1.  The Parties shall not prepare, adopt or apply conformity assessment procedures 
 with a view to or with the effect of creating unnecessary obstacles to trade with the 
-other Party. In principle, Parties should avoid requiring mandatory third party 
+other  Party.  In  principle,  Parties  should  avoid  requiring  mandatory  third  party 
 conformity assessment to prove compliance with applicable technical regulations 
-on safety and/or EMC of covered products, and instead consider the use of a 
+on safety  and/or EMC of  covered products,  and instead consider the use  of  a 
 supplier’s declaration of conformity and/or post-market surveillance mechanisms to 
 ensure that products conform with relevant standards or technical requirements. 
  
-2. 
-Where a Party requires a positive assurance of conformity with domestic technical 
+2.  Where a Party requires a positive assurance of conformity with domestic technical 
 regulations on safety and/or EMC of covered products, each Party shall accept 
 products on its market on the basis of one or more of the following procedures: 
  
-(a)  
-a supplier’s declaration of conformity where the intervention of a 
+(a)   a  supplier’s  declaration  of  conformity  where  the  intervention  of  a 
 conformity assessment body or the testing of the product by a recognised 
 test laboratory is not mandatory and, if testing is undertaken, such testing 
 can be carried out by the manufacturer himself or a competent body of his 
 choice; or 
  
-(b) 
-a supplier’s declaration of conformity based on a test report issued by a 
+(b)  a supplier’s declaration of conformity based on a test report issued by a 
 Certification Body (“CB”) Testing Laboratory of the other Party under the 
-CB Scheme of the IEC System of Conformity Assessment Schemes for 
-Annex 5-A – Electronics 
- 
-3 
+CB  Scheme  of  the  IEC  System  of  Conformity  Assessment  Schemes  for 
+2 
+ Annex 5-A – Electronics 
  
 Electrotechnical Equipment and Components (IECEE) (hereinafter referred 
 to as “IECEE CB Scheme”), accompanied by a valid CB Test Certificate, in 
 accordance with the rules and procedures of the IECEE CB Scheme and the 
 commitments by the Parties thereunder; or 
  
-(c)  
-a supplier’s declaration of conformity based on a test report issued by any 
+(c)   a supplier’s declaration of conformity based on a test report issued by any 
 testing laboratory or a certificate issued by any certification body in the 
-other Party that has concluded voluntary arrangements for mutual 
-acceptance of test reports or certificates with one or more conformity 
+other  Party  that  has  concluded  voluntary  arrangements  for  mutual 
+acceptance  of  test  reports  or  certificates  with  one  or  more  conformity 
 assessment bodies designated by the importing Party. 
  
-The choice among the procedures in this paragraph shall rest with the 
+The  choice  among  the  procedures  in  this  paragraph  shall  rest  with  the 
 supplier. 
  
-3.  
-The supplier’s declaration of conformity shall be in accordance with ISO/IEC 
-17050. The Parties shall accept the supplier as solely responsible for issuing, 
-changing or withdrawing the declaration of conformity, for establishing the 
+3.   The  supplier’s  declaration  of  conformity  shall  be  in  accordance  with  ISO/IEC 
+17050.  The  Parties  shall  accept  the  supplier  as  solely  responsible  for  issuing, 
+changing  or  withdrawing  the  declaration  of  conformity,  for  establishing  the 
 technical documentation which shall enable the assessment of the conformity of the 
 products covered with the applicable technical regulations and for affixing any 
 required markings. The Parties may require that the declaration of conformity is 
 dated and identifies the supplier or the supplier’s authorised representative in their 
-territories, the person empowered by the manufacturer or his authorised 
+territories,  the  person  empowered  by  the  manufacturer  or  his  authorised 
 representative to sign the declaration, the products covered by the declaration, and 
 the applied technical regulations to which conformity is declared. 
  
-4.  
-In addition to paragraphs 1 to 3, a Party shall not require any form of registration of 
+4.   In addition to paragraphs 1 to 3, a Party shall not require any form of registration of 
 products or of suppliers that may prevent or otherwise delay the placing on the 
 market of products that comply with the Party’s technical regulations. Insofar as a 
-Party reviews the supplier’s declaration, the review shall be solely limited to 
+Party  reviews  the  supplier’s  declaration,  the  review  shall  be  solely  limited  to 
 verifying, on the basis of the documentation submitted, that the test has been done 
-in accordance with the Party’s relevant technical regulations and that the 
+in  accordance  with  the  Party’s  relevant  technical  regulations  and  that  the 
 information contained in the documentation is complete. Any such review shall not 
 cause undue delay for the placing of the products on the Party’s market and the 
 declaration shall be accepted, without exceptions, if the products comply with the 
 Party’s technical regulations and the documentation submitted is complete. In the 
 event that a declaration is rejected, the Party shall communicate its decision to the 
-supplier, together with an explanation of the grounds for the rejection. Upon 
-request of the supplier, the Party shall provide information or guidance, as 
+supplier,  together  with  an  explanation  of  the  grounds  for  the  rejection.  Upon 
+request  of  the  supplier,  the  Party  shall  provide  information  or  guidance,  as 
 appropriate, on how the shortcomings can be rectified, as well as an explanation of 
 possibilities to appeal the decision. 
  
 Article 5  
 Safeguard Measures 
  
-Notwithstanding Article 4 (Conformity Assessment Procedures), either Party may 
+Notwithstanding  Article  4  (Conformity  Assessment  Procedures),  either  Party  may 
 introduce requirements for mandatory third party testing or certification for EMC or safety 
 of covered products, or introduce administrative procedures for approving or reviewing 
 test reports, for particular covered products under the following conditions: 
-Annex 5-A – Electronics 
+3 
+ Annex 5-A – Electronics 
  
-4 
  
- 
-(a)  
-there exist compelling reasons related to the protection of human health or 
-safety that justify the introduction of such requirements or procedures, 
+(a)   there exist compelling reasons related to the protection of human health or 
+safety  that  justify  the  introduction  of  such  requirements  or  procedures, 
 supported by substantiated technical or scientific information; 
  
-(b)  
-any such requirements or procedures are not more trade-restrictive than 
-necessary to fulfil the Party’s legitimate objective, taking account of the 
+(b)   any such requirements or procedures  are  not more trade-restrictive  than 
+necessary to fulfil the Party’s legitimate objective, taking  account of the 
 risks that non-fulfilment would create; and 
  
-(c)  
-the Party could not have reasonably foreseen the need for introducing any 
-such requirements or procedures at the time of entry into force of this 
+(c)   the Party could not have reasonably foreseen the need for introducing any 
+such  requirements  or  procedures  at  the  time  of  entry  into  force  of  this 
 Agreement. 
  
-Without prejudice to Article 2.10 of the TBT Agreement, before introducing the 
-requirements or procedures, the Party shall notify the other Party and, following 
+Without  prejudice  to  Article  2.10  of  the  TBT  Agreement,  before  introducing  the 
+requirements  or  procedures,  the  Party  shall  notify  the  other  Party  and,  following 
 consultations, take the comments of the other Party into account, to the greatest extent 
 possible, in devising any such requirements or procedures. Any requirements introduced 
 shall, to the greatest extent possible, be in compliance with this Annex. Once adopted, any 
-requirement or procedure introduced shall be regularly reviewed and repealed if the 
+requirement  or  procedure  introduced  shall  be  regularly  reviewed  and  repealed  if  the 
 reasons for its introduction no longer exist. 
  
 Article 6  
 Exceptions  
  
-1.  
-Singapore shall only require a positive assurance of conformity with its mandatory 
-safety and/or EMC requirements in the form of third party certification for the 
+1.   Singapore shall only require a positive assurance of conformity with its mandatory 
+safety  and/or  EMC  requirements  in  the  form  of  third  party  certification  for  the 
 products listed in Appendix 5-A-2.  
  
-2.  
-Singapore may undertake reviews of its Consumer Protection (Safety Requirements) 
+2.   Singapore may undertake reviews of its Consumer Protection (Safety Requirements) 
 Registration Scheme in line with Annex 4-A of the Free Trade Agreement between 
 the European Union and the Republic of Singapore. Any changes to the Consumer 
 Protection (Safety Requirements) Registration Scheme a result of such reviews, and 
 any resulting modifications made to Appendix 5-A-2, shall be notified by Singapore 
-to Turkey promptly through the Joint Committee. For products, which will be 
-excluded from the Singapore’s Consumer Protection (Safety Requirements) 
+to  Turkey  promptly  through  the  Joint  Committee.  For  products,  which  will  be 
+excluded  from  the  Singapore’s  Consumer  Protection  (Safety  Requirements) 
 Registration Scheme as a result of such reviews, Singapore shall not require a positive 
 assurance of conformity with its mandatory safety and/or EMC requirements in the 
 form of third party certification. 
  
-3.  
-Insofar as Singapore continues to require positive assurance of conformity with its 
+3.   Insofar as Singapore continues to require positive assurance of conformity with its 
 mandatory safety and/or EMC requirements in the form of third party certification 
-for covered products, Singapore shall accept a certificate of conformity to its 
+for  covered  products,  Singapore  shall  accept  a  certificate  of  conformity  to  its 
 technical regulations issued by a conformity assessment body in Turkey that has 
-been designated by Singapore. 2 Singapore shall also ensure that the conformity 
+been designated by Singapore.2 Singapore shall also ensure that the conformity 
 assessment bodies designated by Singapore accept, for the purposes of issuing such 
                                                            
-2  
-Singapore shall comply with this requirement within three years of the entry into force of this 
+2   Singapore shall comply with this requirement within three years of the entry into force of this 
 Agreement 
-Annex 5-A – Electronics 
- 
-5 
+4 
+ Annex 5-A – Electronics 
  
 certification, test reports issued: 
  
-(a)  
-by one of the Recognised CB Testing Laboratories or Recognised CB 
+(a)   by  one  of  the  Recognised  CB  Testing  Laboratories  or  Recognised  CB 
 Manufacturer’s Testing Laboratories of Turkey in accordance with the rules 
-and procedures of the IECEE CB Scheme and the commitments of the 
+and procedures of the  IECEE CB Scheme  and the  commitments of the 
 Parties thereunder; 
  
-(b)  
-in 
-accordance 
-with 
-relevant 
-international 
-standards, 
-guides 
-and 
+(b)   in  accordance  with  relevant  international  standards,  guides  and 
 recommendations (including ISO/IEC 17025), by any testing laboratory of 
-Turkey that has been accredited by an accreditation body which is a 
-signatory to the Mutual Recognition Arrangement of the International 
+Turkey  that  has  been  accredited  by  an  accreditation  body  which  is  a 
+signatory  to  the  Mutual  Recognition  Arrangement  of  the  International 
 Laboratory Accreditation Cooperation or one of its regional bodies’ mutual 
 recognition agreements to which Singapore is a Party; or 
  
-(c)  
-by any testing laboratory in Turkey that has concluded voluntary 
-arrangements for mutual acceptance of test reports with one or more 
+(c)   by  any  testing  laboratory  in  Turkey  that  has  concluded  voluntary 
+arrangements  for  mutual  acceptance  of  test  reports  with  one  or  more 
 conformity assessment bodies designated by Singapore. 
    
 Article 7 
  Joint Cooperation 
  
-1.  
-The Parties shall closely cooperate to promote common understanding on 
-regulatory issues and consider any request of the other Party regarding the 
+1.   The  Parties  shall  closely  cooperate  to  promote  common  understanding  on 
+regulatory  issues  and  consider  any  request  of  the  other  Party  regarding  the 
 implementation of this Annex. 
-2.  
-This cooperation shall take place within the framework of the Joint Committee. 
- 
- 
-Annex 5-A – Electronics 
- 
-6 
+2.   This cooperation shall take place within the framework of the Joint Committee. 
+   
+5 
+ Annex 5-A – Electronics 
  
 APPENDIX 5-A-1 
 SCOPE 
  
-1.  
-Annex 5-A shall cover those products listed in paragraph 2 of Article 1 (General 
+1.   Annex 5-A shall cover those products listed in paragraph 2 of Article 1 (General 
 Provisions) of Annex 5-A which: 
  
-(a) 
-in the case of Turkey’s obligations, fall, at the date of signature of this 
-Agreement, within the scope of corresponding Turkish legislation to 
+(a)  in the case of Turkey’s obligations, fall, at the date of signature of this 
+Agreement,  within  the  scope  of  corresponding  Turkish  legislation  to 
 Directive 2006/95/EC of the European Parliament and of the Council of 12 
 December 2006 on the harmonisation of the laws of Member States relating 
-to electrical equipment designed for use within certain voltage limits 
+to  electrical  equipment  designed  for  use  within  certain  voltage  limits 
 (codified version), or Directive 2004/108/EC of the European Parliament 
 and of the Council of 15 December 2004 on the approximation of the laws 
-of the Member States relating to electromagnetic compatibility and 
+of  the  Member  States  relating  to  electromagnetic  compatibility  and 
 repealing 89/336/EEC, or of the provisions on safety or electromagnetic 
 compatibility of Directive 1999/5/EC of the European Parliament and of the 
-Council of 9 March 1999 (codified version) on radio equipment and 
+Council  of  9  March  1999  (codified  version)  on  radio  equipment  and 
 telecommunications terminal equipment and the mutual recognition of their 
 conformity. 
  
-For products under the scope of corresponding Turkish legislation to 
-Directive 1999/5/EC, Turkey shall be able to require additional 
-requirements, other than safety and EMC, in accordance with the 
+For  products  under  the  scope  of  corresponding  Turkish  legislation  to 
+Directive  1999/5/EC,  Turkey  shall  be  able  to  require  additional 
+requirements,  other  than  safety  and  EMC,  in  accordance  with  the 
 corresponding provision to Article 3 of that Directive. 
  
 Where a supplier has not applied or has only applied in part the harmonised 
 standards referred to in the relevant provision of the corresponding Turkish 
-legislation to paragraph 1 of Article 5 of Directive 1999/5/EC, radio 
+legislation  to  paragraph  1  of  Article  5  of  Directive  1999/5/EC,  radio 
 equipment within the scope of the relevant provision of the corresponding 
 Turkish legislation to paragraph 5 of Article 10 of Directive 1999/5/EC 
-shall be subject to the procedures described in either of corresponding 
+shall  be  subject  to  the  procedures  described  in  either  of  corresponding 
 Annexes to Annexes IV or V of Directive 1999/5/EC, at the choice of the 
-supplier. Where the supplier’s declaration of conformity has to be 
+supplier.  Where  the  supplier’s  declaration  of  conformity  has  to  be 
 accompanied by test reports, the supplier may use the procedures described 
-in subparagraphs 2(b) and 2(c) of Article 4 (Conformity Assessment 
+in  subparagraphs  2(b)  and  2(c)  of  Article  4  (Conformity  Assessment 
 Procedures) of Annex 5-A; 
 and; 
  
-(b)  
-in the case of Singapore’s obligations, fall, at the date of signature of this 
+(b)   in the case of Singapore’s obligations, fall, at the date of signature of this 
 Agreement, within the scope of the Consumer Protection (Consumer Goods 
 Safety Requirements) Regulations 2011, the Consumer Protection (Safety 
 Requirements) Regulations 2004, the Telecommunications Act, Cap. 323 
 and the Telecommunications (Dealers) Regulations 2004. 
  
-For products under the Telecommunications Act, Cap. 323 and the 
+For  products  under  the  Telecommunications  Act,  Cap.  323  and  the 
 Telecommunications (Dealers) Regulations 2004, Singapore shall be able to 
 require additional requirements, other than safety and EMC. 
-Annex 5-A – Electronics 
+6 
+ Annex 5-A – Electronics 
  
-7 
  
- 
-2.  
-The Parties understand that the products covered by the domestic laws listed in this 
+2.   The Parties understand that the products covered by the domestic laws listed in this 
 Appendix, which include all the products to which Annex 5-A applies, are intended 
 to cover the universe of electronics products. It is understood that in case a product 
 is not covered by Annex 5-A for a Party but is covered for the other Party, or at the 
@@ -353,34 +294,32 @@ such product to a similar treatment as may be necessary for the protection of hu
 health and safety. Before such measures are implemented, the Party wishing to 
 introduce them shall notify the other Party of its intentions and provide for a period 
 of three months for consultations. 
- 
- 
-Annex 5-A – Electronics 
- 
-8 
+   
+7 
+ Annex 5-A – Electronics 
  
 APPENDIX 5-A-2 
 PRODUCT CATEGORIES 
  
 Cooking range intended for household use namely a device for cooking and includes 
-separate stationary ovens and grills, cooking table cookers, hob elements, grills and 
+separate  stationary  ovens  and  grills,  cooking  table  cookers,  hob  elements,  grills  and 
 griddles which form part of cooking ranges, and ovens and grills for installation in walls 
 except a cooking range having a mass of less than 18 kg. 
  
 Hairdryer namely an electrically operated appliance intended to be used for the drying of 
 hair of persons and incorporating heating elements. 
  
-High-fidelity set namely an electronic device for reproduction of sounds, with little 
+High-fidelity  set  namely  an  electronic  device  for  reproduction  of  sounds,  with  little 
 distortion, connected to the supply mains as the only energy source intended for domestic 
 and similar general indoor use with a rated supply voltage not exceeding 250 volts rms. 
  
-Audio product (other than a High-fidelity set) namely an electronic device for the 
+Audio  product  (other  than  a  High-fidelity  set)  namely  an  electronic  device  for  the 
 reproduction of sound, connected to the supply mains, either directly or indirectly. 
  
-Iron namely an electrically operated appliance with a heated soleplate for ironing of 
+Iron  namely  an  electrically  operated  appliance  with  a  heated  soleplate  for  ironing  of 
 clothes, for household and similar purposes. 
  
-Kettle namely an electrically operated household appliance for heating of water for 
+Kettle  namely  an  electrically  operated  household  appliance  for  heating  of  water  for 
 consumption, having a rated capacity not exceeding 10 litres. 
  
 Microwave oven namely an electrically operated appliance for heating food and beverages 
@@ -400,15 +339,14 @@ mounting in a window or through the wall or as a console. It is designed primari
 provide free delivery of conditioned air to an enclosed space, room or zone (conditioned 
 space). It includes a prime source of refrigeration for cooling and dehumidification and 
 means for the circulation and the cleaning of air, and a drain arrangement for collecting or 
-disposing any condensate. It may also include means for humidifying, ventilating or 
+disposing  any  condensate.  It  may  also  include  means  for  humidifying,  ventilating  or 
 exhausting air. 
  
 Table or standing fan namely an electrically operated appliance for agitating the air, and 
-their associated regulator intended for use on single-phase a.c. and d.c. circuits not 
+their  associated  regulator  intended  for  use  on  single-phase  a.c.  and  d.c.  circuits  not 
 exceeding 250 volts and intended for household use and similar purposes. 
-Annex 5-A – Electronics 
- 
-9 
+8 
+ Annex 5-A – Electronics 
  
 Television or video display unit namely an electronic device for receiving and displaying 
 information from a transmitting station or local source, connected to the supply mains, 
@@ -426,7 +364,7 @@ Table lamp or standing lamp namely a portable general purpose luminaire, other t
 handlamps, for use with tungsten filament, tubular fluorescent and other discharge lamps 
 connected to the supply mains, either directly or indirectly. 
  
-Toaster, grill, roaster, hotplate and similar appliances namely electric appliances 
+Toaster,  grill,  roaster,  hotplate  and  similar  appliances  namely  electric  appliances 
 connected to the supply mains, which make use of direct or indirect (e.g. heated medium 
 such as air and cooking oil) heat for food preparation and intended for household use. 
  
@@ -435,7 +373,7 @@ mounting on the wall or ceiling and for use on a single phase a.c. and d.c. circ
 exceeding 250 volts for household and similar purposes. 
  
 Adaptor namely a device designed to supply a.c. or d.c. power from an a.c. or d.c. source, 
-either by itself or as part of an accessory, for applications such as computers, 
+either  by  itself  or  as  part  of  an  accessory,  for  applications  such  as  computers, 
 telecommunication equipment, home entertainment equipment or toys. 
  
 Coffee maker, slow cooker, steam boat and similar appliances namely electrically operated 
@@ -457,16 +395,15 @@ Home computer system (inclusive of monitor, printer, speaker and other mains ope
 accessories) namely a microprocessor based data system with compact, local computing 
 and calculating power on high definition graphics and with flexible data communication 
 interfacing. 
-Annex 5-A – Electronics 
- 
-10 
+9 
+ Annex 5-A – Electronics 
  
 Decorative lighting fixture namely lighting chains fitted with a series or parallel connected 
 incandescent lamps for use either indoors or outdoors on supply voltages not exceeding 
 250 volts. 
  
 3-pin rectangular type 13-amp plug namely a portable fused device having projecting pins 
-designed to engage with the contacts of a corresponding socket-outlet. A plug also 
+designed  to  engage  with  the  contacts  of  a  corresponding  socket-outlet.  A  plug  also 
 incorporates means for the electrical connection and the mechanical retention of a suitable 
 flexible cord. 
  
@@ -482,8 +419,8 @@ for connection to a suitable flexible cord.
 Multi-way adaptor namely an adaptor having more than one set of socket contacts (the 
 socket contacts may or may not be of the same type or rating as the plug pin portion). 
  
-3-pin portable socket-outlet namely an accessory having a set of 3 socket-contacts 
-designed to engage with the pins of a corresponding plug and having means for the 
+3-pin  portable  socket-outlet  namely  an  accessory  having  a  set  of  3  socket-contacts 
+designed to engage with the pins of  a  corresponding plug  and having means  for the 
 electrical connection of appropriate cables or flexible cords, for connection to, or integral 
 with, a flexible cord, and which can be easily moved from one place to another while 
 connected to the supply. 
@@ -508,12 +445,11 @@ an appropriate earth electrode.
  
 3-pin 13-Ampere Socket-outlet namely a 13A shuttered socket-outlet in single or multiple 
 arrangements with associated controlling switches, for flush mounting in suitable box or 
-Annex 5-A – Electronics 
- 
-11 
+10 
+ Annex 5-A – Electronics 
  
 for surface or panel mounting. The socket-outlet is suitable for the connection of portable 
-appliances, sound-vision equipment, luminaries, etc., in a.c. circuits only operating at 
+appliances, sound-vision equipment, luminaries, etc., in a.c.  circuits  only operating at 
 voltage not exceeding 250 V r.m.s at 50 Hz. 
  
 3-pin round type 15-ampere Socket-outlet namely a 15A shuttered socket-outlet which 
@@ -524,7 +460,7 @@ circuits only operating at voltage not exceeding 250 V r.m.s at 50 Hz.
  
 Domestic electric wall switch namely a manually operated general purpose switch for a.c. 
 only with a rated voltage not exceeding 440V and a rated current not exceeding 63A, 
-intended for household and similar fixed-electrical installations, either indoors or 
+intended  for  household  and  similar  fixed-electrical  installations,  either  indoors  or 
 outdoors. 
  
 Ballast for tubular fluorescent lamp namely a unit inserted between the supply and one or 
@@ -533,42 +469,38 @@ inductance and capacitance or electronic circuitry, serves mainly to limit the c
 lamp(s) to the required value. 
  
 Isolating Transformer for downlight fitting namely a transformer with input and output 
-windings of which are electrically separated to limit hazards due to accidental 
+windings  of  which  are  electrically  separated  to  limit  hazards  due  to  accidental 
 simultaneous contact with earth and live parts or metal parts which may become live in the 
 event of an insulation failure. 
  
  
- 
- 
-Annex 5-A – Electronics 
- 
-12 
+   
+11 
+ Annex 5-A – Electronics 
  
 APPENDIX 5-A-3 
 DEFINITIONS 
  
 For the purposes of Annex 5-A, the following definitions shall apply: 
  
-“safety of electrical equipment” means that equipment, having been constructed in 
+“safety  of  electrical  equipment”  means  that  equipment,  having  been  constructed  in 
 accordance with good engineering practice in safety matters, does not endanger the safety 
 of persons, domestic animals or property when properly installed, maintained and used in 
 applications for which it was made; 
  
-“electromagnetic compatibility” means that equipment shall be designed and 
+“electromagnetic  compatibility”  means  that  equipment  shall  be  designed  and 
 manufactured, having regard to the state of the art, so as to ensure that: 
  
-(a)  
-the electromagnetic disturbance generated does not exceed the level above which 
+(a)   the electromagnetic disturbance generated does not exceed the level above which 
 radio and telecommunications equipment or other equipment cannot operate as intended; 
 and 
  
-(b)  
-it has a level of immunity to the electromagnetic disturbance to be expected in its 
+(b)   it has a level of immunity to the electromagnetic disturbance to be expected in its 
 intended use which allows it to operate without unacceptable degradation of its intended 
 use; 
  
-“electromagnetic disturbance” means any electromagnetic phenomenon which may 
-degrade the performance of equipment, including electromagnetic noise, an unwanted 
+“electromagnetic  disturbance”  means  any  electromagnetic  phenomenon  which  may 
+degrade  the  performance  of  equipment,  including  electromagnetic  noise,  an  unwanted 
 signal or a change in the propagation medium itself; 
  
 “immunity” means the ability of equipment to perform as intended without degradation in 
@@ -585,6 +517,8 @@ responsibility for the presentation of the supplier’s declaration shall rest w
 and has received attestation conveying formal demonstration of its competence to carry 
 out these specific tasks;  
  
-The definitions of “standard”, “technical regulation” and “conformity assessment 
+The  definitions  of  “standard”,  “technical  regulation”  and  “conformity  assessment 
 procedures” are those provided in Annex I of the TBT Agreement. 
+ 
+12 
  

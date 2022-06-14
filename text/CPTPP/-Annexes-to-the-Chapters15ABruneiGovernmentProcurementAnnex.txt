@@ -13,14 +13,10 @@ Thresholds:
  
 Chapter 15 (Government Procurement) shall apply to the Central Government Entities 
 listed in this Section where the value of procurement is estimated to equal or exceed the 
-following thresholds:  
+following thresholds:   
  
  
-Goods and Services 
- 
- 
- 
-250,000 SDRs 
+Goods and Services        250,000 SDRs 
 From the beginning of the first year to the end of 
 the second year following entry into force of this 
 Agreement for Brunei Darussalam; 
@@ -28,491 +24,314 @@ Agreement for Brunei Darussalam;
 190,000 SDRs 
 From the beginning of the third year to the end 
 of the fourth year following entry into force of 
-this Agreement for Brunei Darussalam; and  
+this Agreement for Brunei Darussalam; and   
  
 130,000 SDRs 
 From the beginning of the fifth year following 
-entry into force of this Agreement for Brunei 
-Darussalam and thereafter.  
+entry  into force of this Agreement for Brunei 
+Darussalam and thereafter.   
  
-Construction Services  
- 
- 
-5,000,000 SDRs 
+Construction Services       5,000,000 SDRs 
  
  
 List of Entities: 
  
-1. 
-Prime Minister’s Office 
-(a) 
-Audit Department 
-(b) 
-Anti-Corruption Bureau 
-(c) 
-Attorney General’s Chambers 
-(d) 
-Councils of State 
-(e) 
-Civil Service Institute 
-(f) 
-Department of Economic Planning and Development  
-(g) 
-E-Government National Centre 
-(h) 
-Government Printing 
-(i) 
-Internal Security 
-ANNEX 15-A – BRUNEI DARUSSALAM – 1 
+1.  Prime Minister’s Office 
+(a)  Audit Department 
+(b)  Anti-Corruption Bureau 
+(c)  Attorney General’s Chambers 
+(d)  Councils of State 
+(e)  Civil Service Institute 
+(f)  Department of Economic Planning and Development   
+(g)  E-Government National Centre 
+(h)  Government Printing 
+(i)  Internal Security 
+ANNEX 15-A – BRUNEI DARUSSALAM – 1  
+(j)  Information 
+(k)  Management Services 
+(l)  Narcotics Control Bureau 
+(m)  Public Service Department 
+(n)  Public Service Commission 
+(o)  Radio Television Brunei 
+(p)  Royal Customs and Traditions 
+(q)  Royal Brunei Police Force 
+(r)  State Mufti 
+(s)  State Judiciary 
+(t)  Department of Electrical Services 
+(u)  Energy Department 
+(v)  Brunei Research Department 
+(w)  Brunei Industry Development Authority (BINA)   
  
-(j) 
-Information 
-(k) 
-Management Services 
-(l) 
-Narcotics Control Bureau 
-(m) Public Service Department 
-(n) 
-Public Service Commission 
-(o) 
-Radio Television Brunei 
-(p) 
-Royal Customs and Traditions 
-(q) 
-Royal Brunei Police Force 
-(r) 
-State Mufti 
-(s) 
-State Judiciary 
-(t) 
-Department of Electrical Services 
-(u) 
-Energy Department 
-(v) 
-Brunei Research Department 
-(w) Brunei Industry Development Authority (BINA)  
- 
-2. 
-Ministry of Defence 
-(a) 
-Directorate of Administration and Manpower 
-(b) 
-Directorate of Finance and Acquisition 
-(c) 
-Directorate of Development & Works Services 
-(d) 
-Directorate of Operations 
-(e) 
-Directorate of Personnel 
-(f) 
-Directorate of Logistics  
-(g) 
-Directorate of Defence Policy 
-(h) 
-Royal Brunei Armed Forces 
-(i) 
-Directorate of Intelligence 
-(j) 
-Directorate of Force Capability Development 
-(k) 
-Sultan Haji Hassanal Bolkiah Institute of Defence and Strategic Studies 
-(l) 
-The Centre of Science And Technology Research And Development 
+2.  Ministry of Defence 
+(a)  Directorate of Administration and Manpower 
+(b)  Directorate of Finance and Acquisition 
+(c)  Directorate of Development & Works Services 
+(d)  Directorate of Operations 
+(e)  Directorate of Personnel 
+(f)  Directorate of Logistics   
+(g)  Directorate of Defence Policy 
+(h)  Royal Brunei Armed Forces 
+(i)  Directorate of Intelligence 
+(j)  Directorate of Force Capability Development 
+(k)  Sultan Haji Hassanal Bolkiah Institute of Defence and Strategic Studies 
+(l)  The  Centre  of  Science  And  Technology  Research  And  Development 
 (CSTRAD) 
-(m) Office Strategy Management 
-(n) 
-Technical Equipment Maintenance Division 
-(o) 
-Calibration Centre 
-(p) 
-Royal Brunei Armed Forces Religious Department 
+(m)  Office Strategy Management 
+(n)  Technical Equipment Maintenance Division 
+(o)  Calibration Centre 
+(p)  Royal Brunei Armed Forces Religious Department 
  
-3. 
-Ministry of Finance 
-(a) 
-Supply and State Stores Department 
-(b) 
-Royal Custom and Excise Department 
-(c) 
-Treasury Department 
-(d) 
-His Majesty Sultan’s Flight Department 
+3.  Ministry of Finance 
+(a)  Supply and State Stores Department 
+(b)  Royal Custom and Excise Department 
+(c)  Treasury Department 
+(d)  His Majesty Sultan’s Flight Department 
  
-4. 
-Ministry of Foreign Affairs and Trade 
-(a) 
-Administration Department 
-(b) 
-Information and Communication Department 
-(c) 
-Protocol and Consular Affairs Department 
-(d) 
-Policy Planning Department 
-(e) 
-Politics I Department 
-(f) 
-Politics II Department 
-ANNEX 15-A – BRUNEI DARUSSALAM – 2 
+4.  Ministry of Foreign Affairs and Trade 
+(a)  Administration Department 
+(b)  Information and Communication Department 
+(c)  Protocol and Consular Affairs Department 
+(d)  Policy Planning Department 
+(e)  Politics I Department 
+(f)  Politics II Department 
+ANNEX 15-A – BRUNEI DARUSSALAM – 2  
+(g)  ASEAN Department 
+(h)  International Organisation Department 
+(i)  Economic Cooperation Department 
+(j)  Trade Development 
+(k)  International Trade Department 
+(l)  Security Department 
  
-(g) 
-ASEAN Department 
-(h) 
-International Organisation Department 
-(i) 
-Economic Cooperation Department 
-(j) 
-Trade Development 
-(k) 
-International Trade Department 
-(l) 
-Security Department 
+5.   Ministry of Education 
+(a)  Department of Administration and Services 
+(b)  Planning and Estate Management Department 
+(c)  Department of Schools 
+(d)  Department of Schools Inspectorate 
+(e)  Curriculum Development Department 
+(f)  Examinations Department 
+(g)  Department of Planning, Development and Research 
+(h)  Department of Information and Communication Technology 
+(i)  Department of Co-Curricular Education 
+(j)  Department of Technical Education 
+(k)  University Brunei Darussalam 
+(l)  Sultan Sharif Ali Islamic University 
+(m)  Brunei Institute of Technology 
+(n)  Department of Human Resources Development 
  
-5.  
-Ministry of Education 
-(a) 
-Department of Administration and Services 
-(b) 
-Planning and Estate Management Department 
-(c) 
-Department of Schools 
-(d) 
-Department of Schools Inspectorate 
-(e) 
-Curriculum Development Department 
-(f) 
-Examinations Department 
-(g) 
-Department of Planning, Development and Research 
-(h) 
-Department of Information and Communication Technology 
-(i) 
-Department of Co-Curricular Education 
-(j) 
-Department of Technical Education 
-(k) 
-University Brunei Darussalam 
-(l) 
-Sultan Sharif Ali Islamic University 
-(m) Brunei Institute of Technology 
-(n) 
-Department of Human Resources Development 
+6.  Ministry of Health 
+(a)  Finance and Administration Department 
+(b)  Policy and Planning Department 
+(c)  Health Care Technology Department 
+(d)  Department of Health Services 
+(e)  Department of Medical Services 
+(f)  Estate Management Department 
  
-6. 
-Ministry of Health 
-(a) 
-Finance and Administration Department 
-(b) 
-Policy and Planning Department 
-(c) 
-Health Care Technology Department 
-(d) 
-Department of Health Services 
-(e) 
-Department of Medical Services 
-(f) 
-Estate Management Department 
+7.  Ministry of Development 
+(a)  Public Works Department 
+(b)  Town and Country Planning Department 
+(c)  Land Department 
+(d)  Survey Department 
+(e)  Housing Development Department 
+(f)  Environment, Parks and Recreation Department 
  
-7. 
-Ministry of Development 
-(a) 
-Public Works Department 
-(b) 
-Town and Country Planning Department 
-(c) 
-Land Department 
-(d) 
-Survey Department 
-(e) 
-Housing Development Department 
-(f) 
-Environment, Parks and Recreation Department 
+8.  Ministry of Communications 
+(a)  Marine Department 
+(b)  Ports Department 
+(c)  Department of Civil Aviation 
+(d)  Land Transport Department 
+(e)  Department of Postal Services 
+(f)  Brunei Darussalam Meteorological Department 
  
-8. 
-Ministry of Communications 
-(a) 
-Marine Department 
-(b) 
-Ports Department 
-(c) 
-Department of Civil Aviation 
-(d) 
-Land Transport Department 
-(e) 
-Department of Postal Services 
-(f) 
-Brunei Darussalam Meteorological Department 
+ANNEX 15-A – BRUNEI DARUSSALAM – 3  
+9.  Ministry of Primary Resources and Tourism 
+(a)  Agriculture and Agrifood Department 
+(b)  Forestry Department 
+(c)  Fisheries Department 
+(d)  Tourism Development Department 
  
-ANNEX 15-A – BRUNEI DARUSSALAM – 3 
+10.  Ministry of Religious Affairs 
+(a)  Administration Department 
+(b)  Islamic Religious Council Office 
+(c)  Department of Syariah Affairs 
+(d)  Haj Department 
+(e)  Department of Mosques Affairs 
+(f)  Department of Islamic Studies 
+(g)  Islamic Dakwah Centre   
+(h)  Religious Office Belait District 
+(i)  Religious Office Tutong District 
+(j)  Religious Office Temburong District 
+(k)  Institute Tahfiz Al Quran Sultan Haji Hassanal Bolkiah 
+(l)  University College Religious Teachers’ Seri Begawan 
+(m)  Islamic Legal Unit 
  
-9. 
-Ministry of Primary Resources and Tourism 
-(a) 
-Agriculture and Agrifood Department 
-(b) 
-Forestry Department 
-(c) 
-Fisheries Department 
-(d) 
-Tourism Development Department 
+11.  Ministry of Home Affairs 
+(a)  Brunei/Muara District Office 
+(b)  Tutong District Office 
+(c)  Belait District Office 
+(d)  Temburong District Office 
+(e)  Bandar Seri Begawan Municipal Board 
+(f)  Tutong Municipal Board 
+(g)  Kuala Belait and Seria Municipal Board 
+(h)  Immigration and National Registration Department 
+(i)  Labour Department 
+(j)  Prison Department 
+(k)  Fire and Rescue Department 
+(l)  National Disaster Management Centre 
  
-10. 
-Ministry of Religious Affairs 
-(a) 
-Administration Department 
-(b) 
-Islamic Religious Council Office 
-(c) 
-Department of Syariah Affairs 
-(d) 
-Haj Department 
-(e) 
-Department of Mosques Affairs 
-(f) 
-Department of Islamic Studies 
-(g) 
-Islamic Dakwah Centre  
-(h) 
-Religious Office Belait District 
-(i) 
-Religious Office Tutong District 
-(j) 
-Religious Office Temburong District 
-(k) 
-Institute Tahfiz Al Quran Sultan Haji Hassanal Bolkiah 
-(l) 
-University College Religious Teachers’ Seri Begawan 
-(m) Islamic Legal Unit 
- 
-11. 
-Ministry of Home Affairs 
-(a) 
-Brunei/Muara District Office 
-(b) 
-Tutong District Office 
-(c) 
-Belait District Office 
-(d) 
-Temburong District Office 
-(e) 
-Bandar Seri Begawan Municipal Board 
-(f) 
-Tutong Municipal Board 
-(g) 
-Kuala Belait and Seria Municipal Board 
-(h) 
-Immigration and National Registration Department 
-(i) 
-Labour Department 
-(j) 
-Prison Department 
-(k) 
-Fire and Rescue Department 
-(l) 
-National Disaster Management Centre 
- 
-12. 
-Ministry of Culture Youth and Sports 
-(a) 
-Brunei Darussalam History Centre 
-(b) 
-Youth and Sports Department 
-(c) 
-Museums Department 
-(d) 
-Community Development Department 
-(e) 
-Language and Literature Bureau 
+12.  Ministry of Culture Youth and Sports 
+(a)  Brunei Darussalam History Centre 
+(b)  Youth and Sports Department 
+(c)  Museums Department 
+(d)  Community Development Department 
+(e)  Language and Literature Bureau 
  
 Note to Section A 
  
 All agencies subordinate to the above listed entities are covered. 
- 
- 
-ANNEX 15-A – BRUNEI DARUSSALAM – 4 
- 
+   
+ANNEX 15-A – BRUNEI DARUSSALAM – 4  
  
  
 SECTION B: Sub-Central Government Entities  
  
  
- 
-Not applicable for Brunei Darussalam as Brunei Darussalam does not have any sub-
+  Not applicable for Brunei Darussalam as Brunei Darussalam does not have any sub-
 central government entities. 
  
+   
+ANNEX 15-A – BRUNEI DARUSSALAM – 5  
  
  
-ANNEX 15-A – BRUNEI DARUSSALAM – 5 
- 
- 
- 
-SECTION C: Other Entities  
+SECTION C: Other Entities   
  
  
 Thresholds: 
  
- 
-Chapter 15 (Government Procurement) shall apply to the other entities listed in this 
-Section where the value of procurement is estimated to equal or exceed the following 
+  Chapter 15 (Government Procurement) shall apply to the other entities listed in this 
+Section  where  the  value  of  procurement  is  estimated  to  equal  or  exceed  the  following 
 thresholds:  
  
  
-Goods and Services 
- 
- 
- 
-500,000 SDRs 
+Goods and Services        500,000 SDRs 
 From the beginning of the first year to the end 
 of the second year following entry into force of 
-this Agreement for Brunei Darussalam;  
+this Agreement for Brunei Darussalam;   
  
 315,000 SDRs 
 From the beginning of the third year to the end 
 of the fourth year following entry into force of 
-this Agreement for Brunei Darussalam; and  
+this Agreement for Brunei Darussalam; and   
  
  
 130,000 SDRs 
 From the beginning of the fifth year following 
 entry into force of this Agreement for Brunei 
-Darussalam and thereafter.  
+Darussalam and thereafter.   
  
-Construction Services  
- 
- 
-5,000,000 SDRs 
+Construction Services       5,000,000 SDRs 
  
  
 List of Entities: 
  
-1. 
-Monetary Authority of Brunei Darussalam (Autoriti Monetari Brunei Darussalam) 
+1.  Monetary Authority of Brunei Darussalam (Autoriti Monetari Brunei Darussalam) 
  
-2. 
-Employee Trust Fund (Tabung Amanah Pekerja) 
+2.  Employee Trust Fund (Tabung Amanah Pekerja) 
  
  
 Note to Section C 
  
- 
-Chapter 15 (Government Procurement) shall not apply to any procurement by or on 
+  Chapter 15 (Government Procurement) shall not apply to any procurement by or on 
 behalf of Monetary Authority of Brunei Darussalam (Autoriti Monetari Brunei Darussalam) of 
 direct inputs for the use in minting of Brunei Darussalam coins. 
  
- 
- 
-ANNEX 15-A – BRUNEI DARUSSALAM – 6 
- 
+   
+ANNEX 15-A – BRUNEI DARUSSALAM – 6  
  
  
 SECTION D: Goods 
  
  
- 
-Chapter 15 (Government Procurement) shall apply to all goods procured by entities 
-listed in Sections A and C, unless otherwise specified in Chapter 15 (Government 
+  Chapter 15 (Government Procurement) shall apply to all goods procured by entities 
+listed  in  Sections  A  and  C,  unless  otherwise  specified  in  Chapter  15  (Government 
 Procurement), including this Schedule. 
  
  
- 
- 
-ANNEX 15-A – BRUNEI DARUSSALAM – 7 
- 
+   
+ANNEX 15-A – BRUNEI DARUSSALAM – 7  
  
  
 SECTION E: Services 
  
  
- 
-Chapter 15 (Government Procurement) shall apply to all services procured by entities 
-listed in Sections A and C, unless otherwise specified in Chapter 15 (Government 
+  Chapter 15 (Government Procurement) shall apply to all services procured by entities 
+listed  in  Sections  A  and  C,  unless  otherwise  specified  in  Chapter  15  (Government 
 Procurement), including this Schedule. 
  
  
- 
- 
-ANNEX 15-A – BRUNEI DARUSSALAM – 8 
- 
+   
+ANNEX 15-A – BRUNEI DARUSSALAM – 8  
  
  
 SECTION F: Construction Services 
  
  
- 
-Chapter 15 (Government Procurement) shall apply to all construction services 
+  Chapter  15  (Government  Procurement)  shall  apply  to  all  construction  services 
 procured by entities listed in Sections A and C, unless otherwise specified in Chapter 15 
 (Government Procurement), including in this Schedule. 
  
  
- 
- 
-ANNEX 15-A – BRUNEI DARUSSALAM – 9 
- 
+   
+ANNEX 15-A – BRUNEI DARUSSALAM – 9  
  
  
 SECTION G: General Notes 
  
  
+  For greater certainty, Chapter 15 (Government Procurement) shall not apply to: 
  
-For greater certainty, Chapter 15 (Government Procurement) shall not apply to: 
+(a)    any procurement by the office of Nurul Iman’s Palace (Istana Nurul Iman); 
  
-(a)  
-any procurement by the office of Nurul Iman’s Palace (Istana Nurul Iman); 
- 
-(b) 
-any procurement made by a covered entity on behalf of a non-covered entity; 
+(b)  any procurement made by a covered entity on behalf of a non-covered entity; 
  and 
  
-(c) 
-any government procurement measures to benefit small and medium 
- 
-enterprises, that are applied in a manner consistent with obligations in Chapter 
- 
-15 (Government Procurement) with respect to the covered procurement set 
- 
-out in this Schedule. 
+(c)  any  government  procurement  measures  to  benefit  small  and  medium 
+  enterprises, that are applied in a manner consistent with obligations in Chapter 
+  15 (Government Procurement) with respect to the covered procurement set 
+  out in this Schedule. 
  
  
- 
- 
-ANNEX 15-A – BRUNEI DARUSSALAM – 10 
- 
+   
+ANNEX 15-A – BRUNEI DARUSSALAM – 10  
  
  
 SECTION H: Threshold Adjustment Formula 
  
  
-1. 
-The thresholds shall be adjusted in every even-numbered year with each adjustment 
+1.  The thresholds shall be adjusted in every even-numbered year with each adjustment 
 taking effect on January 1, beginning on January 1 of the first even-numbered year after the 
 date of entry into force of this Agreement for Brunei Darussalam. 
  
-2. 
-Every two years, Brunei Darussalam shall calculate and publish the value of the 
-thresholds under Chapter 15 (Government Procurement) expressed in Brunei Dollar.  These 
+2.  Every two  years, Brunei Darussalam shall calculate and publish the value of the 
+thresholds under Chapter 15 (Government Procurement) expressed in Brunei Dollar.   These 
 calculations shall be based on the conversion rates published by the International Monetary 
 Fund in its monthly International Financial Statistics. 
  
-3. 
-The conversion rates shall be the average of the daily values of the Brunei Dollar in 
+3.  The conversion rates shall be the average of the daily values of the Brunei Dollar in 
 terms of the Special Drawing Rights (SDRs) over the two-year period preceding October 1 of 
 the year before the adjusted thresholds are to take effect, and rounded to the nearest Brunei 
 Dollar. 
  
-4.  
-Brunei Darussalam shall notify the other Parties of the current thresholds in its 
+4.   Brunei  Darussalam  shall  notify  the  other  Parties  of  the  current  thresholds  in  its 
 respective currency immediately after the date of entry into force of this Agreement, and the 
 adjusted thresholds in its respective currency thereafter in a timely manner. 
   
-5. 
-Brunei Darussalam shall consult if a major change in its national currency relative to 
+5.  Brunei Darussalam shall consult if a major change in its national currency relative to 
 the SDR or to the national currency of another Party were to create a significant problem with 
 regard to the application of Chapter 15 (Government Procurement). 
  
  
- 
- 
-ANNEX 15-A – BRUNEI DARUSSALAM – 11 
- 
+   
+ANNEX 15-A – BRUNEI DARUSSALAM – 11  
  
  
 SECTION I: Procurement Information 
@@ -522,21 +341,18 @@ All information on government procurement is published on the following websites
  
 Rules and Regulations: http://www.mof.gov.bn/index.php/tender-process 
  
-Notices of intended procurement: http://www.pelitabrunei.gov.bn/iklan/tawaran  
+Notices of intended procurement: http://www.pelitabrunei.gov.bn/iklan/tawaran   
  
  
- 
- 
-ANNEX 15-A – BRUNEI DARUSSALAM – 12 
- 
+   
+ANNEX 15-A – BRUNEI DARUSSALAM – 12  
  
  
 SECTION J: Transitional Measures 
  
  
-1. 
-Notwithstanding the requirement in Article 15.7.3(b) and (i) (Notices of Intended 
-Procurement) that specified information must be included in the notice of intended 
+1.  Notwithstanding the requirement in Article 15.7.3(b) and (i) (Notices of Intended 
+Procurement)  that  specified  information  must  be  included  in  the  notice  of  intended 
 procurement, Brunei Darussalam may omit from its notices of intended procurement the 
 information required in Article 15.7.3(b) and (i) (Notices of Intended Procurement) for three 
 years after the date of entry into force of this Agreement.  During this transitional period, 
@@ -544,42 +360,35 @@ Brunei Darussalam shall provide the information required in Article 15.7.3(b) (N
 Intended Procurement) in its tender documentation, provided that it complies with Article 
 15.4 (General Principles). 
  
-2. 
-Notwithstanding the requirement in Article 15.16.3 (Post-Award Information) that the 
+2.  Notwithstanding the requirement in Article 15.16.3 (Post-Award Information) that the 
 procuring entity publish a notice of the award of a contract, Brunei Darussalam may delay 
-application of this requirement for three years after the date of entry into force of this 
-Agreement.  During this transitional period, Brunei Darussalam shall provide information, 
+application of this requirement for three  years after  the date of  entry into force of this 
+Agreement.   During this transitional period, Brunei Darussalam shall provide information, 
 upon request of suppliers of other Parties, with respect to its contract awards. 
  
-3. 
-Notwithstanding Article 15.19 (Domestic Review), Brunei Darussalam may delay 
+3.  Notwithstanding Article 15.19 (Domestic Review), Brunei Darussalam may delay 
 application of its obligations under Article 15.19 (Domestic Review) for five years after the 
-date of entry into force of this Agreement.  During this transitional period, Brunei 
+date  of  entry  into  force  of  this  Agreement.    During  this  transitional  period,  Brunei 
 Darussalam shall allow suppliers of other Parties to take complaints about the conduct of a 
 covered procurement to the procuring entity, provided that it complies with Article 15.4 
 (General Principles). 
  
-4. 
-Notwithstanding the requirements in Article 15.7.1 (Notices of Intended 
+4.  Notwithstanding  the  requirements  in  Article  15.7.1  (Notices  of  Intended 
 Procurement), Article 15.9.3 (Qualification of Suppliers), and Article 15.14.2 (Time Periods), 
 Brunei Darussalam may delay implementation of the requirements to publish a notice of 
 intended procurement where it uses a multi-use list for the procurement of certain services, 
-for three years after the date of entry into force of this Agreement.  During this transitional 
+for three years after the date of entry into force of this Agreement.   During this transitional 
 period, Brunei Darussalam shall: 
  
-(a) 
-notify all suppliers on the relevant multi-use list of procurement opportunities; 
+(a)  notify all suppliers on the relevant multi-use list of procurement opportunities; 
  
-(b) 
-establish that the final date for submission of requests for participation in 
+(b)  establish that the final date for submission of requests for participation in 
 Article 15.14.2 (Time Periods) shall be from the date of such notification; and 
  
-(c) 
-provide an electronic link to procuring entities’ multi-use lists via the Ministry 
+(c)  provide an electronic link to procuring entities’ multi-use lists via the Ministry 
 of Finance website at www.mof.gov.bn, 
  
 provided that it complies with Article 15.4 (General Principles). 
  
-5. 
-Transitional thresholds are applied as provided for in Sections A and C. 
+5.  Transitional thresholds are applied as provided for in Sections A and C. 
 ANNEX 15-A – BRUNEI DARUSSALAM – 13 

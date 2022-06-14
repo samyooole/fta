@@ -1,5 +1,3 @@
-83 
- 
  
  
  
@@ -42,11 +40,9 @@ NEW CHAPTER 17 (ENVIRONMENT AND TRADE)
  
  
  
- 
- 
-84 
- 
- 
+   
+83 
+  
  
  
  
@@ -57,34 +53,29 @@ ENVIRONMENT AND TRADE
 ARTICLE 1 
 Context and Objectives 
  
-1. 
-Recalling the Stockholm Declaration on the Human Environment of 1972, the Rio 
-Declaration on Environment and Development of 1992, Agenda 21 of 1992, the 
-Johannesburg Plan of Implementation on Sustainable Development of 2002, the 
+1.  Recalling the Stockholm Declaration on the Human Environment of 1972, the Rio 
+Declaration  on  Environment  and  Development  of  1992,  Agenda  21  of  1992,  the 
+Johannesburg  Plan  of  Implementation  on  Sustainable  Development  of  2002,  the 
 Rio+20 Outcome Document “The Future We Want” of 2012, and the Transforming our 
 world: the 2030 Agenda for Sustainable Development, the Parties acknowledge that 
-economic development, social development and environmental protection are 
+economic  development,  social  development  and  environmental  protection  are 
 interdependent and mutually supportive components of sustainable development.  
  
-2. 
-The Parties reaffirm their commitments to promoting economic development in 
+2.  The Parties reaffirm their commitments to promoting economic development in 
 such a way as to contribute to the objective of sustainable development. 
  
-3. 
-The Parties agree that environmental standards should not be used for trade 
+3.  The Parties agree that environmental standards should not be used for trade 
 protectionist purposes. 
  
  
 ARTICLE 2 
 Levels of Protection 
  
-1. 
-The Parties reaffirm each Party’s sovereign right to establish its own levels of 
+1.  The Parties reaffirm each Party’s sovereign right to establish its own levels of 
 environmental protection and its own environmental development priorities, and adopt 
 or modify its environmental laws and policies.  
  
-2. 
-Each Party shall seek to ensure that those laws and policies provide for and 
+2.  Each Party shall seek to ensure that those laws and policies provide for and 
 encourage high levels of environmental protection, and shall strive to implement these 
 laws and policies effectively. Each Party shall also strive to continue to improve its 
 respective levels of environmental protection.  
@@ -93,37 +84,31 @@ respective levels of environmental protection.
 ARTICLE 3 
 Multilateral Environmental Agreements 
  
-1. 
-The Parties recognise that multilateral environmental agreements (MEAs) play an 
+1.  The Parties recognise that multilateral environmental agreements (MEAs) play an 
 important role globally and domestically in protecting the environment. The Parties 
-further recognise that this Chapter can contribute to realising the goals of such 
+further  recognise  that  this  Chapter  can  contribute  to  realising  the  goals  of  such 
 agreements.  
  
-2. 
-The Parties strive to consult and cooperate as appropriate with respect to MEAs 
-to which both Parties are party, on trade-related environmental issues of mutual 
+2.  The Parties strive to consult and cooperate as appropriate with respect to MEAs 
+to  which both Parties are party, on trade-related environmental issues of mutual 
 interest.     
-85 
- 
- 
+84 
+  
  
 ARTICLE 4 
 Enforcement of Environmental Measures Including Laws and Regulations 
  
-1. 
-A Party shall not fail to effectively enforce its environmental measures including 
+1.  A Party shall not fail to effectively enforce its environmental measures including 
 laws and regulations, through a sustained or recurring course of action or inaction, in 
 a manner affecting trade or investment between the Parties.   
   
-2. 
-The Parties recognise that it is inappropriate to encourage trade or investment by 
+2.  The Parties recognise that it is inappropriate to encourage trade or investment by 
 weakening or reducing the protections afforded in its environmental laws, regulations, 
 policies and practices. Accordingly, neither Party shall waive or otherwise derogate 
 from such laws, regulations, policies and practices in a manner that weakens or 
 reduces the protections afforded in those laws, regulations, policies and practices. 
  
-3. 
-Nothing in this Chapter shall be construed to empower a Party’s authorities to 
+3.  Nothing in this Chapter shall be construed to empower a Party’s authorities to 
 undertake environmental law enforcement activities in the territory of the other Party.  
  
  
@@ -133,7 +118,7 @@ Bilateral Cooperation
 Recognising the importance of cooperation on environmental issues in achieving the 
 goals of sustainable development, the Parties commit to implementing cooperation 
 through existing bilateral agreements, such as the Memorandum of Understanding on 
-Environmental Cooperation between the Ministry of the Environment and Water 
+Environmental  Cooperation  between  the  Ministry  of  the  Environment  and  Water 
 Resources of the Republic of Singapore and the Ministry of Ecology and Environment 
 of the People’s Republic of China signed on 12 November 2018, and to enhancing 
 cooperation in areas of common interest as appropriate. 
@@ -156,4 +141,6 @@ arising under this Chapter.
  
  
  
+ 
+85 
  

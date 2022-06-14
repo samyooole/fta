@@ -1,4 +1,3 @@
-ANNEX III – PERU – 1 
  
  
 ANNEX III 
@@ -8,122 +7,96 @@ SCHEDULE OF PERU
  
 HEADNOTES 
  
-1. 
-Commitments under Chapter 11 (Financial Services), in the sector and sub-sectors 
+1.  Commitments under Chapter 11 (Financial Services), in the sector and sub-sectors 
 listed in this Schedule, are undertaken subject to the limitations and conditions set forth in 
 these headnotes and in the Schedule below. 
  
-2. 
-To clarify the commitment of Peru with respect to Article 11.5 (Market Access for 
+2.  To clarify the commitment of Peru with respect to Article 11.5 (Market Access for 
 Financial Institutions), juridical persons supplying financial services constituted under the 
 laws of Peru are subject to non-discriminatory limitations on juridical form.1  
  
-3. 
-Article 11.10.1(c) (Non-Conforming Measures) shall not apply to those non-
+3.  Article  11.10.1(c)  (Non-Conforming  Measures)  shall  not  apply  to  those  non-
 conforming measures relating to Article 11.5(b) (Market Access for Financial Institutions). 
  
-4. 
-In case of Section A, Description provides a general non-binding description of the 
+4.  In case of Section A, Description provides a general non-binding description of the 
 measure for which the entry is made. 
                                                  
 1  For example, limited liability partnerships and sole proprietorships with limited liability are generally not 
 acceptable juridical forms for financial institutions in Peru.  This headnote does not affect, or otherwise limit, a 
 choice by an investor of the other Party between branches and subsidiaries. 
-ANNEX III – PERU – 2 
- 
+ANNEX III – PERU – 1  
  
 ANNEX III 
  
 Section A 
  
  
-Sector: 
-Financial Services 
+Sector:  Financial Services 
  
  
-Sub-Sector: 
-Banking and other financial services (excluding insurance) 
+Sub-Sector:  Banking and other financial services (excluding insurance) 
  
  
-Obligation Concerned: 
-Market Access for Financial Institutions (Article 11.5) 
+Obligation Concerned:  Market Access for Financial Institutions (Article 11.5) 
  
  
-Level of Government: 
+Level of Government:  Central 
  
  
-Central 
-Measures: 
-General Law of the Financial and Insurance Systems and 
+Measures:  General Law of the Financial and Insurance Systems and 
 Organic Law of the Superintendency of Banking and 
 Insurance (Ley General del Sistema Financiero y del 
 Sistema de Seguros y Orgánica de la Superintendencia de 
 Banca y Seguros), Law N° 26702 and its amendments 
  
  
-Description: 
-A financial institution of the other Party providing banking 
+Description:  A financial institution of the other Party providing banking 
 services and established in Peru through a branch must 
 assign to its branch certain capital, which must be located 
 in Peru.  In addition to measures that Peru may impose 
 consistent with Article 11.11.1 (Exceptions) the operations 
 of the branch are limited by its capital located in Peru. 
-ANNEX III – PERU – 3 
+ANNEX III – PERU – 2  
+Sector:  Financial Services 
+   
  
-Sector: 
-Financial Services 
- 
- 
- 
-Sub-Sector: 
-Insurance and insurance-related services 
+Sub-Sector:  Insurance and insurance-related services 
  
  
-Obligation Concerned: 
-Market Access for Financial Institutions (Article 11.5) 
+Obligation Concerned:  Market Access for Financial Institutions (Article 11.5) 
  
  
-Level of Government: 
+Level of Government:  Central 
+   
  
-Central 
- 
- 
-Measures: 
-General Law of the Financial and Insurance Systems and 
+Measures:  General Law of the Financial and Insurance Systems and 
 Organic Law of the Superintendency of Banking and 
 Insurance (Ley General del Sistema Financiero y del 
 Sistema de Seguros y Orgánica de la Superintendencia de 
 Banca y Seguros), Law N° 26702 and its amendments 
  
  
-Description: 
-A financial institution of the other Party providing 
+Description:  A financial institution of the other Party providing 
 insurance or insurance-related services and established in 
 Peru through a branch must assign to its branch certain 
 capital, which must be located in Peru.  In addition to 
 measures that Peru may impose consistent with Article 
 11.11.1 (Exceptions) the operations of the branch are 
 limited by its capital located in Peru. 
-ANNEX III – PERU – 4 
- 
-Sector: 
-Financial Services 
+ANNEX III – PERU – 3  
+Sector:  Financial Services 
  
  
-Sub-Sector: 
-Banking and other financial services (excluding insurance) 
+Sub-Sector:  Banking and other financial services (excluding insurance) 
  
  
-Obligation Concerned: 
-Cross-Border Trade (Article 11.6) 
+Obligation Concerned:  Cross-Border Trade (Article 11.6) 
  
  
-Level of Government: 
+Level of Government:  Central 
  
  
-Central 
-Measures: 
-Securities Market Law (Ley del Mercado de Valores), 
+Measures:  Securities Market Law (Ley del Mercado de Valores), 
 approved by Legislative Decree N° 861 and its 
 amendments, articles 280, 333, 337 and Seventeenth Final 
 Provision 
@@ -135,33 +108,26 @@ Banca y Seguros), Law N° 26702 and its amendments,
 articles 136 and 296 
  
  
-Description: 
-Financial institutions constituted under the laws of Peru and 
+Description:  Financial institutions constituted under the laws of Peru and 
 debt securities offered in a primary or secondary public 
 offering in the territory of Peru must be rated by credit 
 rating companies constituted under the laws of Peru.  They 
 may also be rated by other credit rating agencies, but only in 
 addition to the mandatory rating. 
-ANNEX III – PERU – 5 
- 
-Sector: 
-Financial Services 
+ANNEX III – PERU – 4  
+Sector:  Financial Services 
  
  
-Sub-Sector: 
-Banking and other financial services (excluding insurance) 
+Sub-Sector:  Banking and other financial services (excluding insurance) 
  
  
-Obligation Concerned: 
-National Treatment (Article 11.3) 
+Obligation Concerned:  National Treatment (Article 11.3) 
  
  
-Level of Government: 
+Level of Government:  Central 
  
  
-Central 
-Measures: 
-General Law of the Financial and Insurance Systems and 
+Measures:  General Law of the Financial and Insurance Systems and 
 Organic Law of the Superintendency of Banking and 
 Insurance (Ley General del Sistema Financiero y del 
 Sistema de Seguros y Orgánica de la Superintendencia de 
@@ -188,16 +154,14 @@ Supreme Decree Nº 07-94-EF (Aprueban el Estatuto del
 Banco de la Nación) and its amendments 
  
  
-Description: 
-Peru may grant advantages or exclusive rights, without 
+Description:  Peru may grant advantages or exclusive rights, without 
 limitation, to one or more of the following financial 
 entities, as long as they are partially or fully owned by the 
 State: Corporación Financiera de Desarrollo (COFIDE), 
 Banco de la Nación, Banco Agropecuario, Fondo 
 Mivivienda, Cajas Municipales de Ahorro y Crédito, and 
 the Caja Municipal de Crédito Popular. 
-ANNEX III – PERU – 6 
- 
+ANNEX III – PERU – 5  
 Examples of such advantages are the following:2 
  
 The Banco de la Nación and Banco Agropecuario 
@@ -211,26 +175,20 @@ procedures.
 2  For greater certainty, and notwithstanding the location of this entry within Section A of this Schedule, the 
 Parties understand that the advantages or exclusive right that Peru may grant to the specified entities are not 
 limited only to the cited examples. 
-ANNEX III – PERU – 7 
- 
-Sector: 
-Financial Services 
+ANNEX III – PERU – 6  
+Sector:  Financial Services 
  
  
-Sub-Sector: 
-Banking and other financial services (excluding insurance) 
+Sub-Sector:  Banking and other financial services (excluding insurance) 
  
  
-Obligations Concerned: 
-Market Access for Financial Institutions (Article 11.5) 
+Obligations Concerned:  Market Access for Financial Institutions (Article 11.5) 
  
  
-Level of Government: 
+Level of Government:  Central 
  
  
-Central 
-Measures: 
-Securities Market Law (Ley del Mercado de Valores), 
+Measures:  Securities Market Law (Ley del Mercado de Valores), 
 approved by Legislative Decree N° 861 and its 
 amendments, articles 130, 167, 185, 204, 223, 259, 269, 
 270, 302, 324, 354 and Seventeenth Final Provision 
@@ -255,73 +213,57 @@ de Pensiones), approved by Supreme Decree Nº 004-98-
 EF, article 18 
  
  
-Description: 
-Financial institutions established in Peru to supply financial 
+Description:  Financial institutions established in Peru to supply financial 
 services in the securities or commodities markets or 
 financial services related to asset management, including 
 pension fund managers, must be constituted under the laws 
 of Peru.  Therefore, financial institutions of another Party 
 established in Peru to supply these financial services may 
 not be established as branches or agencies. 
-ANNEX III – PERU – 8 
- 
-Sector: 
-Financial Services 
+ANNEX III – PERU – 7  
+Sector:  Financial Services 
  
  
-Sub-Sector: 
-All 
+Sub-Sector:  All 
  
  
-Obligation Concerned: 
-Cross-Border Trade (Article 11.6) 
+Obligation Concerned:  Cross-Border Trade (Article 11.6) 
  
  
-Level of Government: 
+Level of Government:  Central 
  
  
-Central 
-Measures: 
-General Law of the Financial and Insurance Systems and 
+Measures:  General Law of the Financial and Insurance Systems and 
 Organic Law of the Superintendency of Banking and 
 Insurance (Ley General del Sistema Financiero y del 
 Sistema de Seguros y Orgánica de la Superintendencia de 
 Banca y Seguros), Law N° 26702 and its amendments 
  
  
-Description: 
-Creditors domiciled in Peru have legal preference with 
+Description:  Creditors domiciled in Peru have legal preference with 
 regard to the assets located in Peru of a branch of a 
 foreign financial institution, in case of liquidation of the 
 financial institution or its branch in Peru. 
-ANNEX III – PERU – 9 
- 
+ANNEX III – PERU – 8  
  
 ANNEX III 
  
 Section B 
+   
+   
+Sector:  Financial Services 
  
  
-Sector: 
+Sub-Sector:  Insurance and insurance-related services 
  
  
-Financial Services 
+Obligation Concerned:  Cross-Border Trade (Article 11.6) 
  
  
-Sub-Sector: 
-Insurance and insurance-related services 
+Level of Government:  Central 
  
  
-Obligation Concerned: 
-Cross-Border Trade (Article 11.6) 
- 
- 
-Level of Government: 
- 
- 
-Central 
-Description: 
-Peru reserves the right to adopt or maintain measures that 
+Description:  Peru reserves the right to adopt or maintain measures that 
 restrict the acquisition of obligatory insurance outside of 
 Peru, or that require that obligatory insurance be purchased 
 from suppliers established in Peru, such as “Compulsory 
@@ -333,64 +275,43 @@ committed by Peru under Annex 11-A (Cross-Border
 Trade). 
  
  
-Existing Measures: 
-Law N° 27181, General Law of Land Transport and Traffic 
+Existing Measures:  Law N° 27181, General Law of Land Transport and Traffic 
 (Ley General de Transporte y Tránsito Terrestre) and its 
 Regulation approved by Supreme Decree 024-2002-MTC 
 Law N° 26790, Law on the Modernization of the Social 
 Security in Health (Ley de la Modernización de la 
 Seguridad Social en Salud), and its Regulation approved by 
 Supreme Decree N° 03-98-SA 
-ANNEX III – PERU – 10 
- 
-Sector: 
- 
- 
-Financial Services 
+ANNEX III – PERU – 9  
+Sector:      Financial Services 
  
  
-Sub-Sector: 
- 
-Social services 
+Sub-Sector:    Social services 
  
  
-Obligations Concerned:  
-Market Access for Financial Institutions (Article 11.5) 
+Obligations Concerned:   Market Access for Financial Institutions (Article 11.5) 
+    Cross-Border Trade (Article 11.6) 
  
- 
-Cross-Border Trade (Article 11.6) 
- 
- 
-  
-Description: 
-Peru reserves the right to adopt or maintain any measure with 
+    
+Description:  Peru reserves the right to adopt or maintain any measure with 
 respect to the provision of law enforcement and correctional 
 services, and the following services to the extent that they are 
 social services established or maintained for a public purpose: 
 income security and insurance, social security, social welfare, 
 public education, public training, health and childcare.  
-ANNEX III – PERU – 11 
- 
-Sector: 
- 
- 
-Financial Services 
+ANNEX III – PERU – 10  
+Sector:      Financial Services 
  
  
-Sub-Sector: 
- 
-All 
+Sub-Sector:    All 
  
  
-Obligations Concerned:  
-Most-Favoured-Nation Treatment (Article 11.4) 
+Obligations Concerned:   Most-Favoured-Nation Treatment (Article 11.4) 
+    Cross-Border Trade (Article 11.6) 
  
  
-Cross-Border Trade (Article 11.6) 
- 
- 
-Description: 
-Peru reserves the right to adopt or maintain any measure based 
+Description:  Peru reserves the right to adopt or maintain any measure based 
 on reciprocal treatment, with respect to the services covered by 
 Annex 11-A (Cross-Border Trade). 
  
+ANNEX III – PERU – 11 

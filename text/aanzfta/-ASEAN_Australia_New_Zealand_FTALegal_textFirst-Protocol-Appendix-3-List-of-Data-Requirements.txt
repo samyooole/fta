@@ -14,54 +14,8 @@
  
 APPENDIX 3 
  
-LIST OF DATA REQUIREMENTS 
+LIST OF DATA REQUIREMENTS   LIST OF DATA REQUIREMENTS 
  
-LIST OF DATA REQUIREMENTS 
- 
-1.  Exporter details 
-The name and address and contact details of the 
-exporter 
-2. Shipment details 
-(a Certificate of 
-Origin can only 
-apply to a single 
-shipment of 
-goods) 
-(i) 
-Consignee name and address 
-(ii) 
-Sufficient 
-details 
-to 
-identify 
-the 
-consignment, such as importer’s purchase 
-order number, invoice number and date 
-and Air Way Bill or Sea Way Bill or Bill of 
-Lading 
-(iii) Port of Discharge, if known 
-3. Full description 
-of goods 
-(i) 
-Detailed description of the goods, including 
-HS Code (6-digit level), and if applicable, 
-product number and brand name 
-(ii) 
-The relevant origin conferring criteria  
-(iii) FOB value when the regional value content 
-origin criteria is used1 
-4. Certification by 
-Issuing Authority/ 
-Body 
-Certification by the Issuing Authority/Body that  
-the goods specified in the Certificate of Origin 
-meet all the relevant requirements of Chapter 3 
-(Rules of Origin) based on the evidence 
-provided 
-5. Certificate of 
-Origin number 
-A unique number assigned to the Certificate of 
-Origin by the Issuing Authority/Body 
  
                                                            
 1  In the case of goods exported from and imported by Cambodia and Myanmar, the 

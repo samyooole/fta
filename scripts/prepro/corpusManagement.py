@@ -1,12 +1,10 @@
-from concurrent.futures import process
 import os
 from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 import re
 from itertools import chain
 import pandas as pd
 import numpy as np
-from text_preprocessing import to_lower, check_spelling, expand_contraction, remove_number, remove_special_character, remove_punctuation, remove_whitespace, normalize_unicode, stem_word, remove_stopword, remove_single_characters, remove_url
-import pickle
+from text_preprocessing import to_lower, expand_contraction, remove_special_character, remove_whitespace, normalize_unicode, remove_url
 
 myFilters = [to_lower, expand_contraction, remove_special_character, remove_whitespace, normalize_unicode, remove_url]
 
@@ -85,13 +83,20 @@ def splitParasbyArticle(text):
     - assumes the header "Article X" sufficiently divides for our purposes
     - add capturing group () to get the article name. if you want easy access next time
     """
-    mid = re.split(r"\narticle \d.*?\n", text, flags= re.DOTALL | re.I)
-    mid = [re.split(r"\narticle\d.*?\n", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = re.split(r"\narticle \d *?\n", text, flags= re.DOTALL | re.I)
+    mid = [re.split(r"\narticle\d *?\n", item, flags=re.DOTALL | re.I) for item in mid]
     mid = list(chain(*mid))
-    mid = [re.split(r"\n\d\..*?\n", item, flags=re.DOTALL) for item in mid]
+    mid = [re.split(r"\n\d\. *?\n", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = list(chain(*mid))
+    mid = [re.split(r"\n\d\. *?", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = list(chain(*mid))
+    mid = [re.split(r"\. *?\d\. *?", item, flags=re.DOTALL | re.I) for item in mid]
     mid = list(chain(*mid))
 
-    output = [item.replace("\n", " ") for item in mid]
+    mid = [item.replace("\n", " ") for item in mid]
+    mid = [re.split(r"\. *?\d\. *?", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = list(chain(*mid))
+    output=mid
     return output
 
 def splitParasbyArticlewithTagging(text):
@@ -148,7 +153,6 @@ def splitParasbyArticlewithTagging(text):
         df=df[['chapter', 'article', 'clauseno', 'text']]
 
     return df
-    
     
 
 def getcorpusbyParas(corpusfolder):

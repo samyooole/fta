@@ -1,0 +1,1914 @@
+APPENDIX C 
+ 
+SINGLE LIST 
+OF TEXTILES AND TEXTILE PRODUCTS 
+(Based on HS 2002) 
+ 
+A.  Fibres and yarns 
+ 
+1  5004.00  Silk yarn (other than yarn spun from silk waste) not put up for retail sale.
+2  5005.00  Yarn spun from silk waste, not put up for retail sale.  
+3  5006.00  Silk yarn and yarn spun from silk waste, put up for retail sale; silk-worm gut.
+      Wool and fine or coarse animal hair, carded or combed (including combed wool 
+in fragments). 
+4  5105.10  - Carded wool 
+      - Wool tops and other combed wool 
+5  5105.21  - - Combed wool in fragments 
+6  5105.29  - - Other  
+      - Fine animal hair, carded or combed 
+7  5105.31  - - Of Kashmir (cashmere) goats 
+8  5105.39  - - Other 
+9  5105.40  - Coarse animal hair, carded or combed 
+      Yarn of carded wool, not put up for retail sale. 
+10  5106.10  - Containing 85% or more by weight of wool 
+11  5106.20  - Containing less than 85% by weight of wool 
+      Yarn of combed wool, not put up for retail sale. 
+12  5107.10  - Containing 85% or more by weight of wool 
+13  5107.20  - Containing less than 85% by weight of wool 
+      Yarn of fine animal hair (carded or combed), not put up for retail sale. 
+14  5108.10  - Carded 
+15  5108.20  - Combed 
+      Yarn of wool or of fine animal hair, put up for retail sale. 
+16  5109.10  - Containing 85% or more by weight of wool or fine animal hair 
+17  5109.90  - Other 
+18  5110.00  Yarn of coarse animal hair or of horsehair (including gimped horsehair yarn), 
+whether or not put up for retail sale. 
+      Cotton sewing thread, whether or not put up for retail sale. 
+      - Not put up for retail sale 
+19  5204.11  - - Containing 85% or more by weight of cotton 
+20  5204.19  - - Other 
+21  5204.20  - Put up for retail sale 
+43        Cotton yarn (other than sewing thread), containing 85% or more by weight of 
+cotton, not put up for retail sale. 
+      - Single yarn, of uncombed fibres 
+22  5205.11  - - Measuring 714.29 decitex or more (not exceeding 14 metric number) 
+23  5205.12  - - Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 
+metric number but not exceeding 43 metric number) 
+24  5205.13  - - Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 
+metric number but not exceeding 52 metric number) 
+25  5205.14  - - Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 
+metric number but not exceeding 80 metric number) 
+26  5205.15  - - Measuring less than 125 decitex (exceeding 80 metric number) 
+      - Single yarn, of combed fibres 
+27  5205.21  - - Measuring 714.29 decitex or more (not exceeding 14 metric number) 
+28  5205.22  - - Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 
+metric number but not exceeding 43 metric number) 
+29  5205.23  - - Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 
+metric number but not exceeding 52 metric number) 
+30  5205.24  - - Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 
+metric number but not exceeding 80 metric number) 
+31  5205.26  - - Measuring less than 125 decitex but not less than 106.38 decitex (exceeding 80 
+metric number but not exceeding 94 metric number) 
+32  5205.27  - - Measuring less than 106.38 decitex but not less than 83.33 decitex (exceeding 94 
+metric number but not exceeding 120 metric number) 
+33  5205.28  - - Measuring less than 83.33 decitex (exceeding 120 metric number) 
+      - Multiple (folded) or cabled yarn, of uncombed fibres 
+34  5205.31  - - Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number 
+per single yarn) 
+35  5205.32  - - Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex 
+(exceeding 14 metric number but not exceeding 43 metric number per single yarn) 
+36  5205.33  - - Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex 
+(exceeding 43 metric number but not exceeding 52 metric number per single yarn) 
+37  5205.34  - - Measuring per single yarn less than 192.31 decitex but not less than 125 decitex 
+(exceeding 52 metric number but not exceeding 80 metric number per single yarn) 
+38  5205.35  - - Measuring per single yarn less than 125 decitex (exceeding 80 metric number per 
+single yarn) 
+      - Multiple (folded) or cabled yarn, of combed fibres 
+39  5205.41  - - Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number 
+per single yarn) 
+     
+     
+     
+44  40  5205.42  - - Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex 
+(exceeding 14 metric number but not exceeding 43 metric number per single yarn) 
+41  5205.43  - - Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex 
+(exceeding 43 metric number but not exceeding 52 metric number per single yarn) 
+42  5205.44  - - Measuring per single yarn less than 192.31 decitex but not less than 125 decitex 
+(exceeding 52 metric number but not exceeding 80 metric number per single yarn) 
+43  5205.46  - - Measuring per single yarn less than 125 decitex but not less than 106.38 decitex 
+(exceeding 80 metric number but not exceeding 94 metric number per single yarn) 
+44  5205.47  - - Measuring per single yarn less than 106.38 decitex but not less than 83.33 decitex 
+(exceeding 94 metric number but not exceeding 120 metric number per single yarn) 
+45  5205.48  - - Measuring per single yarn less than 83.33 decitex (exceeding 120 metric number 
+per single yarn) 
+      Cotton yarn (other than sewing thread), containing less than 85% by weight of 
+cotton, not put up for retail sale.
+      - Single yarn, of uncombed fibres 
+46  5206.11  - - Measuring 714.29 decitex or more (not exceeding 14 metric number) 
+47  5206.12  - - Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 
+metric number but not exceeding 43 metric number) 
+48  5206.13  - - Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 
+metric number but not exceeding 52 metric number) 
+49  5206.14  - - Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 
+metric number but not exceeding 80 metric number) 
+50  5206.15  - - Measuring less than 125 decitex (exceeding 80 metric number)  
+      - Single yarn, of combed fibres 
+51  5206.21  - - Measuring 714.29 decitex or more (not exceeding 14 metric number)  
+52  5206.22  - - Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 
+metric number but not exceeding 43 metric number)  
+53  5206.23  - - Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 
+metric number but not exceeding 52 metric number)  
+54  5206.24  - - Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 
+metric number but not exceeding 80 metric number) 
+55  5206.25  - - Measuring less than 125 decitex (exceeding 80 metric number)  
+      - Multiple (folded) or cabled yarn, of uncombed fibres 
+56  5206.31  - - Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number 
+per single yarn)  
+57  5206.32  - - Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex 
+(exceeding 14 metric number but not exceeding 43 metric number per single yarn) 
+58  5206.33   
+59  5206.34  - - Measuring per single yarn less than 192.31 decitex but not less than 125 decitex 
+(exceeding 52 metric number but not exceeding 80 metric number per single yarn) 
+60  5206.35  - - Measuring per single yarn less than 125 decitex (exceeding 80 metric number per 
+single yarn) 
+      - Multiple (folded) or cabled yarn, of combed fibres 
+     
+     
+     
+45  61  5206.41  - - Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number 
+per single yarn) 
+62  5206.42  - - Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex 
+(exceeding 14 metric number but not exceeding 43 metric number per single yarn) 
+63  5206.43  - - Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex 
+(exceeding 43 metric number but not exceeding 52 metric number per single yarn) 
+64  5206.44  - - Measuring per single yarn less than 192.31 decitex but not less than 125 decitex 
+(exceeding 52 metric number but not exceeding 80 metric number per single yarn 
+65  5206.45  - - Measuring per single yarn less than 125 decitex (exceeding 80 metric number per 
+single yarn) 
+      Cotton yarn (other than sewing thread) put up for retail sale. 
+66  5207.10  - Containing 85% or more by weight of cotton 
+67  5207.90  - Other 
+      Flax yarn. 
+68  5306.10  - Single 
+69  5306.20  - Multiple (folded) or cabled  
+      Yarn of jute or of other textile bast fibres of heading 53.03. 
+70  5307.10  - Single  
+71  5307.20  - Multiple (folded) or cabled  
+      Yarn of other vegetable textile fibres; paper yarn. 
+72  5308.20  - True hemp yarn  
+73  5308.90  - Other  
+      Sewing thread of man-made filaments, whether or not put up for retail sale. 
+74  5401.10  - Of synthetic filaments 
+75  5401.20  - Of artificial filaments 
+      Synthetic filament yarn (other than sewing thread), not put up for retail sale, 
+including synthetic monofilament of less than 67 decitex. 
+76  5402.10  - High tenacity yarn of nylon or other polyamides  
+77  5402.20  - High tenacity yarn of polyesters  
+      - Textured yarn 
+78  5402.31  - - Of nylon or other polyamides, measuring per single yarn not more than 50 tex  
+79  5402.32  - - Of nylon or other polyamides, measuring per single yarn more than 50 tex  
+80  5402.33  - - Of polyesters 
+81  5402.39  - - Other 
+      - Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre 
+82  5402.41  - - Of nylon or other polyamides  
+83  5402.42  - - Of polyesters, partially oriented  
+84  5402.43  - - Of polyesters, other  
+85  5402.49  - - Other  
+      - Other yarn, single, with a twist exceeding 50 turns per metre 
+86  5402.51  - - Of nylon or other polyamides  
+87  5402.52  - - Of polyesters  
+ 
+46  88  5402.59  - - Other  
+      - Other yarn, multiple (folded) or cabled 
+89  5402.61  - - Of nylon or other polyamides  
+90  5402.62  - - Of polyesters  
+91  5402.69  - - Other  
+      Artificial filament yarn (other than sewing thread), not put up for retail sale, 
+including artificial monofilament of less than 67 decitex. 
+92  5403.10  - High tenacity yarn of viscose rayon  
+93  5403.20  - Textured yarn 
+      - Other yarn, single 
+94  5403.31  - - Of viscose rayon, untwisted or with a twist not exceeding 120 turns per metre 
+95  5403.32  - - Of viscose rayon, with a twist exceeding 120 turns per metre 
+96  5403.33  - - Of cellulose acetate 
+97  5403.39  - - Other 
+      - Other yarn, multiple (folded) or cabled 
+98  5403.41  - - Of viscose rayon 
+99  5403.42  - - Of cellulose acetate 
+100  5403.49  - - Other 
+      Synthetic monofilament of 67 decitex or more and of which no cross-sectional 
+dimension exceeds 1 mm; strip and the like (for example, artificial straw) of 
+synthetic textile materials of an apparent width not exceeding 5 mm. 
+101  5404.10  - Monofilament 
+102  5404.90  - Other 
+103  5405.00  Artificial monofilament of 67 decitex or more and of which no cross-sectional 
+dimension exceeds 1 mm; strip and the like (for example, artificial straw) of 
+artificial textile materials of an apparent width not exceeding 5 mm. 
+      Man-made filament yarn (other than sewing thread), put up for retail sale. 
+104  5406.10  - Synthetic filament yarn 
+105  5406.20  - Artificial filament yarn 
+      Synthetic filament tow.
+106  5501.10  - Of nylon or other polyamides  
+107  5501.20  - Of polyesters 
+108  5501.30  - Acrylic or modacrylic  
+109  5501.90  - Other 
+110  5502.00  Artificial filament tow. 
+      Synthetic staple fibres, not carded, combed or otherwise processed for 
+spinning. 
+111  5503.10  - Of nylon or other polyamides 
+112  5503.20  - Of polyesters 
+113  5503.30  - Acrylic or modacrylic 
+114  5503.40  - Of polypropylene 
+ 
+47  115  5503.90  - Other 
+      Artificial staple fibres, not carded, combed orotherwise processed for spinning.
+116  5504.10  - Of viscose rayon 
+117  5504.90  - Other 
+      Waste (including noils, yarn waste and garnetted stock) of man-made fibres. 
+118  5505.10  - Of synthetic fibres  
+119  5505.20  - Of artificial fibres 
+      Synthetic staple fibres, carded, combed or otherwise processed for spinning. 
+120  5506.10  - Of nylon or other polyamides 
+121  5506.20  - Of polyesters 
+122  5506.30  - Acrylic or modacrylic 
+123  5506.90  - Other 
+124  5507.00  Artificial staple fibres, carded, combed or otherwise processed for spinning.  
+      Sewing thread of man-made staple fibres, whether or not put up for retail sale. 
+125  5508.10  - Of synthetic staple fibres 
+126  5508.20  - Of artificial staple fibres 
+      Yarn (other than sewing thread) of synthetic staple fibres, not put up for retail 
+sale 
+      - Containing 85% or more by weight of staple fibres of nylon or other polyamides 
+127  5509.11  - - Single yarn 
+128  5509.12  - - Multiple (folded) or cabled yarn 
+      - Containing 85% or more by weight of polyester staple fibres 
+129  5509.21  - - Single yarn 
+130  5509.22  - - Multiple (folded) or cabled yarn 
+      - Containing 85% or more by weight of acrylic or modacrylic staple fibres 
+131  5509.31  - - Single yarn 
+132  5509.32  - - Multiple (folded) or cabled yarn 
+      - Other yarn, containing 85% or more by weight of synthetic staple fibres      
+133  5509.41  - - Single yarn 
+134  5509.42  - - Multiple (folded) or cabled yarn 
+      - Other yarn, of polyester staple fibres 
+135  5509.51  - - Mixed mainly or solely with artificial staple fibres 
+136  5509.52  - - Mixed mainly or solely with wool or fine animal hair 
+137  5509.53  - - Mixed mainly or solely with cotton 
+138  5509.59  - - Other 
+      - Other yarn, of acrylic or modacrylic staple fibres 
+139  5509.61  - - Mixed mainly or solely with wool or fine animal hair 
+140  5509.62  - - Mixed mainly or solely with cotton 
+141  5509.69  - - Other 
+      - Other yarn 
+ 
+48  142  5509.91  - - Mixed mainly or solely with wool or fine animal hair 
+143  5509.92  - - Mixed mainly or solely with cotton 
+144  5509.99  - - Other 
+      Yarn (other than sewing thread) of artificial staple fibres, not put up for retail 
+sale. 
+      - Containing 85% or more by weight of artificial staple fibres 
+145  5510.11  - - Single yarn 
+146  5510.12  - - Multiple (folded) or cabled yarn 
+147  5510.20  - Other yarn, mixed mainly or solely with wool or fine animal hair 
+148  5510.30  - Other yarn, mixed mainly or solely with cotton 
+149  5510.90  - Other yarn 
+      Yarn (other than sewing thread) of man-made staple fibres, put up for retail sale. 
+150  5511.10  - Of synthetic staple fibres, containing 85% or more by weight of such fibres 
+151  5511.20  - Of synthetic staple fibres, containing less than 85% by weight of such fibres 
+152  5511.30  - Of artificial staple fibres 
+ 
+ 
+B.  Fabric/Carpets and Other Textile Floor Coverings; Special Yarns, Twine, Cordage and 
+Ropes and Cables and Articles thereof 
+ 
+     Woven fabrics of silk or of silk waste. 
+1  5007.10  - Fabrics of noil silk 
+2  5007.20  - Other fabrics, containing 85% or more by weight of silk or of silk waste other than noil 
+silk 
+3  5007.90  - Other fabrics 
+     Woven fabrics of carded wool or of carded fine animal hair. 
+     - Containing 85% or more by weight of wool or of fine animal hair 
+4  5111.11  - - Of a weight not exceeding 300 g/m2 
+5  5111.19  - - Other 
+6  5111.20  - Other, mixed mainly or solely with man-made filaments 
+7  5111.30  - Other, mixed mainly or solely with man-made staple fibres 
+8  5111.90  - Other 
+     Woven fabrics of combed wool or of combed fine animal hair. 
+     - Containing 85% or more by weight of wool or of fine animal hair 
+9  5112.11  - - Of a weight not exceeding 200 g/m2 
+10  5112.19  - - Other 
+11  5112.20  - Other, mixed mainly or solely with man-made filaments 
+12  5112.30  - Other, mixed mainly or solely with man-made staple fibres 
+ 
+ 
+49  13  5112.90  - Other 
+14  5113.00  Woven fabrics of coarse animal hair or of horsehair. 
+     Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing 
+not more than 200 g/m2. 
+     - Unbleached 
+15  5208.11  - - Plain weave, weighing not more than 100 g/m2 
+16  5208.12  - - Plain weave, weighing more than 100 g/m2 
+17  5208.13  - - 3-thread or 4-thread twill, including cross twill  
+18  5208.19  - - Other fabrics  
+     - Bleached 
+19  5208.21  - - Plain weave, weighing not more than 100 g/m2 
+20  5208.22  - - Plain weave, weighing more than 100 g/m2 
+21  5208.23  - - 3-thread or 4-thread twill, including cross twill 
+22  5208.29  - - Other fabrics  
+     - Dyed 
+23  5208.31  - - Plain weave, weighing not more than 100 g/m2  
+24  5208.32  - - Plain weave, weighing more than 100 g/m2  
+25  5208.33  - - 3-thread or 4-thread twill, including cross twill  
+26  5208.39  - - Other fabrics  
+     - Of yarns of different colours 
+27  5208.41  - - Plain weave, weighing not more than 100 g/m2  
+28  5208.42  - - Plain weave, weighing more than 100 g/m2  
+29  5208.43  - - 3-thread or 4-thread twill, including cross twill  
+30  5208.49  - - Other fabrics  
+     - Printed 
+31  5208.51  - - Plain weave, weighing not more than 100 g/m2  
+32  5208.52  - - Plain weave, weighing more than 100 g/m2  
+33  5208.53  - - 3-thread or 4-thread twill, including cross twill  
+34  5208.59  - - Other fabrics  
+     Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing 
+more than 200 g/m2.
+     - Unbleached 
+35  5209.11  - - Plain weave  
+36  5209.12  - - 3-thread or 4-thread twill, including cross twill  
+37  5209.19  - - Other fabrics  
+     - Bleached 
+38  5209.21  - - Plain weave  
+ 
+ 
+50  39  5209.22  - - 3-thread or 4-thread twill, including cross twill  
+40  5209.29  - - Other fabrics  
+     - Dyed 
+41  5209.31  - - Plain weave  
+42  5209.32  - - 3-thread or 4-thread twill, including cross twill 
+43  5209.39  - - Other fabrics 
+     - Of yarns of different colours 
+44  5209.41  - - Plain weave 
+45  5209.42  - - Denim 
+46  5209.43  - - Other fabrics of 3-thread or 4-thread twill, including cross twill 
+47  5209.49  - - Other fabrics 
+     - Printed 
+48  5209.51  - - Plain weave 
+49  5209.52  - - 3-thread or 4-thread twill, including cross twill 
+50  5209.59  - - Other fabrics 
+     Woven fabrics of cotton, containing less than 85% by weight of cotton, mixed 
+mainly or solely with man-made fibres, weighing not more than 200 g/m2.
+     - Unbleached 
+51  5210.11  - - Plain weave 
+52  5210.12  - - 3-thread or 4-thread twill, including cross twill 
+53  5210.19  - - Other fabrics 
+     - Bleached 
+54  5210.21  - - Plain weave 
+55  5210.22  - - 3-thread or 4-thread twill, including cross twill 
+56  5210.29  - - Other fabrics 
+     - Dyed 
+57  5210.31  - - Plain weave 
+58  5210.32  - - 3-thread or 4-thread twill, including cross twill 
+59  5210.39  - - Other fabrics 
+     - Of yarns of different colours 
+60  5210.41  - - Plain weave 
+61  5210.42  - - 3-thread or 4-thread twill, including cross twill 
+62  5210.49  - - Other fabrics 
+     - Printed 
+63  5210.51  - - Plain weave 
+64  5210.52  - - 3-thread or 4-thread twill, including cross twill 
+65  5210.59  - - Other fabrics 
+     Woven fabrics of cotton, containing less than 85% by weight of cotton, mixed 
+mainly or solely with man-made fibres, weighing more than 200 g/m2. 
+ 
+51       - Unbleached 
+66  5211.11  - - Plain weave 
+67  5211.12  - - 3-thread or 4-thread twill, including cross twill 
+68  5211.19  - - Other fabrics 
+     - Bleached 
+69  5211.21  - - Plain weave 
+70  5211.22  - - 3-thread or 4-thread twill, including cross twill 
+71  5211.29  - - Other fabrics 
+     - Dyed 
+72  5211.31  - - Plain weave 
+73  5211.32  - - 3-thread or 4-thread twill, including cross twill 
+74  5211.39  - - Other fabrics 
+     - Of yarns of different colours 
+75  5211.41  - - Plain weave 
+76  5211.42  - - Denim 
+77  5211.43  - - Other fabrics of 3-thread or 4-thread twill, including cross twill 
+78  5211.49  - - Other fabrics 
+     - Printed 
+79  5211.51  - - Plain weave 
+80  5211.52  - - 3-thread or 4-thread twill, including cross twill 
+81  5211.59  - - Other fabrics 
+     Other woven fabrics of cotton. 
+     - Weighing not more than 200 g/m2 
+82  5212.11  - - Unbleached 
+83  5212.12  - - Bleached 
+84  5212.13  - - Dyed 
+85  5212.14  - - Of yarns of different colours 
+86  5212.15  - - Printed 
+     - Weighing more than 200 g/m2 
+87  5212.21  - - Unbleached 
+88  5212.22  - - Bleached  
+89  5212.23  - - Dyed 
+90  5212.24  - - Of yarns of different colours 
+91  5212.25  - - Printed 
+     Woven fabrics of flax. 
+     - Containing 85% or more by weight of flax 
+92  5309.11  - - Unbleached or bleached 
+ 
+ 
+52  93  5309.19  - - Other 
+     - Containing less than 85% by weight of flax 
+94  5309.21  - - Unbleached or bleached 
+95  5309.29  - - Other 
+     Woven fabrics of jute or of other textile bast fibres of heading 53.03 
+96  5310.10  - Unbleached 
+97  5310.90  - Other 
+98  5311.00  Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn. 
+     Woven fabrics of synthetic filament yarn, including woven fabrics obtained from 
+materials of heading 54.04.
+99  5407.10  - Woven fabrics obtained from high tenacity yarn of nylon or other polyamides or of 
+polyesters 
+100  5407.20  - Woven fabrics obtained from strip or the like 
+101  5407.30  - Fabrics specified in Note 9 to Section XI 
+     - Other woven fabrics, containing 85% or more by weight of filaments of nylon or other 
+polyamides 
+102  5407.41  - - Unbleached or bleached 
+103  5407.42  - - Dyed 
+104  5407.43  - - Of yarns of different colours 
+105  5407.44  - - Printed 
+     - Other woven fabrics, containing 85% or more by weight of textured polyester 
+filaments 
+106  5407.51  - - Unbleached or bleached 
+107  5407.52  - - Dyed 
+108  5407.53  - - Of yarns of different colours 
+109  5407.54  - - Printed 
+     - Other woven fabrics, containing 85% or more by weight of polyester filaments 
+110  5407.61  - - Containing 85% or more by weight of non-textured polyester filaments 
+111  5407.69  - - Other 
+     - Other woven fabrics, containing 85% or more by weight of synthetic filaments 
+112  5407.71  - - Unbleached or bleached 
+113  5407.72  - - Dyed 
+114  5407.73  - - Of yarns of different colours 
+115  5407.74  - - Printed 
+     - Other woven fabrics, containing less than 85% by weight of synthetic filaments, 
+mixed mainly or solely with cotton 
+116  5407.81  - - Unbleached or bleached 
+117  5407.82  - - Dyed 
+118  5407.83  - - Of yarns of different colours 
+119  5407.84  - - Printed 
+ 
+ 
+53       - Other woven fabrics 
+120  5407.91  - - Unbleached or bleached 
+121  5407.92  - - Dyed 
+122  5407.93  - - Of yarns of different colours 
+123  5407.94  - - Printed 
+     Woven fabrics of artificial filament yarn, including woven fabrics obtained from 
+materials of heading 54.05.
+124  5408.10  - Woven fabrics obtained from high tenacity yarn of viscose rayon   
+     - Other woven fabrics, containing 85% or more by weight of artificial filament or strip of 
+the like 
+125  5408.21  - - Unbleached or bleached 
+126  5408.22  - - Dyed 
+127  5408.23  - - Of yarns of different colours 
+128  5408.24  - - Printed 
+     - Other woven fabrics 
+129  5408.31  - - Unbleached or bleached 
+130  5408.32  - - Dyed 
+131  5408.33  - - Of yarns of different colours 
+132  5408.34  - - Printed 
+     Woven fabrics of synthetic staple fibres, containing 85% or more by weight of 
+synthetic staple fibres.
+     - Containing 85% or more by weight of polyester staple fibres 
+133  5512.11  - - Unbleached or bleached 
+134  5512.19  - - Other 
+     - Containing 85% or more by weight of acrylic or modacrylic staple fibres 
+135  5512.21  - - Unbleached or bleached 
+136  5512.29  - - Other 
+     - Other 
+137  5512.91  - - Unbleached or bleached 
+138  5512.99  - - Other 
+     Woven fabrics of synthetic staple fibres containing less than 85% by weight of 
+such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170 
+g/m2. 
+     - Unbleached or bleached 
+139  5513.11  - - Of polyester staple fibres, plain weave 
+140  5513.12  - - 3-thread or 4-thread twill, including cross  twill, of polyester staple fibres 
+141  5513.13  - - Other woven fabrics of polyester staple fibres 
+142  5513.19  - - Other woven fabrics 
+     - Dyed 
+143  5513.21  - - Of polyester staple fibres, plain weave 
+ 
+54  144  5513.22  - - 3-thread or 4-thread twill, including cross twill, of polyester staple fibres 
+145  5513.23  - - Other woven fabrics of polyester staple fibres 
+146  5513.29  - - Other woven fabrics 
+     - Of yarns of different colours 
+147  5513.31  - - Of polyester staple fibres, plain weave 
+148  5513.32  - - 3-thread or 4-thread twill, including cross twill, of polyester staple fibres 
+149  5513.33  - - Other woven fabrics of polyester staple fibres 
+150  5513.39  - - Other woven fabrics 
+     - Printed 
+151  5513.41  - - Of polyester staple fibres, plain weave 
+152  5513.42  - - 3-thread or 4-thread twill, including cross twill, of polyester staple fibres 
+153  5513.43  - - Other woven fabrics of polyester staple fibres 
+154  5513.49  - - Other woven fabrics 
+     Woven fabrics of synthetic staple fibres, containing less than 85% by weight of 
+such fibres, mixed mainly or solely with cotton, of a weight exceeding 170 g/m2. 
+     - Unbleached or bleached 
+155  5514.11  - - Of polyester staple fibres, plain weave 
+156  5514.12  - - 3-thread or 4-thread twill, including cross twill, of polyester staple fibres 
+157  5514.13  - - Other woven fabrics of polyester staple fibres 
+158  5514.19  - - Other woven fabrics 
+     - Dyed 
+159  5514.21  - - Of polyester staple fibres, plain weave 
+160  5514.22  - - 3-thread or 4-thread twill, including cross twill, of polyester staple fibres 
+161  5514.23  - - Other woven fabrics of polyester staple fibres 
+162  5514.29  - - Other woven fabrics 
+     - Of yarns of different colours 
+163  5514.31  - - Of polyester staple fibres, plain weave 
+164  5514.32  - - 3-thread or 4-thread twill, including cross twill, of polyester staple fibres 
+165  5514.33  - - Other woven fabrics of polyester staple fibres 
+166  5514.39  - - Other woven fabrics 
+     - Printed 
+167  5514.41  - - Of polyester staple fibres, plain weave 
+168  5514.42  - - 3-thread or 4-thread twill, including cross twill, of polyester staple fibres 
+169  5514.43  - - Other woven fabrics of polyester staple fibres 
+170  5514.49  - - Other woven fabrics 
+     Other woven fabrics of synthetic staple fibres. 
+     - Of polyester staple fibres 
+171  5515.11  - - Mixed mainly or solely with viscose rayon staple fibres 
+ 
+ 
+55  172  5515.12  - - Mixed mainly or solely with man-made filaments 
+173  5515.13  - - Mixed mainly or solely with wool or fine animal hair 
+174  5515.19  - - Other 
+     - Of acrylic or modacrylic staple fibres 
+175  5515.21  - - Mixed mainly or solely with man-made filaments 
+176  5515.22  - - Mixed mainly or solely with wool or fine animal hair 
+177  5515.29  - - Other 
+     - Other woven fabrics 
+178  5515.91  - - Mixed mainly or solely with man-made filaments 
+179  5515.92  - - Mixed mainly or solely with wool or fine animal hair 
+180  5515.99  - - Other 
+     Woven fabrics of artificial staple fibres.
+     - Containing 85% or more by weight of artificial staple fibres 
+181  5516.11  - - Unbleached or bleached 
+182  5516.12  - - Dyed 
+183  5516.13  - - Of yarns of different colours 
+184  5516.14  - - Printed 
+     - Containing less than 85% by weight of artificial staple fibres, mixed mainly or solely 
+with man-made filaments 
+185  5516.21  - - Unbleached or bleached 
+186  5516.22  - - Dyed 
+187  5516.23  - - Of yarns of different colours 
+188  5516.24  - - Printed 
+     - Containing less than 85% by weight of artificial staple fibres, mixed mainly or solely 
+with wool or fine animal hair 
+189  5516.31  - - Unbleached or bleached 
+190  5516.32  - - Dyed 
+191  5516.33  - - Of yarns of different colours 
+192  5516.34  - - Printed 
+     - Containing less than 85% by weight of artificial staple fibres, mixed mainly or solely 
+with cotton 
+193  5516.41  - - Unbleached or bleached 
+194  5516.42  - - Dyed 
+195  5516.43  - - Of yarns of different colours 
+196  5516.44  - - Printed 
+     - Other 
+197  5516.91  - - Unbleached or bleached 
+198  5516.92  - - Dyed 
+199  5516.93  - - Of yarns of different colours 
+ 
+56  200  5516.94  - - Printed 
+     Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 
+mm in length (flock), textile dust and mill neps.
+201  5601.10  - Sanitary towels and tampons, napkins and napkin liners for babies and similar 
+sanitary articles, of wadding 
+     - Wadding; other articles of wadding 
+202  5601.21  - - Of cotton 
+203  5601.22  - - Of man-made fibres 
+204  5601.29  - - Other 
+205  5601.30  - Textile flock and dust and mill neps 
+     Felt, whether or not impregnated, coated, covered or laminated. 
+206  5602.10  - Needleloom felt and stitch-bonded fibre fabrics 
+     - Other felt, not impregnated, coated, covered or laminated 
+207  5602.21  - - Of wool or fine animal hair 
+208  5602.29  - - Of other textile materials 
+209  5602.90   - Other 
+     Nonwovens, whether or not impregnated, coated, covered or laminated.            
+     - Of man-made filaments 
+210  5603.11  - - Weighing not more than 25 g/m2  
+211  5603.12  - - Weighing more than 25 g/m2 but not more than 70 g/m2  
+212  5603.13  - - Weighing more than 70 g/m2 but not more than 150 g/m2  
+213  5603.14  - - Weighing more than 150 g/m2  
+     - Other 
+214  5603.91  - - Weighing not more than 25 g/m2 
+215  5603.92  - - Weighing more than 25 g/m2 but not more than 70 g/m2 
+216  5603.93  - - Weighing more than 70 g/m2 but not more than 150 g/m2 
+217  5603.94  - - Weighing more than 150 g/m2 
+     Rubber thread and cord, textile covered; textile yarn, and strip and the like of 
+heading 54.04 or 54.05, impregnated, coated, covered or sheathed with rubber or 
+plastics. 
+218  5604.10  - Rubber thread and cord, textile covered 
+219  5604.20  - High tenacity yarn of polyesters, of nylon or other polyamides or of viscose rayon, 
+impregnated or coated 
+220  5604.90  - Other  
+221  5605.00  Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of 
+heading 54.04 or 54.05, combined with metal in the form of thread, strip or 
+powder or covered with metal. 
+222  5606.00  Gimped yarn, and strip and the like of heading 54.04 or 54.05, gimped (other 
+than those of heading 56.05 and gimped horsehair yarn); chenille yarn (including 
+flock chenille yarn); loop wale-yarn. 
+     Twine, cordage, ropes and cables, whether or not plaited or braided and whether 
+or not impregnated, coated, covered or sheathed with rubber or plastics. 
+ 
+57  223  5607.10  - Of jute or other textile bast fibres of heading 53.03 
+     - Of sisal or other textile fibres of the genus Agave 
+224  5607.21  - - Binder or baler twine 
+225  5607.29  - - Other 
+     - Of polyethylene or polypropylene 
+226  5607.41  - - Binder or baler twine 
+227  5607.49  - - Other 
+228  5607.50  - Of other synthetic fibres 
+229  5607.90   - Other 
+     Knotted netting of twine, cordage or rope; made up fishing nets and other made 
+up nets, of textile materials.
+     - Of man-made textile materials 
+230  5608.11  - - Made up fishing nets 
+231  5608.19  - - Other 
+232  5608.90  - Other 
+233  5609.00  Articles of yarn, strip or the like of heading 54.04 or 54.05, twine, cordage, rope 
+or cables, not elsewhere specified or included. 
+     Carpets and other textile floor coverings, knotted, whether or not made up. 
+234  5701.10  - Of wool or fine animal hair  
+235  5701.90  - Of other textile materials  
+     Carpets and other textile floor coverings, woven, not tufted or flocked, whether 
+or not made up, including "Kelem", "Schumacks", "Karamanie" and similar 
+hand-woven rugs.
+236  5702.10  - "Kelem", "Schumacks", "Karamanie"and similar hand-woven rugs 
+237  5702.20  - Floor coverings of coconut fibres (coir) 
+     - Other, of pile construction, not made up 
+238  5702.31  - - Of wool or fine animal hair 
+239  5702.32  - - Of man-made textile materials 
+240  5702.39  - - Of other textile materials 
+     - Other, of pile construction, made up 
+241  5702.41  - - Of wool or fine animal hair  
+242  5702.42  - - Of man-made textile materials  
+243  5702.49  - - Of other textile materials  
+     - Other, not of pile construction, not made up 
+244  5702.51  - - Of wool or fine animal hair 
+245  5702.52  - - Of man-made textile materials                                                
+246  5702.59  - - Of other textile materials  
+     - Other, not of pile construction, made up 
+ 
+ 
+ 
+58  247  5702.91  - - Of wool or fine animal hair  
+248  5702.92  - - Of man-made textile materials  
+249  5702.99  - - Of other textile materials  
+     Carpets and other textile floor coverings, tufted, whether or not made up. 
+250  5703.10  - Of wool or fine animal hair   
+251  5703.20  - Of nylon or other polyamides  
+252  5703.30  - Of other man-made textile materials  
+253  5703.90  - Of other textile materials  
+     Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or 
+not made up.
+254  5704.10  - Tiles, having a maximum surface area of 0.3 m2  
+255  5704.90  - Other 
+256  5705.00  Other carpets and other textile floor coverings, whether or not made up. 
+     Woven pile fabrics and chenille fabrics, other than fabrics of heading 58.02 or 
+58.06. 
+257  5801.10  - Of wool or fine animal hair  
+     - Of cotton 
+258  5801.21  - - Uncut weft pile fabrics 
+259  5801.22  - - Cut corduroy 
+260  5801.23  - - Other weft pile fabrics 
+261  5801.24  - - Warp pile fabrics, épinglé (uncut) 
+262  5801.25  - - Warp pile fabrics, cut 
+263  5801.26  - - Chenille fabrics 
+     - Of man-made fibres 
+264  5801.31  - - Uncut weft pile fabrics 
+265  5801.32  - - Cut corduroy 
+266  5801.33  - - Other weft pile fabrics 
+267  5801.34  - - Warp pile fabrics, épinglé (uncut) 
+268  5801.35  - - Warp pile fabrics, cut 
+269  5801.36  - - Chenille fabrics 
+270  5801.90  - Of other textile materials  
+     Terry towelling and similar woven terry fabrics, other than narrow fabrics of 
+heading 58.06; tufted textile fabrics, other than products of heading 57.03. 
+     - Terry towelling and similar woven terry fabrics, of cotton 
+271  5802.11  - - Unbleached 
+272  5802.19  - - Other 
+273  5802.20  - Terry towelling and similar woven terry fabrics, of other textile materials 
+274  5802.30  - Tufted textile fabrics 
+     Gauze, other than narrow fabrics of heading 58.06. 
+ 
+59  275  5803.10  - Of cotton  
+276  5803.90  - Of other textile materials 
+     Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; 
+lace in the piece, in strips or in motifs, other than fabrics of headings 60.02 to 
+60.06.  
+277  5804.10  - Tulles and other net fabrics  
+     - Mechanically made lace 
+278  5804.21  - - Of man-made fibres 
+279  5804.29  - - Of other textile materials 
+280  5804.30  - Hand-made lace 
+281  5805.00  Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and 
+the  like, and needle-worked tapestries (for example, petit point, cross stitch), 
+whether or not made up. 
+     Narrow woven fabrics, other than goods of heading 58.07; narrow fabrics 
+consisting of warp without weft assembled by means of an adhesive (bolducs).
+282  5806.10  - Woven pile fabrics (including terry towelling and similar terry fabrics) and chenille 
+fabrics  
+283  5806.20  - Other woven fabrics, containing by weight 5% or more of elastomeric yarn or rubber 
+thread 
+     - Other woven fabrics 
+284  5806.31  - - Of cotton 
+285  5806.32  - - Of man-made fibres 
+286  5806.39  - - Of other textile materials  
+287  5806.40  - Fabrics consisting of warp without weft assembled by means of an adhesive 
+(bolducs) 
+     Labels, badges and similar articles of textile materials, in the piece, in strips or 
+cut to shape or size, not embroidered. 
+288  5807.10  - Woven 
+289  5807.90  - Other 
+     Braids in the piece; ornamental trimmings in the piece, without embroidery, 
+other than knitted or crocheted; tassels, pompons and similar articles. 
+290  5808.10  - Braids in the piece 
+291  5808.90  - Other 
+292  5809.00  Woven fabrics of metal thread and woven fabrics of metallised yarn of heading 
+56.05, of a kind used in apparel, as furnishing fabrics or for similar purposes, 
+not elsewhere specified or included.
+     Embroidery in the piece, in strips or in motifs. 
+293  5810.10  - Embroidery without visible ground 
+     - Other embroidery 
+294  5810.91  - - Of cotton 
+295  5810.92  - - Of man-made fibres 
+296  5810.99  - - Of other textile materials 
+ 
+ 
+60  297  5811.00  Quilted textile products in the piece, composed of one or more layers of textile 
+materials assembled with padding by stitching or otherwise, other than 
+embroidery of heading 58.10. 
+     Textile fabrics coated with gum or amylaceous substances, of a kind used for 
+the outer covers of books or the like; tracing cloth; prepared painting canvas; 
+buckram and similar stiffened textile fabrics of a kind used for hat foundations.
+298  5901.10  - Textile fabrics coated with gum or amylaceous substances, of a kind used for the 
+outer covers of books or the like 
+299  5901.90  - Other  
+     Tyre cord fabric of high tenacity yarn of nylon or other polyamides, polyesters 
+or viscose rayon.
+300  5902.10  - Of nylon or other polyamides  
+301  5902.20  - Of polyesters  
+302  5902.90  - Other  
+     Textile fabrics impregnated, coated, covered or laminated with plastics, other 
+than those of heading 59.02. 
+303  5903.10  - With poly(vinyl chloride)  
+304  5903.20  - With polyurethane  
+305  5903.90  - Other  
+     Linoleum, whether or not cut to shape; floor coverings consisting of a coating or 
+covering applied on a textile backing, whether or not cut to shape. 
+306  5904.10  - Linoleum 
+307  5904.90  - Other 
+308  5905.00  Textile wall coverings. 
+     Rubberised textile fabrics, other than those of heading 59.02. 
+309  5906.10  - Adhesive tape of a width not exceeding 20 cm 
+     - Other 
+310  5906.91  - - Knitted or crocheted 
+311  5906.99  - - Other 
+312  5907.00  Textile fabrics otherwise impregnated, coated or covered; painted canvas being 
+theatrical scenery, studio back-cloths or the like. 
+313  5908.00  Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or 
+the like; incandescent gas mantles and tubular knitted gas mantle fabric thereof 
+or, whether or not impregnated.
+314  5909.00  Textile hosepiping and similar textile tubing, with or without lining, armour or 
+accessories of other materials. 
+315  5910.00  Transmission or conveyor belts or belting, of textile material, whether or not 
+impregnated, coated, covered or laminated with plastics, or reinforced with 
+metal or other material.
+     Textile products and articles, for technical uses, specified in Note 7 to this 
+Chapter. 
+316  5911.10  - Textile fabrics, felt and felt-lined woven fabrics, coated, covered or laminated with 
+rubber, leather  or other material, of a kind used for card clothing, and similar fabrics of 
+a kind used for other technical purposes, including narrow fabrics made of velvet 
+impregnated with rubber, for covering weaving spindles (weaving beams) 
+ 
+61  317  5911.20  - Bolting cloth, whether or not made up  
+     - Textile fabrics and felts, endless or fitted with linking devices, of a kind used in paper-
+making or similar machines (for example, for pulp or asbestos-cement) 
+318  5911.31  - - Weighing less than 650 g/m2 
+319  5911.32  - - Weighing 650 g/m2 or more 
+320  5911.40  - Straining cloth of a kind used in oil presses or the like, including that of human hair 
+321  5911.90  - Other 
+     Pile fabrics, including "long-pile" fabrics and terry fabrics knitted or crocheted. 
+322  6001.10  - "Long pile" fabrics  
+     - Looped pile fabrics 
+323  6001.21  - - Of cotton  
+324  6001.22  - - Of man-made fibres  
+325  6001.29  - - Of other textile materials  
+     - Other 
+326  6001.91  - - Of cotton  
+327  6001.92  - - Of man-made fibres 
+328  6001.99  - - Of other textile materials  
+     Knitted or crocheted fabrics of a width not exceeding 30 cm, containing by 
+weight 5% or more of elastomeric yarn or rubber thread, other than those of 
+heading 60.01 
+329  6002.40  - Containing by weight 5% or more of elastomeric yarn but not containing rubber 
+thread                           
+330  6002.90  - Other  
+     Knitted or crocheted fabrics of a width not exceeding 30 cm, other than those of 
+heading 60.01 or 60.02.    
+331  6003.10  - Of wool or fine animal hair    
+332  6003.20  - Of cotton  
+333  6003.30  - Of synthetic fibres  
+334  6003.40  - Of artificial fibres  
+335  6003.90  - Other  
+     Knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 
+5% or more of elastomeric yarn or rubber thread, other than those of heading 
+60.01  
+336  6004.10  - Containing by weight 5% or more of elastomeric yarn but not containing rubber 
+thread                         
+337  6004.90  - Other 
+      Warp knit fabrics (including those made on galloon knitting machines), other than 
+those of headings 60.01 to 60.04 
+338  6005.10  - Of wool or fine animal hair  
+     - Of cotton 
+ 
+ 
+62  339  6005.21  - - Unbleached or bleached  
+340  6005.22  - - Dyed  
+341  6005.23  - - Of yarns of different colours  
+342  6005.24  - - Printed  
+     - Of synthetic fibres 
+343  6005.31  - - Unbleached or bleached  
+344  6005.32  - - Dyed  
+345  6005.33  - - Of yarns of different colours  
+346  6005.34  - - Printed  
+     - Of artificial fibres 
+347  6005.41  - - Unbleached or bleached  
+348  6005.42  - - Dyed  
+349  6005.43  - - Of yarns of different colours  
+350  6005.44  - - Printed  
+351  6005.90  - Other  
+     Other knitted or crocheted fabrics.  
+352  6006.10  - Of wool or fine animal hair  
+     - Of cotton 
+353  6006.21  - - Unbleached or bleached  
+354  6006.22  - - Dyed  
+355  6006.23  - - Of yarns of different colours  
+356  6006.24  - - Printed  
+     - Of synthetic fibres 
+357  6006.31  - - Unbleached or bleached 
+358  6006.32  - - Dyed 
+359  6006.33  - - Of yarns of different colours 
+360  6006.34  - - Printed 
+     - Of artificial fibres  
+361  6006.41  - - Unbleached or bleached  
+362  6006.42  - - Dyed  
+363  6006.43  - - Of yarns of different colours  
+364  6006.44  - - Printed  
+365  6006.90  - Other  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+63  C.  Article of Apparel and Clothing Accessories and Other Made Up Textile Articles 
+ 
+     Wadding, gauze, bandages and similar articles (for example, dressings, adhesive 
+plasters, poultices), impregnated or coated with pharmaceutical substances or put 
+up in forms or packings for retail sale for medical, surgical, dental or veterinary 
+purposes. 
+1  3005.90  - Other 
+     Other plates, sheets, film, foil and strip, of plastics. 
+     - Cellular 
+   3921.12  - - Of polymers of vinyl chloride 
+2  ex. 3921.12  (Woven, knitted or non-woven fabrics coated, covered or laminated with plastics) 
+   3921.13  - - Of polyurethanes 
+3  ex. 3921.13  (Woven, knitted or non-woven fabrics coated, covered or laminated with plastics) 
+   3921.90  - Other 
+4  ex. 3921.90  (Woven, knitted or non-woven fabrics coated, covered or laminated with plastics) 
+     Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels, 
+spectacle cases, binocular cases, camera cases, musical instrument cases, gun 
+cases, holsters and  similar containers; travelling-bags, insulated food or 
+beverages bags, toilet bags, rucksacks, handbags, shopping bags, wallets, 
+purses, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, 
+bottle-cases, jewellery boxes, powder-boxes, cutlery cases and similar containers, 
+of leather or of composition leather, of sheeting of plastics, of textile materials, of 
+vulcanised fibre or of paperboard, or wholly or mainly covered with such materials 
+or with paper.  
+     - Trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and 
+similar containers  
+   4202.12  - - With outer surface of plastics or of textile materials   
+5  ex. 4202.12  (Luggage, handbags and flat goods with an outer surface predominantly of textile 
+materials) 
+     - Handbags, whether or not with shoulder strap, including those without handle  
+   4202.22  - - With outer surface of plastic sheeting or of textile materials 
+6  ex. 4202.22  (Luggage, handbags and flat goods with an outer surface predominantly of textile 
+materials) 
+     - Articles of a kind normally carried in the pocket or in the handbag  
+   4202.32  - - With outer surface of plastic sheeting or of textile materials 
+7  ex. 4202.32  (Luggage, handbags and flat goods with an outer surface predominantly of textile 
+materials) 
+     - Other  
+   4202.92  - - With outer surface of plastic sheeting or of textile materials   
+8  ex. 4202.92  (Luggage, handbags and flat goods with an outer surface predominantly of textile 
+materials) 
+     Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-
+jackets), wind-cheaters, wind-jackets and similar articles, knitted or crocheted, 
+other than those of heading 61.03. 
+ 
+ 
+ 
+64  9  6101.10  - Of wool or fine animal hair 
+10  6101.20  - Of cotton 
+11  6101.30  - Of man-made fibres 
+12  6101.90  - Of other textile materials 
+     Women's or girls' overcoats, car-coats, capes, cloaks, anoraks (including ski-
+jackets), wind-cheaters, wind-jackets and similar articles, knitted or crocheted, 
+other than those of heading 61.04. 
+13  6102.10  - Of wool or fine animal hair 
+14  6102.20  - Of cotton 
+15  6102.30  - Of man-made fibres 
+16  6102.90  - Of other textile materials 
+     Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, 
+breeches and shorts (other than swimwear), knitted or crocheted. 
+     - Suits 
+17  6103.11  - - Of wool or fine animal hair 
+18  6103.12  - - Of synthetic fibres  
+19  6103.19  - - Of other textile materials 
+     - Ensembles 
+20  6103.21  - - Of wool or fine animal hair 
+21  6103.22  - - Of cotton 
+22  6103.23  - - Of synthetic fibres 
+23  6103.29  - - Of other textile materials 
+     - Jackets and blazers 
+24  6103.31  - - Of wool or fine animal hair 
+25  6103.32  - - Of cotton 
+26  6103.33  - - Of synthetic fibres 
+27  6103.39  - - Of other textile materials 
+     - Trousers, bib and brace overalls, breeches and shorts 
+28  6103.41  - - Of wool or fine animal hair  
+29  6103.42  - - Of cotton 
+30  6103.43  - - Of synthetic fibres  
+31  6103.49  - - Of other textile materials 
+     Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided 
+skirts, trousers, bib and brace overalls, breeches and shorts (other than 
+swimwear), knittedor crocheted.
+     - Suits 
+32  6104.11  - - Of wool or fine animal hair  
+33  6104.12  - - Of cotton 
+34  6104.13  - - Of synthetic fibres 
+35  6104.19  - - Of other textile materials 
+ 
+ 
+65       - Ensembles 
+36  6104.21  - - Of wool or fine animal hair  
+37  6104.22  - - Of cotton 
+38  6104.23  - - Of synthetic fibres  
+39  6104.29  - - Of other textile materials 
+     - Jackets and blazers 
+40  6104.31  - - Of wool or fine animal hair 
+41  6104.32  - - Of cotton  
+42  6104.33  - - Of synthetic fibres  
+43  6104.39  - - Of other textile materials 
+     - Dresses 
+44  6104.41  - - Of wool or fine animal hair 
+45  6104.42  - - Of cotton 
+46  6104.43  - - Of synthetic fibres  
+47  6104.44  - - Of artificial fibres 
+48  6104.49  - - Of other textile materials 
+     - Skirts and divided skirts 
+49  6104.51  - - Of wool or fine animal hair 
+50  6104.52  - - Of cotton 
+51  6104.53  - - Of synthetic fibres  
+52  6104.59  - - Of other textile materials 
+     - Trousers, bib and brace overalls, breeches and shorts 
+53  6104.61  - - Of wool or fine animal hair 
+54  6104.62  - - Of cotton  
+55  6104.63  - - Of synthetic fibres 
+56  6104.69  - - Of other textile materials 
+     Men's or boys' shirts, knitted or crocheted.
+57  6105.10  - Of cotton 
+58  6105.20  - Of man-made fibres 
+59  6105.90  - Of other textile materials 
+     Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted.
+60  6106.10  - Of cotton  
+61  6106.20  - Of man-made fibres 
+62  6106.90  - Of other textile materials 
+     Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, dressing 
+gowns and similar articles, knitted or crocheted.
+     - Underpants and briefs 
+63  6107.11  - - Of cotton 
+64  6107.12  - - Of man-made fibres 
+66  65  6107.19  - - Of other textile materials 
+     - Nightshirts and pyjamas 
+66  6107.21  - - Of cotton 
+67  6107.22  - - Of man-made fibres  
+68  6107.29  - - Of other textile materials 
+     - Other 
+69  6107.91  - - Of cotton 
+70  6107.92  - - Of man-made fibres 
+71  6107.99  - - Of other textile materials 
+     Women's or girls' slips, petticoats, briefs, panties, nightdresses, pyjamas, 
+négligées, bathrobes, dressing gowns and similar articles, knitted or crocheted.
+     - Slips and petticoats 
+72  6108.11  - - Of man-made fibres 
+73  6108.19  - - Of other textile materials 
+     - Briefs and panties 
+74  6108.21  - - Of cotton 
+75  6108.22  - - Of man-made fibres 
+76  6108.29  - - Of other textile materials 
+     - Nightdresses and pyjamas 
+77  6108.31  - - Of cotton 
+78  6108.32  - - Of man-made fibres 
+79  6108.39  - - Of other textile materials 
+     - Other 
+80  6108.91  - - Of cotton 
+81  6108.92  - - Of man-made fibres 
+82  6108.99  - - Of other textile materials 
+     T-shirts, singlets and other vests, knitted or crocheted. 
+83  6109.10  - Of cotton 
+84  6109.90  - Of other textile materials 
+     Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or 
+crocheted. 
+     - Of wool or fine animal hair  
+85  6110.11  - - Of wool  
+86  6110.12  - - Of Kashmir (cashmere) goats  
+87  6110.19  - - Other  
+88  6110.20  - Of cotton 
+89  6110.30  - Of man-made fibres 
+90  6110.90  - Of other textile materials 
+     Babies' garments and clothing accessories, knitted or crocheted. 
+67  91  6111.10  - Of wool or fine animal hair 
+92  6111.20  - Of cotton 
+93  6111.30  - Of synthetic fibres 
+94  6111.90  - Of other textile materials 
+     Track suits, ski suits and swimwear, knitted or crocheted. 
+     - Track suits 
+95  6112.11  - - Of cotton 
+96  6112.12  - - Of synthetic fibres 
+97  6112.19  - - Of other textile materials 
+98  6112.20  - Ski suits 
+     - Men's or boys' swimwear 
+99  6112.31  - - Of synthetic fibres 
+100  6112.39  - - Of other textile materials 
+     - Women's or girls' swimwear 
+101  6112.41  - - Of synthetic fibres 
+102  6112.49  - - Of other textile materials 
+103  6113.00  Garments, made up of knitted or crocheted fabrics of heading 59.03, 59.06 or 
+59.07. 
+     Other garments, knitted or crocheted. 
+104  6114.10  - Of wool or fine animal hair   
+105  6114.20  - Of cotton  
+106  6114.30  - Of man-made fibres 
+107  6114.90  - Of other textile materials 
+     Panty hose, tights, stockings, socks and other hosiery, including stockings for 
+varicose veins and footwear without applied soles, knitted or crocheted. 
+     - Panty hose and tights 
+108  6115.11  - - Of synthetic fibres, measuring per single yarn less than 67 decitex 
+109  6115.12  - - Of synthetic fibres, measuring per single yarn 67 decitex or more 
+110  6115.19  - - Of other textile materials 
+111  6115.20  - Women's full-length or knee-length hosiery, measuring per single yarn less than 67 
+decitex 
+     - Other 
+112  6115.91  - - Of wool or fine animal hair 
+113  6115.92  - - Of cotton 
+114  6115.93  - - Of synthetic fibres 
+115  6115.99  - - Of other textile materials 
+     Gloves, mittens and mitts, knitted or crocheted.
+116  6116.10  - Impregnated, coated or covered with plastics or rubber 
+     - Other 
+ 
+68  117  6116.91  - - Of wool or fine animal hair 
+118  6116.92  - - Of cotton 
+119  6116.93  - - Of synthetic fibres 
+120  6116.99  - - Of other textile materials 
+     Other made up clothing accessories, knitted or crocheted; knitted or crocheted 
+parts of garments or of clothing accessories.
+121  6117.10  - Shawls, scarves, mufflers, mantillas, veils and the like 
+122  6117.20  - Ties, bow ties and cravats 
+123  6117.80  - Other accessories 
+124  6117.90  - Parts 
+     Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-
+jackets), wind-cheaters, wind-jackets and similar articles, other than those of 
+heading 62.03. 
+     - Overcoats, raincoats, car-coats, capes, cloaks and similar articles 
+125  6201.11  - - Of wool of fine animal hair 
+126  6201.12  - - Of cotton 
+127  6201.13  - - Of man-made fibres  
+128  6201.19  - - Of other textile materials 
+     - Other 
+129  6201.91  - - Of wool or fine animal hair  
+130  6201.92  - - Of cotton 
+131  6201.93  - - Of man-made fibres  
+132  6201.99  - - Of other textile materials 
+     Women's or girls' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), 
+wind-cheaters, wind-jackets and similar articles, other than those of heading 62.04. 
+     - Overcoats, raincoats, car-coats, capes, cloaks and similar articles 
+133  6202.11  - - Of wool or fine animal hair 
+134  6202.12  - - Of cotton 
+135  6202.13  - - Of man-made fibres  
+136  6202.19  - - Of other textile materials 
+     - Other 
+137  6202.91  - - Of wool or fine animal hair 
+138  6202.92  - - Of cotton 
+139  6202.93  - - Of man-made fibres  
+140  6202.99  - - Of other textile materials 
+     Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, 
+breeches and shorts (other than swimwear).
+     - Suits 
+ 
+ 
+69  141  6203.11  - - Of wool or fine animal hair 
+142  6203.12  - - Of synthetic fibres 
+143  6203.19  - - Of other textile materials 
+     - Ensembles 
+144  6203.21  - - Of wool or fine animal hair 
+145  6203.22  - - Of cotton 
+146  6203.23  - - Of synthetic fibres 
+147  6203.29  - - Of other textile materials 
+     - Jackets and blazers 
+148  6203.31  - - Of wool or fine animal hair 
+149  6203.32  - - Of cotton 
+150  6203.33  - - Of synthetic fibres 
+151  6203.39  - - Of other textile materials 
+     - Trousers, bib and brace overalls, breeches and shorts 
+152  6203.41  - - Of wool or fine animal hair 
+153  6203.42  - - Of cotton 
+154  6203.43  - - Of synthetic fibres 
+155  6203.49  - - Of other textile materials 
+     Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided 
+skirts, trousers, bib and brace overalls, breeches and shorts (other than 
+swimwear). 
+     - Suits 
+156  6204.11  - - Of wool or fine animal hair 
+157  6204.12  - - Of cotton 
+158  6204.13  - - Of synthetic fibres 
+159  6204.19  - - Of other textile materials 
+     - Ensembles 
+160  6204.21  - - Of wool or fine animal hair 
+161  6204.22  - - Of cotton 
+162  6204.23  - - Of synthetic fibres 
+163  6204.29  - - Of other textile materials 
+     - Jackets and blazers 
+164  6204.31  - - Of wool or fine animal hair 
+165  6204.32  - - Of cotton 
+166  6204.33  - - Of synthetic fibres 
+167  6204.39  - - Of other textile materials 
+     - Dresses 
+168  6204.41  - - Of wool or fine animal hair 
+ 
+ 
+70  169  6204.42  - - Of cotton 
+170  6204.43  - - Of synthetic fibres 
+171  6204.44  - - Of artificial fibres 
+172  6204.49  - - Of other textile materials 
+     - Skirts and divided skirts 
+173  6204.51  - - Of wool or fine animal hair 
+174  6204.52  - - Of cotton 
+175  6204.53  - - Of synthetic fibres 
+176  6204.59  - - Of other textile materials 
+     - Trousers, bib and brace overalls, breeches and shorts 
+177  6204.61  - - Of wool or fine animal hair 
+178  6204.62  - - Of cotton 
+179  6204.63  - - Of synthetic fibres  
+180  6204.69  - - Of other textile materials 
+     Men's or boys' shirts.
+181  6205.10  - Of wool or fine animal hair  
+182  6205.20  - Of cotton 
+183  6205.30  - Of man-made fibres 
+184  6205.90  - Of other textile materials 
+     Women's or girls' blouses, shirts and shirt-blouses.
+185  6206.10  - Of silk or silk waste 
+186  6206.20  - Of wool or fine animal hair 
+187  6206.30  - Of cotton 
+188  6206.40  - Of man-made fibres 
+189  6206.90  - Of other textile materials 
+     Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, 
+bathrobes, dressing gowns and similar articles.
+     - Underpants and briefs 
+190  6207.11  - - Of cotton 
+191  6207.19  - - Of other textile materials 
+     - Nightshirts and pyjamas 
+192  6207.21  - - Of cotton 
+193  6207.22  - - Of man-made fibres 
+194  6207.29  - - Of other textile materials 
+     - Other 
+195  6207.91  - - Of cotton 
+196  6207.92  - - Of man-made fibres 
+197  6207.99  - - Of other textile materials 
+ 
+71       Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, 
+nightdresses, pyjamas, négligées, bathrobes, dressing gowns and similar articles.
+     - Slips and petticoats 
+198  6208.11  - - Of man-made fibres 
+199  6208.19  - - Of other textile materials 
+     - Nightdresses and pyjamas 
+200  6208.21  - - Of cotton 
+201  6208.22  - - Of man-made fibres 
+202  6208.29  - - Of other textile materials 
+     - Other 
+203  6208.91  - - Of cotton 
+204  6208.92  - - Of man-made fibres 
+205  6208.99  - - Of other textile materials 
+     Babies' garments and clothing accessories. 
+206  6209.10  - Of wool or fine animal hair 
+207  6209.20  - Of cotton 
+208  6209.30  - Of synthetic fibres 
+209  6209.90  - Of other textile materials 
+     Garments, made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07. 
+210  6210.10  - Of fabrics of heading 56.02 or 56.03 
+211  6210.20  - Other garments, of the type described in subheadings 6201.11 to 6201.19 
+212  6210.30  - Other garments, of the type described in subheadings 6202.11 to 6202.19 
+213  6210.40  - Other men's or boys' garments 
+214  6210.50  - Other women's or girls' garments 
+     Track suits, ski suits and swimwear; other garments.
+     - Swimwear 
+215  6211.11  - - Men's or boys' 
+216  6211.12  - - Women's or girls' 
+217  6211.20  - Ski suits 
+     - Other garments, men's or boys' 
+218  6211.31  - - Of wool or fine animal hair 
+219  6211.32  - - Of cotton  
+220  6211.33  - - Of man-made fibres 
+221  6211.39  - - Of other textile materials 
+     - Other garments, women's or girls' 
+222  6211.41  - - Of wool or fine animal hair 
+223  6211.42  - - Of cotton 
+224  6211.43  - - Of man-made fibres 
+ 
+72  225  6211.49  - - Of other textile materials 
+     Brassières, girdles, corsets, braces, suspenders, garters and similar articles and 
+parts thereof, whether or not knitted or crocheted.
+226  6212.10  - Brassieres 
+227  6212.20  - Girdles and panty-girdles 
+228  6212.30  - Corselettes 
+229  6212.90  - Other 
+     Handkerchiefs. 
+230  6213.10  - Of silk or silk waste 
+231  6213.20  - Of cotton 
+232  6213.90  - Of other textile materials 
+     Shawls, scarves, mufflers, mantillas, veils and the like. 
+233  6214.10  - Of silk or silk waste  
+234  6214.20  - Of wool or fine animal hair 
+235  6214.30  - Of synthetic fibres  
+236  6214.40  - Of artificial fibres  
+237  6214.90  - Of other textile materials  
+     Ties, bow ties and cravats.  
+238  6215.10  - Of silk or silk waste 
+239  6215.20  - Of man-made fibres 
+240  6215.90  - Of other textile materials 
+241  6216.00  Gloves, mittens and mitts. 
+     Other made up clothing accessories; parts of garments or of clothing accessories, 
+other than those of heading 62.12.
+242  6217.10  - Accessories 
+243  6217.90  - Parts 
+     Blankets and travelling rugs. 
+244  6301.10  - Electric blankets 
+245  6301.20  - Blankets (other than electric blankets) and travelling rugs, of wool or of fine animal hair 
+246  6301.30  - Blankets (other than electric blankets) and travelling rugs, of cotton 
+247  6301.40  - Blankets (other than electric blankets) and travelling rugs, of synthetic fibres 
+248  6301.90  - Other blankets and travelling rugs 
+     Bed linen, table linen, toilet linen and kitchen linen.
+249  6302.10  - Bed linen, knitted or crocheted 
+     - Other bed linen, printed 
+250  6302.21  - - Of cotton 
+251  6302.22  - - Of man-made fibres 
+252  6302.29  - - Of other textile materials 
+ 
+73       - Other bed linen 
+253  6302.31  - - Of cotton 
+254  6302.32  - - Of man-made fibres 
+255  6302.39  - - Of other textile materials 
+256  6302.40  - Table linen, knitted or crocheted 
+     - Other table linen 
+257  6302.51  - - Of cotton 
+258  6302.52  - - Of flax 
+259  6302.53  - - Of man-made fibres 
+260  6302.59  - - Of other textile materials 
+261  6302.60  - Toilet linen and kitchen linen, of terry towelling or similar terry fabrics, of cotton 
+     - Other 
+262  6302.91  - - Of cotton 
+263  6302.92  - - Of flax 
+264  6302.93  - - Of man-made fibres 
+265  6302.99  - - Of other textile materials 
+     Curtains (including drapes) and interior blinds; curtain or bed valances. 
+     - Knitted or crocheted 
+266  6303.11  - - Of cotton 
+267  6303.12  - - Of synthetic fibres 
+268  6303.19  - - Of other textile materials 
+     - Other 
+269  6303.91  - - Of cotton 
+270  6303.92  - - Of synthetic fibres 
+271  6303.99  - - Of other textile materials 
+     Other furnishing articles, excluding those of heading 94.04. 
+     - Bedspreads 
+272  6304.11  - - Knitted or crocheted 
+273  6304.19  - - Other 
+     - Other 
+274  6304.91  - - Knitted or crocheted 
+275  6304.92  - - Not knitted or crocheted, of cotton 
+276  6304.93  - - Not knitted or crocheted, of synthetic fibres 
+277  6304.99  - - Not knitted or crocheted, of other textile materials 
+     Sacks and bags, of a kind used for the packing of goods. 
+278  6305.10  - Of jute or of other textile bast fibres of heading 53.03 
+279  6305.20  - Of cotton 
+ 
+ 
+74       - Of man-made textile materials 
+280  6305.32  - - Flexible intermediate bulk containers 
+281  6305.33  - - Other, of polyethylene or polypropylene strip or the like 
+282  6305.39  - - Other 
+283  6305.90  - Of other textile materials 
+     Tarpaulins, awnings and sunblinds; tents; sails for boats, sailboards or landcraft; 
+camping goods. 
+     - Tarpaulins, awnings and sunblinds 
+284  6306.11  - - Of cotton 
+285  6306.12  - - Of synthetic fibres 
+286  6306.19  - - Of other textile materials 
+     - Tents 
+287  6306.21  - - Of cotton 
+288  6306.22  - - Of synthetic fibres  
+289  6306.29  - - Of other textile materials 
+     - Sails 
+290  6306.31  - - Of synthetic fibres 
+291  6306.39  - - Of other textile materials 
+     - Pneumatic mattresses 
+292  6306.41  - - Of cotton 
+293  6306.49  - - Of other textile materials 
+     - Other 
+294  6306.91  - - Of cotton 
+295  6306.99  - - Of other textile materials 
+     Other made up articles, including dress patterns. 
+296  6307.10  - Floor-cloths, dish-cloths, dusters and similar cleaning cloths 
+297  6307.20  - Life-jackets and life-belts 
+298  6307.90  - Other 
+299  6308.00  Sets consisting of woven fabric and yarn, whether or not with accessories, for 
+making up into rugs, tapestries, embroidered table-cloths or serviettes, or similar 
+textile articles, put up in packings for retail sale. 
+300  6309.00  Worn clothing and other worn articles. 
+     Other footwear.
+   6405.20  - With uppers of textile materials 
+301  ex. 6405.20  (Footwear with soles and uppers of wool felt) 
+     Parts of footwear (including uppers whether or not attached to soles other than 
+outer soles); removable in-soles, heel cushions and similar articles; gaiters, 
+leggings and similar articles, and parts thereof. 
+   6406.10  - Uppers and parts thereof, other than stiffeners 
+302  ex. 6406.10  (Footwear uppers of which 50% or more of the external surface area is textile material) 
+ 
+75       - Other 
+   6406.99  - - Of other materials 
+303  ex. 6406.99  (Leg warmers and gaiters of textile material) 
+304  6501.00  Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made 
+brims; plateaux and manchons (including slit manchons of felt 
+305  6502.00  Hat-shapes, plaited or made by assembling strips of any material, neither blocked 
+to shape, nor with made brims, nor lined, nor trimmed
+306  6503.00  Felt hats and other felt headgear, made from the hat bodies, hoods or plateaux of 
+heading 65.01, whether or not lined or trimmed 
+307  6504.00  Hats and other headgear, plaited or made by assembling strips of any material, 
+whether or not lined or trimmed
+     Hats and other headgear, knitted or crocheted, or made up from lace, felt or other 
+textile fabric in the piece (but not in strips), whether or not lined or trimmed; hair-
+nets of any material, whetheror not lined or trimmed.
+308  6505.90  - Other 
+     Umbrellas and sun umbrellas (including walking-stick umbrellas, garden 
+umbrellas and similar umbrellas). 
+309  6601.10  - Garden or similar umbrellas 
+     - Other 
+310  6601.91  - - Having a telescopic shaft 
+311  6601.99  - - Other 
+     Glass fibres (including glass wool) and articles thereof (for example, yarn, woven 
+fabrics). 
+     - Slivers, rovings, yarn and chopped strands 
+   7019.19  - - Other 
+312  7019.19.10  - - - Yarn 
+(AHTN 2002/1) 
+     - Thin sheets (voiles), webs, mats, mattresses, boards and similar nonwoven products 
+     - Other woven fabrics 
+   7019.51  - - Of a width not exceeding 30 cm 
+313  ex. 7019.51  (Woven fabrics of fibre glass) 
+   7019.52  - - Of a width exceeding 30 cm, plain weave, weighing less than 250g/m2, of 
+filaments measuring per single yarn not more than 136 tex 
+314  ex. 7019.52  (Woven fabrics of fibre glass) 
+   7019.59  - - Other 
+315  ex. 7019.59  (Woven fabrics of fibre glass) 
+     Parts and accessories of the motor vehicles of headings 87.01 to 87.05.  
+     - Other parts and accessories of bodies (including cabs) 
+316  8708.21  - - Safety seat belts  
+317  8804.00  Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts 
+thereof and accessories thereto 
+     Watch straps, watch bands and watch bracelets, and parts thereof. 
+318  9113.90  - Other 
+ 
+ 
+76       Mattress supports; articles of bedding and similar furnishings (for example, 
+mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs 
+or stuffed or internally fitted with any material or of cellular rubber or plastics, 
+whether or not covered.
+   9404.90  - Other 
+319  ex.9404.90  (Pillows and cushions of cotton; quilts, eiderdowns; comforters and similar articles of 
+textile materials) 
+     Dolls representing only human beings. 
+     - Parts and accessories 
+320  9502.91  - - Garments and accessories therefor, footwear and headgear 
+     Typewriter or similar ribbons, inked or other wise prepared for giving impressions, 
+whether or not on spools or in cartridges; ink-pads, whether or not inked, with or 
+without boxes.
+   9612.10  - Ribbons 
+321  9612.10.10  - - Of textile fabric 
+(AHTN 2002/1) 
+ 
+ 
+77  APPENDIX D 
+ 
+OPERATIONAL CERTIFICATION PROCEDURES 
+FOR THE RULES OF ORIGIN FOR 
+THE ASEAN-INDIA FREE TRADE AREA (AIFTA) 
+ 
+ 
+For the purposes of implementing the Rules of Origin for the AIFTA, the 
+following  Operational  Certification  Procedures  on  the  issuance  and 
+verification  of  the  AIFTA  Certificate  of  Origin  and  the  other  related 
+administrative matters shall be followed: 
+ 
+AUTHORITIES 
+ 
+Article 1 
+ 
+The  AIFTA  Certificate  of  Origin  shall  be  issued  by  the  Government 
+authorities (Issuing Authority) of the exporting Party. 
+ 
+Article 2 
+ 
+Each Party shall provide 11 original sets of, or through electronic means, 
+specimen signatures and specimen of official seals used by their Issuing 
+Authorities,  including  their  names  and  addresses,  through  the  ASEAN 
+Secretariat for dissemination to the other Parties. Any change in names, 
+addresses, specimen signatures or official seals shall be promptly informed 
+in the same manner or electronically. 
+ 
+Article 3 
+ 
+For the purposes of determining originating status, the Issuing Authority 
+shall have the right to call for  any  supporting  documentary  evidence  or 
+carry out any checks considered appropriate. 
+ 
+APPLICATIONS 
+ 
+Article 4 
+ 
+The  exporter  and/or  the  manufacturer  of  the  products  qualified  for 
+preferential tariff treatment shall apply in writing to the Issuing Authority of 
+78  the  exporting  Party  requesting  for  the  pre-exportation  verification  of  the 
+origin  of  the  products.  The  result  of  the  verification,  subject  to  review 
+periodically or whenever appropriate, shall be accepted as the supporting 
+evidence  in  verifying  the  origin  of  the  said  products  to  be  exported 
+thereafter. The pre-exportation verification may not apply to products, the 
+origin of which by their nature can be easily verified. 
+ 
+Article 5 
+ 
+At the time of carrying out the formalities for exporting the products under 
+preferential tariff treatment, the exporter or his authorised representative 
+shall submit a written application for the AIFTA Certificate of Origin together 
+with  appropriate  supporting  documents  proving  that  the  products  to  be 
+exported qualify for the issuance of an AIFTA Certificate of Origin. 
+ 
+PRE-EXPORTATION EXAMINATION 
+ 
+Article 6 
+ 
+(a)  The  Issuing  Authority  shall,  to  the  best  of  their  competence  and 
+ability, carry out proper examination upon each application for the 
+AIFTA Certificate of Origin to ensure that: 
+ 
+(i)  the  application  and  the  AIFTA  Certificate  of  Origin  are  duly 
+completed and signed by the authorised signatory; 
+ 
+(ii)  the origin of the product is in conformity with the AIFTA Rules of 
+Origin; 
+ 
+(iii)  other statements of the AIFTA Certificate of Origin correspond 
+to supporting documentary evidence submitted; and 
+ 
+(iv)  description, quantity and weight of goods, marks and numbers 
+on packages, and number and type of packages, as specified, 
+conform to the products to be exported. 
+ 
+(b)  Multiple  items  declared  on  a  single  invoice  and  single  AIFTA 
+Certificate of Origin shall be allowed, provided that each item qualifies 
+separately in its own right. 
+ 
+79  ISSUANCE OF AIFTA CERTIFICATE OF ORIGIN 
+ 
+Article 7 
+ 
+(a)  The AIFTA Certificate of Origin shall be in International Organization 
+for Standardization (ISO) A4 size, and white paper in conformity with 
+the specimen as in the Attachment. It shall be made in English. The 
+AIFTA Certificate of Origin shall comprise one (1) original and three 
+(3) copies. Each AIFTA Certificate of Origin shall bear a reference 
+number as given separately by each place or office of issuance. 
+ 
+(b)  The original copy shall be forwarded, together with the triplicate, by 
+the exporter to the importer. Only the original copy will be submitted 
+by  the  importer  to  the  Customs  Authority  at  the  port  or  place  of 
+importation. The duplicate shall be retained by the Issuing Authority in 
+the exporting Party. The triplicate shall be retained by the importer. 
+The quadruplicate shall be retained by the exporter. 
+ 
+(c)  In cases where an AIFTA Certificate of Origin is not accepted by the 
+Customs Authority of the importing Party, such AIFTA Certificate of 
+Origin shall be marked accordingly in Box 4 and the original AIFTA 
+Certificate of Origin shall be returned to the Issuing Authority within a 
+reasonable  period  but  not  to  exceed  two  (2)  months.  The  Issuing 
+Authority  shall  be  duly  notified  of  the  grounds  for  the  denial  of 
+preferential tariff treatment. 
+ 
+(d)  In  cases  where  an AIFTA  Certificate  of  Origin  is  not  accepted,  as 
+stated in paragraph (c), the Issuing Authority shall provide detailed, 
+exhaustive  clarification  addressing  the  grounds  for  the  denial  of 
+preferential  tariff  treatment  raised  by  the  importing  Party.  The 
+Customs  Authority  of  the  importing  Party  shall  accept  the  AIFTA 
+Certificate of Origin and grant the preferential tariff treatment if the 
+clarification is found satisfactory. 
+ 
+Article 8 
+ 
+To implement the provisions of Rules 4, 5 and 6 of the AIFTA Rules of 
+Origin, the AIFTA Certificate of Origin issued by the exporting Party shall 
+indicate the relevant rules and applicable percentage of AIFTA content in 
+Box 8. 
+80   
+Article 9 
+ 
+No erasures or superimpositions shall be allowed on the AIFTA Certificate 
+of Origin. Any alteration shall be made by striking out the errors and making 
+any  required  corrections.  Such  alterations  and  corrections  shall  be 
+approved and certified by an official of the Issuing Authority authorised to 
+sign the AIFTA Certificate of Origin. Unused spaces shall be crossed out to 
+prevent any subsequent addition. 
+ 
+Article 10 
+ 
+(a)  The  AIFTA  Certificate  of  Origin  shall  be  issued  by  the  Issuing 
+Authority of the exporting Party at the time of exportation, or within 
+three  (3)  working  days  from  the  date  of  shipment  whenever  the 
+products to be exported can be considered originating in that Party 
+within the meaning of the AIFTA Rules of Origin. 
+ 
+(b)  In  exceptional  cases  where  a  AIFTA  Certificate  of  Origin  has  not 
+been issued at the time of exportation or within three (3) working days 
+from the date of shipment due to inadvertent errors or omissions or 
+other  valid  causes,  the  AIFTA  Certificate  of  Origin  may  be  issued 
+retroactively but no longer than 12 months from the date of shipment, 
+bearing the words “ISSUED RETROACTIVELY”. 
+Article 11 
+ 
+(a)  Notwithstanding paragraph (b) of Article 7, Articles 13 and 14(b), the 
+Issuing Authority of the intermediate Party may issue a back-to-back 
+AIFTA Certificate of Origin if an application is made by the exporter of 
+that Party while the product is passing through that Party’s territory, 
+provided that: 
+ 
+(i)  a valid AIFTA Certificate of Origin from the original exporting 
+Party  is  presented  only  to  the  Issuing  Authority  of  the 
+intermediate Party; 
+ 
+(ii)  the  importer  of  the  intermediate  Party  and  the  exporter  who 
+applies for the back-to-back AIFTA Certificate of Origin in the 
+intermediate Party are the same; 
+81   
+(iii)  validity  of  the  back-to-back  AIFTA  Certificate  of  Origin  shall 
+have  the  same  end-date  as  the  original  AIFTA  Certificate  of 
+Origin; 
+ 
+(iv)  the originating products re-exported could either be full or part 
+of the original consignment; 
+ 
+(v)  the consignment which is to be re-exported using the back-to-
+back AIFTA Certificate of Origin must not undergo any further 
+processing in the intermediate Party, except for repacking and 
+logistics activities consistent with Rule 8 of the ROO; 
+ 
+(vi)  the  product  shall  remain  in  the  intermediate  Party’s  customs 
+territory,  including  its  free  trade  zones  and  bonded  areas 
+approved by the customs. The product shall not enter into trade 
+or consumption in the intermediate Party; 
+ 
+(vii)  information  on  the  back-to-back  AIFTA  Certificate  of  Origin 
+includes the name of the Party which issued the original AIFTA 
+Certificate of Origin, date of issuance and reference number; 
+and 
+ 
+(viii)  verification  procedures  as  set  out  in  Articles  16  and  17  are 
+applied. 
+ 
+(b)  The original exporting Party, the intermediate Party and the importing 
+Party shall cooperate in the process of verification. The copy of the 
+AIFTA Certificate of Origin issued by the original exporting Party shall 
+be given to the Customs Authority of the importing Party if it requests 
+for the same during the process of verification. 
+ 
+(c)  Upon request of a Party, the Parties shall review the provisions of this 
+Article  and  the  implementation  thereof,  and  revise  it  as  may  be 
+mutually agreed upon by the Parties. 
+ 
+Article 12 
+ 
+In the event of theft, loss or destruction of an AIFTA Certificate of Origin, 
+the exporter may apply in writing to the Issuing Authority which issued it for 
+82  the certified true copy of the original and the triplicate to be made on the 
+basis of the export documents in their possession bearing the endorsement 
+of the words “CERTIFIED TRUE COPY” (in lieu of the original certificate) in 
+Box 12. This copy shall bear the date of the original AIFTA Certificate of 
+Origin. The certified true copy of an AIFTA Certificate of Origin shall be 
+issued within the validity period of the original AIFTA Certificate of Origin 
+and on condition that the exporter provides to the relevant Issuing Authority 
+the quadruplicate copy. 
+ 
+PRESENTATION 
+ 
+Article 13 
+ 
+Except for the AIFTA Certificate of Origin referred to in Article 11(a), the 
+original  AIFTA  Certificate  of  Origin  shall  be  submitted  to  the  Customs 
+Authority at the time of lodging the import entry for the products concerned. 
+ 
+Article 14 
+ 
+The  following  time  limit  for  the  presentation  of  the  AIFTA  Certificate  of 
+Origin shall be observed: 
+ 
+(a)  the AIFTA Certificate of Origin shall be valid for 12 months from the 
+date of its issuance; 
+ 
+(b)  the  AIFTA  Certificate  of  Origin  shall  be  submitted  to  the  Customs 
+Authority of the importing Party within its validity period; 
+ 
+(c)  where  the  AIFTA  Certificate  of  Origin  is  submitted  to  the  relevant 
+Customs Authority of the importing Party after the expiration of its 
+validity period, such AIFTA Certificate of Origin shall be accepted, if 
+failure to observe the time limit was as a result of force majeure or 
+any other cause beyond the control of the exporter; and 
+ 
+(d)   in all cases, the relevant Customs Authority in the importing Party 
+may  accept  such  AIFTA  Certificate  of  Origin  provided  that  the 
+products have been imported before the expiry of the validity of that 
+AIFTA Certificate of Origin. 
+ 
+83  Article 15 
+ 
+(a)  Where the origin of a product is not in doubt, the discovery of minor 
+discrepancies between the statements made in the AIFTA Certificate 
+of Origin and those made in the documents submitted to the Customs 
+Authority of the importing Party for the purpose of carrying out the 
+formalities for importing the products shall not invalidate the AIFTA 
+Certificate of Origin, if it does in fact correspond to the said products. 
+ 
+(b)  For  multiple  items  declared  under  the  same  AIFTA  Certificate  of 
+Origin, a problem encountered with one of the items listed shall not 
+affect  or  delay  the  granting  of  preferential  tariff  treatment  and 
+customs  clearance  of  the  remaining  items  listed  in  that  AIFTA 
+Certificate of Origin. Subparagraph a(iii) of Article 16 may be applied 
+to the problematic items. 
+ 
+VERIFICATION 
+ 
+Article 16 
+ 
+(a)  The  importing  Party  may  request  a  retroactive  check  at  random 
+and/or  when  it  has  reasonable  doubt  as  to  the  authenticity  of  the 
+document or as to the accuracy of the information regarding the true 
+origin of the good in question or of certain parts thereof. The Issuing 
+Authority shall conduct a retroactive check on a producer/exporter’s 
+cost  statement  based  on  the  current  cost  and  prices  within  a  six-
+month  timeframe  prior  to  the  date  of  exportation  subject  to  the 
+following procedures: 
+ 
+(i)  the request for a retroactive check shall be accompanied by the 
+AIFTA Certificate of Origin concerned and specify the reasons 
+and any additional information suggesting that the particulars 
+given in the said AIFTA Certificate of Origin may be inaccurate, 
+unless the retroactive check is requested on a random basis; 
+ 
+(ii)  the Issuing Authority shall respond to the request promptly and 
+reply  within  three  (3)  months  after  receipt  of  the  request  for 
+retroactive check; 
+ 
+84  (iii)  In case of reasonable doubt as to the authenticity or accuracy 
+of the document, the Customs Authority of the importing Party 
+may  suspend  provision  of  preferential  tariff  treatment  while 
+awaiting the result of verification. However, it may release the 
+good  to  the  importer  subject  to  any  administrative  measures 
+deemed necessary, provided that they are not subject to import 
+prohibition or restriction and there is no suspicion of fraud; and 
+ 
+(iv)  the retroactive check process, including the actual process and 
+the determination of whether the subject good is originating or 
+not, should be completed and the result communicated to the 
+Issuing Authority within six (6) months. While the process of the 
+retroactive check is being undertaken, subparagraph (iii) shall 
+be applied. 
+ 
+(b)  The  Customs  Authority  of  the  importing  Party  may  request  an 
+importer  for  information  or  documents  relating  to  the  origin  of 
+imported good in accordance with its domestic laws and regulations 
+before requesting the retroactive check pursuant to paragraph (a). 
+ 
+Article 17 
+ 
+(a)  If  the  importing  Party  is  not  satisfied  with  the  outcome  of  the 
+retroactive check, it may, under exceptional circumstances, request 
+verification  visits  to  the  exporting  Party.  Prior  to  conducting  a 
+verification visit: 
+ 
+(i)  the  importing  Party  shall  deliver  a  written  notification  of  its 
+intention  to  conduct  the  verification  visit  through  a  focal 
+customs or any other appropriate authority simultaneously to: 
+ 
+1.  the producer/exporter whose premises are to be visited; 
+ 
+2.  the Issuing Authority of the Party in the territory of which 
+the verification visit is to occur; 
+ 
+3.  the focal customs or any other appropriate authority of the 
+Party  in  the  territory  of  which  the  verification  visit  is  to 
+occur; and 
+ 
+85  4.  the importer of the good subject to the verification visit; 
+ 
+(ii)  the written notification mentioned in subparagraph (i) shall be 
+as comprehensive as possible and include: 
+ 
+1.  the name of the focal customs or any other appropriate 
+authority issuing the notification; 
+ 
+2.  the name of the producer/exporter whose premises are to 
+be visited; 
+ 
+3.  the proposed date of the verification visit; 
+ 
+4.  the coverage scope/purpose of the proposed verification 
+visit,  including  reference  to  the  good  subject  to  the 
+verification; and 
+ 
+5.  the names and designation of the officials performing the 
+verification visit; 
+ 
+(iii)  an  importing  Party  shall  obtain  the  written  consent  of  the 
+producer/exporter whose premises are to be visited; 
+ 
+(iv)  when  a  written  consent  from  the  producer/exporter  is  not 
+obtained  within  30  days  from  the  date  of  receipt  of  the 
+notification  pursuant  to  subparagraph  (i),  the  notifying  Party 
+may deny preferential tariff treatment to the good referred to in 
+the  said  AIFTA  Certificate  of  Origin  that  would  have  been 
+subject to the verification visit; and 
+ 
+(v)  the  Issuing  Authority  receiving  the  notification  may  postpone 
+the proposed verification visit and notify the importing Party of 
+such intention within 15 days from the date of receipt of the 
+notification. Notwithstanding any postponement, any verification 
+visit shall be carried out within 60 days from the date of such 
+receipt, or for such longer period as the Parties may agree. 
+ 
+(b)  The importing Party conducting the verification visit shall provide the 
+producer/exporter whose good is subject to the verification and the 
+86  relevant Issuing Authority with a written determination of whether that 
+good qualifies as an originating good. 
+ 
+(c)  The  determination  of  whether  the  good  qualifies  as  an  originating 
+good  shall  be  notified  to  the  producer/exporter,  and  the  relevant 
+Issuing Authority. Any suspended preferential tariff treatment shall be 
+reinstated  upon  a  determination  that  the  good  qualifies  as  an 
+originating good. 
+ 
+(d)  If the good is determined to be non-originating, the producer/exporter 
+shall  be  given  30  days  from  the  date  of  receipt  of  the  written 
+determination  to  provide  any  written  comments  or  additional 
+information regarding the eligibility of the good for preferential tariff 
+treatment.  If  the  good  is  still  found  to  be  non-originating,  the  final 
+written  determination  issued  by  the  importing  Party  shall  be 
+communicated to the Issuing Authority within 30 days from the date of 
+receipt  of  the  comments/additional  information  from  the 
+producer/exporter. 
+ 
+(e)  The  verification  visit  process,  including  the  actual  visit  and  the 
+determination  whether  or  not  the  good  subject  to  verification  is 
+originating, shall be carried out and its results communicated to the 
+Issuing Authority within a maximum period of six (6) months from the 
+date when the verification visit was conducted. While the process of 
+verification is being undertaken, subparagraph a(iii) of Article 16 shall 
+be applied. 
+ 
+Article 18 
+ 
+(a)  The application for AIFTA Certificates of Origin and all documents 
+related to such application shall be retained by the Issuing Authorities 
+for not less than two (2) years from the date of issuance. 
+ 
+(b)  Information relating to the validity of the AIFTA Certificate of Origin 
+shall be furnished upon request of the importing Party. 
+ 
+(c)  Any  information  communicated  between  the  authorities  concerned 
+shall be treated as confidential and shall be used for the validation of 
+AIFTA Certificates of Origin purposes only. 
+ 
+87  SPECIAL CASES 
+ 
+Article 19 
+ 
+When destination of all or parts of the products exported to a specified port 
+of a Party is changed, before or after their arrival in the importing Party, the 
+following rules shall be observed: 
+ 
+(a)  If the products have already been submitted to the Customs Authority 
+in the specified importing Party, the AIFTA Certificate of Origin shall, 
+by a written application of the importer, be endorsed to this effect for 
+all  or  parts  of  products  by  the  said  authorities  and  the  original 
+returned to the importer. 
+ 
+(b)   If  the  changing  of  destination  occurs  during  transportation  to  the 
+importing Party as specified in the AIFTA Certificate of Origin, the 
+exporter shall apply in writing, accompanied with the issued AIFTA 
+Certificate of Origin, for issuance of new AIFTA Certificate(s) of Origin 
+for all or parts of products. 
+ 
+Article 20 
+ 
+For the purpose of implementing Rule 8(c) of the AIFTA Rules of Origin, 
+where transportation is effected through the territory of one or more non-
+AIFTA Party, the following shall be produced to the Customs Authority of 
+the importing Party: 
+ 
+(a)  a through Bill of Lading issued in the exporting Party; 
+ 
+(b)  a AIFTA Certificate of Origin issued by the relevant Issuing Authority 
+of the exporting Party; 
+ 
+(c)  a copy of the original commercial invoice in respect of the product; 
+and 
+ 
+(d)  if  any,  other  relevant  supporting  documents  in  evidence  that  the 
+requirements of Rule 8(c) of the AIFTA  Rules  of  Origin  are  being 
+complied with. 
+88   
+Article 21 
+ 
+(a)  Products sent from a Party for exhibition in another Party, when sold 
+during or after the exhibition, shall benefit from the preferential tariff 
+treatment if the products meet the requirements of the AIFTA Rules 
+of  Origin,  provided  it  is  shown  to  the  satisfaction  of  the  relevant 
+Customs Authority of the importing Party that: 
+ 
+(i)  an exporter has dispatched those products from the exporting 
+Party to the Party where the exhibition is held and has exhibited 
+them there; 
+ 
+(ii)  the  exporter  has  sold  the  products  or  transferred  them  to  a 
+consignee in the importing Party; and 
+ 
+(iii)  the  products  have  been  consigned  during  the  exhibition  or 
+immediately  thereafter  to  the  importing  Party  in  the  state  in 
+which they were sent for exhibition. 
+ 
+(b)  For  the  purposes  of  implementing  paragraph  (a),  the  AIFTA 
+Certificate  of  Origin  must  be  produced  to  the  relevant  Customs 
+Authority  of  the  importing  Party.  The  name  and  address  of  the 
+exhibition  must  be  indicated,  a  certificate  issued  by  the  relevant 
+authority of the Party where the exhibition took place together with 
+supporting documents prescribed in Article 20(d) may be required. 
+ 
+(c)  Paragraph (a) shall apply to any exhibition, fair or similar show or 
+display  in  the  venue  where  the  products  remain  under  customs 
+control during these events. 
+ 
+Article 22 
+ 
+The  Customs  Authority  in  the  importing  Party  shall  accept  an  AIFTA 
+Certificate of Origin where the sales invoice is issued either by a company 
+located in a third country or an AIFTA exporter for the account of the said 
+company, provided that the product meets the requirements of the AIFTA 
+Rules of Origin. 
+89   
+ACTION AGAINST FRAUDULENT ACTS 
+ 
+Article 23 
+ 
+(a)  When  it  is  suspected  that  fraudulent  acts  in  connection  with  the 
+AIFTA  Certificate  of  Origin  have  been  committed,  the  relevant 
+Government  Authorities  concerned  shall  cooperate  in  any  action 
+taken against the persons involved. 
+ 
+(b)  Each Party shall be responsible for providing legal sanctions against 
+fraudulent acts related to the AIFTA Certificate of Origin. 
+ 
+Article 24 
+ 
+(a)  In case of a dispute concerning origin determination, classification of 
+products  or  other  related  matters,  the  Governmental  authorities 
+concerned in the importing and exporting Parties shall consult each 
+other  with  a  view  to  resolving  the  dispute,  and  the  result 
+communicated to the other Parties. 
+ 
+(b)  Where  no  mutually  satisfactory  solution  to  the  dispute  is  reached 
+through consultations, the Party concerned may invoke the dispute 
+settlement procedures under the ASEAN-India DSM Agreement. 
+90  

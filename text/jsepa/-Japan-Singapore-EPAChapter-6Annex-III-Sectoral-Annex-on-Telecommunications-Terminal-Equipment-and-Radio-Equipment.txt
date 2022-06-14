@@ -6,190 +6,36 @@ TELECOMMUNICATIONS TERMINAL EQUIPMENT
 AND RADIO EQUIPMENT
 PART A
 SCOPE AND COVERAGE
-1.
-This Sectoral Annex applies to conformity assessment procedures for
+1. This Sectoral Annex applies to conformity assessment procedures for
 all telecommunications terminal equipment and radio equipment, which are, in
 Japan and in Singapore, subject to conformity assessment procedures
 conducted by conformity assessment bodies as set out in the laws,
 regulations and administrative provisions of each Party specified in Section I
 of Part B of this Sectoral Annex.
-2.
-It is understood that the term “amendment” referred to in Part B of this
+2. It is understood that the term “amendment” referred to in Part B of this
 Sectoral Annex includes the following cases where:
-(a) 
-a Party entirely or partially changes its applicable laws,
+(a)  a Party entirely or partially changes its applicable laws,
 regulations and/or administrative provisions listed in Part B of
 this Sectoral Annex, whether or not those names are changed;
-(b) 
-a Party repeals its applicable laws, regulations and/or
+(b)  a Party repeals its applicable laws, regulations and/or
 administrative provisions listed in Part B of this Sectoral Annex
 and adopts new laws, regulations and/or administrative
 provisions substituting for the previous laws, regulations and/or
 administrative provisions, whether or not the previous names
 are changed; and
-(c) 
-a Party incorporates the whole or a relevant part of its applicable
+(c)  a Party incorporates the whole or a relevant part of its applicable
 laws, regulations and/or administrative provisions listed in Part B
 of this Sectoral Annex into other laws, regulations and/or
-administrative provisions.
-- Page 374 -
+administrative provisions.- Page 374 -
 PART B
 SECTION I:  THE APPLICABLE LAWS, REGULATIONS AND
 ADMINISTRATIVE PROVISIONS STIPULATING TELECOMMUNICATIONS
 TERMINAL EQUIPMENT AND RADIO EQUIPMENT COVERED BY THIS
-SECTORAL ANNEX
-JAPAN
-SINGAPORE
-1. Telecommunications Business
-Law (Law No.86, 1984) and
-amendments thereto
-2. Ordinance concerning Technical
-Conditions Compliance Approval
-and Certification of the Type for
-Terminal Equipment (Ordinance of
-the Ministry of Posts and
-Telecommunications No.14, 1999)
-and amendments thereto
-3. Radio Law (Law No.131, 1950)
-and amendments thereto
-4. Ordinance concerning Technical
-Regulations Conformity
-Certification of Specified Radio
-Equipment (Ordinance of the
-Ministry of Posts and
-Telecommunications No.37, 1981)
-and amendments thereto
-1. Info-communications
-Development Authority of
-Singapore Act (Chapter 137A) and
-amendments thereto
-2. Telecommunications Act (Chapter
-323) and amendments thereto
-3. Guide for Approval of
-Telecommunication Equipment
-(2001) and amendments thereto
-- Page 375 -
+SECTORAL ANNEX- Page 375 -
 SECTION II:  THE APPLICABLE LAWS, REGULATIONS AND
 ADMINISTRATIVE PROVISIONS STIPULATING THE REQUIREMENTS
-AND THE CONFORMITY ASSESSMENT PROCEDURES
-JAPAN
-SINGAPORE
-1. Telecommunications Business
-Law (Law No.86, 1984) and
-amendments thereto
-2. Ordinance concerning Terminal
-Facilities etc. (Ordinance of the
-Ministry of Posts and
-Telecommunications No.31, 1985)
-and amendments thereto
-3. Ordinance concerning Technical
-Conditions Compliance Approval
-and Certification of the Type for
-Terminal Equipment (Ordinance of
-the Ministry of Posts and
-Telecommunications No.14, 1999)
-and amendments thereto
-4. Ordinance for Attested Examiners
-etc. on Telecommunications
-Business Law (Ordinance of the
-Ministry of Posts and
-Telecommunications No.15, 1999)
-and amendments thereto
-5. Radio Law (Law No.131, 1950)
-and amendments thereto
-6. Ordinance Regulating Radio
-Equipment (Radio Regulatory
-Commission Regulations No.18,
-1950) and amendments thereto
-7. Ordinance concerning Technical
-Regulations Conformity
-Certification of Specified Radio
-Equipment (Ordinance of the
-Ministry of Posts and
-Telecommunications No.37, 1981)
-and amendments thereto
-8. Ordinance concerning Attested
-Private Inspectors etc. (Ordinance
-of the Ministry of Posts and
-Telecommunications No.76, 1997)
-and amendments thereto
-1. Info-communications
-Development Authority of
-Singapore Act (Chapter 137A) and
-amendments thereto
-2. Telecommunications Act (Chapter
-323) and amendments thereto
-3. Guide for Approval of
-Telecommunication Equipment
-(2001) and amendments thereto
-- Page 376 -
-SECTION III:  DESIGNATING AUTHORITIES
-JAPAN
-SINGAPORE
-Ministry of Public Management,
-Home Affairs, Posts and
-Telecommunications or an authority
-succeeding this ministry
-Info-communications Development
-Authority of Singapore (IDA) or an
-authority succeeding this authority
-- Page 377 -
+AND THE CONFORMITY ASSESSMENT PROCEDURES- Page 376 -
+SECTION III:  DESIGNATING AUTHORITIES- Page 377 -
 SECTION IV:  THE APPLICABLE LAWS, REGULATIONS AND
 ADMINISTRATIVE PROVISIONS STIPULATING THE CRITERIA FOR
 DESIGNATION
-THE CRITERIA TO BE APPLIED BY
-SINGAPORE IN DESIGNATING
-CONFORMITY ASSESSMENT
-BODIES TO ASSESS PRODUCTS
-AGAINST JAPAN’S
-REQUIREMENTS
-THE CRITERIA TO BE APPLIED BY
-JAPAN IN DESIGNATING
-CONFORMITY ASSESSMENT
-BODIES TO ASSESS PRODUCTS
-AGAINST SINGAPORE’S
-REQUIREMENTS
-1. Telecommunications Business
-Law (Law No.86, 1984) and
-amendments thereto
-2. Ordinance concerning Technical
-Conditions Compliance Approval
-and Certification of the Type for
-Terminal Equipment (Ordinance of
-the Ministry of Posts and
-Telecommunications No.14, 1999)
-and amendments thereto
-3. Ordinance for Attested Examiners
-etc. on Telecommunications
-Business Law (Ordinance of the
-Ministry of Posts and
-Telecommunications No.15, 1999)
-and amendments thereto
-4. Radio Law (Law No.131, 1950)
-and amendments thereto
-5. Ordinance concerning Technical
-Regulations Conformity
-Certification of Specified Radio
-Equipment (Ordinance of the
-Ministry of Posts and
-Telecommunications No.37, 1981)
-and amendments thereto
-6. Ordinance concerning Attested
-Private Inspectors etc. (Ordinance
-of the Ministry of Posts and
-Telecommunications No.76, 1997)
-and amendments thereto
-1. Info-communications
-Development Authority of
-Singapore Act (Chapter 137A) and
-amendments thereto
-2. Telecommunications Act (Chapter
-323) and amendments thereto
-3. Guide for Approval of
-Telecommunication Equipment
-(2001) and amendments thereto
-4. Scheme for Designation of Testing
-Laboratories and Certification
-Bodies for Conformity Assessment
-of Telecommunication Equipment
-(2001) and amendments thereto

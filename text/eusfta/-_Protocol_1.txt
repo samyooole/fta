@@ -1,0 +1,2243 @@
+ 
+PROTOCOL 1 
+CONCERNING THE DEFINITION OF THE CONCEPT  
+OF "ORIGINATING PRODUCTS" AND METHODS  
+OF ADMINISTRATIVE CO-OPERATION 
+ 
+TABLE OF CONTENTS 
+ 
+SECTION 1 
+GENERAL PROVISIONS 
+ 
+ARTICLE 1  Definitions 
+ 
+SECTION 2 
+DEFINITION OF THE CONCEPT OF "ORIGINATING PRODUCTS" 
+ 
+ARTICLE 2  General requirements 
+ARTICLE 3  Cumulation of Origin 
+ARTICLE 4  Wholly Obtained Products 
+ARTICLE 5  Sufficiently Worked or Processed Products 
+ARTICLE 6  Insufficient Working or Processing 
+ARTICLE 7  Unit of Qualification 
+ARTICLE 8  Accessories, Spare Parts and Tools 
+ARTICLE 9  Sets 
+ARTICLE 10  Neutral Elements 
+ARTICLE 11  Accounting Segregation 
+ 
+ 
+EUSFTA Protocol 1 - 1  
+SECTION 3 
+TERRITORIAL REQUIREMENTS 
+ 
+ARTICLE 12  Principle of Territoriality 
+ARTICLE 13  Non Alteration 
+ARTICLE 14  Exhibitions 
+ 
+SECTION 4 
+DRAWBACK OR EXEMPTION 
+ 
+ARTICLE 15  Prohibition of Drawback of, or Exemption from, Customs Duties 
+ 
+SECTION 5 
+ORIGIN DECLARATION 
+ 
+ARTICLE 16  General Requirements 
+ARTICLE 17  Conditions for Making Out an Origin Declaration 
+ARTICLE 18  Approved Exporter 
+ARTICLE 19  Validity of Origin Declaration 
+ARTICLE 20  Submission of Origin Declaration 
+ARTICLE 21  Importation in Instalments 
+ARTICLE 22  Exemptions from Origin Declaration 
+ARTICLE 23  Supporting Documents 
+ARTICLE 24  Preservation of Origin Declaration and Supporting Documents 
+ARTICLE 25  Discrepancies and Formal Errors 
+ARTICLE 26  Amounts Expressed in Euro 
+ 
+ 
+EUSFTA Protocol 1 - 2  
+SECTION 6 
+ARRANGEMENTS FOR ADMINISTRATIVE COOPERATION 
+ 
+ARTICLE 27  Cooperation between Competent Authorities 
+ARTICLE 28  Verification of Origin Declarations 
+ARTICLE 29  Administrative Enquiries 
+ARTICLE 30  Settlement of Disputes 
+ARTICLE 31  Penalties 
+ 
+SECTION 7 
+CEUTA AND MELILLA 
+ 
+ARTICLE 32  Application of this Protocol 
+ARTICLE 33  Special Conditions 
+ 
+SECTION 8 
+FINAL PROVISIONS 
+ 
+ARTICLE 34  Amendments to this Protocol 
+ARTICLE 35  Transitional Provisions for Goods in Transit or Storage 
+ 
+ 
+EUSFTA Protocol 1 - 3  
+List of Appendices 
+ 
+ANNEX A:  INTRODUCTORY NOTES TO THE LIST IN ANNEX B 
+ANNEX B:  LIST OF WORKING OR PROCESSING REQUIRED TO BE CARRIED OUT ON NON-
+ORIGINATING MATERIALS IN ORDER THAT THE PRODUCT MANUFACTURED CAN 
+OBTAIN ORIGINATING STATUS 
+ANNEX B(a):  ADDENDUM TO ANNEX B 
+ANNEX C:  MATERIALS EXCLUDED FROM CUMULATION UNDER PARAGRAPH 2 OF ARTICLE 3 
+ANNEX D:  PRODUCTS REFERRED TO IN PARAGRAPH 9 OF ARTICLE 3 FOR WHICH MATERIALS 
+ORIGINATING IN AN ASEAN COUNTRY SHALL BE CONSIDERED AS MATERIALS 
+ORIGINATING IN A PARTY 
+ANNEX E:  TEXT OF THE ORIGIN DECLARATION 
+ 
+Joint Declarations 
+ 
+JOINT DECLARATION CONCERNING THE PRINCIPALITY OF ANDORRA 
+JOINT DECLARATION CONCERNING THE REPUBLIC OF SAN MARINO 
+JOINT DECLARATION CONCERNING THE REVISION OF THE RULES OF ORIGIN CONTAINED IN 
+PROTOCOL 1 
+ 
+EUSFTA Protocol 1 - 4  
+SECTION 1 
+ 
+GENERAL PROVISIONS 
+ 
+ 
+ARTICLE 1 
+ 
+Definitions 
+ 
+1.  For the purposes of this Protocol: 
+ 
+(a)  "ASEAN country" means a member state of the Association of Southeast Asian Nations which 
+is not a Party to this Agreement; 
+ 
+(b)  "chapters" and "headings" and "subheadings" mean the chapters, the headings and 
+sub-headings used in the nomenclature which makes up the Harmonized System with the 
+changes pursuant to the Recommendation of 26 June 2004 of the Customs Cooperation 
+Council; 
+ 
+(c)  "classified" refers to the classification of a product or material under a particular chapter, 
+heading, or sub-heading of the Harmonized System; 
+ 
+(d)  "consignment" means products which are either sent simultaneously from one exporter to 
+one consignee or covered by a single transport document covering their shipment from the 
+exporter to the consignee or, in the absence of such a document, by a single invoice; 
+ 
+ 
+EUSFTA Protocol 1 - 5  
+(e)  "customs value" means the value as determined in accordance with the Customs Valuation 
+Agreement; 
+ 
+(f)  "ex-works price" means the price paid for the product ex-works to the manufacturer in 
+whose undertaking the last working or processing is carried out, provided that the price 
+includes the value of all the materials used and all other costs related to its production, 
+minus any internal taxes which are, or may be, repaid when the product obtained is 
+exported. 
+ 
+Where the actual price paid does not reflect all costs related to the manufacturing of the 
+product which are actually incurred in the Union or in Singapore, the ex-works price means 
+the sum of all those costs, minus any internal taxes which are, or may be, repaid when the 
+product obtained is exported; 
+ 
+(g)  "fungible materials" means materials that are of the same kind and commercial quality, with 
+the same technical and physical characteristics, and which cannot be distinguished from one 
+another once they are incorporated into the finished product; 
+ 
+(h)  "goods" means both materials and products; 
+ 
+(i)  "manufacture" means any kind of working or processing including assembly; 
+ 
+(j)  "material" means any ingredient, raw material, component or part, etc., used in the 
+manufacture of the product; 
+ 
+ 
+EUSFTA Protocol 1 - 6  
+(k)  "product" means the product being manufactured, even if it is intended for later use in 
+another manufacturing operation; and 
+ 
+(l)  "value of materials" means the customs value at the time of importation of the non-
+originating materials used, or, if this is not known and cannot be ascertained, the first 
+ascertainable price paid for the materials in the Union or in Singapore. 
+ 
+2.  For the purposes of subparagraph 1(f), where the last working or processing has been 
+subcontracted to a manufacturer, the term "manufacturer" may refer to the enterprise that has 
+employed the subcontractor. 
+ 
+ 
+SECTION 2 
+ 
+DEFINITION OF THE CONCEPT OF "ORIGINATING PRODUCTS" 
+ 
+ 
+ARTICLE 2 
+ 
+General Requirements 
+ 
+For the purposes of this Agreement, the following products shall be considered as originating in a 
+Party: 
+ 
+(a)  products wholly obtained in a Party within the meaning of Article 4; and 
+ 
+ 
+EUSFTA Protocol 1 - 7  
+(b)  products obtained in a Party incorporating materials which have not been wholly obtained 
+there, provided that such materials have undergone sufficient working or processing in the 
+Party concerned within the meaning of Article 5. 
+ 
+ 
+ARTICLE 3 
+ 
+Cumulation of Origin 
+ 
+1.  Notwithstanding Article 2 (General Requirements), products shall be considered as 
+originating in a Party if such products are obtained there by incorporating materials originating in 
+the other Party, provided that the working or processing carried out goes beyond the operations 
+referred to in Article 6 (Insufficient Working or Processing). It shall not be necessary that the 
+materials of the other Party have undergone sufficient working or processing. 
+ 
+2.  Materials originating in an ASEAN country which is applying with the Union a preferential 
+agreement in accordance with Article XXIV of the GATT 1994, shall be considered as materials 
+originating in a Party when incorporated in a product obtained in that Party, provided that they 
+have undergone working or processing in that Party which goes beyond the operations referred to 
+in Article 6 (Insufficient Working or Processing). 
+ 
+3.  For the purposes of paragraph 2, the origin of the materials shall be determined according to 
+the rules of origin applicable in the framework of the Union's preferential agreements with those 
+countries. 
+ 
+ 
+EUSFTA Protocol 1 - 8  
+4.  For the purposes of paragraph 2, the originating status of materials exported from one of 
+the ASEAN countries to a Party to be used in further working or processing shall be established by 
+a proof of origin under which these materials could be exported directly to the Union. 
+ 
+5.  The cumulation provided for in paragraphs 2 to 7 may only be applied provided that: 
+ 
+(a)  the ASEAN countries involved in the acquisition of the originating status have undertaken to: 
+ 
+(i)  comply or ensure compliance with this Protocol; and 
+ 
+(ii)  provide the administrative cooperation necessary to ensure the correct 
+implementation of this Protocol both with regard to the Union and among themselves; 
+ 
+(b)  the undertakings referred to in subparagraph (a) have been notified to the Union. 
+ 
+6.  Origin declarations issued by application of paragraph 4 shall bear one of the following 
+entries: 
+ 
+(a)  "Application of Article 3(2) of Protocol 1 of the EU/Singapore FTA"; or 
+ 
+(b)  "Application du paragraphe 2 de l'article 3 du protocole n° 1 de l'ALE UE/Singapour". 
+ 
+ 
+EUSFTA Protocol 1 - 9  
+7.  The materials listed in Annex C to this Protocol shall be excluded from the cumulation 
+provided for in paragraphs 2 to 6 where at the time of importation of the product: 
+ 
+(a)  the tariff preference applicable to the materials in a Party is not the same for all the 
+countries involved in the cumulation; and 
+ 
+(b)  the materials concerned would benefit, through cumulation, from a tariff treatment more 
+favourable than the one they would benefit from if directly exported to a Party. 
+ 
+8.  At the request of a Party, the Parties, by decision in the Committee on Customs established 
+pursuant to Article 16.2 (Specialised Committees), may modify Annex C to this Protocol. Any 
+request for such a modification shall be communicated to the other Party at least two months 
+before the meeting of that Committee. 
+ 
+9.  Materials originating in an ASEAN country shall be considered as materials originating in a 
+Party when further processed or incorporated into one of the products listed in Annex D to this 
+Protocol obtained there, provided that they have undergone working or processing in that Party 
+which goes beyond the operations referred to in Article 6 (Insufficient Working or Processing). 
+ 
+10.  For the purposes of paragraph 9, the origin of the materials shall be determined according to 
+the preferential rules of origin applicable to General System of Preferences (hereinafter referred 
+to as "GSP") beneficiary countries which are laid down in Commission Delegated Regulation (EU) 
+2015/24461. 
+ 
+                                                 
+1  Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 
+of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the 
+Union Customs Code (OJ EU L 343, 29.12.2015, p. 1). 
+ 
+EUSFTA Protocol 1 - 10  
+11.  For the purposes of paragraph 9, the originating status of materials exported from one of 
+the ASEAN countries to a Party to be used in further working or processing shall be established by 
+a proof of origin in accordance with the preferential rules applicable to GSP beneficiary countries 
+as laid down in Commission Delegated Regulation (EU) 2015/2446. 
+ 
+12.  The cumulation provided for in paragraphs 9 to 13 may only be applied on the condition 
+that: 
+ 
+(a)  the ASEAN countries involved in the acquisition of the originating status have undertaken to: 
+ 
+(i)  comply or ensure compliance with this Protocol; and 
+ 
+(ii)  provide the administrative cooperation necessary to ensure the correct 
+implementation of this Protocol both with regard to the Union and between 
+themselves; 
+ 
+(b)  the undertakings referred to in subparagraph (a) have been notified to the Union. 
+ 
+13.  Origin declarations issued by application of paragraph 9 shall bear one of the following 
+entries: 
+ 
+(a)  "Application of Article 3(9) of Protocol 1 of the EU/Singapore FTA"; or 
+ 
+(b)  "Application du paragraphe 9 de l'article 3 du protocole n° 1 de l'ALE UE/Singapour". 
+ 
+ 
+EUSFTA Protocol 1 - 11  
+14.  At the request of a Party, the Parties, by decision in the Committee on Customs established 
+pursuant to Article 16.2 (Specialised Committees), may modify Annex D to this Protocol. Any 
+request for such a modification shall be communicated to the other Party at least two months 
+before the meeting of the Committee. 
+ 
+15.  The cumulation provided for in paragraph 9 to 13 shall cease to apply when conditions of 
+paragraphs 2 to 7 are met. 
+ 
+ 
+ARTICLE 4 
+ 
+Wholly Obtained Products 
+ 
+1.  The following shall be considered as wholly obtained in a Party: 
+ 
+(a)  mineral products extracted from their soil or from their seabed; 
+ 
+(b)  plants and vegetable products grown or harvested there; 
+ 
+(c)  live animals born and raised there; 
+ 
+(d)  products from live animals raised there; 
+ 
+(e)  products from slaughtered animals born and raised there; 
+ 
+ 
+EUSFTA Protocol 1 - 12  
+(f)  products obtained by hunting or fishing conducted there; 
+ 
+(g)  products of aquaculture from fish, crustaceans and molluscs that are born and raised there; 
+ 
+(h)  products of sea fishing and other products taken from the sea outside the territorial seas of 
+a Party by their vessels; 
+ 
+(i)  products made aboard their factory ships exclusively from products referred to in 
+subparagraph (h); 
+ 
+(j)  used articles collected there that are fit only for the recovery of raw materials; 
+ 
+(k)  waste and scrap resulting from manufacturing operations conducted there; 
+ 
+(l)  products extracted from marine soil or subsoil outside the territorial seas of a Party, 
+provided that the Party has sole rights to work that soil or subsoil; and 
+ 
+(m)  goods produced there exclusively from products specified in subparagraphs (a) to (l). 
+ 
+2.  The terms "their vessels" and "their factory ships" in subparagraphs 1(h) and 1(i) shall apply 
+only to vessels and factory ships: 
+ 
+(a)  which are registered in a Member State of the Union or in Singapore; 
+ 
+ 
+EUSFTA Protocol 1 - 13  
+(b)  which sail under the flag of a Member State of the Union or of Singapore; and 
+ 
+(c)  which meet one of the following conditions: 
+ 
+(i)  they are at least fifty percent owned by nationals of a Member State of the Union or of 
+Singapore; 
+ 
+or 
+ 
+(ii)  they are owned by companies: 
+ 
+(1)  which have their head office and their main place of business in a Member State 
+of the Union or in Singapore, and 
+ 
+(2)  which are at least fifty percent owned by a Member State of the Union or by 
+Singapore, by public entities or nationals of a Party. 
+ 
+ 
+ARTICLE 5 
+ 
+Sufficiently Worked or Processed Products 
+ 
+1.  For the purposes of subparagraph (b) of Article 2 (General Requirements), products which 
+are not wholly obtained are considered to be sufficiently worked or processed when the 
+conditions set out in the list in Annex B or B(a) to this Protocol are fulfilled. 
+ 
+ 
+EUSFTA Protocol 1 - 14  
+2.  The conditions referred to above indicate, for all products covered by this Agreement, the 
+working or processing which must be carried out on non-originating materials used in 
+manufacturing, and apply only in relation to such materials. It follows that if a product which has 
+acquired originating status by fulfilling the conditions set out in the list in Annex B or B(a) to this 
+Protocol is used in the manufacture of another product, the conditions applicable to the product 
+in which it is incorporated do not apply to the product that acquired originating status, and no 
+account shall be taken of the non-originating materials which may have been used in its 
+manufacture. 
+ 
+3.  By way of derogation from paragraph 1 and subject to paragraphs 4 and 5, non-originating 
+materials which, according to the conditions set out in the list in Annex B or B(a) to this Protocol, 
+are not to be used in the manufacture of a given product may nevertheless be used, provided that 
+their total value or net weight assessed for the product does not exceed: 
+ 
+(a)  ten percent of the weight of the product for products falling within Chapters 2 and 4 to 24 of 
+the Harmonized System, other than processed fishery products of Chapter 16; 
+ 
+(b)  ten percent of the ex-works price of the product for other products, except for products 
+falling within Chapters 50 to 63 of the Harmonized System, for which the tolerances 
+mentioned in Notes 6 and 7 of Annex A to this Protocol, shall apply. 
+ 
+4.  Paragraph 3 shall not be construed to allow any of the percentages for the maximum 
+content of non-originating materials as specified in the list in Annex B to this Protocol to be 
+exceeded. 
+ 
+ 
+EUSFTA Protocol 1 - 15  
+5.  Paragraphs 3 and 4 do not apply to products wholly obtained in a Party within the meaning 
+of Article 4 (Wholly Obtained Products). However, without prejudice to Article 6 (Insufficient 
+Working or Processing) and paragraph 2 of Article 7 (Unit of Qualification) the tolerance provided 
+for in those paragraphs shall nevertheless apply to the sum of all the materials which are used in 
+the manufacture of a product and for which the rule for that product laid down in the list in Annex 
+B to this Protocol requires that such materials be wholly obtained. 
+ 
+ 
+ARTICLE 6 
+ 
+Insufficient Working or Processing 
+ 
+1.  Without prejudice to paragraph 2, the following operations shall be considered as 
+insufficient working or processing to confer the status of originating products, whether or not the 
+requirements of Article 5 (Sufficiently Worked or Processed Products) are satisfied: 
+ 
+(a)  preserving operations to ensure that the products remain in good condition during transport 
+and storage; 
+ 
+(b)  the breaking-up and assembly of packages; 
+ 
+(c)  the washing, cleaning; removal of dust, oxide, oil, paint or other coverings; 
+ 
+(d)  the ironing or pressing of textiles and textile articles; 
+ 
+ 
+EUSFTA Protocol 1 - 16  
+(e)  simple painting and polishing operations; 
+ 
+(f)  the husking and partial or total milling of rice; the polishing and glazing of cereals and rice; 
+ 
+(g)  operations to colour or flavour sugar or form sugar lumps; the partial or total milling of 
+crystal sugar; 
+ 
+(h)  the peeling, stoning and shelling of fruits, nuts and vegetables; 
+ 
+(i)  sharpening, simple grinding or simple cutting; 
+ 
+(j)  sifting, screening, sorting, classifying, grading, matching (including the making-up of sets of 
+articles); 
+ 
+(k)  simple placing in bottles, cans, flasks, bags, cases, boxes, fixing on cards or boards and all 
+other simple packaging operations; 
+ 
+(l)  the affixing or printing of marks, labels, logos and other like distinguishing signs on products 
+or their packaging; 
+ 
+(m)  the simple mixing of products, whether or not of different kinds; mixing of sugar with any 
+material; 
+ 
+(n)  the simple addition of water to or the dilution, dehydration or denaturation of products; 
+ 
+ 
+EUSFTA Protocol 1 - 17  
+(o)  the simple assembly of parts of articles to constitute a complete article or the disassembly of 
+products into parts; 
+ 
+(p)  a combination of two or more of the operations specified in subparagraphs (a) to (o); or 
+ 
+(q)  the slaughter of animals. 
+ 
+2.  For the purpose of paragraph 1, operations shall be considered simple when no special skills 
+or machines, apparatus or tools that were especially produced or installed for those operations 
+are required for their performance. 
+ 
+3.  All operations on a given product carried out either in the Union or in Singapore shall be 
+considered together when determining whether the working or processing undergone by that 
+product is to be regarded as insufficient within the meaning of paragraph 1. 
+ 
+ 
+ARTICLE 7 
+ 
+Unit of Qualification 
+ 
+1.  The unit of qualification for the application of the provisions of this Protocol shall be the 
+product which is considered as the basic unit when determining classification using the 
+nomenclature of the Harmonized System. 
+ 
+ 
+EUSFTA Protocol 1 - 18  
+2.  When a consignment consists of a number of identical products classified under the same 
+heading of the Harmonized System, each individual item shall be taken into account when 
+applying the provisions of this Protocol. 
+ 
+Where, under General Interpretative Rule 5 of the Harmonized System, packaging is included with 
+the product for classification purposes, the packaging shall be included for the purposes of 
+determining origin. 
+ 
+ 
+ARTICLE 8 
+ 
+Accessories, Spare Parts and Tools 
+ 
+Accessories, spare parts and tools dispatched with a piece of equipment, machine, apparatus or 
+vehicle, which are part of the normal equipment and included in the price thereof or which are not 
+separately invoiced, shall be regarded as one with the piece of equipment, machine, apparatus or 
+vehicle in question. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 19  
+ARTICLE 9 
+ 
+Sets 
+ 
+Sets, as defined in General Interpretative Rule 3 of the Harmonized System, shall be regarded as 
+originating when all component products are originating products. When a set is composed of 
+originating and non-originating products, the set as a whole shall be regarded as originating, 
+provided that the value of the non-originating products does not exceed fifteen percent of the ex-
+works price of the set. 
+ 
+ 
+ARTICLE 10 
+ 
+Neutral Elements 
+ 
+In order to determine whether a product originates in a Party, it shall not be necessary to 
+determine the origin of the following elements which might be used in its manufacture: 
+ 
+(a)  energy and fuel; 
+ 
+(b)  plant and equipment, including goods to be used for their maintenance; 
+ 
+ 
+EUSFTA Protocol 1 - 20  
+(c)  machines and tools and dies and moulds; spare parts and materials used in the maintenance 
+of equipment and buildings; lubricants, greases, compounding materials and other materials 
+used in production or used to operate equipment and buildings; gloves, glasses, footwear, 
+clothing, safety equipment and supplies; equipment, devices and supplies used for testing or 
+inspecting the good; catalysts and solvents; and 
+ 
+(d)  other goods which do not enter, and which are not intended to enter, into the final 
+composition of the product. 
+ 
+ 
+ARTICLE 11 
+ 
+Accounting Segregation 
+ 
+1.  If originating and non-originating fungible materials are used in the working or processing of 
+a product, the competent governmental authorities, at the written request of economic operators, 
+may authorise the management of materials using the accounting segregation method without 
+keeping the materials in separate stocks. 
+ 
+2.  The competent governmental authorities may make the granting of the authorisation 
+referred to in paragraph 1 subject to any conditions they deem appropriate. 
+ 
+ 
+EUSFTA Protocol 1 - 21  
+3.  The authorisation shall be granted only if it can be ensured by use of the accounting 
+segregation method that, at any given time, the number of products obtained which could be 
+considered as originating in the Union or in Singapore is the same as the number that would have 
+been obtained by using a method of physical segregation of the stocks. 
+ 
+4.  If authorised, the accounting segregation method, for example, averaging, last-in, first-out, 
+or first-in, first-out, shall be applied and the method used shall be recorded on the basis of the 
+general accounting principles applicable in the Union or in Singapore, depending on where the 
+product is manufactured. 
+ 
+5.  A manufacturer using the accounting segregation method shall make out or apply for origin 
+declarations for the quantity of products which may be considered as originating in the exporting 
+Party. At the request of the customs authorities or competent governmental authorities of the 
+exporting Party, the beneficiary shall provide a statement of how the quantities have been 
+managed. 
+ 
+6.  The competent governmental authorities shall monitor the use made of the authorisations 
+referred to in paragraph 3 and may withdraw them if a manufacturer makes improper use of the 
+authorisation or fails to fulfil any of the other conditions laid down in this Protocol. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 22  
+SECTION 3 
+ 
+TERRITORIAL REQUIREMENTS 
+ 
+ 
+ARTICLE 12 
+ 
+Principle of Territoriality 
+ 
+1.  The conditions set out in Section 2 relating to the acquisition of originating status must be 
+fulfilled without interruption in a Party. 
+ 
+2.  If originating goods exported from a Party to a non-Party return, they must be considered as 
+non-originating goods, unless it can be demonstrated to the satisfaction of the customs authorities 
+that: 
+ 
+(a)  the returning goods are the same as those exported; and 
+ 
+(b)  they have not undergone any operation beyond that necessary to preserve them in good 
+condition while in that non-Party or while being exported. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 23  
+ARTICLE 13 
+ 
+Non Alteration 
+ 
+1.  The products declared for importation in a Party shall be the same products as exported 
+from the other Party in which they are considered to originate. They shall not have been altered, 
+transformed in any way or subjected to operations other than operations to preserve them in 
+good condition or other than adding or affixing marks, labels, seals or any other documentation to 
+ensure compliance with specific domestic requirements of the importing Party, prior to being 
+declared for import. 
+ 
+2.  The storage of products or consignments may take place, provided they remain under 
+customs supervision in the country(ies) of transit. 
+ 
+3.  Without prejudice to Section 5, the splitting of consignments may take place where carried 
+out by the exporter or under his responsibility provided they remain under customs supervision in 
+the country(ies) of transit. 
+ 
+4.  Compliance with paragraphs 1 to 3 shall be considered as satisfied unless the customs 
+authorities have reason to believe the contrary; in such cases, the customs authorities may 
+request the declarant to provide evidence of compliance, which may be given by any means, 
+including contractual transport documents such as bills of lading or factual or concrete evidence 
+based on marking or numbering of packages or any evidence related to the goods themselves. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 24  
+ARTICLE 14 
+ 
+Exhibitions 
+ 
+1.  Originating products, sent for exhibition in a country other than a Party and sold after the 
+exhibition for importation in a Party shall benefit on importation from the provisions of this 
+Agreement provided it is shown to the satisfaction of the customs authorities that: 
+ 
+(a)  an exporter has consigned these products from a Party to the country in which the 
+exhibition is held and has exhibited them there; 
+ 
+(b)  the products have been sold or otherwise disposed of by that exporter to a person in a 
+Party; 
+ 
+(c)  the products have been consigned during the exhibition or immediately thereafter in the 
+state in which they were sent for exhibition; and 
+ 
+(d)  the products have not been used for any purpose other than demonstration at the 
+exhibition since they were consigned for exhibition. 
+ 
+2.  An origin declaration shall be issued or made out in accordance with the provisions of 
+Section 5 and submitted to the customs authorities of the importing Party in the normal manner. 
+The name and address of the exhibition must be indicated thereon. Where necessary, additional 
+documentary evidence of the conditions under which they have been exhibited may be required. 
+ 
+ 
+EUSFTA Protocol 1 - 25  
+3.  Paragraph 1 shall apply to any trade, industrial, agricultural or crafts exhibition, fair or similar 
+public show or display which is not organised for private purposes in shops or business premises 
+with a view to the sale of foreign products, during which the products remain under customs 
+control. 
+ 
+ 
+SECTION 4 
+ 
+DRAWBACK OR EXEMPTION 
+ 
+ 
+ARTICLE 15 
+ 
+Prohibition of Drawback of, or Exemption from, Customs Duties 
+ 
+1.  Non-originating materials used in the manufacture of products originating in the Union or in 
+Singapore, for which an origin declaration has been issued or made out in accordance with the 
+provisions of Section 5, shall not be subject in the Union or in Singapore to drawback of, or 
+exemption from, customs duties of whatever kind. 
+ 
+2.  The prohibition in paragraph 1 shall apply to any arrangement for refund, remission or non-
+payment, whether partial or complete, of customs duties or charges having an equivalent effect, 
+applicable in the Union or in Singapore to materials used in the manufacture, where such refund, 
+remission or non-payment applies, whether expressly or in effect, where the products obtained 
+from such materials are exported, but not where they are retained in a Party for home use. 
+ 
+ 
+EUSFTA Protocol 1 - 26  
+3.  The exporter of products covered by an origin declaration shall be prepared to submit at any 
+time, upon request from the customs authorities, all appropriate documents to prove that no 
+drawback has been obtained in respect of the non-originating materials used in the manufacture 
+of the products concerned and that all customs duties or charges having equivalent effect 
+applicable to such materials have actually been paid. 
+ 
+4.  The provisions of paragraphs 1 to 3 shall also apply in respect of packaging within the 
+meaning of paragraph 2 of Article 7 (Unit of Qualification), accessories, spare parts and tools 
+within the meaning of Article 8 (Accessories, Spare Parts and Tools), and products in a set within 
+the meaning of Article 9 (Sets), when such items are non-originating. 
+ 
+5.  The provisions of paragraphs 1 to 4 shall apply only in respect of materials which are subject 
+to this Protocol. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 27  
+SECTION 5 
+ 
+ORIGIN DECLARATION 
+ 
+ 
+ARTICLE 16 
+ 
+General Requirements 
+ 
+1.  Products originating in the Union, on importation into Singapore, and products originating in 
+Singapore, on importation into the Union, shall benefit from preferential tariff treatment of this 
+Agreement upon submission of a declaration, (hereinafter referred to as "origin declaration"). The 
+origin declaration is to be provided on an invoice or any other commercial document that 
+describes the originating product in sufficient detail to enable its identification. 
+ 
+2.  Originating products within the meaning of this Protocol, in the cases specified in Article 22 
+(Exemptions from Origin Declaration), shall benefit from preferential tariff treatment of this 
+Agreement without it being necessary to submit any of the documents referred to in paragraph 1. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 28  
+ARTICLE 17 
+ 
+Conditions for Making Out an Origin Declaration 
+ 
+1.  An origin declaration as referred to in Article 16 (General Requirements) may be made out: 
+ 
+(a)  in the Union: 
+ 
+(i)  by an exporter within the meaning of Article 18 (Approved Exporter); or 
+ 
+(ii)  by an exporter for any consignment consisting of one or more packages containing 
+originating products whose total value does not exceed 6 000 euro. 
+ 
+(b)  in Singapore by an exporter who is: 
+ 
+(i)  registered with the competent authority and who has received a Unique Entity 
+Number; and 
+ 
+(ii)  complying with relevant regulatory provisions in Singapore pertaining to making out of 
+origin declarations. 
+ 
+2.  An origin declaration may be made out if the products concerned can be considered as 
+products originating in the Union or in Singapore and fulfil the other requirements of this Protocol. 
+ 
+ 
+EUSFTA Protocol 1 - 29  
+3.  The exporter making out an origin declaration shall be prepared at all times to submit, at the 
+request of the customs authorities of the exporting Party, all appropriate documents as referred 
+to under Article 23 (Supporting Documents) proving the originating status of the products 
+concerned as well as the fulfilment of the other requirements of this Protocol. 
+ 
+4.  An origin declaration shall be made out by the exporter by typing, stamping or printing on 
+the invoice, the delivery note or another commercial document, the declaration, the text of which 
+appears in Annex E to this Protocol, in accordance with the domestic law of the exporting Party. If 
+the declaration is hand-written, it shall be written in ink in capital characters. In the case of 
+exports from Singapore, the origin declaration shall be set out using the English version, and in the 
+case of exports from Union, the origin declaration may be set out in one of the linguistic versions, 
+in Annex E to this Protocol. 
+ 
+5.  Origin declarations shall bear the original signature of the exporter in manuscript. An 
+approved exporter as referred to in Article 18 (Approved Exporter) shall not be required to sign 
+such declarations provided that he gives the customs authorities of the exporting Party a written 
+undertaking that he accepts full responsibility for any origin declaration which identifies him as if it 
+had been signed in manuscript by him. 
+ 
+6.  By derogation from paragraph 1, an origin declaration may exceptionally be made out after 
+exportation ("retrospective statement") on condition that it is presented in the importing Party no 
+later than two years, in the case of the Union, and one year, in the case of Singapore, after the 
+entry of the goods into the territory. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 30  
+ARTICLE 18 
+ 
+Approved Exporter 
+ 
+1.  The customs authorities of the Member States of the Union may authorise any exporter who 
+exports products under this Agreement to make out origin declarations irrespective of the value of 
+the products concerned (hereinafter referred to as "approved exporter"). An exporter seeking 
+such authorisation must offer to the satisfaction of the customs authorities all guarantees 
+necessary to verify the originating status of the products as well as the fulfilment of the other 
+requirements of this Protocol. 
+ 
+2.  The customs authorities of the Member States of the Union may grant the status of 
+approved exporter subject to any conditions which they consider appropriate. 
+ 
+3.  The customs authorities of the Member States of the Union shall grant to the approved 
+exporter a customs authorisation number which shall appear on the origin declaration. 
+ 
+4.  The customs authorities of the Member States of the Union shall monitor the use of the 
+authorisation by the approved exporter. 
+ 
+5.  The customs authorities of the Member States of the Union may withdraw the authorisation 
+at any time. They shall do so where the approved exporter no longer offers the guarantees 
+referred to in paragraph 1, no longer fulfils the conditions referred to in paragraph 2 or otherwise 
+makes an incorrect use of the authorisation. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 31  
+ARTICLE 19 
+ 
+Validity of Origin Declaration 
+ 
+1.  An origin declaration shall be valid for twelve months from the date of issue in the exporting 
+Party. Preferential tariff treatment shall be claimed within such period to the customs authorities 
+of the importing Party. 
+ 
+2.  Origin declarations which are submitted to the customs authorities of the importing Party 
+after the final date for presentation specified in paragraph 1 may be accepted for the purposes of 
+applying preferential treatment, where the failure to submit these documents by the final date set 
+is due to exceptional circumstances. 
+ 
+3.  In cases of belated presentation other than those of paragraph 2, the customs authorities of 
+the importing Party may accept the origin declarations where the products have been submitted 
+before such final date. 
+ 
+ 
+ARTICLE 20 
+ 
+Submission of Origin Declaration 
+ 
+For the purposes of claiming preferential tariff treatment, origin declarations shall be submitted to 
+the customs authorities of the importing Party in accordance with the procedures applicable in 
+that Party. Such authorities may require a translation of an origin declaration. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 32  
+ARTICLE 21 
+ 
+Importation in Instalments 
+ 
+Where, at the request of the importer and on the conditions laid down by the customs authorities 
+of the importing Party, dismantled or non-assembled products within the meaning of General 
+Rule 2(a) of the Harmonized System falling within Sections XVI and XVII or headings 7308 and 9406 
+of the Harmonized System are imported in instalments, a single origin declaration for such 
+products shall be submitted to the customs authorities upon importation of the first instalment. 
+ 
+ 
+ARTICLE 22 
+ 
+Exemptions from Origin Declaration 
+ 
+1.  Products which are sent as small packages from private persons to private persons, or which 
+form part of travellers' personal luggage, shall be admitted as originating products without 
+requiring the submission of an origin declaration, provided that such products are not imported by 
+way of trade and have been declared as meeting the requirements of this Protocol, and provided 
+that there is no doubt as to the veracity of such a declaration. In the case of products sent by post, 
+this declaration can be made on the customs declaration CN22/CN23 or on a sheet of paper 
+annexed to that document. 
+ 
+ 
+EUSFTA Protocol 1 - 33  
+2.  Imports which are occasional and consist solely of products for the personal use of the 
+recipients or of travellers or their families shall not be considered as imports by way of trade if it is 
+evident from the nature and quantity of the products that no commercial purpose is intended. 
+ 
+3.  The total value of these products shall not exceed 500 euro in the case of small packages 
+or 1200 euro in the case of products forming part of travellers' personal luggage. 
+ 
+ 
+ARTICLE 23 
+ 
+Supporting Documents 
+ 
+The documents referred to in paragraph 3 of Article 17 (Conditions for Making Out an Origin 
+Declaration) used for the purpose of proving that products covered by an origin declaration can be 
+considered as products originating in the Union or in Singapore and fulfil the other requirements 
+of this Protocol may consist, inter alia, of the following: 
+ 
+(a)  direct evidence of the processes carried out by the exporter or supplier to obtain the goods 
+concerned, contained for example in his accounts or internal book-keeping; 
+ 
+(b)  documents proving the originating status of materials used, issued or made out in a Party, 
+where these documents are used in accordance with domestic law; or 
+ 
+(c)  documents proving the working or processing of materials in a Party, issued or made out in a 
+Party, where these documents are used in accordance with domestic law. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 34  
+ARTICLE 24 
+ 
+Preservation of Origin Declaration and Supporting Documents 
+ 
+1.  The exporter making out an origin declaration shall keep a copy of this origin declaration, as 
+well as the documents referred to in paragraph 3 of Article 17 (Conditions for Making Out an 
+Origin Declaration), for at least three years. 
+ 
+2.  The customs authorities of the importing Party shall keep the origin declarations submitted 
+to them for at least three years. 
+ 
+3.  Each Party shall permit, in accordance with that Party's laws and regulations, exporters in its 
+territory to maintain documentation or records in any medium, provided that the documentation 
+or records can be retrieved and printed. 
+ 
+ 
+ARTICLE 25 
+ 
+Discrepancies and Formal Errors 
+ 
+1.  The discovery of slight discrepancies between the statements made in the origin declaration 
+and those made in the documents submitted to the customs office for the purposes of carrying 
+out the formalities for importing the products shall not ipso facto render the origin declaration null 
+and void if it is duly established that that document corresponds to the products submitted. 
+ 
+ 
+EUSFTA Protocol 1 - 35  
+2.  Obvious formal errors such as typing errors on a origin declaration should not cause the 
+document to be rejected if those errors are not such as to create doubts concerning the 
+correctness of the statements made in the document. 
+ 
+ 
+ARTICLE 26 
+ 
+Amounts Expressed in Euro 
+ 
+1.  For the application of the provisions of subparagraph 1(a)(ii) of Article 17 (Conditions for 
+Making Out an Origin Declaration) and paragraph 3 of Article 22 (Exemptions from Origin 
+Declaration) in cases where products are invoiced in a currency other than euro, amounts in the 
+national currencies of the Member States of the Union equivalent to the amounts expressed in 
+euro shall be fixed annually by each of the countries concerned. 
+ 
+2.  A consignment shall benefit from the provisions of subparagraph 1(a)(ii) of Article 17 
+(Conditions for Making Out an Origin Declaration) and paragraph 3 of Article 22 (Exemptions from 
+Origin Declaration) by reference to the currency in which the invoice is drawn up, according to the 
+amount fixed by the Party concerned. 
+ 
+3.  The amounts to be used in any given national currency shall be the equivalent in that 
+currency of the amounts expressed in euro as at the first working day of October. The amounts 
+shall be communicated to the European Commission by 15 October and shall apply from 1 January 
+the following year. The European Commission shall notify all countries concerned of the relevant 
+amounts. 
+ 
+ 
+EUSFTA Protocol 1 - 36  
+4.  A Member State of the Union may round up or down the amount resulting from the 
+conversion into its national currency of an amount expressed in euro. The rounded amount may 
+not differ from the amount resulting from the conversion by more than five percent. A Member 
+State of the Union may retain unchanged its national currency equivalent of an amount expressed 
+in euro if, at the time of the annual adjustment provided for in paragraph 3, the conversion of that 
+amount, prior to any rounding-off, results in an increase of less than fifteen percent in the national 
+currency equivalent. The national currency equivalent may be retained unchanged if the 
+conversion would result in a decrease in that equivalent value. 
+ 
+5.  The amounts expressed in euro shall be reviewed by the Parties in the Committee on 
+Customs established pursuant to Article 16.2 (Specialised Committees) at the request of the Union 
+or of Singapore. When carrying out this review, the Parties shall consider the desirability of 
+preserving the effects of the limits concerned in real terms. For these purposes, the Parties may, 
+by decision in the Committee on Customs, modify the amounts expressed in euro. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 37  
+SECTION 6 
+ 
+ARRANGEMENTS FOR ADMINISTRATIVE COOPERATION 
+ 
+ 
+ARTICLE 27 
+ 
+Cooperation between Competent Authorities 
+ 
+1.  The customs authorities of the Parties shall provide each other, through the European 
+Commission, with the addresses of the customs authorities responsible for verifying the origin 
+declarations. 
+ 
+2.  In order to ensure the proper application of this Protocol, the Parties shall assist each other, 
+through their competent authorities, in checking the authenticity of origin declarations and the 
+correctness of the information given in such documents. 
+ 
+ 
+ARTICLE 28 
+ 
+Verification of Origin Declarations 
+ 
+1.  Subsequent verifications of origin declarations shall be carried out at random or whenever 
+the customs authorities of the importing Party have reasonable doubts as to the authenticity of 
+such documents, the originating status of the products concerned or the fulfilment of the other 
+requirements of this Protocol. 
+ 
+ 
+EUSFTA Protocol 1 - 38  
+2.  For the purposes of implementing the provisions of paragraph 1, if it has been submitted, 
+the customs authorities of the importing Party shall return the origin declaration, or a copy of that 
+document, to the customs authorities of the exporting Party giving, where appropriate, the 
+reasons for the enquiry. Any document and information obtained suggesting that the information 
+given on the origin declarations is incorrect shall be forwarded in support of the request for 
+verification. 
+ 
+3.  The verification shall be carried out by the customs authorities of the exporting Party. For 
+this purpose, they shall have the right to request any evidence and to carry out any inspection of 
+the exporter's accounts or any other check considered appropriate. 
+ 
+4.  If the customs authorities of the importing Party decide to suspend the granting of 
+preferential treatment to the products concerned while awaiting the results of the verification, the 
+release of the products shall be offered to the importer, subject to any precautionary measures 
+judged necessary. Any suspension of preferential treatment shall be reinstated as soon as possible 
+after the originating status of the products concerned or the fulfilment of the other requirements 
+of this Protocol has been ascertained by the customs authorities of the importing Party. 
+ 
+5.  The customs authorities requesting the verification shall be informed of the results of this 
+verification as soon as possible. These results must indicate clearly whether the documents are 
+authentic and whether the products concerned can be considered as products originating in the 
+Parties and fulfil the other requirements of this Protocol. 
+ 
+ 
+EUSFTA Protocol 1 - 39  
+6.  If, in cases of reasonable doubt, there is no reply within ten months of the date of the 
+verification request or the reply does not contain sufficient information to allow the requesting 
+customs authorities to determine the authenticity of the document in question or the real origin 
+of the products, the requesting customs authorities, except in exceptional circumstances, shall 
+refuse entitlement to the preferences. 
+ 
+ 
+ARTICLE 29 
+ 
+Administrative Enquiries 
+ 
+1.  Where the results of the verification procedure or any other available substantive 
+information appear to indicate that the provisions of this Protocol are being contravened, the 
+exporting Party, on its own initiative or at the request of the other Party, shall carry out 
+appropriate enquiries or arrange for such enquiries to be carried out with due urgency to identify 
+and prevent such contraventions. The results of such enquiries shall be communicated to the Party 
+requesting verification. 
+ 
+2.  The Party requesting verification may be present at the enquiries, subject to conditions that 
+may be laid down by the competent authority in the exporting Party. 
+ 
+ 
+EUSFTA Protocol 1 - 40  
+3.  Where a Party has made a finding, on the basis of objective information, of a repeated 
+failure2 to provide administrative cooperation under this Section, or of systematic and intentional 
+fraud from the other Party, the Party concerned may temporarily suspend the relevant 
+preferential treatment of the product or products concerned in accordance with paragraph 4. 
+ 
+4.  The application of a temporary suspension shall be subject to the following conditions: 
+ 
+(a)  the Party which has made a finding in accordance with paragraph 3 shall without undue 
+delay notify the Trade Committee established pursuant to Article 16.1 (Trade Committee) of 
+its finding together with the objective information and its recommended course of action to 
+be taken. Upon receipt of such notification, the Trade Committee shall deliberate on the 
+appropriate course of action on the basis of all relevant information and objective findings, 
+with a view to reaching a solution acceptable to both Parties. During the period of 
+consultations referred to above, the product(s) concerned shall enjoy the preferential 
+treatment; 
+ 
+(b)  where the Parties have entered into consultations with the Trade Committee and have failed 
+to agree on an acceptable solution within three months following the notification, the Party 
+concerned may temporarily suspend the relevant preferential treatment of the product(s) 
+concerned in so far as is strictly necessary to address the Party's concerns. Such temporary 
+suspension shall be notified to the Trade Committee without undue delay; 
+ 
+                                                 
+2  For the purposes of paragraph 3 of Article 29 (Administrative Enquiries), a repeated failure to provide 
+administrative cooperation shall mean, inter alia, a repeated failure to respect the obligations to verify the 
+originating status of the product(s) concerned, or a repeated refusal or undue delay in carrying out and/or 
+communicating the results of enquiries and/or subsequent verification of the proof of origin, over a continuous 
+period of ten months. 
+ 
+EUSFTA Protocol 1 - 41  
+(c)  temporary suspensions under this Article shall be commensurate with the impact on the 
+financial interests of the Party concerned arising from the situation giving rise to the finding 
+of the Party referred to paragraph 3. They shall not exceed a period of six months, which 
+may be renewed, if at the date of expiry nothing substantive has changed with respect to the 
+condition that gave rise to the initial suspension; and 
+ 
+(d)  temporary suspensions, and any renewal thereof, shall be notified immediately after their 
+adoption to the Trade Committee. They shall be subject to periodic consultations within the 
+Trade Committee, in particular with a view to their termination as soon as the conditions for 
+their application no longer apply. 
+ 
+ 
+ARTICLE 30 
+ 
+Settlement of Disputes 
+ 
+1.  Where disputes arise in relation to the verification procedures of Article 28 (Verification of 
+Origin Declarations) which cannot be settled between the competent authorities requesting a 
+verification and the competent authorities responsible for carrying out this verification, or where 
+they raise a question as to the interpretation of this Protocol, they shall be submitted to the 
+Committee on Customs established pursuant to Article 16.2 (Specialised Committees). 
+ 
+2.  All disputes between the importer and the competent authorities of the importing Party 
+shall be settled under the legislation of that Party. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 42  
+ARTICLE 31 
+ 
+Penalties 
+ 
+The Parties shall provide for procedures for penalties to be imposed on any person who draws up, 
+or causes to be drawn up, a document which contains incorrect information for the purpose of 
+obtaining a preferential treatment for products. 
+ 
+ 
+SECTION 7 
+ 
+CEUTA AND MELILLA 
+ 
+ 
+ARTICLE 32 
+ 
+Application of this Protocol 
+ 
+1.  The term "Union" does not cover Ceuta and Melilla. 
+ 
+2.  Products originating in Singapore, when imported into Ceuta or Melilla, shall enjoy in all 
+respects the same customs regime as that which is applied to products originating in the customs 
+territory of the Union under Protocol 2 of the Act concerning the conditions of accession of the 
+Kingdom of Spain and the Portuguese Republic and the adjustments to the Treaties.3 Singapore 
+shall grant to imports of products covered by the Agreement and originating in Ceuta and Melilla 
+the same customs regime as that which is granted to products imported from and originating in 
+the Union. 
+ 
+                                                 
+3  OJ EU L 302, 15.11.1985, p. 23. 
+ 
+EUSFTA Protocol 1 - 43  
+3.  For the purpose of the application of paragraph 2 concerning products originating in Ceuta 
+and Melilla, this Protocol shall apply mutatis mutandis subject to the special conditions set out in 
+Article 33 (Special Conditions). 
+ 
+ 
+ARTICLE 33 
+ 
+Special Conditions 
+ 
+1.  Provided that they have been transported directly in accordance with the provisions of 
+Article 13 (Non Alteration), the following shall be considered as: 
+ 
+(a)  products originating in Ceuta and Melilla: 
+ 
+(i)  products wholly obtained in Ceuta and Melilla; 
+ 
+(ii)  products obtained in Ceuta and Melilla in the manufacture of which products other 
+than those referred to in (a) are used, provided that: 
+ 
+(aa)  such products have undergone sufficient working or processing within the 
+meaning of Article 5 (Sufficiently Worked or Processed Products); or 
+ 
+(bb)  those products are originating in a Party, provided that they have been 
+submitted to working or processing which goes beyond the operations referred 
+to in Article 6 (Insufficient Working or Processing). 
+ 
+ 
+EUSFTA Protocol 1 - 44  
+(b)  products originating in Singapore: 
+ 
+(i)  products wholly obtained in Singapore; 
+ 
+(ii)  products obtained in Singapore in the manufacture of which products other than those 
+referred to in (a) are used, provided that: 
+ 
+(aa)  such products have undergone sufficient working or processing within the 
+meaning of Article 5 (Sufficiently Worked or Processed Products); or 
+ 
+(bb)  such products originate in Ceuta and Melilla or in the Union, and provided that 
+they have undergone working or processing which goes beyond the operations 
+referred to in Article 6 (Insufficient Working or Processing). 
+ 
+2.  Ceuta and Melilla shall be considered as a single territory. 
+ 
+3.  The exporter or his authorised representative shall enter "Singapore" and "Ceuta and 
+Melilla" on origin declarations for products originating in these territories respectively. 
+ 
+4.  The Spanish customs authorities shall be responsible for the application of this Protocol in 
+Ceuta and Melilla. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 45  
+SECTION 8 
+ 
+FINAL PROVISIONS 
+ 
+ 
+ARTICLE 34 
+ 
+Amendments to this Protocol 
+ 
+The Parties, by decision in the Committee on Customs established pursuant to 
+Article 16.2 (Specialised Committees), may amend the provisions of this Protocol. 
+Following the conclusion of a free trade agreement between the Union and one or several ASEAN 
+countries, the Parties, by decision in the Committee on Customs established pursuant to 
+Article 16.2 (Specialised Committees), may amend or adapt this Protocol and in particular Annex C 
+referred to in paragraph 7 of Article 3 (Cumulation of Origin) to ensure coherence between the 
+rules of origin applicable within the context of the preferential exchanges between ASEAN 
+countries and the Union. 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 46  
+ARTICLE 35 
+ 
+Transitional Provisions for Goods in Transit or Storage 
+ 
+This Agreement may be applied to goods which comply with the provisions of this Protocol, and 
+which on the date of entry into force of this Agreement are either in transit, in the Parties in 
+temporary storage, in customs warehouses or in free zones, provided that an origin declaration 
+that was made out retrospectively is submitted to the customs authorities of the importing Party 
+within twelve months of that date, and, if requested, such declaration is submitted together with 
+the documents showing that the goods have been transported directly in accordance with 
+Article 13 (Non Alteration). 
+ 
+EUSFTA Protocol 1 - 47  
+ANNEX A 
+ 
+ 
+INTRODUCTORY NOTES TO THE LIST IN ANNEX B 
+ 
+Note 1 – General introduction 
+ 
+The list sets out the conditions required for all products to be considered as sufficiently worked or 
+processed within the meaning of Article 5 (Sufficiently Worked or Processed Products) of the 
+Protocol. There are four different types of rule, which vary according to the product: 
+ 
+(a)  through working or processing, a maximum content of non-originating materials is not 
+exceeded; 
+ 
+(b)  through working or processing, the applicable 4-digit Harmonized System heading or 6-digit 
+Harmonized System sub-heading for the manufactured products becomes different from the 
+respective 4-digit Harmonized System heading or 6-digit sub-heading for the materials used; 
+ 
+(c)  a specific working and processing operation is carried out; and 
+ 
+(d)  working or processing is carried out on certain wholly-obtained materials. 
+ 
+ 
+EUSFTA Protocol 1 - 48  
+Note 2 – The structure of the list 
+ 
+2.1.  The first two columns in the list describe the product obtained. The first column gives the 
+heading number or chapter number used in the Harmonized System and the second column 
+gives the description of goods used in that system for that heading or chapter. For each 
+entry in the first two columns, a rule is specified in column 3. Where, in some cases, the 
+entry in the first column is preceded by an "ex", this signifies that the rules in column 3 apply 
+only to the part of that heading as described in column 2. 
+ 
+2.2.  Where several heading numbers are grouped together in column 1, or a chapter number is 
+given and the description of products in column 2 is therefore given in general terms, the 
+adjacent rules in column 3 apply to all products which, under the Harmonized System, are 
+classified in headings of the chapter or in any of the headings grouped together in column 1. 
+ 
+2.3.  Where there are different rules in the list applying to different products within a heading, 
+each indent contains the description of that part of the heading covered by the adjacent 
+rules in column 3. 
+ 
+2.4.  Where two alternative rules are set out in column 3, separated by "or", it is at the choice of 
+the exporter which one to use. 
+ 
+ 
+EUSFTA Protocol 1 - 49  
+Note 3 – Examples of how to apply the rules 
+ 
+3.1.  Article 5 (Sufficiently Worked or Processed Products) of the Protocol, concerning products 
+having acquired originating status which are used in the manufacture of other products, 
+shall apply, regardless of whether this status has been acquired inside the factory where 
+these products are used or in another factory in a Party. 
+ 
+3.2.  Pursuant to Article 6 (Insufficient Working or Processing) of the Protocol, the working or 
+processing carried out must go beyond the list of operations mentioned in that Article. If it 
+does not, the goods shall not qualify for the granting of the benefit of preferential tariff 
+treatment, even if the conditions set out in the list below are met. 
+ 
+Subject to the provision referred to in the first sub-paragraph, the rules in the list represent 
+the minimum amount of working or processing required, and the carrying-out of more 
+working or processing also confers originating status; conversely, the carrying-out of less 
+working or processing cannot confer originating status. 
+ 
+Thus, if a rule provides that non-originating material may be used at a certain stage of 
+manufacture, the use of such material at an earlier stage of manufacture is allowed, and the 
+use of such material at a later stage is not. 
+ 
+If a rule provides that non-originating material, at a certain level of manufacture, may not be 
+used, the use of materials at an earlier stage of manufacture is allowed, and the use of 
+materials at a later stage is not. 
+ 
+ 
+EUSFTA Protocol 1 - 50  
+Example: when the list-rule for Chapter 19 requires that "non-originating materials of 
+headings 1101 to 1108 cannot exceed 20 per cent weight", the use (i.e. importation) of 
+cereals of Chapter 10 (materials at an earlier stage of manufacture) is not limited. 
+ 
+3.3.  Without prejudice to Note 3.2, where a rule uses the expression "Manufacture from 
+materials of any heading", then materials of any heading(s) (even materials of the same 
+description and heading as the product) may be used, subject, however, to any specific 
+limitations which may also be contained in the rule. 
+ 
+The expression "Manufacture from materials of any heading, including other materials of 
+heading [...]" or "Manufacture from materials of any heading, including other materials of 
+the same heading as the product" means that materials of any heading(s) may be used, 
+except those of the same description as the product as given in column 2 of the list. 
+ 
+3.4.  When a rule in the list specifies that a product may be manufactured from more than one 
+material, this means that one or more materials may be used. It does not require that all be 
+used. 
+ 
+3.5.  Where a rule in the list specifies that a product must be manufactured from a particular 
+material, the rule does not prevent the use of other materials which, because of their 
+inherent nature, cannot satisfy this condition. 
+ 
+ 
+EUSFTA Protocol 1 - 51  
+3.6.  Where a rule in the list gives two percentages for the maximum value of non-originating 
+materials that can be used, those percentages may not be added together. In other words, 
+the maximum value of all the non-originating materials used may never exceed the higher of 
+the percentages given. Furthermore, the individual percentages must not be exceeded in 
+relation to the particular materials to which they apply. 
+ 
+Note 4 – General provisions concerning certain agricultural goods 
+ 
+4.1.  Agricultural goods which fall within Chapters 6, 7, 8, 9, 10, 12 and heading 2401, and which 
+are grown or harvested in the territory of a beneficiary country, shall be treated as 
+originating in the territory of that country, even if grown from seeds, bulbs, rootstock, 
+cuttings, grafts, shoots, buds, or other live parts of plants imported from another country. 
+ 
+4.2.  In cases where the content of non originating sugar in a given product is subject to 
+limitations, the weight of sugars of headings 1701 (sucrose) and 1702 (e.g., fructose, glucose, 
+lactose, maltose, isoglucose or invert sugar) used in the manufacture of the final product and 
+used in the manufacture of the non-originating products incorporated in the final product is 
+taken into account for the calculation of such limitations. 
+ 
+Note 5 - Terminology used in respect of certain textile products 
+ 
+5.1.  The term "natural fibres" is used in the list to refer to fibres other than artificial or synthetic 
+fibres. It is restricted to the stages before spinning takes place, including waste, and, unless 
+otherwise specified, includes fibres which have been carded, combed or otherwise 
+processed, but not spun. 
+ 
+ 
+EUSFTA Protocol 1 - 52  
+5.2.  The term "natural fibres" includes horsehair of heading 0511, silk of headings 5002 
+and 5003, as well as wool-fibres and fine or coarse animal hair of headings 5101 to 5105, 
+cotton fibres of headings 5201 to 5203, and other vegetable fibres of headings 5301 to 5305. 
+ 
+5.3.  The terms "textile pulp", "chemical materials" and "paper-making materials" are used in the 
+list to describe the materials which are not classified in Chapters 50 to 63, but which can be 
+used to manufacture artificial, synthetic or paper fibres or yarns. 
+ 
+5.4.  The term "man-made staple fibres" is used in the list to refer to synthetic or artificial 
+filament tow, staple fibres or waste, of headings 5501 to 5507. 
+ 
+Note 6 - Tolerances applicable to products made of a mixture of textile materials 
+ 
+6.1.  Where, for a given product in the list, reference is made to this Note, the conditions set out 
+in column 3 shall not be applied to any basic textile materials used in the manufacture of this 
+product and which, taken together, represent 10 % or less of the total weight of all the basic 
+textile materials used. (See also Notes 6.3 and 6.4). 
+ 
+6.2.  The tolerance mentioned in Note 6.1 may be applied only to mixed products which have 
+been made from two or more basic textile materials. 
+ 
+The following are the basic textile materials: 
+ 
+–  silk; 
+ 
+ 
+EUSFTA Protocol 1 - 53  
+–  wool; 
+ 
+–  coarse animal hair; 
+ 
+–  fine animal hair; 
+ 
+–  horsehair; 
+ 
+–  cotton; 
+ 
+–  paper-making materials and paper; 
+ 
+–  flax; 
+ 
+–  true hemp; 
+ 
+–  jute and other textile bast fibres; 
+ 
+–  sisal and other textile fibres of the genus Agave; 
+ 
+–  coconut, abaca, ramie and other vegetable textile fibres; 
+ 
+–  synthetic man-made filaments; 
+ 
+–  artificial man-made filaments; 
+ 
+–  current-conducting filaments; 
+ 
+ 
+EUSFTA Protocol 1 - 54  
+–  synthetic man-made staple fibres of polypropylene; 
+ 
+–  synthetic man-made staple fibres of polyester; 
+ 
+–  synthetic man-made staple fibres of polyamide; 
+ 
+–  synthetic man-made staple fibres of polyacrylonitrile; 
+ 
+–  synthetic man-made staple fibres of polyimide; 
+ 
+–  synthetic man-made staple fibres of polytetrafluoroethylene; 
+ 
+–  synthetic man-made staple fibres of poly(phenylene sulphide); 
+ 
+–  synthetic man-made staple fibres of poly(vinyl chloride); 
+ 
+–  other synthetic man-made staple fibres; 
+ 
+–  artificial man-made staple fibres of viscose; 
+ 
+–  other artificial man-made staple fibres; 
+ 
+ 
+EUSFTA Protocol 1 - 55  
+–  yarn made of polyurethane segmented with flexible segments of polyether, whether or 
+not gimped; 
+ 
+–  yarn made of polyurethane segmented with flexible segments of polyester, whether or 
+not gimped; 
+ 
+–  products of heading 5605 (metallised yarn) incorporating strip consisting of a core of 
+aluminium foil or of a core of plastic film whether or not coated with aluminium 
+powder, of a width not exceeding 5 mm, sandwiched by means of a transparent or 
+coloured adhesive between two layers of plastic film; 
+ 
+–  other products of heading 5605; 
+ 
+–  glass fibres; 
+ 
+–  metal fibres. 
+ 
+Example: 
+ 
+A yarn, of heading 5205, made from cotton fibres of heading 5203 and synthetic staple fibres 
+of heading 5506, is a mixed yarn. Therefore, non-originating synthetic staple fibres which do 
+not satisfy the origin rules may be used, provided that their total weight does not exceed 
+10 % of the weight of the yarn. 
+ 
+ 
+EUSFTA Protocol 1 - 56  
+Example: 
+ 
+A woollen fabric of heading 5112 that is made from woollen yarn of heading 5107 and 
+synthetic yarn of staple fibres of heading 5509 is a mixed fabric. Therefore, synthetic yarn 
+which does not satisfy the origin rules, or woollen yarn which does not satisfy the origin 
+rules, or a combination of the two, may be used, provided that their total weight does not 
+exceed 10 % of the weight of the fabric. 
+ 
+Example: 
+ 
+Tufted textile fabric of heading 5802 that is made from cotton yarn of heading 5205 and 
+cotton fabric of heading 5210 is only a mixed product if the cotton fabric is itself a mixed 
+fabric made from yarns classified in two separate headings, or if the cotton yarns used are 
+themselves mixtures. 
+ 
+Example: 
+ 
+If the tufted textile fabric concerned had been made from cotton yarn of heading 5205 and 
+synthetic fabric of heading 5407, then, obviously, the yarns used are two separate basic 
+textile materials and the tufted textile fabric is, accordingly, a mixed product. 
+ 
+6.3.  In the case of products incorporating "yarn made of polyurethane segmented with flexible 
+segments of polyether, whether or not gimped", this tolerance is 20 % in respect of this yarn. 
+ 
+ 
+EUSFTA Protocol 1 - 57  
+6.4.  In the case of products incorporating a "strip consisting of a core of aluminium foil or of a 
+core of plastic film, whether or not coated with aluminium powder, of a width not exceeding 
+5 mm, sandwiched by means of a transparent or coloured adhesive between two layers of 
+plastic film", the tolerance is 30 % in respect of this strip. 
+ 
+Note 7 - Other tolerances applicable to certain textile products 
+ 
+7.1.  Where, in the list, reference is made to this Note, textile materials (with the exception of 
+linings and interlinings) which do not satisfy the rule set out in the list in column 3 for the 
+made-up product concerned may be used, provided that they are classified under a heading 
+other than that of the product, and provided that that their value does not exceed 8 % of the 
+ex-works price of the product. 
+ 
+7.2.  Without prejudice to Note 6.3, materials, which are not classified within Chapters 50 to 63, 
+may be used freely in the manufacture of textile products, whether or not they contain 
+textiles. 
+ 
+Example: 
+ 
+If a rule in the list provides that, for a particular textile item (such as trousers), yarn must be 
+used, this does not prevent the use of metal items such as buttons, because buttons are not 
+classified within Chapters 50 to 63. For the same reason, it does not prevent the use of slide-
+fasteners, even though slide-fasteners normally contain textiles. 
+ 
+ 
+EUSFTA Protocol 1 - 58  
+7.3.  Where a percentage rule applies, the value of non-originating materials which are not 
+classified within Chapters 50 to 63 must be taken into account when calculating the value of 
+the non-originating materials incorporated. 
+ 
+Note 8 - Definition of specific processes and simple operations carried out in respect of certain 
+products of Chapter 27 
+ 
+8.1.  For the purposes of headings ex 2707 and 2713, the "specific processes" are the following: 
+ 
+(a)  vacuum-distillation; 
+ 
+(b)  redistillation by a very thorough fractionation process; 
+ 
+(c)  cracking; 
+ 
+(d)  reforming; 
+ 
+(e)  extraction by means of selective solvents; 
+ 
+(f)  the process comprising all of the following operations: processing with concentrated 
+sulphuric acid, oleum or sulphuric anhydride; neutralisation with alkaline agents; 
+decolourisation and purification with naturally active earth, activated earth, activated 
+charcoal or bauxite; 
+ 
+ 
+EUSFTA Protocol 1 - 59  
+(g)  polymerisation; 
+ 
+(h)  alkylation; 
+ 
+(i)  isomerisation. 
+ 
+8.2.  For the purposes of headings 2710, 2711 and 2712, the "specific processes" are the 
+following: 
+ 
+(a)  vacuum-distillation; 
+ 
+(b)  redistillation by a very thorough fractionation process; 
+ 
+(c)  cracking; 
+ 
+(d)  reforming; 
+ 
+(e)  extraction by means of selective solvents; 
+ 
+(f)  the process comprising all of the following operations: processing with concentrated 
+sulphuric acid, oleum or sulphuric anhydride; neutralisation with alkaline agents; 
+decolourisation and purification with naturally active earth, activated earth, activated 
+charcoal or bauxite; 
+ 
+ 
+EUSFTA Protocol 1 - 60  
+(g)  polymerisation; 
+ 
+(h)  alkylation; 
+ 
+(i)  isomerisation; 
+ 
+(j)  in respect of heavy oils of heading ex 2710 only, desulphurisation with hydrogen, 
+resulting in a reduction of at least 85 % of the sulphur content of the products 
+processed (ASTM D 1266-59 T method); 
+ 
+(k)  in respect of products of heading 2710 only, deparaffining by a process other than 
+filtering; 
+ 
+(l)  in respect of heavy oils of heading ex 2710 only, treatment with hydrogen, at a 
+pressure of more than 20 bar and a temperature of more than 250 °C, with the use of a 
+catalyst, other than to effect desulphurisation, when the hydrogen constitutes an 
+active element in a chemical reaction. The further treatment, with hydrogen, of 
+lubricating oils of heading ex 2710 (e.g. hydrofinishing or decolourisation), in order, 
+more especially, to improve colour or stability shall not, however, be deemed to be a 
+specific process; 
+ 
+(m)  in respect of fuel oils of heading ex 2710 only, atmospheric distillation, on condition 
+that less than 30 % of these products distils, by volume, including losses, at 300 °C, by 
+the ASTM D 86 method; 
+ 
+ 
+EUSFTA Protocol 1 - 61  
+(n)  in respect of heavy oils other than gas oils and fuel oils of heading ex 2710 only, 
+treatment by means of a high-frequency electrical brush discharge; 
+ 
+(o)  in respect of crude products (other than petroleum jelly, ozokerite, lignite wax or peat 
+wax, paraffin wax containing by weight less than 0,75 % of oil) of heading ex 2712 only, 
+de-oiling by fractional crystallisation. 
+ 
+8.3.  For the purposes of headings ex 2707 and 2713, simple operations, such as cleaning, 
+decanting, desalting, water separation, filtering, colouring, marking, obtaining a sulphur 
+content as a result of mixing products with different sulphur contents, or any combination of 
+these operations or like operations, do not confer origin. 
+ 
+ 
+________________ 
+ 
+EUSFTA Protocol 1 - 62  
+ANNEX B 
+ 
+ 
+LIST OF WORKING OR PROCESSING REQUIRED TO BE CARRIED OUT  
+ON NON-ORIGINATING MATERIALS IN ORDER  
+THAT THE PRODUCT MANUFACTURED  
+CAN OBTAIN ORIGINATING STATUS 
+ 
+ 
+EUSFTA Protocol 1 - 63  
+ 
+EUSFTA Protocol 1 - 64  
+ 
+EUSFTA Protocol 1 - 65  
+ 
+EUSFTA Protocol 1 - 66  
+                                                 
+4  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 67  
+                                                 
+5  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 68  
+                                                 
+6  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 69  
+ 
+EUSFTA Protocol 1 - 70  
+                                                 
+7  See Introductory Note 4.2. 
+8  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 71  
+                                                 
+9  See Introductory Note 4.2. 
+10  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 72  
+                                                 
+11  See Introductory Note 4.2. 
+12  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 73  
+ 
+EUSFTA Protocol 1 - 74  
+                                                 
+13  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 75  
+                                                 
+14  See Introductory Note 4.2. 
+15  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 76  
+ 
+EUSFTA Protocol 1 - 77  
+                                                 
+16  See Introductory Note 4.2. 
+17  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 78  
+                                                 
+18  See Introductory Note 4.2. 
+ 
+EUSFTA Protocol 1 - 79  
+ 
+EUSFTA Protocol 1 - 80  
+ 
+EUSFTA Protocol 1 - 81  
+                                                 
+19  For the special conditions relating to "specific processes", see Introductory Notes 8.1 and 8.3. 
+20  For the special conditions relating to "specific processes", see Introductory Note 8.2. 
+ 
+EUSFTA Protocol 1 - 82  
+                                                 
+21  For the special conditions relating to "specific processes", see Introductory Note 8.2. 
+22  For the special conditions relating to "specific processes", see Introductory Note 8.2. 
+ 
+EUSFTA Protocol 1 - 83  
+                                                 
+23  For the special conditions relating to "specific processes", see Introductory Notes 8.1 and 8.3. 
+ 
+EUSFTA Protocol 1 - 84  
+ 
+EUSFTA Protocol 1 - 85  
+ 
+EUSFTA Protocol 1 - 86  
+ 
+EUSFTA Protocol 1 - 87  
+ 
+EUSFTA Protocol 1 - 88  
+ 
+EUSFTA Protocol 1 - 89  
+ 
+EUSFTA Protocol 1 - 90  
+ 
+EUSFTA Protocol 1 - 91  
+ 
+EUSFTA Protocol 1 - 92  
+                                                 
+24  In the case of the products composed of materials classified within both headings 3901 to 3906, and in the case of the products within headings 3907 to 3911, this 
+restriction only applies to that group of materials which predominates by weight in the product. 
+ 
+EUSFTA Protocol 1 - 93  
+ 
+EUSFTA Protocol 1 - 94  
+ 
+EUSFTA Protocol 1 - 95  
+ 
+EUSFTA Protocol 1 - 96  
+ 
+EUSFTA Protocol 1 - 97  
+ 
+EUSFTA Protocol 1 - 98  
+ 
+EUSFTA Protocol 1 - 99  
+ 
+EUSFTA Protocol 1 - 100  
+ 
+EUSFTA Protocol 1 - 101  
+ 
+EUSFTA Protocol 1 - 102  
+                                                 
+25  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 103  
+                                                 
+26  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 104  
+ 
+EUSFTA Protocol 1 - 105  
+                                                 
+27  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 106  
+ 
+EUSFTA Protocol 1 - 107  
+                                                 
+28  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 108  
+ 
+EUSFTA Protocol 1 - 109  
+                                                 
+29  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 110  
+ 
+EUSFTA Protocol 1 - 111  
+                                                 
+30  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 112  
+ 
+EUSFTA Protocol 1 - 113  
+                                                 
+31  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 114  
+                                                 
+32  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 115  
+5602 
+                                                 
+33  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 116  
+                                                 
+34  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+35  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 5. 
+ 
+EUSFTA Protocol 1 - 117  
+                                                 
+36  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 5. 
+37  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 5. 
+ 
+EUSFTA Protocol 1 - 118  
+Chapter 57  Carpets and other textile floor coverings:  Spinning of natural and/or man-made staple fibres or extrusion 
+of man-made filament yarn, in each case accompanied by 
+–  Of needle loom felt 
+weaving 
+–  Of other felt 
+or 
+–  Other 
+Manufacture from coir yarn or sisal yarn or jute yarn 
+or 
+Flocking accompanied by dyeing or by printing 
+or 
+Tufting accompanied by dyeing or by printing 
+Extrusion of man-made fibres accompanied by non-woven 
+techniques including needle punching38 
+                                                 
+38  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 119  
+    However: 
+–  polypropylene filament of heading 5402, 
+–  polypropylene fibres of heading 5503 or 5506, or 
+–  polypropylene filament tow of heading 5501, 
+of which the denomination in all cases of a single filament or 
+fibre is less than 9 decitex, may be used, provided that their total 
+value does not exceed 40 % of the ex-works price of the product 
+Jute fabric may be used as a backing 
+ 
+EUSFTA Protocol 1 - 120  
+                                                 
+39  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 121  
+ 
+EUSFTA Protocol 1 - 122  
+                                                 
+40  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 123  
+                                                 
+41  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 124  
+                                                 
+42  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 125  
+ 
+EUSFTA Protocol 1 - 126  
+5909 to 5911 
+–  Woven fabrics, of a kind commonly used in papermaking or  Extrusion of man-made fibres or Spinning of natural and/or of 
+other technical uses, felted or not, whether or not  man-made staple fibres, in each case accompanied by weaving 
+impregnated or coated, tubular or endless with single or 
+or 
+multiple warp and/or weft, or flat woven with multiple 
+warp and/or weft of heading 5911  Weaving accompanied by dyeing or coating 
+Only the following fibres may be used: 
+– –  coir yarn 
+– –  yarn of polytetrafluoroethylene43, 
+– –  yarn, multiple, of polyamide, coated impregnated or 
+covered with a phenolic resin, 
+– –  yarn of synthetic textile fibres of aromatic polyamides, 
+obtained by polycondensation of m-phenylenediamine and 
+isophthalic acid, 
+                                                 
+43  The use of this material is restricted to the manufacture of woven fabrics of a kind used in paper-making machinery. 
+ 
+EUSFTA Protocol 1 - 127  
+    – –  monofil of polytetrafluoroethylene44, 
+– –  yarn of synthetic textile fibres of poly(p-phenylene 
+terephthalamide), 
+– –  glass fibre yarn, coated with phenol resin and gimped with 
+acrylic yarn45, 
+– –  copolyester monofilaments of a polyester and a resin of 
+terephthalic acid and 1,4-cyclohexanediethanol and 
+isophthalic acid 
+                                                 
+44  The use of this material is restricted to the manufacture of woven fabrics of a kind used in paper-making machinery. 
+45  The use of this material is restricted to the manufacture of woven fabrics of a kind used in paper-making machinery. 
+46  For special conditions relating to products made of a mixture of textile materials, see Introductory Note 6. 
+ 
+EUSFTA Protocol 1 - 128  
+ 
+EUSFTA Protocol 1 - 129  
+ 
+EUSFTA Protocol 1 - 130  
+ 
+EUSFTA Protocol 1 - 131  
+ 
+EUSFTA Protocol 1 - 132  
+ 
+EUSFTA Protocol 1 - 133  
+ 
+EUSFTA Protocol 1 - 134  
+ 
+EUSFTA Protocol 1 - 135  
+ 
+EUSFTA Protocol 1 - 136  
+ 
+EUSFTA Protocol 1 - 137  
+ 
+EUSFTA Protocol 1 - 138  
+ 
+EUSFTA Protocol 1 - 139  
+ 
+EUSFTA Protocol 1 - 140  
+ 
+EUSFTA Protocol 1 - 141  
+                                                 
+47  SEMII – Semiconductor Equipment and Materials Institute Incorporated. 
+ 
+EUSFTA Protocol 1 - 142  
+ 
+EUSFTA Protocol 1 - 143  
+ 
+EUSFTA Protocol 1 - 144  
+ 
+EUSFTA Protocol 1 - 145  
+ 
+EUSFTA Protocol 1 - 146  
+ 
+EUSFTA Protocol 1 - 147  
+ 
+EUSFTA Protocol 1 - 148  
+ 
+EUSFTA Protocol 1 - 149  
+ 
+EUSFTA Protocol 1 - 150  
+ 
+EUSFTA Protocol 1 - 151  
+ 
+EUSFTA Protocol 1 - 152  
+ 
+EUSFTA Protocol 1 - 153  
+ 
+EUSFTA Protocol 1 - 154  
+ 
+EUSFTA Protocol 1 - 155  
+ 
+EUSFTA Protocol 1 - 156  
+ 
+EUSFTA Protocol 1 - 157  
+ 
+EUSFTA Protocol 1 - 158  
+ 
+EUSFTA Protocol 1 - 159  
+ 
+EUSFTA Protocol 1 - 160  
+ 
+EUSFTA Protocol 1 - 161  
+ 
+EUSFTA Protocol 1 - 162  
+ 
+EUSFTA Protocol 1 - 163  
+ 
+EUSFTA Protocol 1 - 164  
+ 
+EUSFTA Protocol 1 - 165  
+ 
+EUSFTA Protocol 1 - 166  
+ 
+EUSFTA Protocol 1 - 167  
+ 
+EUSFTA Protocol 1 - 168  
+ 
+EUSFTA Protocol 1 - 169  
+ 
+EUSFTA Protocol 1 - 170  
+ 
+EUSFTA Protocol 1 - 171  
+ 
+EUSFTA Protocol 1 - 172  
+ 
+EUSFTA Protocol 1 - 173  
+ 
+EUSFTA Protocol 1 - 174  
+ 
+EUSFTA Protocol 1 - 175  
+ 
+ 
+________________ 
+ 
+ 
+EUSFTA Protocol 1 - 176  
+ANNEX B(a) 
+ 
+ 
+ADDENDUM TO ANNEX B 
+ 
+Common provisions 
+ 
+1.  For the products described below, the following rules may also apply instead of the rules set 
+out in Annex B for products originating in Singapore, however limited by an annual quota. 
+ 
+2.  A origin declaration made out pursuant to this Annex shall contain the following statement 
+in English: "Derogation – Annex B(a) of Protocol Concerning the definition of the concept of 
+'originating products' and methods of administrative cooperation of the EU-Singapore FTA". 
+ 
+3.  Products can be imported into the Union under these derogations upon the provision of a 
+declaration signed by the approved exporter certifying that the products concerned satisfy 
+the conditions of the derogation. 
+ 
+4.  In the Union, any quantities referred to in this Annex shall be managed by the European 
+Commission, which shall take all administrative actions it deems advisable for their efficient 
+management in respect of the applicable legislation of the Union. 
+ 
+5.  The quotas indicated in the table below will be managed by the European Commission on a 
+first-come, first-served basis. The quantities exported from Singapore to the Union under 
+these derogations will be calculated on the basis of the imports into the Union. 
+ 
+EUSFTA Protocol 1 - 177  
+ 
+ 
+EUSFTA Protocol 1 - 178  
+ 
+EUSFTA Protocol 1 - 179  
+ 
+ 
+________________ 
+ 
+EUSFTA Protocol 1 - 180  
+ANNEX C 
+ 
+ 
+MATERIALS EXCLUDED FROM CUMULATION 
+UNDER PARAGRAPH 2 OF ARTICLE 3 
+ 
+ 
+EUSFTA Protocol 1 - 181  
+ 
+EUSFTA Protocol 1 - 182  
+ 
+ 
+________________ 
+ 
+EUSFTA Protocol 1 - 183  
+ANNEX D 
+ 
+ 
+PRODUCTS REFERRED TO IN PARAGRAPH 9 OF ARTICLE 3  
+FOR WHICH MATERIALS ORIGINATING IN AN ASEAN COUNTRY  
+SHALL BE CONSIDERED AS MATERIALS ORIGINATING IN A PARTY 
+ 
+ 
+EUSFTA Protocol 1 - 184  
+ 
+EUSFTA Protocol 1 - 185  
+ 
+EUSFTA Protocol 1 - 186  
+ 
+ 
+________________ 
+ 
+ 
+EUSFTA Protocol 1 - 187  
+ANNEX E 
+ 
+ 
+TEXT OF THE ORIGIN DECLARATION 
+ 
+The origin declaration, the text of which is given below, must be made out in accordance with the 
+footnotes. However, the footnotes do not have to be reproduced. 
+ 
+Bulgarian version 
+ 
+Износителят на продуктите, обхванати от този документ (разрешение № … от митница или от 
+друг компетентен държавен орган(1)) декларира, че освен където ясно е отбелязано друго, 
+тези продукти са с …(2) преференциален произход. 
+ 
+Spanish version 
+ 
+El exportador de los productos incluidos en el presente documento (autorización aduanera o de la 
+autoridad gubernamental competente n° ...(1)) declara que, salvo indicación en sentido contrario, 
+estos productos gozan de un origen preferencial ...(2). 
+ 
+Czech version 
+ 
+Vývozce výrobků uvedených v tomto dokumentu (číslo povolení celního nebo příslušného vládního 
+orgánu ...(1)) prohlašuje, že kromě zřetelně označených mají tyto výrobky preferenční původ v ...(2). 
+ 
+ 
+EUSFTA Protocol 1 - 188  
+Danish version 
+ 
+Eksportøren af varer, der er omfattet af nærværende dokument, (toldmyndighedernes eller den 
+kompetente offentlige myndigheds tilladelse nr. ...(1)) erklærer, at varerne, medmindre andet 
+tydeligt er angivet, har præferenceoprindelse i ...(2). 
+ 
+German version 
+ 
+Der Ausführer (Ermächtigter Ausführer; Bewilligung der Zollbehörde oder der zuständigen 
+Regierungsbehörde Nr. …(1)) der Waren, auf die sich dieses Handelspapier bezieht, erklärt, dass 
+diese Waren, soweit nicht anders angegeben, präferenzbegünstigte Ursprungswaren ...(2) sind. 
+ 
+Estonian version 
+ 
+Käesoleva dokumendiga hõlmatud toodete eksportija (tolliameti või pädeva valitsusasutuse luba 
+nr. ...(1)) deklareerib, et need tooted on ...(2) sooduspäritoluga, välja arvatud juhul kui on selgelt 
+näidatud teisiti. 
+ 
+Greek version 
+ 
+Ο εξαγωγέας των προϊόντων που καλύπτονται από το παρόν έγγραφο (άδεια τελωνείου ή της 
+καθύλην αρμόδιας αρχής, υπ΄αριθ. ...(1)) δηλώνει ότι, εκτός εάν δηλώνεται σαφώς άλλως, τα 
+προϊόντα αυτά είναι προτιμησιακής καταγωγής ...(2). 
+ 
+English version 
+ 
+The exporter of the products covered by this document (customs or competent governmental 
+authorisation No ...(1)) declares that, except where otherwise clearly indicated, these products are 
+of ... preferential origin(2). 
+ 
+ 
+EUSFTA Protocol 1 - 189  
+French version 
+ 
+L'exportateur des produits couverts par le présent document (autorisation douanière ou de 
+l'autorité gouvernementale compétente n° …(1)) déclare que, sauf indication claire du contraire, 
+ces produits ont l'origine préférentielle ...(2). 
+ 
+Croatian version 
+ 
+Izvoznik proizvoda obuhvaćenih ovom ispravom (carinsko ovlaštenje ili ovlaštenje nadležnog 
+državnog tijela br. ...(1)) izjavljuje da su, osim ako je drukčije izričito navedeno, ovi proizvodi ...(2) 
+preferencijalnog podrijetla. 
+ 
+Italian version 
+ 
+L'esportatore delle merci contemplate nel presente documento (autorizzazione doganale o 
+dell'autorità governativa competente n. …(1)) dichiara che, salvo indicazione contraria, le merci 
+sono di origine preferenziale ...(2). 
+ 
+Latvian version 
+ 
+Eksportētājs produktiem, kuri ietverti šajā dokumentā (muitas vai kompetentu valsts iestāžu 
+pilnvara Nr. …(1)), deklarē, ka, izņemottur, kur ir citādi skaidri noteikts, šiem produktiem ir 
+preferenciāla izcelsme no …(2). 
+ 
+Lithuanian version 
+ 
+Šiame dokumente išvardintų prekių eksportuotojas (muitinės arba kompetentingos viešosios 
+valdžios institucijos liudijimo Nr. …(1)) deklaruoja, kad, jeigu kitaip nenurodyta, tai yra …(2) 
+preferencinės kilmės prekės. 
+ 
+ 
+EUSFTA Protocol 1 - 190  
+Hungarian version 
+ 
+A jelen okmányban szereplő áruk exportőre (vámfelhatalmazási szám: vagy az illetékes 
+kormányzati szerv által kiadott engedély száma: …(1)) kijelentem, hogy egyértelmű eltérő jelzés 
+hiányában az áruk preferenciális … származásúak(2). 
+ 
+Maltese version 
+ 
+L-esportatur tal-prodotti koperti b'dan id-dokument (awtorizzazzjoni kompetenti tal-gvern jew 
+tad-dwana nru. …(1)) jiddikjara li, hlief fejn indikat b'mod car li mhux hekk, dawn il-prodotti huma 
+ta' origini preferenzjali …(2). 
+ 
+Dutch version 
+ 
+De exporteur van de goederen waarop dit document van toepassing is (douanevergunning of 
+vergunning van de competente overheidsinstantie nr. …(1)) verklaart dat, behoudens uitdrukkelijke 
+andersluidende vermelding, deze goederen van preferentiële ... oorsprong zijn(2). 
+ 
+Polish version 
+ 
+Eksporter produktów objętych tym dokumentem (upoważnienie władz celnych lub upoważnienie 
+właściwych władz nr …(1)) deklaruje, że z wyjątkiem gdzie jest to wyraźnie określone, produkty te 
+mają …(2) preferencyjne pochodzenie. 
+ 
+Portuguese version 
+ 
+O abaixo assinado, exportador dos produtos cobertos pelo presente documento (autorização 
+aduaneira ou da autoridade governamental competente n° …(1)) declara que, salvo indicação 
+expressa em contrário, estes produtos são de origem preferencial ...(2). 
+ 
+ 
+EUSFTA Protocol 1 - 191  
+Romanian version 
+ 
+Exportatorul produselor ce fac obiectul acestui document (autorizaţia vamală sau a autorităţii 
+guvernamentale competente nr. ...(1)) declară că, exceptând cazul în care în mod expres este 
+indicat altfel, aceste produse sunt de origine preferenţială ...(2). 
+ 
+Slovak version 
+ 
+Vývozca výrobkov uvedených v tomto dokumente (číslo povolenia colnej správy alebo príslušného 
+vládneho povolenia …(1)) vyhlasuje, že okrem zreteľne označených, majú tieto výrobky preferenčný 
+pôvod v …(2). 
+ 
+Slovenian version 
+ 
+Izvoznik blaga, zajetega s tem dokumentom, (pooblastilo carinskih ali pristojnih vladnih organov 
+št. …(1)) izjavlja, da, razen če ni drugače jasno navedeno, ima to blago preferencialno ...(2) poreklo. 
+ 
+Finnish version 
+ 
+Tässä asiakirjassa mainittujen tuotteiden viejä (tullin tai toimivaltaisen julkisen viranomaisen lupa 
+nro ...(1)) ilmoittaa, että nämä tuotteet ovat, ellei toisin ole selvästi merkitty, etuuskohteluun 
+oikeutettuja ... alkuperätuotteita(2). 
+ 
+Swedish version 
+ 
+Exportören av de varor som omfattas av detta dokument (tullmyndighetens tillstånd eller behörig 
+statlig myndighet nr. …(1)) försäkrar att dessa varor, om inte annat tydligt markerats, har 
+förmånsberättigande … ursprung.(2) 
+ 
+ 
+ 
+ 
+EUSFTA Protocol 1 - 192  
+……………………………………………………………............................................................(3) 
+(Place and date) 
+ 
+...……………………………………………………………………..............................................(4) 
+(Signature of the exporter, in addition the name of the person signing the declaration has to be indicated in clear script) 
+ 
+________________ 
+(1)  When the origin declaration is made out in the Union by an approved exporter, the 
+authorisation number of the approved exporter must be entered in this space. When the 
+origin declaration is not made out by an approved exporter, the words in brackets shall be 
+omitted or the space left blank. 
+When the origin declaration is made out by an exporter in Singapore, the Unique Entity 
+Number must be entered in this space. 
+(2)  Origin of products to be indicated. When the origin declaration relates to products 
+originating in the Union, the exporter shall use the symbol "EU". When the origin declaration 
+relates in whole or in part, to products originating in Ceuta and Melilla, the exporter must 
+clearly indicate them in the document on which the declaration is made out by means of the 
+symbol "CM". 
+(3)  These indications may be omitted if the information is contained on the document itself. 
+(4)  In cases where the exporter is not required to sign, the exemption of signature also implies 
+the exemption of the name of the signatory. 
+ 
+ 
+______________ 
+ 
+EUSFTA Protocol 1 - 193  
+JOINT DECLARATION  
+CONCERNING THE PRINCIPALITY OF ANDORRA 
+ 
+1.  Products originating in the Principality of Andorra falling within Chapters 25 to 97 of the 
+Harmonized System shall be accepted by Singapore as originating in the Union within the meaning 
+of this Agreement. 
+ 
+2.  Protocol 1 shall apply mutatis mutandis for the purposes of defining the originating status of 
+the abovementioned products. 
+ 
+ 
+JOINT DECLARATION  
+CONCERNING THE REPUBLIC OF SAN MARINO 
+ 
+1.  Products originating in the Republic of San Marino shall be accepted by Singapore as 
+originating in the Union within the meaning of this Agreement. 
+ 
+2.  Protocol 1 shall apply mutatis mutandis for the purposes of defining the originating status of 
+the abovementioned products. 
+ 
+ 
+ 
+EU/SG/FTA/P1/JD/en 1  
+JOINT DECLARATION  
+CONCERNING THE REVISION OF THE RULES OF ORIGIN  
+CONTAINED IN PROTOCOL 1 
+ 
+1.  The Parties agree to review the rules of origin contained in Protocol 1 and discuss the 
+necessary amendments upon request of either Party. 
+ 
+2.  Annexes B to D to Protocol 1 will be adapted in accordance with the periodical changes to 
+the Harmonized System. 
+ 
+ 
+________________ 
+ 
+EU/SG/FTA/P1/JD/en 2 

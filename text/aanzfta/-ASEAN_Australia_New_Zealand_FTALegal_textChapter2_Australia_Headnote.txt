@@ -1,7 +1,7 @@
-5. Determination of whether a good is manufactured in Indonesia, Malaysia or Thailand shall be in accordance with Chapter 1 (Rules of Origin) of Specific Annex K of the International Convention 
-on the Simplification and Harmonization of  Customs Procedures.  Goods of HS8703 exported from Indonesia, Malaysia or Thailand and subsequently re-exported from another Party under a 
-Back-to-Back Certificate of Origin shall be considered to have been manufactured in the country which issued the original Certificate of Origin and shall be subject to the tariff commitments for that 
-country as set out in this Schedule or the relevant Appendix.
+Annex 1
+Schedule of Tariff Commitments
+Australia
+Headnote to the Schedule
 1. Australia shall reduce and eliminate tariffs for certain specified tariff lines within HS8703 for goods manufactured in Indonesia, Malaysia and Thailand in accordance with Appendix 1 (Indonesia), 
 Appendix 2 (Malaysia) and Appendix 3 (Thailand).  During the application of the relevant Appendix, the Tariff Commitments in the Schedule for the corresponding tariff lines in HS8703 shall not 
 apply to goods manufactured in Indonesia, Malaysia or Thailand, including such goods exported to and subsequently re-exported from another Party (see note 5 below).
@@ -11,7 +11,7 @@ subsequently re-exported from another Party.
 subsequently re-exported from another Party.
 4. Appendix 3 to this Schedule sets out the Tariff Commitments for specified tariff lines in HS8703 that shall apply to goods manufactured in Thailand including such goods exported to and 
 subsequently re-exported from another Party.
-Annex 1
-Schedule of Tariff Commitments
-Australia
-Headnote to the Schedule
+5. Determination of whether a good is manufactured in Indonesia, Malaysia or Thailand shall be in accordance with Chapter 1 (Rules of Origin) of Specific Annex K of the International Convention 
+on the Simplification and Harmonization of  Customs Procedures.  Goods of HS8703 exported from Indonesia, Malaysia or Thailand and subsequently re-exported from another Party under a 
+Back-to-Back Certificate of Origin shall be considered to have been manufactured in the country which issued the original Certificate of Origin and shall be subject to the tariff commitments for that 
+country as set out in this Schedule or the relevant Appendix.

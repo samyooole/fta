@@ -1,7 +1,5 @@
  
  
-46
- 
 Appendix 2 
  
 Minimum Data Requirements – Certificate of Origin 
@@ -9,48 +7,9 @@ Minimum Data Requirements – Certificate of Origin
 The minimum data to be included in the Certificate of Origin 
 are: 
  
-1. Exporter details 
-The name and address and contact details of the 
-exporter 
-2. Shipment details 
-(a Certificate of 
-Origin can only 
-apply to a single 
-shipment of 
-goods)  
- 
-(i) 
-Consignee name and address 
-(ii) Sufficient details to identify the consignment, 
-such as importer’s purchase order number, 
-invoice number and date and Air Way Bill or 
-Sea Way Bill or Bill of Lading 
-(iii) Port of Discharge, if known 
- 
-3. Full description of  
-goods 
-(i) Detailed description of the goods, including 
-HS Code (6-digit level), and if applicable, 
-product number and brand name 
-(ii) The relevant origin conferring criteria  
-(iii) FOB Value1 
- 
-4. Certification by 
-Issuing 
-Authority/Body 
-Certification by the Issuing Authority/Body that, 
-based on the evidence provided, the goods 
-specified in the Certificate of Origin meet all the 
-relevant requirements of Chapter 3 (Rules of 
-Origin) 
- 
-5. Certificate of 
-Origin number 
-A unique number assigned to the Certificate of 
-Origin by the Issuing Authority/Body 
- 
                                                  
 1  In the case of Australia and New Zealand, a Certificate of Origin or back-to-back 
 Certificate of Origin which does not state the FOB value shall be accompanied by a 
 declaration made by the exporter stating the FOB value of each good described in the 
 Certificate of Origin. 
+  46

@@ -1,6 +1,5 @@
 - Page 22 -
-2.
-The composition of the Committee shall be specified in the
+2. The composition of the Committee shall be specified in the
 Implementing Agreement.
 CHAPTER 5
 PAPERLESS TRADING
@@ -35,53 +34,41 @@ supporting documents by the trade regulatory bodies of the respective
 Parties.
 Article 44
 Joint Committee on Paperless Trading
-1.
-For the purposes of effective implementation of this Chapter, a Joint
+1. For the purposes of effective implementation of this Chapter, a Joint
 Committee on Paperless Trading (hereinafter referred to in this Article as “the
-Committee”) shall be established.  The functions of the Committee shall be:
-- Page 23 -
-(a)
-reviewing and discussing issues concerning the effective
+Committee”) shall be established.  The functions of the Committee shall be:- Page 23 -
+(a) reviewing and discussing issues concerning the effective
 implementation of this Chapter;
-(b)
-exchanging views and information on paperless trading; and
-(c)
-discussing other issues relating to paperless trading.
-2.
-The composition of the Committee shall be specified in the
+(b) exchanging views and information on paperless trading; and
+(c) discussing other issues relating to paperless trading.
+2. The composition of the Committee shall be specified in the
 Implementing Agreement.
 CHAPTER 6
 MUTUAL RECOGNITION
 Article 45
 Definitions under Chapter 6
-1.
-For the purposes of this Chapter:
-(a)
-the term “conformity assessment procedure” means any
+1. For the purposes of this Chapter:
+(a) the term “conformity assessment procedure” means any
 procedure to determine, directly or indirectly, whether products
 or processes fulfil relevant technical requirements set out in the
 applicable laws, regulations and administrative provisions of a
 Party;
-(b)
-the term “conformity assessment body” means a body which
+(b) the term “conformity assessment body” means a body which
 conducts conformity assessment procedure, and the term
 “registered conformity assessment body” means the conformity
 assessment body registered pursuant to Article 53;
-(c)
-the term “designation” means the designation of conformity
+(c) the term “designation” means the designation of conformity
 assessment bodies by a Designating Authority of a Party
 pursuant to the applicable laws, regulations and administrative
 provisions of that Party;
-(d)
-the term “Designating Authority” means an authority of a Party
+(d) the term “Designating Authority” means an authority of a Party
 with the power to designate, monitor, withdraw the designation
 of, suspend the designation of, and withdraw the suspension of
 the designation of the conformity assessment bodies in its
 territory that conduct conformity assessment procedures based
 upon requirements set out in the applicable laws, regulations
 and administrative provisions of the other Party;
-(e)
-the term “criteria for designation” means the criteria which
+(e) the term “criteria for designation” means the criteria which
 conformity assessment bodies of a Party are required to fulfil in
 order to be designated by the Designating Authority of that
 Party, and other relevant conditions which designated

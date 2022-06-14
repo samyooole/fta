@@ -1,5 +1,3 @@
-4-1 
- 
 CHAPTER 4 
  
 CUSTOMS PROCEDURES AND TRADE FACILITATION 
@@ -7,62 +5,49 @@ CUSTOMS PROCEDURES AND TRADE FACILITATION
  
 Article 4.1: Objectives 
  
+  The objectives of this Chapter are to: 
  
-The objectives of this Chapter are to: 
- 
-(a) 
-ensure predictability, consistency and transparency in the application of 
+(a)  ensure  predictability,  consistency  and  transparency  in  the  application  of 
 customs laws and regulations of the Parties; 
  
-(b) 
-promote efficient administration of customs procedures, and the expeditious 
+(b)  promote efficient administration of customs procedures, and the expeditious 
 clearance of goods; 
  
-(c) 
-simplify customs procedures of the Parties and harmonise them to the extent 
+(c)  simplify customs procedures of the Parties and harmonise them to the extent 
 possible with relevant international standards; 
  
-(d) 
-promote co-operation between the customs authorities of the Parties; and 
+(d)  promote co-operation between the customs authorities of the Parties; and 
  
-(e) 
-facilitate trade between the Parties, including through a strengthened 
+(e)  facilitate  trade  between  the  Parties,  including  through  a  strengthened 
 environment for global and regional supply chains. 
  
  
 Article 4.2: Scope 
  
- 
-This Chapter shall apply to customs procedures required for goods traded between the 
+  This Chapter shall apply to customs procedures required for goods traded between the 
 Parties, in accordance with their laws and regulations. 
  
  
 Article 4.3: Customs Procedures and Facilitation 
  
-1. 
-Each Party shall ensure that its customs procedures and practices are predictable, 
+1.  Each Party shall ensure that its customs procedures and practices are predictable, 
 consistent, transparent, and facilitate trade, including through the expeditious clearance of 
 goods. 
  
-2. 
-Subject to each Party’s applicable laws and regulations, each customs administration 
-shall publish all its laws, regulations, and trade-related guidelines, procedures and 
+2.  Subject to each Party’s applicable laws and regulations, each customs administration 
+shall  publish  all  its  laws,  regulations,  and  trade-related  guidelines,  procedures  and 
 administrative rulings, either online or in print form. 
  
-3. 
-Customs procedures of each Party shall, if possible and to the extent permitted by its 
+3.  Customs procedures of each Party shall, if possible and to the extent permitted by its 
 customs laws and regulations, conform with the standards and recommended practices of the 
 World Customs Organization and the WTO. 
  
-4. 
-The customs administration of each Party shall review its customs procedures with a 
+4.  The customs administration of each Party shall review its customs procedures with a 
 view to their simplification, to facilitate trade. 
  
-4-2 
- 
-5. 
-Each Party shall, in a manner consistent with its laws and regulations, provide 
-opportunities and an appropriate time period to traders and other interested parties to 
+4-1 
+ 5.  Each  Party  shall,  in  a  manner  consistent  with  its  laws  and  regulations,  provide 
+opportunities  and  an  appropriate  time  period  to  traders  and  other  interested  parties  to 
 comment on the proposed introduction or amendment of laws and regulations of general 
 application related to the movement, release, and clearance of goods, including goods in 
 transit. 
@@ -70,268 +55,211 @@ transit.
  
 Article 4.4: Customs Cooperation 
  
- 
-Each Party shall, in accordance with its laws and regulations, cooperate with the other 
+  Each Party shall, in accordance with its laws and regulations, cooperate with the other 
 Party through information sharing and other activities as appropriate, to achieve compliance 
 with their respective laws and regulations that pertain to: 
  
-(a) 
-the implementation and operation of the provisions of this Agreement 
+(a)  the  implementation  and  operation  of  the  provisions  of  this  Agreement 
 governing importations or exportations, including claims for preferential tariff 
 treatment, procedures for making claims for preferential tariff treatment and 
 verification procedures; 
  
-(b) 
-the implementation, application and operation of the Customs Valuation 
+(b)  the  implementation,  application  and  operation  of  the  Customs  Valuation 
 Agreement; 
  
-(c) 
-restrictions or prohibitions on imports or exports; 
+(c)  restrictions or prohibitions on imports or exports; 
  
-(d) 
-investigation and prevention of customs offences, including duty evasion and 
+(d)  investigation and prevention of customs offences, including duty evasion and 
 smuggling; and 
  
-(e) 
-other customs matters as the Parties may decide. 
+(e)  other customs matters as the Parties may decide. 
  
  
 Article 4.5: Advance Rulings 
  
-1. 
-Each Party shall issue an advance ruling to any person with respect to: 
+1.  Each Party shall issue an advance ruling to any person with respect to: 
  
-(a) 
-tariff classification of a product;  
+(a)  tariff classification of a product;  
  
-(b) 
-origin of goods; and 
+(b)  origin of goods; and 
  
-(c) 
-the appropriate method or criteria, and the application thereof, to be used for 
+(c)  the appropriate method or criteria, and the application thereof, to be used for 
 determining the customs value under a particular set of facts in accordance 
 with the Customs Valuation Agreement. 
  
-2. 
-On receipt of all necessary information, each Party shall issue an advanced ruling: 
+2.  On receipt of all necessary information, each Party shall issue an advanced ruling: 
  
-(a) 
-with respect to tariff classification, as expeditiously as possible, and in no case 
-later than 40 days or in such shorter time as specified in its laws and 
+(a)  with respect to tariff classification, as expeditiously as possible, and in no case 
+later  than  40  days  or  in  such  shorter  time  as  specified  in  its  laws  and 
 regulations; 
  
-4-3 
- 
-(b) 
-with respect to origin and valuation, as expeditiously as possible, and in no 
+4-2 
+ (b)  with respect to origin and valuation, as expeditiously as possible, and in no 
 case later than 150 days or in such shorter time as specified in its laws and 
 regulations. 
  
-3. 
-The customs administration of each Party shall establish a validity period for an 
+3.  The customs administration of each Party shall establish a validity period for an 
 advance ruling for three years from the date of its issuance. 
  
-4. 
-The issuing Party may modify or revoke an advance ruling if: 
+4.  The issuing Party may modify or revoke an advance ruling if: 
  
-(a) 
-the ruling was based on an error of fact;  
+(a)  the ruling was based on an error of fact;  
  
-(b) 
-the information provided is false or inaccurate; 
+(b)  the information provided is false or inaccurate; 
  
-(c) 
-there is a change in the material facts or circumstances on which the ruling 
+(c)  there is a change in the material facts or circumstances on which the ruling 
 was based; 
  
-(d) 
-any of the conditions to which the Customs ruling was made subject cease to 
+(d)  any of the conditions to which the Customs ruling was made subject cease to 
 be met or complied with; or 
  
-(e) 
-a change is required to conform with a judicial decision or a change in its laws 
+(e)  a change is required to conform with a judicial decision or a change in its laws 
 and regulations. 
  
-5. 
-Each Party shall provide that any modification or revocation of an advance ruling 
+5.  Each Party shall provide that any modification or revocation of an advance ruling 
 shall be effective on the date on which the modification or revocation is issued, or on such 
 later date as may be specified therein, and shall not be applied to importations of a good that 
 have occurred prior to that date.  
  
-6. 
-When each Party revokes, modifies, or invalidates the advance ruling, it shall provide 
+6.  When each Party revokes, modifies, or invalidates the advance ruling, it shall provide 
 written notice to the applicant setting out the relevant facts and the basis for its decision. 
  
  
 Article 4.6: Single Window and Use of Automated System 
  
-1. 
-Each Party shall establish or maintain a single window, enabling traders to submit 
+1.  Each Party shall establish or maintain a single window, enabling traders to submit 
 documentation or data requirements for importation, exportation, or transit of goods through 
 a single entry point to the participating authorities or agencies. After the examination by the 
 participating authorities or agencies of the documentation or data, the results shall be notified 
 to the applicants through the single window in a timely manner. 
  
-2. 
-In cases where documentation or data requirements have already been received 
-through the single window, the same documentation or data requirements shall not be 
+2.  In  cases  where  documentation  or  data  requirements  have  already  been  received 
+through  the  single  window,  the  same  documentation  or  data  requirements  shall  not  be 
 requested by participating authorities or agencies except in urgent circumstances and other 
 limited exceptions which are made public. 
  
-3. 
-Each Party shall adopt or maintain procedures to determine duties and taxes upon the 
+3.  Each Party shall adopt or maintain procedures to determine duties and taxes upon the 
 submission of the customs declaration and to allow collection of payment electronically upon 
 approval of the customs declaration. 
-4-4 
+4-3 
+ Article 4.7: Rapid Release of Goods 
  
-Article 4.7: Rapid Release of Goods 
+1.  Each Party shall adopt or maintain procedures that: 
  
-1. 
-Each Party shall adopt or maintain procedures that: 
- 
-(a) 
-provide for the release of goods within a period of time no greater than that 
+(a)  provide for the release of goods within a period of time no greater than that 
 required to ensure compliance with its laws and regulations; 
  
-(b) 
-provide, in normal circumstances, for goods to be released within 24 hours of 
+(b)  provide, in normal circumstances, for goods to be released within 24 hours of 
 arrival;  
  
-(c) 
-provide for advance electronic submission and processing of information 
+(c)  provide  for  advance  electronic  submission  and  processing  of  information 
 before the physical arrival of the goods to enable release of the goods on 
 arrival; and  
  
-(d) 
-allow the release of imported goods prior to the final determination by its 
+(d)  allow the release of imported goods prior to the final determination by its 
 customs administration of the applicable duties and taxes, provided the good is 
 otherwise eligible for release from customs.  
  
-2. 
-Notwithstanding paragraph 1(d) above, each Party may require importers to provide 
+2.  Notwithstanding paragraph 1(d) above, each Party may require importers to provide 
 security as a condition for the release of goods if such security is required to ensure that 
 obligations arising from the importation of the goods will be fulfilled.  
  
-3. 
-If a Party allows for the release of goods conditioned on a security, it shall adopt or 
+3.  If a Party allows for the release of goods conditioned on a security, it shall adopt or 
 maintain procedures that: 
  
-(a) 
-ensure that the amount of any security is no greater than that required to 
-ensure that obligations arising from the importation of the goods will be 
+(a)  ensure that the amount of any security is no greater than that required to 
+ensure  that  obligations  arising  from  the  importation  of  the  goods  will  be 
 fulfilled; 
  
-(b) 
-ensure that any security shall be discharged as soon as possible after its 
-customs authorities are satisfied that the obligations arising from the 
+(b)  ensure  that  any  security  shall  be  discharged  as  soon  as  possible  after  its 
+customs  authorities  are  satisfied  that  the  obligations  arising  from  the 
 importation of the goods have been fulfilled; and 
  
-(c) 
-allow: 
+(c)  allow: 
  
-(i) 
-importers to provide security such as bank guarantees, bonds, or other 
+(i)  importers to provide security such as bank guarantees, bonds, or other 
 non-cash financial instruments covering multiple entries; and  
  
-(ii) 
-importers to provide security in any other forms specified by its 
+(ii)  importers  to  provide  security  in  any  other  forms  specified  by  its 
 customs administration. 
  
  
 Article 4.8: Expedited Shipments 
  
- 
-Each Party shall adopt or maintain expedited customs procedures for express 
-consignments, while maintaining appropriate control and customs selection. These 
+  Each  Party  shall  adopt  or  maintain  expedited  customs  procedures  for  express 
+consignments,  while  maintaining  appropriate  control  and  customs  selection.  These 
 procedures shall: 
-4-5 
+4-4 
+  
+(a)  provide for pre-arrival processing of information related to express shipments; 
  
- 
-(a) 
-provide for pre-arrival processing of information related to express shipments; 
- 
-(b) 
-allow the submission of a single document covering all of the goods in the 
-shipment by an express shipment service, through, if possible, electronic 
+(b)  allow the submission of a single document covering all of the goods in the 
+shipment  by  an  express  shipment  service,  through,  if  possible,  electronic 
 means; 
  
-(c) 
-minimise, to the extent possible, the documentation required for the release of 
+(c)  minimise, to the extent possible, the documentation required for the release of 
 express shipments; and 
  
-(d) 
-provide, in normal circumstances, for an express shipment to be released 
+(d)  provide, in  normal  circumstances, for  an express  shipment  to  be released 
 within four hours of the submission of necessary customs documentation.     
  
  
 Article 4.9: Perishable Goods 
  
-1. 
-With a view to preventing avoidable loss or deterioration of perishable goods, and 
+1.  With a view to preventing avoidable loss or deterioration of perishable goods, and 
 provided all regulatory requirements have been met, each Party shall: 
  
-(a) 
-provide for the release of perishable goods under normal circumstances in the 
+(a)  provide for the release of perishable goods under normal circumstances in the 
 shortest time possible; and 
  
-(b) 
-provide for the release of perishable goods, in exceptional circumstances if it 
-would be appropriate to do so, outside the business hours of its customs 
+(b)  provide for the release of perishable goods, in exceptional circumstances if it 
+would be appropriate to do so, outside the business hours of its  customs 
 administration. 
  
-2. 
-Each Party shall give appropriate priority to perishable goods when scheduling any 
+2.  Each Party shall give appropriate priority to perishable goods when scheduling any 
 examinations that may be required. 
  
-3. 
-Each Party shall either arrange, or allow an importer to arrange, for the proper storage 
+3.  Each Party shall either arrange, or allow an importer to arrange, for the proper storage 
 of perishable goods pending their release. Each Party may require that any storage facilities 
 arranged by the importer are approved or designated by its relevant authorities.  
  
-4. 
-Each Party shall, if practicable and consistent with its laws and regulations, on request 
+4.  Each Party shall, if practicable and consistent with its laws and regulations, on request 
 of the importer, provide for the release to take place at those storage facilities. 
  
  
 Article 4.10: Risk Management 
  
-1. 
-Each Party shall adopt or maintain a risk management system for assessment and 
+1.  Each Party shall adopt or maintain a risk management system for assessment and 
 targeting that enables its customs administration to focus its inspection activities on high-risk 
 consignments and expedite the release of low-risk consignments.   
  
-2. 
-Each Party shall design and apply risk management in a manner as to avoid arbitrary 
+2.  Each Party shall design and apply risk management in a manner as to avoid arbitrary 
 or unjustifiable discrimination, or a disguised restriction on international trade.  
  
-4-6 
- 
-3. 
-Each Party shall base risk management on an assessment of risk through appropriate 
+4-5 
+ 3.  Each Party shall base risk management on an assessment of risk through appropriate 
 selectivity criteria. Such selectivity criteria may include, inter alia, the Harmonized System 
 code, nature and description of the goods, country of origin, country from which the goods 
-were shipped, value of the goods, compliance record of traders, and type of means of 
+were  shipped,  value  of  the  goods,  compliance  record  of  traders,  and  type  of  means  of 
 transport. 
  
 Article 4.11: Review and Appeal 
  
-1. 
-Each Party shall ensure that any person to whom it issues a determination on a 
+1.  Each Party shall ensure that any person to whom it issues a determination on a 
 customs matter has access to: 
  
-(a) 
-administrative review of the determination, independent1 of the employee or 
+(a)  administrative review of the determination, independent1 of the employee or 
 office that issued the determination; and 
  
-(b) 
-judicial review of the determination. 
+(b)  judicial review of the determination. 
  
-2. 
-Each Party shall ensure that a customs authority that conducts a review under 
+2.  Each  Party  shall  ensure  that  a  customs  authority  that  conducts  a  review  under 
 paragraph 1 notifies the parties to the matter in writing of its decision and the reasons for the 
 decision.  A Party may require a request as a condition for providing the reasons for a 
 decision in the review. 
  
                                                            
 1  The level of administrative review may include any authority supervising the customs administration.  
+ 
+4-6 
  

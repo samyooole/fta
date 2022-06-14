@@ -35,8 +35,7 @@ chair means the member of an arbitral panel who serves as the chair of the arbit
 complaining party means any Party that requests consultations under paragraph 1 of Article 3; 
 covered agreements means:  
 (a) the Framework Agreement; 
-(b) the Agreement on Trade in Goods under the Framework Agreement; 
-(c)  this Agreement; 
+(b) the Agreement on Trade in Goods under the Framework Agreement; (c)  this Agreement; 
 (d)  any agreement to be concluded among the Parties pursuant to the relevant provisions of the 
 Framework Agreement unless provided otherwise therein; 
 days means calendar days, including weekends and holidays; 
@@ -73,8 +72,7 @@ any covered agreement taken within the territory of a Party by:
 (b) non-governmental bodies in the exercise of powers delegated by central, regional or local 
 governments or authorities. 
 4.  Subject to paragraph 5, nothing in this Agreement shall prejudice any right of the Parties to have 
-recourse to dispute settlement procedures available under any other treaty to which they are parties. 
-5.  Once dispute settlement proceedings have been initiated under this Agreement or under any other 
+recourse to dispute settlement procedures available under any other treaty to which they are parties. 5.  Once dispute settlement proceedings have been initiated under this Agreement or under any other 
 treaty to which the parties to a dispute are parties concerning a particular right or obligation of such 
 Parties arising under the covered agreements or that other treaty, the forum selected by the 
 complaining party shall be used to the exclusion of any other for such dispute. 
@@ -121,8 +119,7 @@ party to the dispute has designated as confidential.
 proceedings under this Agreement or other proceedings before a forum selected by the Parties.  The 
 parties to the dispute shall inform the rest of the Parties the outcome of the consultations. 
 6. In cases of urgency, including those which concern perishable goods, the parties to the dispute 
-shall enter into consultations within a period of no more than ten (10) days after the date of receipt by 
-the party complained against of the request.  If the consultations have failed to settle the dispute 
+shall enter into consultations within a period of no more than ten (10) days after the date of receipt by the party complained against of the request.  If the consultations have failed to settle the dispute 
 within a period of twenty (20) days after the date of receipt by the party complained against of the 
 request, the complaining party may proceed directly to request for the establishment of an arbitral 
 panel under Article 5. 
@@ -166,8 +163,7 @@ perform its functions in accordance with the provisions of this Agreement, and t
 and Procedures for the Arbitral Panel Proceedings. 
 5.  Where more than one complaining party requests the establishment of an arbitral panel related to 
 the same matter, a single arbitral panel may, whenever feasible, be established by the parties to the 
-dispute to examine the matter, taking into account their respective rights. 
-6.  Where a single arbitral panel is established under paragraph 5, the arbitral panel shall organise its 
+dispute to examine the matter, taking into account their respective rights. 6.  Where a single arbitral panel is established under paragraph 5, the arbitral panel shall organise its 
 examination and present its findings to all the parties to the dispute in such manner that the rights 
 which the parties to the dispute would have enjoyed had separate arbitral panels examined the same 
 matter are in no way impaired.  If one of the parties to the dispute so requests, the arbitral panel may 
@@ -215,8 +211,7 @@ that a member is in violation of the basis stated above, the parties to the disp
 they agree, the member shall be removed and a new member shall be appointed in accordance with 
 this Article.   Additionally, the chair shall not be a national of any party to the dispute and shall not 
 have his or her usual place of residence in the territory of, nor be employed by, any party to the 
-dispute nor have dealt with the referred matter in any capacity. 
-7.  Where the original arbitral panel is required for a matter as provided in this Agreement but cannot 
+dispute nor have dealt with the referred matter in any capacity. 7.  Where the original arbitral panel is required for a matter as provided in this Agreement but cannot 
 hear the matter for any reason, a new arbitral panel shall be established in accordance with this 
 Article.  The same timeframe which would have applied, had the original arbitral panel heard the 
 matter, shall apply for the newly established arbitral panel. 
@@ -262,8 +257,7 @@ public international law.  In its findings and recommendations, the arbitral pan
 diminish the rights and obligations provided in the covered agreements. 
  
 Article 10 
-Proceedings of Arbitral Panels 
-1.  The rules and procedures pertaining to the proceedings before an arbitral panel as set out in the 
+Proceedings of Arbitral Panels 1.  The rules and procedures pertaining to the proceedings before an arbitral panel as set out in the 
 Annex on the Rules and Procedures for the Arbitral Panel Proceedings shall apply unless the parties 
 to the dispute agree otherwise.  The arbitral panel may, after consulting the parties to the dispute, 
 adopt additional rules and procedures not inconsistent with the Annex on the Rules and Procedures 
@@ -304,8 +298,7 @@ delay together with the estimate of the period within which it will issue its in
 days of its presentation. 
 5.  In case that such written comments by the parties to the dispute are received as provided for in 
 paragraph 4, the arbitral panel, on its own initiative or at the request of a party to the dispute, may 
-reconsider its report and make any further examination that it considers appropriate. 
- 
+reconsider its report and make any further examination that it considers appropriate.  
 Article 12 
 Final Report 
 1.  The arbitral panel shall present a final report to the parties to the dispute, within thirty (30) days of 
@@ -348,8 +341,7 @@ arbitral panel, agree on:
 (b) the reasonable period of time which is necessary to implement the recommendations of the 
 arbitral panel. 
 4. If the parties to the dispute fail to agree, a party to the dispute may refer the matter to the original 
-arbitral panel.  The party complained against shall, within fifteen (15) days after the date of referral of 
-the matter to the arbitral panel, propose the means to implement the recommendations of the original 
+arbitral panel.  The party complained against shall, within fifteen (15) days after the date of referral of the matter to the arbitral panel, propose the means to implement the recommendations of the original 
 arbitral panel.  The arbitral panel shall determine the consistency of the means proposed by the party 
 complained against with the recommendations and/or the reasonable period of time.  The arbitral 
 panel shall present its report to the parties to the dispute within thirty (30) days after the date of the 
@@ -397,8 +389,7 @@ and details of any such suspension.
 sectors as that affected by the measure or other matter that the arbitral panel has found to be 
 inconsistent with the relevant covered agreement or to have caused nullification or impairment; and 
 (b)  the complaining party may suspend concessions or benefits in other sectors if it considers that it 
-is not practicable or effective to suspend concessions or benefits in the same sector. 
-6. The suspension of concessions or benefits shall be temporary and shall only be applied until such 
+is not practicable or effective to suspend concessions or benefits in the same sector. 6. The suspension of concessions or benefits shall be temporary and shall only be applied until such 
 time as the measure found to be inconsistent with the relevant covered agreement, has been 
 removed, or the party complained against that must implement the arbitral panel's recommendations 
 has done so, or a mutually satisfactory solution is reached. 
@@ -439,8 +430,7 @@ The provisions of this Agreement may be modified through amendments mutually agr
 writing by the Parties. 
  
 Article 20 
-Depositary 
-For the ASEAN Member Countries, this Agreement shall be deposited with the Secretary-General of 
+Depositary For the ASEAN Member Countries, this Agreement shall be deposited with the Secretary-General of 
 ASEAN, who shall promptly furnish a certified copy thereof, to each ASEAN Member Country. 
  
 Article 21 
@@ -478,8 +468,7 @@ SOULIVONG DARAVONG
 Minister of Commerce 
 For the Government of Malaysia 
 RAFIDAH AZIZ 
-Minister of International Trade and Industry 
-For the Government of the Union of Myanmar 
+Minister of International Trade and Industry For the Government of the Union of Myanmar 
 SOE THA 
 Minister for National Planning and Economic Development 
 For the Government of the Republic of the Philippines 
@@ -515,8 +504,7 @@ otherwise within ten (10) days from the date of the establishment of an arbitral
 "To examine, in the light of the relevant provisions in (name of the covered agreement(s) cited by the 
 parties to the dispute), the matter referred to in the request for the establishment of an arbitral panel 
 pursuant to Article 5, to make findings, determinations, recommendations and suggestions, if any, as 
-provided in Article 11, and to present the written reports referred to in Articles 11 and 12.” 
-4.  The parties to the dispute shall promptly deliver the agreed terms of reference to the arbitral 
+provided in Article 11, and to present the written reports referred to in Articles 11 and 12.” 4.  The parties to the dispute shall promptly deliver the agreed terms of reference to the arbitral 
 panel.  The arbitral panel shall address the relevant provisions in the covered agreements cited by the 
 parties to the dispute. 
 Written Submissions and Other Documents 
@@ -557,8 +545,7 @@ adjustments as may be required in the proceeding.
 15. The venue for the arbitral panel proceedings shall be decided by mutual agreement between the 
 parties to the dispute.  If there is no agreement, the venue shall alternate between the capitals of the 
 parties to the dispute with the first session of the arbitral panel proceeding to be held in the capital of 
-the party complained against. 
-16.  All third parties which have notified their interest in the dispute shall be invited in writing to 
+the party complained against. 16.  All third parties which have notified their interest in the dispute shall be invited in writing to 
 present their views during the first session of the arbitral panel proceeding set aside for that purpose.  
 All such third parties may be present during the entirety of this session. 
 17.  The interim and final report of the arbitral panel shall be drafted without the presence of the 

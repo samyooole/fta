@@ -1,12 +1,9 @@
-EUSFTA-IPA Preamble - 1 
 INVESTMENT PROTECTION AGREEMENT 
 BETWEEN THE EUROPEAN UNION  
 AND ITS MEMBER STATES, OF THE ONE PART, 
 AND THE REPUBLIC OF SINGAPORE,  
 OF THE OTHER PART 
-EUSFTA-IPA Preamble - 2 
-EUSFTA-IPA Preamble - 3 
-THE EUROPEAN UNION (hereinafter referred to as the "Union"), 
+EUSFTA-IPA Preamble - 1 EUSFTA-IPA Preamble - 2 THE EUROPEAN UNION (hereinafter referred to as the "Union"), 
  
 THE KINGDOM OF BELGIUM, 
  
@@ -34,8 +31,7 @@ THE ITALIAN REPUBLIC,
  
 THE REPUBLIC OF CYPRUS, 
  
-EUSFTA-IPA Preamble - 4 
-THE REPUBLIC OF LATVIA, 
+EUSFTA-IPA Preamble - 3 THE REPUBLIC OF LATVIA, 
  
 THE REPUBLIC OF LITHUANIA, 
  
@@ -61,18 +57,15 @@ THE SLOVAK REPUBLIC,
  
 THE REPUBLIC OF FINLAND, 
  
-EUSFTA-IPA Preamble - 5 
-THE KINGDOM OF SWEDEN, and 
+EUSFTA-IPA Preamble - 4 THE KINGDOM OF SWEDEN, and 
  
 THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, 
  
- 
-of the one part, and 
+  of the one part, and 
  
 THE REPUBLIC OF SINGAPORE (hereinafter referred to as "Singapore") 
  
- 
-of the other part, 
+  of the other part, 
  
 hereinafter jointly referred to as the "Parties" or individually referred to as a "Party", 
  
@@ -90,8 +83,7 @@ further development of investment between the Parties;
 RECOGNISING that this Agreement will complement and promote regional economic 
 integration efforts; 
  
-EUSFTA-IPA Preamble - 6 
-DETERMINED to strengthen their economic, trade, and investment relations in accordance 
+EUSFTA-IPA Preamble - 5 DETERMINED to strengthen their economic, trade, and investment relations in accordance 
 with the objective of sustainable development, in its economic, social and environmental 
 dimensions, and to promote investment in a manner mindful of high levels of environmental 
 and labour protection and relevant internationally-recognised standards and agreements to 
@@ -119,5 +111,5 @@ particular, the EUSFTA,
 HAVE AGREED AS FOLLOWS: 
  
  
+EUSFTA-IPA Preamble - 6  
 EUSFTA-IPA Preamble - 7 
- 

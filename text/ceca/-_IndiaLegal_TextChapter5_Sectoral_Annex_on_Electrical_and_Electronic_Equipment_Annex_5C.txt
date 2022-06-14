@@ -1,17 +1,14 @@
- 
-369 
 ANNEX 5 C 
  
 SECTORAL ANNEX ON ELECTRICAL AND ELECTRONIC EQUIPMENT 
  
-Pursuant to Chapter 5, the Parties agree to this Sectoral Annex for Electrical and 
+Pursuant  to  Chapter  5,  the  Parties  agree  to  this  Sectoral  Annex  for  Electrical  and 
 Electronic Equipment.5C-1 
  
-1. 
-Scope 
+1.  Scope 
  
-1.1 The products to which this Sectoral Annex applies are new5C-2 electrical and 
-electronic equipment that are intended to be either directly connected or 
+1.1  The products to which this Sectoral Annex applies are new5C-2 electrical and 
+electronic  equipment  that  are  intended  to  be  either  directly  connected  or 
 plugged-in to the low voltage power supply or are battery powered on which 
 either Party has prescribed mandatory requirements applicable to imports as 
 set out in the applicable laws, regulations and administrative provisions listed 
@@ -21,24 +18,21 @@ in Table 1 and which are:
  
 (b) not medical equipment. 
  
-1.2 
-The Mandatory Requirements to which this Sectoral Annex applies shall be 
-third party conformity assessment activities or requirements for product 
+1.2  The Mandatory Requirements to which this Sectoral Annex applies shall be 
+third  party  conformity  assessment  activities  or  requirements  for  product 
 certification for the equipment referred to in Article 1.1 of this Sectoral 
-Annex. The applicable laws, regulations and administrative provisions as 
+Annex. The applicable  laws, regulations and administrative provisions as 
 amended in accordance with paragraph 4.2 from time to time, are set out in 
 Table 2. 
  
-1.3 
-The Conformity Assessment Bodies which may be designated under this 
+1.3  The Conformity Assessment Bodies which may be designated under this 
 Sectoral Annex shall be: 
  
 (a) Test Facilities; or 
  
 (b) Certification Bodies;  
  
-1.4 
-The conformity assessment activities for which conformity assessment bodies 
+1.4  The conformity assessment activities for which conformity assessment bodies 
 may be designated under this Sectoral Annex are: 
  
 (a) testing by designated Test Facilities; factory/product surveillance activities 
@@ -50,28 +44,23 @@ Electronic Equipment.
  
 5C-2 “New” excludes used and second-hand equipment regardless of whether they have been refurbished or 
 reconditioned.  
- 
-370 
-designated conformity assessment bodies, the results of which are 
+  369 designated  conformity  assessment  bodies,  the  results  of  which  are 
 supplemented by test results from designated Test Facilities; and 
  
-(b) certification to mandatory requirements by designated Certification 
+(b) certification  to  mandatory  requirements  by  designated  Certification 
 Bodies. 
  
-1.5 
-For the purpose of this Sectoral Annex “low voltage” has the same meaning 
-as that defined in Band II of International Electrotechnical Commission 
+1.5  For the purpose of this Sectoral Annex “low voltage” has the same meaning 
+as  that  defined  in  Band  II  of  International  Electrotechnical  Commission 
 Standards 60449:1979 – Voltage bands for electrical installations in building  
 (IEC 60449:1979), and/or a voltage rating of between 50V and 1000V for 
 alternating current, and between 75V and 1500V for direct current. 
  
-2. 
-Obligations 
+2.  Obligations 
  
-2.1 
-India shall accept certification of the results of conformity assessment 
-activities (including results of factory/product surveillance activities) to 
-demonstrate compliance with its mandatory requirements when the 
+2.1  India  shall  accept  certification  of  the  results  of  conformity  assessment 
+activities  (including  results  of  factory/product  surveillance  activities)  to 
+demonstrate  compliance  with  its  mandatory  requirements  when  the 
 conformity assessment activities are undertaken by conformity assessment 
 bodies designated by Singapore's Designating Authority and registered by 
 India’s Designating Authority in accordance with Section 5 of this Sectoral 
@@ -81,111 +70,94 @@ India’s Designating Authority. Upon receipt of such certification, India shall
 complete the relevant product approval processes within 7 calendar days or 5 
 working days, whichever is the longer. 
  
-2.2 Singapore shall accept certification of the results of conformity assessment 
-activities (including results of factory/product surveillance activities) to 
-demonstrate compliance with its mandatory requirements when the 
+2.2  Singapore shall accept certification of the results of conformity assessment 
+activities  (including  results  of  factory/product  surveillance  activities)  to 
+demonstrate  compliance  with  its  mandatory  requirements  when  the 
 conformity assessment activities are undertaken by conformity assessment 
-bodies designated by India’s Designating Authority and registered by 
-Singapore’s Designating Authority in accordance with Section 5 of this 
+bodies  designated  by  India’s  Designating  Authority  and  registered  by 
+Singapore’s  Designating  Authority  in  accordance  with  Section 5  of  this 
 Sectoral Annex. Such certification shall be supplemented by test results from 
 Test Facilities designated by India’s Designating Authority and registered by 
-Singapore’s Designating Authority. Upon receipt of such certification, 
+Singapore’s  Designating  Authority.  Upon  receipt  of  such  certification, 
 Singapore shall complete the relevant product approval processes within 7 
 calendar days or 5 working days, whichever is longer.  
  
-3. 
-Relevant Authorities 
+3.  Relevant Authorities 
  
-3.1 
-For the purpose of this Sectoral Annex: 
+3.1  For the purpose of this Sectoral Annex: 
 (a) the Regulatory Authority shall be : 
  
+  370 (i)  Ministry of Commerce and Industry (MOC&I), India; and 
  
-371 
-(i) 
-Ministry of Commerce and Industry (MOC&I), India; and 
- 
-(ii) Standards, Productivity and Innovation Board (SPRING), 
+(ii)  Standards,  Productivity  and  Innovation  Board  (SPRING), 
 Singapore; 
 (b)  the Designating Authority shall be : 
-(i) 
-Director-General of Foreign Trade and Export Inspection 
+(i)  Director-General  of  Foreign  Trade  and  Export  Inspection 
 Council of India (or their successor bodies) for imports into and 
 exports from  India; and 
  
-(ii) 
-Standards, Productivity and Innovation Board (SPRING) of 
+(ii)  Standards,  Productivity  and  Innovation  Board  (SPRING)  of 
 Singapore (or its successor body) for imports into and exports 
 from Singapore; and  
  
-(c)  in addition, India shall have the Ministry of Commerce and Industry 
-(MOC&I) of India (or its successor Ministry) as a coordinating 
+(c)  in addition, India shall have the Ministry of Commerce and  Industry 
+(MOC&I)  of  India  (or  its  successor  Ministry)  as  a  coordinating 
 Designating Authority.  
  
-4. 
-Exchange of Information 
+4.  Exchange of Information 
  
-4.1 
-The Parties' relevant Regulatory Authorities or the relevant bodies 
+4.1  The  Parties'  relevant  Regulatory  Authorities  or  the  relevant  bodies 
 empowered to administer the mandatory certification scheme shall notify 
-each other, the Mutual Recognition Joint Committee and the relevant 
+each  other,  the  Mutual  Recognition  Joint  Committee  and  the  relevant 
 Designating Authorities of any proposed changes to their relevant mandatory 
-requirements.  Except where considerations of health, safety and 
+requirements.    Except  where  considerations  of  health,  safety  and 
 environmental protection or national security warrant more urgent action, 
 such notification shall take place at least 60 calendar days before the entry 
 into force of the changes.  For more urgent action, the notification shall be 
-done immediately after the action is taken together with copies of the 
+done  immediately  after  the  action  is  taken  together  with  copies  of  the 
 technical regulations. 
  
-4.2 
-The Parties’ relevant Regulatory Authorities or responsible agencies shall 
+4.2  The Parties’ relevant Regulatory Authorities or responsible agencies shall 
 notify in writing, each other, the Mutual Recognition Joint Committee and, as 
 appropriate, the relevant Designating Authorities of any amendment to any 
 laws, regulations and/or administrative provisions listed in Tables 1- 4 of this 
 Sectoral Annex and thereby amend the relevant portion of the Tables. For this 
 purpose, amendment shall include the following cases where: 
  
-(a)  a Party entirely or partially changes its applicable laws, regulations 
-and/or administrative provisions whether or not those names are 
+(a)   a  Party  entirely  or  partially  changes  its  applicable  laws,  regulations 
+and/or  administrative  provisions  whether  or  not  those  names  are 
 changed; 
  
-(b)  a Party repeals its applicable laws, regulations and/or administrative 
-provisions and adopts new laws, regulations and/or administrative 
- 
-372 
-provisions substituting for the previous laws, regulations and/or 
-administrative provisions, whether or not the previous names are 
+(b)   a Party repeals its applicable laws,  regulations and/or administrative 
+provisions  and  adopts  new  laws,  regulations  and/or  administrative 
+  371 provisions  substituting  for  the  previous  laws,  regulations  and/or 
+administrative  provisions,  whether  or  not  the  previous  names  are 
 changed; and 
-(c) 
-a Party incorporates the whole or a relevant part of its applicable laws, 
+(c)  a Party incorporates the whole or a relevant part of its applicable laws, 
 regulations and/or administrative provisions into other laws, regulations 
 and/or administrative provisions.  
  
-5 
-Designation and Registration of Conformity Assessment Bodies 
+5  Designation and Registration of Conformity Assessment Bodies 
  
- 
-5.1 The Designating Authority must have the legal mandate to perform 
+  5.1  The  Designating  Authority  must  have  the  legal  mandate  to  perform 
 designation as set out in Table 3. 
  
-5.2 The designation and registration of conformity assessment bodies shall be in 
+5.2  The designation and registration of conformity assessment bodies shall be in 
 accordance with applicable laws, regulations and administrative provisions 
 and meet with the stipulated criteria for designation as set out in Table 4. 
  
-5.3 Designating Authorities shall: 
+5.3  Designating Authorities shall: 
  
-(a) 
-specify the scope of the conformity assessment activities for which a 
+(a)  specify the scope of the conformity assessment activities for which a 
 conformity assessment body has been designated.  When a conformity 
-assessment body is designated to undertake conformity assessment 
+assessment  body  is  designated  to  undertake  conformity  assessment 
 activities with regard to particular mandatory requirements, the relevant 
 obligations of acceptance shall be limited to the results of assessments in 
 relation to those particular mandatory requirements; 
-(b)  only designate conformity assessment bodies where the conformity 
-assessment body, or the organisation of which the conformity 
+(b)    only  designate  conformity  assessment  bodies  where  the  conformity 
+assessment  body,  or  the  organisation  of  which  the  conformity 
 assessment body is a part, is a legal person in the relevant jurisdiction;  
-(c) 
-only designate conformity assessment bodies that are able to 
+(c)  only  designate  conformity  assessment  bodies  that  are  able  to 
 demonstrate that they understand, have experience relevant to and are 
 technically competent to undertake the conformity assessment activities 
 for which they are designated; 
@@ -193,142 +165,103 @@ for which they are designated;
 (d)    give advance notice of at least 7 calendar days of any changes, including 
 suspension, to their list of designated conformity assessment bodies; and 
  
-(e)    not have direct, indirect or undue influence or control over the 
-conformity assessment activities of these designated conformity 
+(e)    not  have  direct,  indirect  or  undue  influence  or  control  over  the 
+conformity  assessment  activities  of  these  designated  conformity 
 assessment bodies resulting in them being unable to make fair, impartial 
 and independent decisions on conformity assessment activities entrusted 
 to them. 
  
- 
-5.4 Pursuant to paragraph 3.1(c), the coordinating Designating Authority shall:  
- 
-373 
-(a) 
-be the contact point for the two Designating Authorities as set out in 
+  5.4  Pursuant to paragraph 3.1(c), the coordinating Designating Authority shall:  
+  372 (a)  be the contact point for the two Designating Authorities as set out in 
 Article 3.1(b)(i); and 
-(b) 
-vet the power and control the two Designating Authorities in ensuring 
+(b)  vet the power and control the two Designating Authorities in ensuring 
 that they carry out their respective duties in accordance with Articles 
-5.1, 5.2 and 5.3. 
+5.1, 5.2 and 5.3.   
  
+6  Stipulated Requirements for Conformity Assessment Bodies (CAB) 
  
-6 
-Stipulated Requirements for Conformity Assessment Bodies (CAB) 
- 
-6.1 
-Designated conformity assessment bodies: 
-(a) 
-shall be impartial; 
-(b) 
-shall not be adversely influenced by a body that manufactures or trades in 
+6.1  Designated conformity assessment bodies: 
+(a)  shall be impartial; 
+(b)  shall not be adversely influenced by a body that manufactures or trades in 
 electrical and electronic equipment; 
-(c) 
-may offer any service (such as testing of other products or training) so 
-long as they do not compromise the objectivity of their conformity 
+(c)  may offer any service (such as testing of other products or training) so 
+long  as  they  do  not  compromise  the  objectivity  of  their  conformity 
 assessment activities and decisions for which they have been designated; 
 and 
-(d) 
-shall demonstrate their technical competence through : 
+(d)  shall demonstrate their technical competence through : 
  
-(i) 
-technological knowledge of the relevant products, processes or 
+(i)  technological knowledge of the relevant products, processes or 
 services; 
-(ii) understanding of the technical standards and the general risk 
+(ii)  understanding of the technical standards  and the general risk 
 protection requirements for which designation is sought; 
-(iii) the 
-experience 
-relevant 
-to 
-the 
-applicable 
-Mandatory 
+(iii)  the  experience  relevant  to  the  applicable  Mandatory 
 Requirements; 
-(iv) the physical capability to perform the relevant conformity 
+(iv)  the  physical  capability  to  perform  the  relevant  conformity 
 assessment activities; 
-(v) 
-an adequate management of the conformity assessment activities 
+(v)  an adequate management of the conformity assessment activities 
 concerned; and 
-(vi) 
-any other circumstance necessary to give assurance that the 
+(vi)  any other circumstance necessary to give assurance that the 
 conformity assessment activities shall be adequately performed 
 on a consistent basis. 
  
-6.2  Pursuant to paragraph 1.4(a), the basis for designating Test Facilities shall be: 
+6.2   Pursuant to paragraph 1.4(a), the basis for designating Test Facilities shall be: 
  
-(i) (a) 
-accreditation to ISO/IEC 17025:1999, which shall constitute 
+(i) (a)  accreditation  to  ISO/IEC  17025:1999,  which  shall  constitute 
 sufficient proof of technical competence to undertake conformity assessment 
 activities that demonstrate conformity with the mandatory requirements for 
 which they are to be designated provided that: 
- 
-374 
- 
-(i) the accreditation process is conducted in compliance with ISO/IEC 
+  373  
+(i)  the accreditation process is conducted in compliance with ISO/IEC 
 Guide 58:1993; and 
  
-(ii) the accreditation body participates in mutual recognition 
+(ii)  the  accreditation  body  participates  in  mutual  recognition 
 arrangements, such as the Asia Pacific Laboratory Accreditation 
 Cooperation (APLAC) Mutual Recognition Arrangement, where 
-they are subject to peer evaluation of the competence of 
+they  are  subject  to  peer  evaluation  of  the  competence  of 
 accreditation bodies and the Test Facilities accredited by them; or 
  
  
 (b)  membership in the IECEE CB Scheme. 
  
-6.3 Pursuant to paragraph 1.4(b), the basis for designating Certification Bodies 
+6.3  Pursuant to paragraph 1.4(b), the basis for designating Certification Bodies 
 shall be: 
  
-(ii) (a) 
-accreditation to ISO/IEC Guide 65:1996, which shall constitute 
+(ii) (a)  accreditation to ISO/IEC Guide 65:1996, which shall constitute 
 sufficient proof of technical competence to undertake conformity assessment 
 activities that demonstrate conformity with the mandatory requirements for 
 which they are to be designated provided that: 
  
-(i) 
-the accreditation process is conducted in compliance with ISO/IEC 
+(i)  the accreditation process is conducted in compliance with ISO/IEC 
 Guide 61:1996; and 
  
-(ii) 
-the accreditation body is recognised by the designating Party; or  
+(ii)  the accreditation body is recognised by the designating Party; or  
  
  
 (b) Membership in the IECEE CB-FC Scheme. 
  
-6.4 When designating a conformity assessment body, the Designating Authority 
-shall provide to the other Party the following details in respect of each 
+6.4  When designating a conformity assessment body, the Designating Authority 
+shall  provide  to  the  other  Party  the  following  details  in  respect  of  each 
 conformity assessment body it designates: 
-(a) 
-the name; 
+(a)  the name; 
  
-(b) 
-the postal address; 
+(b)  the postal address; 
  
-(c) 
-the facsimile (fax) number; 
+(c)  the facsimile (fax) number; 
  
-(d) 
-email address (if available); 
+(d)  email address (if available); 
  
-(e) 
-name and telephone number of the contact person; 
+(e)  name and telephone number of the contact person; 
  
- 
-375 
-(f) 
-scope of designation detailing range of products, reference standards, 
+  374 (f)  scope of designation detailing range of products, reference standards, 
 methods of certification, capability and other relevant details; 
  
-(g) 
-designating procedure used; and 
+(g)  designating procedure used; and 
  
-(h) 
-date of effect of designation. 
+(h)  date of effect of designation. 
  
-7 
-Verification, Suspension and Withdrawal of Conformity Assessment Bodies 
+7  Verification, Suspension and Withdrawal of Conformity Assessment Bodies 
  
-7.1 
-For the purpose of this Sectoral Arrangement, the time period specified in 
+7.1  For the purpose of this Sectoral Arrangement, the time period specified in 
 paragraph 23 of Article 5.5 shall be 70 calendar days. 
  
  
@@ -339,283 +272,34 @@ paragraph 23 of Article 5.5 shall be 70 calendar days.
  
  
  
- 
-376 
-TABLE 1 
+  375 TABLE 1 
  
 THE APPLICABLE LAWS, REGULATIONS AND ADMINISTRATIVE 
 PROVISIONS STIPULATING ELECTRICAL PRODUCTS COVERED BY THIS 
 SECTORAL ANNEX 
-INDIA 
-SINGAPORE 
-1. Electrical Wires, Cables, 
-Appliances and Accessories 
-(Quality Control) Order, 1993 
-issued vide No.S.O.189(E) dated 17 
-February 2003 under BIS Act 1986 
-by Department of Industrial Policy 
-and Promotions, Ministry of 
-Commerce and Industry. 
- 
-2. Notification S.O.165(E) dated 05 
-February 2004 amending S.O. 
-189(E) dated 17 February 2003, 
-whereby Sr.Nos.8,9,13 and 19 are 
-omitted. 
- 
-3. Notification No.5(RE-2003)/ 2002-
-2007 dated 7 April 2003 issued by 
-Directorate General of Foreign 
-Trade, Ministry of Commerce and 
-Industry.  
- 
-4. Notification No.42(RE-2003)/2002-
-2007 dated 6 May 2004 issued by 
-Directorate General of Foreign 
-Trade, Ministry of Commerce and 
-Industry. 
- 
-5. The Foreign Trade (Development & 
-Regulation) Act, 1992 (Section 3(1) 
-1. Consumer Protection (Trade 
-Descriptions and Safety Requirements) Act 
-(Chapter 53) and amendments thereto. 
- 
-2. Consumer Protection (Safety 
-Requirements) Regulations 2002 and 
-amendments thereto 
  
  
  
- 
-377 
-TABLE 2 
+  376 TABLE 2 
  
 THE APPLICABLE LAWS, REGULATIONS AND ADMINISTRATIVE 
 PROVISIONS STIPULATING THE REQUIREMENTS AND THE 
 CONFORMITY ASSESSMENT PROCEDURES (including the legal 
 provisions enabling a Party to accept certification from the other Party) 
-INDIA 
-SINGAPORE 
-1. Bureau of Indian Standards Act 
-1986; BIS Rules, 1987; BIS 
-(Certification) Regulations 1988.* 
- 
-2. Relevant Indian Standards and 
-corresponding Scheme of Testing 
-and Inspections (STIs) for 14 
-products under mandatory BIS 
-certification and amendments 
-thereto: 
- 
-1. IS 302-2-201 (1992); 
-DOC:STI/302-2-201, April 
-1995 – Scheme of Testing 
-and Inspection for 
-Certification of Safety of 
-Electric and Household and 
-similar Electric Appliances- 
-Electrical Immersion Water 
-Heater; 
- 
-2. IS 302-2-202 (1992), Safety 
-of Household and similar 
-Electrical Appliances – 
-Electric Stoves5C-3 ; 
- 
-3. IS 302-2-3 (1992); 
-DOC:STI/302-2-3/1, 
-January 1994 – Scheme of 
-Testing and Inspection for 
-Certification of Safety of 
-Household and similar 
-Electrical Appliances -
-Electric Iron ; 
- 
-4. IS 302-2-30 (1992); 
-DOC:STI/302-2-30/1, May 
-1. Consumer Protection (Trade 
-Descriptions and Safety Requirements) Act 
-(Chapter 53) and amendments thereto. 
- 
-2. Consumer Protection (Safety 
-Requirements) Regulations 2002 and 
-amendments thereto. 
- 
-3. Consumer Protection (Safety 
-Requirements) Registration Scheme 
-Information Booklet (2002 Edition) and 
-amendments thereto 
                                                  
 5C-3 The STI for IS 302-2-202 (1992), Safety of Household and similar Electrical Appliances – Electric 
 Stoves is to be developed. 
- 
-378 
-1995 – Scheme of Testing 
-and Inspection for 
-Certification of Safety of 
-Household and similar 
-Appliances ; 
- 
-5. IS 3854:1997; DOC:STI 
-3854/8, October 1998 – 
-Scheme of Testing and 
-Inspection for Certification 
-of Switches for Domestic & 
-similar purpose; 
- 
-6. IS 418:1978; 
-DOC:STI/418/3, January 
-1993 – Scheme of Testing 
-and Inspection for 
-Certification of Tungsten 
-Filament General Service 
-Electric Lamps; 
- 
-7. IS 8828: 1996; 
-DOC:STI/8828/4, May 99 – 
-Scheme of Testing and 
-Inspection for Certification 
-of Electrical Accessories 
-Circuit Breakers for 
-Overcurrent Protection for 
-Household and similar 
-installations; 
-  
-8. IS 12640(Pt.1):2000; 
-DOC:STI/12640(Pt.1)/2, 
-March 2002 – Scheme of 
-Testing and Inspection for 
-Certification of Residual 
-Current Operated Circuit 
-Breaker for Household and 
-similar uses Part 1 Circuit-
-Breakers without Integral 
-Overcurrent Protection; 
- 
-9. IS 12640(Pt.2):2001; 
-DOC:STI/12640(Pt.2)/2, 
-March 2002 – Scheme of 
-Testing and Inspection for 
- 
-379 
-Certification of Residual 
-Current Operated Circuit 
-Breaker for Household and 
-similar uses Part 2 Circuit-
-Breakers with Integral 
-Overcurrent Protection; 
- 
-10. IS:694:1990; 
-DOC:STI/694/8, July 2004 
-– Scheme of Testing and 
-Inspection for Certification 
-of PVC Insulated Cables 
-(for Voltages upto and 
-including 1100 Volts) 
- 
-11. IS 9968 (Pt.1); 
-DOC:STI/9968(Pt.1)/, 
-February 1992 – Scheme of 
-Testing and Inspection for 
-Elastomer Insulated Cables 
-for Working Voltages upto 
-and including 1100 Volts; 
-  
-12. IS 13010:2002; 
-DOC:STI/13010/2, May 
-2003 – Scheme of Testing 
-and Inspection for 
-Certification of AC 
-Watthour Meters Class 0.5, 
-1 and 2; 
- 
-13. IS 13779:1999; 
-DOC:STI/13779/3, 
-November 2002 – Scheme 
-of Testing and Inspection 
-for Certification of AC 
-Static Watthour Meters, 
-Class 1 & 2; 
- 
-14. IS 14697:1999; 
-DOC:STI/14697/2, 
-November 2003 – Scheme 
-of Testing and Inspection 
-for Certification of Ac Static 
-Transformer operated 
-Watthour (Class .2S & .5S) 
- 
-380 
-& VAR-hour Meters (Class 
-0.2 S, 0.5 S & 1S)  
-* provisions for BIS to accept certification 
-from MRA partners to be worked out 
- 
- 
- 
-381 
-TABLE 3 
+  377   378   379  
+  380 TABLE 3 
  
 THE APPLICABLE LAWS AND REGULATIONS PROVIDING LEGAL 
 MANDATE FOR DESIGNATING AUTHORITIES 
  
-INDIA 
-SINGAPORE 
-Notification providing legal mandate 
-for Designating Authorities for India 
-for both import and export.* 
  
-* To be published. 
- 
- 
- 
- 
-1. Standards, Productivity and Innovation 
-Board or SPRING Singapore Act and 
-amendments thereto. 
- 
-2. Standards, Productivity and Innovation 
-Board (Conformity Assessment) 
-Regulations 2002 and amendments 
-thereto. 
- 
- 
- 
-382 
-TABLE 4 
+  381 TABLE 4 
  
 THE APPLICABLE LAWS, REGULATIONS AND ADMINISTRATIVE 
 PROVISIONS STIPULATING THE CRITERIA FOR DESIGNATION 
  
-THE CRITERIA TO BE APPLIED BY 
-SINGAPORE IN DESIGNATING 
-CONFORMITY ASSESSMENTS 
-BODIES TO ASSESS PRODUCTS 
-AGAINST INDIA’S REQUIREMENTS 
-THE CRITERIA TO BE APPLIED BY 
-INDIA IN DESIGNATING 
-CONFORMITY ASSESSMENTS 
-BODIES TO ASSESS PRODUCTS 
-AGAINST SINGAPORE’S 
-REQUIREMENTS 
-(Criteria to be formulated pursuant to the 
-legal mandate for DAs to designate CABs. 
-India would consider having a common set 
-of criteria for CABs for its domestic regime 
-and MRA partner.)* 
  
-* Yet to be published. 
-1. Standards, Productivity and Innovation 
-Board or SPRING Singapore Act and 
-amendments thereto. 
- 
-2. Standards, Productivity and Innovation 
-Board (Conformity Assessment) 
-Regulations 2002 and amendments thereto. 
- 
-3. Singapore Productivity and Standards 
-Board (Conformity Assessment) 
-Information Booklet (2002 Edition) and 
-amendments thereto. 
- 
+  382 

@@ -1,5 +1,3 @@
-Annex 16.1 - 1 
- 
 Annex 16.1 
 Implementation of Modifications Approved by the Commission 
  
@@ -8,4 +6,6 @@ In the case of Costa Rica, decisions of the Commission under Article
 16.1.3(b) (The Free Trade Commission) will be equivalent to the instrument 
 referred to in Article 121.4, third paragraph (Protocolo de Menor Rango) of the 
 Constitución Política de la República de Costa Rica. 
+ 
+Annex 16.1 - 1 
  

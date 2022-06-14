@@ -1,7 +1,5 @@
 Chapter 8 - Telecommunications 
  
-8-1 
- 
 CHAPTER 8 
 TELECOMMUNICATIONS 
  
@@ -10,7 +8,7 @@ Definitions
  
 For purposes of this Chapter: 
  
-“broadcasting” means the transmission of signs or signals via any technology for the 
+“broadcasting”  means  the  transmission  of  signs  or  signals  via  any  technology  for  the 
 reception and/or display of aural and/or visual programme signals by all or part of the  public; 
  
 “cost-oriented” means based on cost, and may include a reasonable profit, and may involve 
@@ -26,22 +24,20 @@ branch of an enterprise;
  
 “essential facilities” means facilities of a public telecommunications network or service that:  
  
-(a) 
-are exclusively or predominantly provided by a single or limited number of 
+(a)  are exclusively or predominantly provided by a single or limited number of 
 suppliers; and  
  
-(b) 
-cannot feasibly be economically or technically substituted in order to supply a 
+(b)  cannot feasibly be economically or technically substituted in order to supply a 
 service; 
  
 “interconnection” means linking with suppliers providing public telecommunications services 
 or networks in order to allow the users of one supplier to communicate with users of another 
 supplier and to access services provided by another supplier; 
  
-“international mobile roaming service” means a commercial mobile service provided 
+“international  mobile  roaming  service”  means  a  commercial  mobile  service  provided 
 pursuant to a commercial agreement between suppliers of public telecommunications services 
 that enables end-users to use their home mobile handset or other device for voice, data or 
-messaging services while outside the territory in which the end-user’s home public 
+messaging  services  while  outside  the  territory  in  which  the  end-user’s  home  public 
 telecommunications network is located;  
  
 “leased circuits” means telecommunications facilities between two or more designated points 
@@ -49,25 +45,22 @@ that are set aside for the dedicated use of, or availability to, a user and supp
 of fixed telecommunications services; 
  
 “licence” means any authorisation that a Party may require of a person, in accordance with its 
-laws and regulations, in order for such person to offer a telecommunications service, 
+laws  and  regulations,  in  order  for  such  person  to  offer  a  telecommunications  service, 
 including concessions, permits, or registrations; 
-Chapter 8 - Telecommunications 
- 
-8-2 
+8-1 
+ Chapter 8 - Telecommunications 
  
  
 “major supplier” means a supplier of public telecommunications services that has the ability 
 to materially affect the terms of participation (having regard to price and supply) in the 
 relevant market for public telecommunications services as a result of:  
  
-(a) 
-control over essential facilities; or  
+(a)  control over essential facilities; or  
  
-(b) 
-use of its position in the market; 
+(b)  use of its position in the market; 
  
-“network element” means a facility or equipment used in supplying a public 
-telecommunications service, including features, functions, and capabilities provided by 
+“network  element”  means  a  facility  or  equipment  used  in  supplying  a  public 
+telecommunications  service,  including  features,  functions,  and  capabilities  provided  by 
 means of that facility or equipment; 
  
 “non-discriminatory” means treatment no less favourable than that accorded to any other user 
@@ -82,7 +75,7 @@ public telecommunications services;
 maintain, or repair equipment, at premises owned or controlled and used by a major supplier 
 to provide public telecommunications services; 
  
-“public telecommunications network” means telecommunications infrastructure used to 
+“public  telecommunications  network”  means  telecommunications  infrastructure  used  to 
 provide public telecommunications services between defined network termination points; 
  
 “public telecommunications service” means any telecommunications service that a Party 
@@ -91,28 +84,27 @@ include, inter alia, telephone and data transmission typically involving custome
 information between two or more defined points without any end-to-end change in the form 
 or content of the customer’s information; 
  
-“reference interconnection offer” means an interconnection offer extended by a major 
+“reference  interconnection  offer”  means  an  interconnection  offer  extended  by  a  major 
 supplier and filed with, approved by, or determined by a telecommunications regulatory body 
-that sufficiently details the terms, rates, and conditions for interconnection such that a 
-supplier of public telecommunications services that is willing to accept it may obtain 
-interconnection with the major supplier on that basis, without having to engage in 
+that  sufficiently  details  the  terms,  rates,  and  conditions  for  interconnection  such  that  a 
+supplier  of  public  telecommunications  services  that  is  willing  to  accept  it  may  obtain 
+interconnection  with  the  major  supplier  on  that  basis,  without  having  to  engage  in 
 negotiations with the major supplier concerned; 
  
 “service supplier” means a person of a Party that seeks to supply or supplies a service; 
  
-“telecommunications” means the transmission and reception of signals by any 
+“telecommunications”  means  the  transmission  and  reception  of  signals  by  any 
 electromagnetic means, including by photonic means; 
  
 “telecommunications regulatory body” means a body or bodies responsible for the regulation 
-Chapter 8 - Telecommunications 
- 
-8-3 
+8-2 
+ Chapter 8 - Telecommunications 
  
 of telecommunications;  
  
 “user” means a service consumer or a service supplier; and 
  
-“virtual co-location” means an arrangement whereby a requesting supplier seeking co-
+“virtual  co-location”  means  an  arrangement  whereby  a  requesting  supplier  seeking  co-
 location may specify equipment to be used in the premises of a major supplier but does not 
 obtain physical access to such premises and allows the major supplier to install, maintain, and 
 repair such equipment. 
@@ -120,127 +112,100 @@ repair such equipment.
 Article 8.2 
 Scope and Coverage 
  
-1. 
-This Chapter shall apply to measures affecting trade in telecommunications services.  
+1.  This Chapter shall apply to measures affecting trade in telecommunications services.  
  
-2. 
-This Chapter shall not apply to any measure affecting broadcasting. 
+2.  This Chapter shall not apply to any measure affecting broadcasting. 
  
-3. 
-Nothing in this Chapter shall be construed to require a Party, or require a Party to 
-compel any enterprise, to establish, construct, acquire, lease, operate, or provide 
+3.  Nothing in this Chapter shall be construed to require a Party, or require a Party to 
+compel  any  enterprise,  to  establish,  construct,  acquire,  lease,  operate,  or  provide 
 telecommunications networks or services not offered to the public generally.  
  
 Article 8.3 
 Access to and Use1 of Public Telecommunications Services 
  
-1. 
-Each Party shall ensure that service suppliers of the other Party have access to and use 
+1.  Each Party shall ensure that service suppliers of the other Party have access to and use 
 of any public telecommunications service offered in its territory or across its borders, 
 on reasonable and non-discriminatory terms and conditions. 
  
-2. 
-Each Party shall ensure that service suppliers of the other Party are permitted to: 
+2.  Each Party shall ensure that service suppliers of the other Party are permitted to: 
  
-(a) 
-purchase or lease, and attach terminal or other equipment that interfaces with, 
+(a)  purchase or lease, and attach terminal or other equipment that interfaces with, 
 a public telecommunications network; 
  
-(b) 
-provide services to individual or multiple end-users over leased or owned 
+(b)  provide services to individual or multiple end-users over leased or owned 
 circuits;  
  
-(c) 
-connect owned or leased circuits with public telecommunications networks or 
+(c)  connect owned or leased circuits with public telecommunications networks or 
 services, or with circuits leased or owned by another enterprise; 
  
-(d) 
-perform switching, signalling, processing, or conversion functions; and 
+(d)  perform switching, signalling, processing, or conversion functions; and 
  
-(e) 
-use operating protocols of their choice. 
+(e)  use operating protocols of their choice. 
  
-3. 
-Each Party shall ensure that service suppliers of the other Party may use public 
+3.  Each Party shall ensure that service suppliers of the other Party may use public 
 telecommunications services for the movement of information in its territory or across 
                                                  
-1  
-For greater certainty, this Article does not prohibit a Party from requiring a service supplier to obtain a 
+1   For greater certainty, this Article does not prohibit a Party from requiring a service supplier to obtain a 
 licence to supply any public telecommunications service within its territory.   
  
-Chapter 8 - Telecommunications 
+8-3 
+ Chapter 8 - Telecommunications 
  
-8-4 
- 
-its borders, including for intra-corporate communications, and for access to 
+its  borders,  including  for  intra-corporate  communications,  and  for  access  to 
 information contained in databases or otherwise stored in machine-readable form in 
 the territory of either Party.  
  
-4. 
-Notwithstanding paragraph 3, a Party may take such measures as are necessary to 
+4.  Notwithstanding paragraph 3, a Party may take such measures as are necessary to 
 ensure the security and confidentiality of messages and protect the privacy of personal 
 data of end-users of public telecommunications networks or services, provided that 
 such measures are not applied in a manner that would constitute a means of arbitrary 
 or unjustifiable discrimination or disguised restriction on trade in services. 
  
-5. 
-Each Party shall ensure that no condition is imposed on access to and use of public 
+5.  Each Party shall ensure that no condition is imposed on access to and use of public 
 telecommunications networks or services, other than as necessary to: 
  
-(a) 
-safeguard the public service responsibilities of suppliers of public 
+(a)  safeguard  the  public  service  responsibilities  of  suppliers  of  public 
 telecommunications networks or services, in particular their ability to make 
 their networks or services available to the public generally; or 
  
-(b) 
-protect the technical integrity of public telecommunications networks or 
+(b)  protect  the  technical  integrity  of  public  telecommunications  networks  or 
 services. 
  
-6. 
-Provided that they satisfy the criteria set out in paragraph 5, conditions for access to 
+6.  Provided that they satisfy the criteria set out in paragraph 5, conditions for access to 
 and use of public telecommunications networks or services may include: 
  
-(a) 
-a requirement to use specified technical interfaces, including interface 
+(a)  a  requirement  to  use  specified  technical  interfaces,  including  interface 
 protocols, for interconnection with such networks or services; 
  
-(b) 
-requirements, where necessary, for the inter-operability of such networks or 
+(b)  requirements, where necessary, for the inter-operability of such networks or 
 services;  
  
-(c) 
-type approval of terminal or other equipment which interfaces with the 
-network and technical requirements relating to the attachment of such 
+(c)  type  approval  of  terminal  or  other  equipment  which  interfaces  with  the 
+network  and  technical  requirements  relating  to  the  attachment  of  such 
 equipment to such networks; and 
  
-(d) 
-a licensing, permit, registration, or notification procedure which, if adopted or 
+(d)  a licensing, permit, registration, or notification procedure which, if adopted or 
 maintained, is transparent and provides for the processing of applications filed 
 thereunder in accordance with the Party’s  domestic laws and regulations. 
  
 Article 8.4 
 Competitive Safeguards on Major Suppliers 
  
-1. 
-Each Party shall introduce or maintain appropriate measures for the purpose of 
+1.  Each  Party  shall  introduce  or  maintain  appropriate  measures  for  the  purpose  of 
 preventing suppliers of public telecommunications networks or services who, alone or 
-together, are a major supplier from engaging in or continuing anti-competitive 
+together,  are  a  major  supplier  from  engaging  in  or  continuing  anti-competitive 
 practices. Such anti-competitive practices shall include in particular: 
  
-(a) 
-engaging in anti-competitive cross-subsidisation, price squeeze or predatory 
+(a)  engaging in anti-competitive cross-subsidisation, price squeeze or predatory 
 pricing; 
-Chapter 8 - Telecommunications 
+8-4 
+ Chapter 8 - Telecommunications 
  
-8-5 
  
- 
-(b) 
-using information obtained from competitors with anti-competitive results; 
+(b)  using information obtained from competitors with anti-competitive results; 
 and 
  
-(c) 
-not making available to other suppliers of public telecommunications 
+(c)  not  making  available  to  other  suppliers  of  public  telecommunications 
 networks or services on a timely basis technical information about essential 
 facilities and commercially relevant information which are necessary for them 
 to provide services. 
@@ -248,16 +213,14 @@ to provide services.
 Article 8.5 
 Interconnection 
  
-1. 
- Each Party shall ensure that any service supplier authorised to provide public 
+1.    Each  Party  shall  ensure  that  any  service  supplier  authorised  to  provide  public 
 telecommunications networks or services has the right and obligation to negotiate 
-interconnection with other suppliers of public telecommunications networks or 
+interconnection  with  other  suppliers  of  public  telecommunications  networks  or 
 services. Interconnection should be agreed on the basis of commercial negotiations 
 between the parties concerned2. 
  
-2. 
- The telecommunications regulatory body shall ensure that any supplier authorised to 
-provide public telecommunications networks or services that acquire information 
+2.    The telecommunications regulatory body shall ensure that any supplier authorised to 
+provide public telecommunications networks or services  that  acquire  information 
 from another supplier of public telecommunications networks or services during the 
 process of negotiating interconnection arrangements use that information solely for 
 the purpose for which it was supplied and respect at all times the confidentiality of 
@@ -266,81 +229,67 @@ information transmitted or stored.
 Article 8.6 
 Interconnection with a Major Supplier 
  
-1. 
- Each Party shall ensure that any major supplier in its territory provides 
-interconnection for the facilities and equipment of suppliers of public 
-telecommunications networks or services of the other Party at any technically 
+1.    Each  Party  shall  ensure  that  any  major  supplier  in  its  territory  provides 
+interconnection  for  the  facilities  and  equipment  of  suppliers  of  public 
+telecommunications  networks  or  services  of  the  other  Party  at  any  technically 
 feasible point in the major supplier’s network. Such interconnection shall be provided:  
  
-(a) 
- under non-discriminatory terms, conditions (including technical standards 
+(a)    under  non-discriminatory  terms,  conditions  (including  technical  standards 
 and specifications) and rates, and of a quality no less favourable than that 
 provided for its own like services, for like services of non-affiliated service 
 suppliers, or for like services of its subsidiaries or other affiliates; 
  
- (b)  in a timely fashion, on terms and conditions (including technical standards 
-and specifications)  and  at cost-oriented  rates  that  are  transparent,  
+ (b)    in a timely fashion, on terms and conditions (including technical standards 
+and  specifications)    and    at  cost-oriented    rates    that    are    transparent,  
                                                  
-2  
-For further clarity, service suppliers authorised to provide public telecommunications networks or 
-services shall freely determine the terms, conditions and rates that will be included in their 
+2   For further clarity, service suppliers authorised to provide public telecommunications networks or 
+services  shall  freely  determine  the  terms,  conditions  and  rates  that  will  be  included  in  their 
 interconnection agreements by negotiating among themselves. Each Party shall ensure that if such 
 negotiations fail, any one of the parties may have recourse to the telecommunications regulatory body 
 for resolution of disputes regarding appropriate terms, conditions and rates for interconnection. The 
 telecommunications regulatory body shall conduct the dispute settlement procedure within the scope of 
 relevant domestic legislation and resolve the dispute within a reasonable period of time.  
  
-Chapter 8 - Telecommunications 
- 
-8-6 
+8-5 
+ Chapter 8 - Telecommunications 
  
 reasonable, having regard to economic feasibility, and sufficiently unbundled 
 so that the supplier need not pay for network components or facilities that it 
 does not require for the service to be provided; and  
  
-(c) 
- upon request, at points in addition to the network termination points offered 
+(c)    upon request, at points in addition to the network termination points offered 
 to the majority of users, subject to charges that reflect the cost of construction 
 of necessary additional facilities.  
  
-2. 
- Each Party shall ensure that the procedures applicable for interconnection with a 
+2.    Each Party shall ensure that the  procedures  applicable  for  interconnection  with  a 
 major supplier in its territory are made publicly available.  
  
-3. 
-Each Party shall provide a means for suppliers of public telecommunications 
+3.  Each  Party  shall  provide  a  means  for  suppliers  of  public  telecommunications 
 networks or services of the other Party to obtain the rates, terms, and conditions 
 necessary for interconnection offered by a major supplier. Such means include, at a 
 minimum, ensuring: 
  
-(a) 
-the public availability of interconnection agreements in effect between a major 
-supplier in its territory and other suppliers of public telecommunications 
+(a)  the public availability of interconnection agreements in effect between a major 
+supplier  in  its  territory  and  other  suppliers  of  public  telecommunications 
 networks or services in its territory; 
  
-(b) 
-the public availability of rates, terms, and conditions for interconnection with 
+(b)  the public availability of rates, terms, and conditions for interconnection with 
 a major supplier set by the telecommunications regulatory body; or 
  
-(c) 
-the public availability of a reference interconnection offer. 
+(c)  the public availability of a reference interconnection offer. 
  
-4. 
-Further to paragraphs 2 and 3, each Party shall ensure that a major supplier in its 
+4.  Further to paragraphs 2 and 3, each Party shall ensure that a major supplier in its 
 territory provides suppliers of public telecommunications networks or services of the 
 other Party the opportunity to interconnect their facilities and equipment with those of 
 the major supplier through the following options: 
  
-(a) 
-a reference interconnection offer or another standard interconnection offer 
-containing the rates, terms, and conditions that the major supplier offers 
+(a)  a reference interconnection offer or another standard interconnection offer 
+containing  the  rates,  terms,  and  conditions  that  the  major  supplier  offers 
 generally to suppliers of public telecommunications networks or services; or 
  
-(b) 
-the terms and conditions of an interconnection agreement in effect.  
+(b)  the terms and conditions of an interconnection agreement in effect.  
  
-5. 
-In addition to the options provided in paragraph 4, each Party shall ensure that 
+5.  In addition to  the  options provided in  paragraph  4, each Party shall ensure that 
 suppliers of public telecommunications networks or services of the other Party have 
 the opportunity to interconnect their facilities and equipment with those of the major 
 supplier through negotiation of a new interconnection agreement. 
@@ -348,27 +297,23 @@ supplier through negotiation of a new interconnection agreement.
 Article 8.7 
 Co-Location by Major Suppliers 
  
-1. 
- Each Party shall ensure that a major supplier in its territory provides to suppliers of 
+1.    Each Party shall ensure that a major supplier in its territory provides to suppliers of 
 public telecommunications networks or services of the other Party in the Party’s 
 territory physical co-location of equipment necessary for interconnection or access to 
-Chapter 8 - Telecommunications 
- 
-8-7 
+8-6 
+ Chapter 8 - Telecommunications 
  
 unbundled network elements on a timely basis and on terms and conditions, and at 
 cost-oriented rates, that are reasonable, non-discriminatory, and based on a generally 
 available offer. 
  
-2. 
- Where physical co-location is not practical for technical reasons or because of space 
+2.    Where physical co-location is not practical for technical reasons or because of space 
 limitations, each Party shall ensure that a major supplier in its territory provides an 
 alternative solution such as facilitating virtual co-location on a timely basis and on 
-terms and conditions, and at cost-oriented rates that are reasonable, non-
+terms  and  conditions,  and  at  cost-oriented  rates  that  are  reasonable,  non-
 discriminatory, and based on a generally available offer. 
  
-3. 
- A Party may determine, in accordance with its laws and regulations, which premises 
+3.    A Party may determine, in accordance with its laws and regulations, which premises 
 owned or controlled by major suppliers in its territory are subject to paragraphs 1 and 
 2. When making this determination, the Party shall take into account factors such as 
 the state of competition in the market in which co-location is required, whether such 
@@ -379,79 +324,64 @@ Article 8.8
 Access to Poles, Ducts, Conduits, and Rights-of-way Owned or Controlled by Major 
 Suppliers 
  
-1. 
-Each Party shall ensure that a major supplier in its territory provides access to poles, 
+1.  Each Party shall ensure that a major supplier in its territory provides access to poles, 
 ducts, conduits, and rights-of-way or any other structures as determined by the Party, 
 owned or controlled by the major supplier to suppliers of public telecommunications 
 networks or services of the other Party in the Party’s territory on a timely basis and on 
-terms and conditions, and at rates, that are reasonable, non-discriminatory, and 
+terms  and  conditions,  and  at  rates,  that  are  reasonable,  non-discriminatory,  and 
 transparent and subject to technical feasibility. 
  
-2. 
-A Party may determine, in accordance with its laws and regulations, the poles, ducts, 
+2.  A Party may determine, in accordance with its laws and regulations, the poles, ducts, 
 conduits, rights-of-way or any other structures to which it requires major suppliers in 
 its territory to provide access under paragraph 1. When making this determination, the 
 Party shall take into account factors such as the competitive effect of lack of such 
-access, whether such structures can feasibly be economically or technically 
+access,  whether  such  structures  can  feasibly  be  economically  or  technically 
 substituted in order to provide a competing service or other specified public interest 
 factors. 
  
 Article 8.9 
 Licensing Process 
  
-1. 
-When a Party requires a supplier of public telecommunications networks or services 
+1.  When a Party requires a supplier of public telecommunications networks or services 
 to have a licence, the Party shall ensure the public availability of: 
  
-(a) 
-all the licensing criteria and procedures it applies; 
+(a)  all the licensing criteria and procedures it applies; 
  
-(b) 
-the period it normally requires to reach a decision concerning an application 
+(b)  the period it normally requires to reach a decision concerning an application 
 for a licence; and 
  
-Chapter 8 - Telecommunications 
+8-7 
+ Chapter 8 - Telecommunications 
  
-8-8 
+(c)  the terms and conditions of all licences in effect. 
  
-(c) 
-the terms and conditions of all licences in effect. 
+2.  A Party shall ensure that, on request, an applicant receives the reasons for the: 
  
-2. 
-A Party shall ensure that, on request, an applicant receives the reasons for the: 
+(a)  denial of a licence; 
  
-(a) 
-denial of a licence; 
+(b)  imposition of supplier-specific conditions on a licence;  
  
-(b) 
-imposition of supplier-specific conditions on a licence;  
+(c)  revocation of a licence; or 
  
-(c) 
-revocation of a licence; or 
- 
-(d) 
-refusal to renew a licence. 
+(d)  refusal to renew a licence. 
  
 Article 8.10 
 Allocation and Use of Scarce Resources 
  
-1. 
- Any procedures for the allocation and use of scarce resources, including frequencies, 
+1.    Any procedures for the allocation and use of scarce resources, including frequencies, 
 numbers and rights of way, shall be carried out in an objective, timely, transparent 
 and non-discriminatory manner. Number of rights of use of scarce resources shall 
 only be limited in case it is necessary for the resources to be used by limited number 
-of operators and for the purpose of providing efficient use of resources. For 
+of  operators  and  for  the  purpose  of  providing  efficient  use  of  resources.  For 
 telecommunications services to be provided and/or infrastructure and networks to be 
 installed and operated by limited number of operators, the rights of use of scarce 
 resources shall be allocated by mechanisms such as the tendering process.  
  
-2. 
- The current state of allocated frequency bands shall be made publicly available, but 
+2.    The current state of allocated frequency bands shall be made publicly available, but 
 detailed identification of frequencies allocated for specific government uses is not 
 required. 
  
-3. 
- A Party’s measures allocating and assigning spectrum and managing frequencies shall 
+3.    A Party’s measures allocating and assigning spectrum and managing frequencies shall 
 not be considered as inconsistent with Article 7.4 (Market Access) of Chapter 7 
 (Cross Border Trade in Services) or Article 12.7 (Performance Requirements) of 
 Chapter 12 (Investment). Accordingly, each Party retains the right to establish and 
@@ -464,23 +394,19 @@ future needs, and spectrum availability.
 Article 8.11 
 Universal Service 
  
-1. 
- Each Party has the right to define the kind of universal service obligations it wishes to 
+1.    Each Party has the right to define the kind of universal service obligations it wishes to 
 maintain. 
  
-2. 
- Such obligations shall not be regarded as anti-competitive per se, provided they are 
-administered in a transparent, objective and non-discriminatory way. The 
+2.    Such obligations shall not be regarded as anti-competitive per se, provided they are 
+administered  in  a  transparent,  objective  and  non-discriminatory  way.  The 
 administration of such obligations shall also be neutral with respect to competition 
-Chapter 8 - Telecommunications 
- 
-8-9 
+8-8 
+ Chapter 8 - Telecommunications 
  
 and not be more burdensome than necessary for the kind of universal service defined 
 by each Party.  
  
-3. 
- Where applicable, any fund that has been set up by a Party for the purposes of 
+3.    Where applicable, any fund that has been set up by a Party for the purposes of 
 universal services shall be used in accordance with the relevant legislation of the 
 Party.  
  
@@ -497,54 +423,46 @@ International Submarine Cable Systems
 Each Party shall ensure that any major supplier who controls international submarine cable 
 landing stations in the Party’s territory provides access to such landing stations, consistent 
 with the provisions of paragraph 1 of Article 8.6 (Interconnection with a Major Supplier), 
-Article 8.7 (Co-Location by Major Suppliers), and Article 8.8 (Access to Poles, Ducts, 
+Article 8.7 (Co-Location by Major Suppliers), and Article 8.8  (Access  to  Poles, Ducts, 
 Conduits, and Rights-of-way Owned or Controlled by Major Suppliers) to suppliers of public 
 telecommunications networks or services of the other Party. 
  
 Article 8.14 
 Independent Regulators 
  
-1. 
- The telecommunications regulatory body shall be an independent body, legally 
-distinct from and functionally independent of any person providing public 
+1.    The  telecommunications  regulatory  body  shall  be  an  independent  body,  legally 
+distinct  from  and  functionally  independent  of  any  person  providing  public 
 telecommunications networks, equipment and/or services.  
  
-2. 
- The telecommunications regulatory body shall be empowered to regulate the 
-telecommunications services sector and shall have adequate financial and human 
+2.    The  telecommunications  regulatory  body  shall  be  empowered  to  regulate  the 
+telecommunications  services  sector  and  shall  have  adequate  financial  and  human 
 resources to carry out its tasks. The tasks to be undertaken by a telecommunications 
-regulatory body shall be made public in an easily accessible and clear form, in 
+regulatory  body  shall be made public in  an easily accessible  and  clear form,  in 
 particular where those tasks are assigned to more than one body.  
  
-3. 
-The telecommunications regulatory body shall exercise its powers transparently and 
-in a timely manner. The decisions of, and the procedures used by, the 
+3.  The telecommunications regulatory body shall exercise its powers transparently and 
+in  a  timely  manner.  The  decisions  of,  and  the  procedures  used  by,  the 
 telecommunications regulatory body shall be impartial with respect to all market 
 participants. 
  
 Article 8.15 
 International Mobile Roaming 
  
-Chapter 8 - Telecommunications 
+8-9 
+ Chapter 8 - Telecommunications 
  
-8-10 
- 
-1.  
-The Parties shall endeavour to cooperate on promoting transparent and reasonable 
+1.   The Parties shall endeavour to cooperate on promoting transparent and reasonable 
 rates for international mobile roaming services that can help promote the growth of 
 trade between the Parties and enhance consumer welfare.  
  
-2.  
-A Party may choose to take steps to enhance transparency and competition with 
-respect to international mobile roaming rates and technological alternatives to 
+2.   A Party may choose to take steps to enhance transparency and competition with 
+respect  to  international  mobile  roaming  rates  and  technological  alternatives  to 
 roaming services, such as: 
  
-(a) 
-ensuring that information regarding retail rates is easily accessible to 
+(a)  ensuring  that  information  regarding  retail  rates  is  easily  accessible  to 
 consumers; and 
  
-(b) 
-minimising impediments to the use of technological alternatives to roaming, 
+(b)  minimising impediments to the use of technological alternatives to roaming, 
 whereby consumers when visiting the territory of a Party from the territory of 
 the other Party can access telecommunications services using the device of 
 their choice. 
@@ -552,119 +470,88 @@ their choice.
 Article 8.16 
 Resolution of Telecommunications Disputes 
  
-1. 
-Each Party shall ensure that:  
+1.  Each Party shall ensure that:  
  
 Recourse  
  
-(a) 
-service suppliers authorised by the telecommunications regulatory body of a 
-Party to provide public telecommunications networks or services in its 
+(a)  service suppliers authorised by the telecommunications regulatory body of a 
+Party  to  provide  public  telecommunications  networks  or  services  in  its 
 territory may have recourse to the telecommunications regulatory body or 
 other relevant body of the Party to resolve disputes regarding the Party’s 
 measures relating to matters set out in Articles 8.3 (Access to and Use of 
 Public Telecommunications Services) to 8.15 (International Mobile Roaming); 
  
-(b) 
-if the telecommunications regulatory body or other relevant body of the Party  
+(b)  if the telecommunications regulatory body or other relevant body of the Party  
 declines to initiate any action on a request to resolve a dispute, it shall, upon 
 request, provide a written explanation for its decision within a reasonable 
 period of time;  
  
-(c)  
-suppliers of public telecommunications networks or services requesting 
+(c)   suppliers  of  public  telecommunications  networks  or  services  requesting 
 interconnection with a major supplier in its territory will have recourse, either: 
  
-(i) 
-at any time; or 
+(i)  at any time; or 
  
-(ii) 
-after a reasonable period of time which has been made publicly known 
+(ii)  after a reasonable period of time which has been made publicly known 
  
-to an independent domestic body, which may be a telecommunications 
-regulatory body as referred to in Article 8.14 (Independent Regulators), to 
-resolve disputes regarding appropriate terms, conditions and rates for 
+to  an  independent  domestic  body,  which  may  be  a  telecommunications 
+regulatory  body  as referred to in  Article 8.14 (Independent Regulators), to 
+resolve  disputes  regarding  appropriate  terms,  conditions  and  rates  for 
 interconnection within a reasonable period of time, to the extent that these have 
 not been established previously. 
-Chapter 8 - Telecommunications 
- 
-8-11 
+8-10 
+ Chapter 8 - Telecommunications 
  
 Reconsideration 
  
-(d) 
-any enterprise whose legally protected interests are adversely affected by a 
+(d)  any enterprise whose legally protected interests are adversely affected by a 
 determination or decision of the Party’s telecommunications regulatory body 
 may appeal to or petition the telecommunications regulatory body or other 
 relevant body to reconsider that determination or decision. No Party may 
 permit the making of an application for reconsideration to constitute grounds 
-for 
-non-compliance 
-with 
-the 
-determination 
-or 
-decision 
-of 
-the 
-telecommunications 
-regulatory 
-body, 
-unless 
-the 
-telecommunications 
+for  non-compliance  with  the  determination  or  decision  of  the 
+telecommunications  regulatory  body,  unless  the  telecommunications 
 regulatory body or other relevant body issues an order that the determination 
 or decision not be enforced while the proceeding is pending.  A Party may 
-limit the circumstances under which an application for reconsideration is 
+limit  the  circumstances  under  which  an  application  for  reconsideration  is 
 available, in accordance with its laws and regulations. 
  
 Judicial Review  
  
-2. 
-No Party may permit the making of an application for judicial review to constitute 
-grounds for non-compliance with the determination or decision of the 
+2.  No Party may permit the making of an application for judicial review to constitute 
+grounds  for  non-compliance  with  the  determination  or  decision  of  the 
 telecommunications regulatory body, unless the relevant judicial body issues an order 
 that the determination or decision not be enforced while the proceeding is pending. 
  
 Article 8.17 
 Transparency 
  
-1. 
-When the telecommunications regulatory body of a Party intends to take measures 
+1.  When the telecommunications regulatory body of a Party intends to take measures 
 related to the provisions of this Chapter, it shall give interested parties the opportunity 
 to comment on the draft measure within a reasonable period of time in accordance 
 with the domestic law of the Party. The telecommunications regulatory body shall 
 make publicly available its consultation procedures for such draft measures. 
  
-2. 
-A Party shall ensure that its measures relating to public telecommunications networks 
+2.  A Party shall ensure that its measures relating to public telecommunications networks 
 or services are made publicly available, including: 
  
-(a) 
-tariffs and other terms and conditions of service; 
+(a)  tariffs and other terms and conditions of service; 
  
-(b) 
-specifications of technical interfaces; 
+(b)  specifications of technical interfaces; 
  
-(c) 
-conditions for attaching terminal or other equipment to the public 
+(c)  conditions  for  attaching  terminal  or  other  equipment  to  the  public 
 telecommunications network; 
  
-(d) 
-notification, permit, registration, or licensing requirements, if any; 
+(d)  notification, permit, registration, or licensing requirements, if any; 
  
-(e) 
-general procedures relating to resolution of telecommunications disputes 
+(e)  general  procedures  relating  to  resolution  of  telecommunications  disputes 
 provided for in Article 8.16 (Resolution of Telecommunications Disputes); 
 and 
  
-(f) 
-any measures of the telecommunications regulatory body through which the 
-Chapter 8 - Telecommunications 
+(f)  any measures of the telecommunications regulatory body through which the 
+8-11 
+ Chapter 8 - Telecommunications 
  
-8-12 
- 
-responsibility for preparing, amending, and adopting standards-related 
+responsibility  for  preparing,  amending,  and  adopting  standards-related 
 measures affecting access and use are delegated to other bodies. 
  
 Article 8.18 
@@ -673,7 +560,7 @@ Flexibility in the Choice of Technology
 No Party may prevent suppliers of public telecommunications networks or services from 
 choosing the technologies they wish to use to supply their services subject to requirements 
 necessary to satisfy legitimate public policy interests, provided that any measure restricting 
-such choice is not prepared, adopted, or applied in a manner that creates unnecessary 
+such  choice  is  not  prepared,  adopted,  or  applied  in  a  manner  that  creates  unnecessary 
 obstacles to trade. For greater certainty, a Party adopting such measures shall do so consistent 
 with Article 8.17 (Transparency). 
  
@@ -683,4 +570,6 @@ Relationship to Other Chapters
 In the event of any inconsistency between this Chapter and another Chapter, this Chapter 
 shall prevail to the extent of the inconsistency. 
  
+ 
+8-12 
  

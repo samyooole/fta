@@ -1,8 +1,5 @@
 Chapter 2 – National Treatment and Market Access for Goods 
- 
- 
-2-1 
- 
+   
 CHAPTER 2 
 NATIONAL TREATMENT AND MARKET ACCESS FOR GOODS 
  
@@ -26,41 +23,33 @@ National Treatment
  
 Each Party shall accord national treatment to the goods of the other Party in accordance with 
 Article III of the GATT 1994, including its Notes and Supplementary Provisions. To this end, 
-the obligations contained in Article III of the GATT 1994, including its Notes and 
+the  obligations  contained  in  Article  III  of  the  GATT  1994,  including  its  Notes  and 
 Supplementary Provisions, are incorporated into and made part of this Agreement, mutatis 
 mutandis.  
  
 Article 2.4 
 Customs Duty 
  
-1.  
-For the purposes of this Chapter, a customs duty includes any duty or charge of any 
+1.   For the purposes of this Chapter, a customs duty includes any duty or charge of any 
 kind imposed on or in connection with the importation or exportation of a good, 
 including any form of surtax or surcharge imposed on or in connection with such 
 importation or exportation. 
   
-2.  
-A “customs duty” does not include any: 
+2.   A “customs duty” does not include any: 
  
-(a) 
-charge equivalent to an internal tax imposed consistently with Article 2.3 
+(a)  charge equivalent to an internal tax imposed consistently with Article 2.3 
 (National Treatment); 
  
-(b) 
-duty imposed consistently with Chapter 3 (Trade Remedies); 
+(b)  duty imposed consistently with Chapter 3 (Trade Remedies); 
  
-(c) 
-duties applied consistently with Article 5 of the Agreement on Agriculture and 
+(c)  duties applied consistently with Article 5 of the Agreement on Agriculture and 
 the DSU;  
  
-(d) 
-fee or other charge imposed consistently with Article 2.10 (Fees and 
+(d)  fee  or  other  charge  imposed  consistently  with  Article  2.10  (Fees  and 
 Formalities Connected with Importation and Exportation).  
-Chapter 2 – National Treatment and Market Access for Goods 
- 
- 
-2-2 
- 
+2-1 
+ Chapter 2 – National Treatment and Market Access for Goods 
+   
  
 Article 2.5 
 Classification of Goods 
@@ -74,25 +63,21 @@ REDUCTION AND/OR ELIMINATION OF CUSTOMS DUTIES
 Article 2.6 
 Reduction and/or Elimination of Customs Duties on Imports 
  
-1. 
-Each Party shall reduce and/or eliminate its customs duties on imported goods 
+1.  Each  Party  shall  reduce  and/or  eliminate  its  customs  duties  on  imported  goods 
 originating in the other Party in accordance with the Schedules set out in Annex 2-A 
 (Elimination of Customs Duties).  
  
-2. 
-The base rate of customs duties on imports, to which the successive reductions are to 
+2.  The base rate of customs duties on imports, to which the successive reductions are to 
 be applied under paragraph 1, shall be that specified in the Schedules in Annex 2-A 
 (Elimination of Customs Duties).  
  
-3. 
-If at any moment a Party reduces its applied most favoured nation (hereinafter 
+3.  If  at  any  moment  a  Party  reduces  its  applied  most  favoured  nation  (hereinafter 
 referred to as “MFN”) customs duty rates on imports after the date of entry into force 
 of this Agreement, that duty rate shall apply if and for as long as it is lower than the 
 customs duty rate on imports calculated in accordance with its Schedule in Annex 2-A 
 (Elimination of Customs Duties). 
  
-4. 
-Three years after the entry into force of this Agreement, on the request of either Party, 
+4.  Three years after the entry into force of this Agreement, on the request of either Party, 
 the Parties shall consult to consider accelerating and broadening the scope of the 
 reduction and elimination of customs duties on imports. A decision by the Parties in 
 the Joint Committee on such acceleration or broadening shall supersede any duty rate 
@@ -112,11 +97,9 @@ Standstill
 Except as provided in Annex 2-A (Elimination of Customs Duties), upon the entry into force 
 of the Agreement, neither Party shall increase any existing customs duty or introduce any 
 new customs duty, on the importation of a good originating in the other Party. This shall not 
-Chapter 2 – National Treatment and Market Access for Goods 
- 
- 
-2-3 
- 
+2-2 
+ Chapter 2 – National Treatment and Market Access for Goods 
+   
 preclude either Party from raising a customs duty to the level established in its Schedule in 
 Annex 2-A (Elimination of Customs Duties) following a unilateral reduction of its applied 
 MFN customs duty rates on imports. 
@@ -127,22 +110,20 @@ NON-TARIFF MEASURES
 Article 2.9 
 Import and Export Restrictions 
  
-1. 
-Neither Party shall adopt or maintain any prohibition or restriction on the importation 
+1.  Neither Party shall adopt or maintain any prohibition or restriction on the importation 
 of any good of the other Party or on the exportation or sale for export of any good 
 destined for the territory of the other Party, in accordance with Article XI of the 
 GATT 1994, including its Notes and Supplementary Provisions. To this end Article 
 XI of the GATT 1994, its Notes and Supplementary Provisions are incorporated into 
 and made part of this Agreement, mutatis mutandis.  
  
- 2. 
-The Parties understand that before taking any measures provided for in subparagraph 
+ 2.  The Parties understand that before taking any measures provided for in subparagraph 
 2(a) of Article XI of the GATT 1994, the Party intending to take the measures shall 
 supply the other Party with all relevant information, with a view to seeking a solution 
 acceptable to the Parties. The Parties may agree on any means needed to put an end to 
-the difficulties. If no agreement is reached within 30 days of supplying such 
-information, the exporting Party may apply measures under this Article on the 
-exportation of the good concerned. Where exceptional and critical circumstances 
+the  difficulties.  If  no  agreement  is  reached  within  30  days  of  supplying  such 
+information,  the  exporting  Party  may  apply  measures  under  this  Article  on  the 
+exportation of the good concerned. Where  exceptional  and critical  circumstances 
 requiring immediate action make prior information or examination impossible, the 
 Party intending to take the measures may apply forthwith the precautionary measures 
 necessary to deal with the situation and shall inform the other Party immediately 
@@ -153,7 +134,7 @@ Fees and Formalities Connected with Importation and Exportation
  
 Each Party shall ensure, in accordance with Article VIII of the GATT 1994, including its 
 Notes and Supplementary provisions, that all fees and charges of whatever character (other 
-than customs duties, and measures listed in paragraphs (a), (b) and (c) of Article 2.4 
+than  customs  duties,  and  measures  listed  in  paragraphs  (a),  (b)  and  (c)  of  Article  2.4 
 (Customs Duty) imposed on or in connection with importation or exportation of goods are 
 limited in amount to the approximate cost of services rendered, which shall not be calculated 
 on an ad valorem basis, and shall not represent an indirect protection to domestic goods or a 
@@ -162,51 +143,40 @@ taxation of imports or exports for fiscal purposes.
 Article 2.11 
 Import and Export Licensing Procedures 
  
-1. 
-The Parties affirm their existing rights and obligations under the Import Licensing 
+1.  The Parties affirm their existing rights and obligations under the Import Licensing 
 Agreement. 
  
-Chapter 2 – National Treatment and Market Access for Goods 
- 
- 
-2-4 
- 
-2. 
-The Parties shall introduce and administer any import or export licensing procedures1 
+2-3 
+ Chapter 2 – National Treatment and Market Access for Goods 
+   
+2.  The Parties shall introduce and administer any import or export licensing procedures1 
 in accordance with: 
  
-(a) 
-Paragraphs 1 through 9 of Article 1 of the Import Licensing Agreement; 
+(a)  Paragraphs 1 through 9 of Article 1 of the Import Licensing Agreement; 
  
-(b) 
-Article 2 of the Import Licensing Agreement; and 
+(b)  Article 2 of the Import Licensing Agreement; and 
  
-(c) 
-Article 3 of the Import Licensing Agreement. 
+(c)  Article 3 of the Import Licensing Agreement. 
  
-To this end, the provisions referred to in subparagraphs (a), (b) and (c) of this 
+To  this  end,  the  provisions  referred  to  in  subparagraphs  (a),  (b)  and  (c)  of  this 
 paragraph are incorporated into and made part of this Agreement. The Parties shall 
 apply those provisions, mutatis mutandis, for any export licensing procedures. 
  
-3.  
-The Parties shall ensure that all export licensing procedures are neutral in application 
+3.   The Parties shall ensure that all export licensing procedures are neutral in application 
 and administered in a fair, equitable, non-discriminatory and transparent manner.  
  
-4.  
-The Parties shall only adopt or maintain licensing procedures as a condition for 
+4.   The Parties shall only adopt  or maintain licensing procedures as a condition  for 
 importation into its territory or exportation from its territory to the other Party when 
 other appropriate procedures to achieve an administrative purpose are not reasonably 
 available. 
  
-5.  
-The Parties shall not adopt or maintain non-automatic import or export licensing 
-procedures unless necessary to implement a measure that is consistent with this 
+5.   The Parties shall not adopt or maintain non-automatic import or export licensing 
+procedures  unless  necessary  to  implement  a  measure  that  is  consistent  with  this 
 Agreement. Any Party adopting non-automatic licensing procedures shall indicate 
 clearly the measure being implemented through such licensing procedure. 
  
-6. 
-Each Party shall respond within 60 days to a reasonable enquiry from the other Party 
-regarding: (i) any licensing procedures which the Party intends to adopt or has 
+6.  Each Party shall respond within 60 days to a reasonable enquiry from the other Party 
+regarding:  (i)  any  licensing  procedures  which  the  Party  intends  to  adopt  or  has 
 adopted or maintained; or (ii) the criteria for granting and/or allocating import or 
 export licenses.  
  
@@ -216,71 +186,50 @@ Publication
 Each Party shall promptly publish the following information in a non-discriminatory and 
 easily accessible manner, in order to enable interested parties to become acquainted with 
 them: 
- 
- 
-(a) 
-importation, exportation and transit procedures (including port, airport, and 
+   
+(a)  importation, exportation and transit procedures (including port, airport, and 
 other entry-point procedures) and required forms and documents; 
  
-(b)  
-applied rates of duties, and taxes of any kind imposed on or in connection with 
+(b)   applied rates of duties, and taxes of any kind imposed on or in connection with 
 importation or exportation; 
                                                  
-1 
-For the purposes of this Article, “non-automatic licensing procedures” means licensing procedures 
+1  For the purposes of this Article, “non-automatic licensing procedures” means licensing procedures 
+  where approval of the application is not granted for all legal and natural persons who fulfil the 
+  requirements of the Party concerned for engaging in import or export operations involving the goods 
+  subject to licensing procedures. 
+2-4 
+ Chapter 2 – National Treatment and Market Access for Goods 
+   
  
-where approval of the application is not granted for all legal and natural persons who fulfil the 
+(c)   rules for the classification or the valuation of products for customs purposes; 
  
-requirements of the Party concerned for engaging in import or export operations involving the goods 
- 
-subject to licensing procedures. 
-Chapter 2 – National Treatment and Market Access for Goods 
- 
- 
-2-5 
- 
- 
-(c)  
-rules for the classification or the valuation of products for customs purposes; 
- 
-(d)  
-laws, regulations and administrative rulings of general application relating to 
+(d)   laws, regulations and administrative rulings of general application relating to 
 rules of origin; 
  
-(e)  
-import, export or transit restrictions or prohibitions; 
+(e)   import, export or transit restrictions or prohibitions; 
  
-(f)  
-fees and charges imposed on or in connection with importation, exportation or 
+(f)   fees and charges imposed on or in connection with importation, exportation or 
 transit; 
  
-(g) 
-penalty provisions against breaches of import, export or transit formalities; 
+(g)  penalty provisions against breaches of import, export or transit formalities; 
+   
+(h)   appeal procedures; 
  
- 
-(h)  
-appeal procedures; 
- 
-(i)  
-agreements or parts thereof with any country or countries relating to  
+(i)   agreements  or  parts  thereof  with  any  country  or  countries  relating  to  
 importation, exportation or transit; and 
- 
- 
-(j)  
-administrative procedures relating to the imposition of tariff quotas. 
+   
+(j)   administrative procedures relating to the imposition of tariff quotas. 
  
 Article 2.13 
 State Trading Enterprises 
  
-1. 
-The Parties affirm their existing rights and obligations under Article XVII of the 
+1.  The Parties affirm their existing rights and obligations under Article XVII of the 
 GATT 1994, its Notes and Supplementary Provisions and the Understanding on the 
 Interpretation of Article XVII of the GATT 1994, contained in Annex 1-A to the WTO 
 Agreement, which are hereby incorporated into and made part of this Agreement, 
 mutatis mutandis.  
  
-2. 
-The Parties may request information from the other Party bilaterally as foreseen in 
+2.  The Parties may request information from the other Party bilaterally as foreseen in 
 subparagraphs 4(c) and 4(d) of Article XVII of the GATT 1994. 
  
 SECTION 2-D 
@@ -289,25 +238,23 @@ SPECIFIC EXCEPTIONS RELATED TO GOODS
 Article 2.14 
 General Exceptions 
  
-1. 
-Nothing in this Chapter prevents the taking of measures in accordance with Article 
-XX of GATT 1994, its Notes and Supplementary Provisions, which are hereby 
+1.  Nothing in this Chapter prevents the taking of measures in accordance with Article 
+XX  of  GATT  1994,  its  Notes  and  Supplementary  Provisions,  which  are  hereby 
 incorporated into and made part of this Agreement, mutatis mutandis. 
  
-2. 
-The Parties understand that before taking any measures provided for in paragraphs (i) 
+2.  The Parties understand that before taking any measures provided for in paragraphs (i) 
 and (j) of Article XX of GATT 1994, the exporting Party intending to take the 
 measures shall supply the other Party with all relevant information, with a view to 
 seeking a solution acceptable to the Parties. The Parties may agree on any means 
 needed to put an end to the difficulties.  If no agreement is reached within thirty days, 
-Chapter 2 – National Treatment and Market Access for Goods 
- 
- 
-2-6 
- 
+2-5 
+ Chapter 2 – National Treatment and Market Access for Goods 
+   
 the exporting Party may apply measures under this Article on the exportation of the 
 good concerned. Where exceptional and critical circumstances requiring immediate 
 action make prior information or examination impossible, the Party intending to take 
 the measures may apply forthwith the precautionary measures necessary to deal with 
 the situation and shall inform the other Party immediately thereof. 
+ 
+2-6 
  

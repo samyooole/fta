@@ -1,7 +1,4 @@
-1 
- 
-03 
-RULES OF ORIGIN AND ORIGIN PROCEDURES 
+03  RULES OF ORIGIN AND ORIGIN PROCEDURES 
  
  
 Section A: Rules of Origin 
@@ -13,144 +10,108 @@ Definitions
  
 For the purposes of this Chapter: 
  
-(a) 
-“aquaculture” means the farming of aquatic organisms, including fish, 
+(a)  “aquaculture” means the farming of aquatic organisms, including fish, 
 molluscs, crustaceans, other aquatic invertebrates and aquatic plants 
 from seed stock such as eggs, fry, fingerlings or larvae, by intervention 
 in the rearing or growth processes to enhance production such as regular 
 stocking, feeding or protection from predators; 
  
-(b) 
-“Customs 
-Valuation 
-Agreement” 
-means 
-the 
-Agreement 
-on 
+(b)  “Customs  Valuation  Agreement”  means  the  Agreement  on 
 Implementation of Article VII of the General Agreement on Tariffs and 
 Trade 1994, set out in Annex 1A to the WTO Agreement; 
  
-(c) 
-“enterprise” means any entity constituted or organised under applicable 
+(c)  “enterprise” means any entity constituted or organised under applicable 
 law, whether or not for profit, and whether privately or governmentally 
 owned or controlled, including any corporation, trust, partnership, sole 
 proprietorship, joint venture, association or similar organisation; 
  
-(d) 
-“fungible goods or materials” means goods or materials that are 
-interchangeable for commercial purposes and whose properties are 
+(d)  “fungible  goods  or  materials”  means  goods  or  materials  that  are 
+interchangeable  for  commercial  purposes  and  whose  properties  are 
 essentially identical;  
  
-(e) 
-“Generally Accepted Accounting Principles” means those principles 
+(e)  “Generally Accepted Accounting Principles” means those principles 
 recognised by consensus or with substantial authoritative support in the 
 territory of a Party with respect to the recording of revenues, expenses, 
-costs, assets and liabilities; the disclosure of information; and the 
+costs,  assets  and  liabilities;  the  disclosure  of  information;  and  the 
 preparation of financial statements. These principles may encompass 
 broad guidelines for general application, as well as detailed standards, 
 practices and procedures;  
  
-(f) 
-“good” means any merchandise, product, article or material; 
+(f)  “good” means any merchandise, product, article or material; 
  
-(g) 
-“indirect material” means a material used in the production, testing or 
+(g)  “indirect material” means a material used in the production, testing or 
 inspection of a good but not physically incorporated into the good; or a 
-material used in the maintenance of buildings or the operation of 
+material  used  in  the  maintenance  of  buildings  or  the  operation  of 
 equipment, associated with the production of a good, including: 
  
  
  
  
  
-2 
+1 
+ (i)  fuel, energy, catalysts and solvents; 
  
-(i) 
-fuel, energy, catalysts and solvents; 
+(ii)  equipment, devices and supplies used to test or inspect the good; 
  
-(ii) 
-equipment, devices and supplies used to test or inspect the good; 
- 
-(iii) 
-gloves, glasses, footwear, clothing, safety equipment and 
+(iii)  gloves,  glasses,  footwear,  clothing,  safety  equipment  and 
 supplies; 
  
-(iv) 
-tools, dies and moulds; 
+(iv)  tools, dies and moulds; 
  
-(v) 
-spare parts and materials used in the maintenance of equipment 
+(v)  spare parts and materials used in the maintenance of equipment 
 and buildings; 
  
-(vi) 
-lubricants, greases, compounding materials and other materials 
+(vi)  lubricants, greases, compounding materials and other materials 
 used in production or used to operate equipment and buildings; 
 and 
  
-(vii) 
-any other material that is not incorporated into the good but the 
+(vii)  any other material that is not incorporated into the good but the 
 use of which in the production of the good can reasonably be 
 demonstrated to be a part of that production; 
  
-(h) 
-“material” means a good that is used in the production of another good; 
+(h)  “material” means a good that is used in the production of another good; 
  
-(i) 
-“non-originating good” or “non-originating material” means a good or 
+(i)  “non-originating good” or “non-originating material” means a good or 
 material that does not qualify as originating in accordance with this 
 Chapter; 
  
-(j) 
-“originating good” or “originating material” means a good or material 
+(j)  “originating good” or “originating material” means a good or material 
 that qualifies as originating in accordance with this Chapter; 
  
-(k) 
-“packing materials and containers for shipment” means goods used to 
+(k)  “packing materials and containers for shipment” means goods used to 
 protect another good during its transportation, but does not include the 
 packaging materials or containers in which a good is packaged for retail 
 sale; 
  
-(l) 
-“person” means a natural person or an enterprise; 
+(l)  “person” means a natural person or an enterprise; 
  
-(m) 
-“person of a Party” means a national1 or an enterprise of a Party; 
+(m)  “person of a Party” means a national1 or an enterprise of a Party; 
  
-(n) 
-“producer” means a person who engages in the production of a good;  
+(n)  “producer” means a person who engages in the production of a good;  
  
-(o) 
-“production” means operations including growing, cultivating, raising, 
-mining, harvesting, fishing, trapping, hunting, capturing, collecting, 
+(o)  “production” means operations including growing, cultivating, raising, 
+mining, harvesting, fishing, trapping, hunting,  capturing, collecting, 
 breeding, extracting, aquaculture, gathering, manufacturing, processing 
 or assembling a good; 
  
                                                  
-1 For the purposes of this Chapter, a “national” means, for Australia, a natural person who is an Australian 
-citizen as defined in the Australian Citizenship Act 2007 as amended from time to time, or any successor 
-legislation; for Singapore, a person who is a citizen of Singapore within the meaning of its Constitution 
-and its domestic laws; or a permanent resident of either Party. 
-3 
  
-(p) 
-“recovered material” means a material in the form of one or more 
+ 
+ 
+2 
+ (p)  “recovered material” means a material in the form of one or more 
 individual parts that results from: 
  
-(i) 
-the disassembly of a used good into individual parts; and 
+(i)  the disassembly of a used good into individual parts; and 
  
-(ii) 
-the cleaning, inspecting, testing or other processing of those parts 
+(ii)  the cleaning, inspecting, testing or other processing of those parts 
 as necessary for improvement to sound working condition; 
  
-(q) 
-“transaction value” means the price actually paid or payable for the good 
+(q)  “transaction value” means the price actually paid or payable for the good 
 when sold for export or other value determined in accordance with the 
 Customs Valuation Agreement; and 
  
-(r) 
-“value of the good” means the transaction value of the good excluding 
+(r)  “value of the good” means the transaction value of the good excluding 
 any costs incurred in the international shipment of the good. 
  
  
@@ -161,18 +122,15 @@ Originating Goods
 Except as otherwise provided in this Chapter, each Party shall provide that a 
 good is originating if it is:  
  
-(a) 
-wholly obtained or produced entirely in the territory of one or both of 
+(a)  wholly obtained or produced entirely in the territory of one or both of 
 the Parties by one or more producers as established in Article 3 (Wholly 
 Obtained or Produced Goods); 
  
-(b) 
-produced entirely in the territory of one or both of the Parties by one or 
+(b)  produced entirely in the territory of one or both of the Parties by one or 
 more producers, exclusively from originating materials; or 
  
-(c) 
-produced entirely in the territory of one or both of the Parties by one or 
-more producers using non-originating materials provided the good 
+(c)  produced entirely in the territory of one or both of the Parties by one or 
+more  producers  using  non-originating  materials  provided  the  good 
 satisfies all applicable requirements of Annex 2 (Product-Specific Rules 
 of Origin),  
  
@@ -187,59 +145,45 @@ Each Party shall provide that for the purposes of Article 2 (Originating Goods),
 a good is wholly obtained or produced entirely in the territory of one or both of the 
 Parties if it is: 
  
-(a) 
-a plant or plant good, grown, cultivated, harvested, picked or gathered 
+(a)  a plant or plant good, grown, cultivated, harvested, picked or gathered 
 there; 
  
  
-4 
+3 
+ (b)  a live animal born and raised there; 
  
-(b) 
-a live animal born and raised there; 
+(c)  a good obtained from a live animal there; 
  
-(c) 
-a good obtained from a live animal there; 
- 
-(d) 
-an animal obtained by hunting, trapping, fishing, gathering or capturing 
+(d)  an animal obtained by hunting, trapping, fishing, gathering or capturing 
 there; 
  
-(e) 
-a good obtained from aquaculture there; 
+(e)  a good obtained from aquaculture there; 
  
-(f) 
-a mineral or other naturally occurring substance, not included in 
+(f)  a  mineral  or  other  naturally  occurring  substance,  not  included  in 
 subparagraphs (a) to (e), extracted or taken from there;  
  
-(g)  
-fish, shellfish and other marine life taken from the high seas, by vessels 
+(g)   fish, shellfish and other marine life taken from the high seas, by vessels 
 that are entitled to fly the flag of that Party; 
  
-(h) 
-a good produced from goods referred to in subparagraph (g) on board a 
+(h)  a good produced from goods referred to in subparagraph (g) on board a 
 factory ship that is registered, listed or recorded with a Party and entitled 
 to fly the flag of that Party; 
  
-(i)  
-a good other than fish, shellfish and other marine life taken by a Party 
+(i)   a good other than fish, shellfish and other marine life taken by a Party 
 or a person of a Party from the seabed or subsoil outside the territories 
-of the Parties, and beyond areas over which non-Parties exercise 
+of  the  Parties,  and  beyond  areas over  which  non-Parties  exercise 
 jurisdiction provided that Party or person of that Party has the right to 
 exploit that seabed or subsoil in accordance with international law; 
  
-(j) 
-a good that is: 
+(j)  a good that is: 
  
-(i) 
-waste or scrap derived from production there; or  
+(i)  waste or scrap derived from production there; or  
  
-(ii) 
-waste or scrap derived from used goods collected there, provided 
+(ii)  waste or scrap derived from used goods collected there, provided 
 that those goods are fit only for the recovery of raw materials; 
 and 
  
-(k) 
-a good produced there, exclusively from goods referred to in 
+(k)  a  good  produced  there,  exclusively  from  goods  referred  to  in 
 subparagraphs (a) to (j), or from their derivatives. 
  
  
@@ -247,22 +191,17 @@ ARTICLE 4
  
 Treatment of Recovered Materials Used in Production of a Remanufactured Good 
  
-1. 
-Each Party shall provide that a recovered material derived in the territory of one 
+1.  Each Party shall provide that a recovered material derived in the territory of one 
 or both of the Parties is treated as originating when it is used in the production of, and 
 incorporated into, a remanufactured good. 
  
-2. 
-For greater certainty: 
+2.  For greater certainty: 
  
-(i) 
-a remanufactured good is originating only if it satisfies the applicable 
+(i)  a remanufactured good is originating only if it satisfies the applicable 
 requirements of Article 2 (Originating Goods); and 
  
-5 
- 
-(ii) 
-a recovered material that is not used or incorporated in the production of 
+4 
+ (ii)  a recovered material that is not used or incorporated in the production of 
 a remanufactured good is originating only if it satisfies the applicable 
 requirements of Article 2 (Originating Goods). 
  
@@ -271,20 +210,17 @@ ARTICLE 5
  
 Regional Value Content 
  
-1. 
-Each Party shall provide that a regional value content requirement specified in 
+1.  Each Party shall provide that a regional value content requirement specified in 
 this Chapter, including related Annexes, to determine whether a good is originating, is 
 calculated as follows: 
  
-(a) 
-Build-down Method:  Based on Value of Non-Originating Materials  
+(a)  Build-down Method:  Based on Value of Non-Originating Materials  
 RVC =   Value of the Good – VNM x 100 
 Value of the Good 
  
 or 
  
-(b) 
-Build-up Method: Based on Value of Originating Materials  
+(b)  Build-up Method: Based on Value of Originating Materials  
 RVC =                 VOM             x 100 
 Value of the Good 
  
@@ -298,8 +234,7 @@ origin, used in the production of the good; and
 “VOM” is the value of originating materials used in the production of the good in the 
 territory of one or both of the Parties.  
  
-2. 
-Each Party shall provide that all costs considered for the calculation of regional 
+2.  Each Party shall provide that all costs considered for the calculation of regional 
 value content are recorded and maintained in conformity with the Generally Accepted 
 Accounting Principles applicable in the territory of a Party where the good is produced. 
  
@@ -308,25 +243,20 @@ ARTICLE 6
  
 Materials Used in Production 
  
-1. 
-Each Party shall provide that if a non-originating material undergoes further 
+1.  Each Party shall provide that if a non-originating material undergoes further 
 production such that it satisfies the requirements of this Chapter, the material is treated 
 as originating when determining the originating status of the subsequently produced 
 good, regardless of whether that material was produced by the producer of the good. 
  
-2. 
-Each Party shall provide that if a non-originating material is used in the 
+2.  Each Party shall provide that if  a non-originating material  is  used in  the 
 production of a good, the following may be counted as originating content for the 
 purpose of determining whether the good meets a regional value content requirement: 
-6 
- 
- 
-(a) 
-the value of processing of the non-originating materials undertaken in 
+5 
+  
+(a)  the value of processing of the non-originating materials undertaken in 
 the territory of one or both of the Parties; and 
  
-(b) 
-the value of any originating material used in the production of the non-
+(b)  the value of any originating material used in the production of the non-
 originating material undertaken in the territory of one or both of the 
 Parties.  
  
@@ -338,35 +268,27 @@ Value of Materials Used in Production
 Each Party shall provide that for the purposes of this Chapter, the value of a 
 material is: 
  
-(a) 
-for a material imported by the producer of the good, the transaction value 
+(a)  for a material imported by the producer of the good, the transaction value 
 of the material at the time of importation, including the costs incurred in 
 the international shipment of the good; 
  
-(b) 
-for a material acquired in the territory where the good is produced: 
+(b)  for a material acquired in the territory where the good is produced: 
  
-(i) 
-the price paid or payable by the producer in the Party where the 
+(i)  the price paid or payable by the producer in the Party where the 
 producer is located;  
  
-(ii) 
-the value as determined for an imported material in subparagraph 
+(ii)  the value as determined for an imported material in subparagraph 
 (a); or  
  
-(iii) 
-the earliest ascertainable price paid or payable in the territory of 
+(iii)  the earliest ascertainable price paid or payable in the territory of 
 the Party; or 
  
-(c) 
-for a material that is self-produced:  
+(c)  for a material that is self-produced:  
  
-(i) 
-all the costs incurred in the production of the material, which 
+(i)  all the costs incurred in the production of the material, which 
 includes general expenses; and  
  
-(ii) 
-an amount equivalent to the profit added in the normal course of 
+(ii)  an amount equivalent to the profit added in the normal course of 
 trade, or equal to the profit that is usually reflected in the sale of 
 goods of the same class or kind as the self-produced material that 
 is being valued.  
@@ -376,51 +298,41 @@ ARTICLE 8
  
 Further Adjustments to the Value of Materials 
  
-1.  
-Each Party shall provide that for an originating material, the following expenses 
+1.    Each Party shall provide that for an originating material, the following expenses 
 may be added to the value of the material, if not included under Article 7 (Value of 
 Materials Used in Production): 
  
-7 
- 
-(a) 
-the costs of freight, insurance, packing and all other costs incurred to 
+6 
+ (a)  the costs of freight, insurance, packing and all other costs incurred to 
 transport the material to the location of the producer of the good; 
  
-(b) 
-duties, taxes and customs brokerage fees on the material, paid in the 
+(b)  duties, taxes and customs brokerage fees on the material, paid in the 
 territory of one or both of the Parties, other than duties and taxes that are 
 waived, refunded, refundable or otherwise recoverable, which include 
 credit against duty or tax paid or payable; and 
  
-(c) 
-the cost of waste and spoilage resulting from the use of the material in 
+(c)  the cost of waste and spoilage resulting from the use of the material in 
 the production of the good, less the value of reusable scrap or by-
 product.  
  
-2.  
-Each Party shall provide that, for a non-originating material or material of 
+2.    Each Party shall provide that, for a non-originating material or material of 
 undetermined origin, the following expenses may be deducted from the value of the 
 material: 
  
-(a) 
-the costs of freight, insurance, packing and all other costs incurred in 
+(a)  the costs of freight, insurance, packing and all other costs incurred in 
 transporting the material within the territories of the Parties to the 
 location of the producer of the good; 
  
-(b) 
-duties, taxes and customs brokerage fees on the material paid in the 
+(b)  duties, taxes and customs brokerage fees on the material paid in the 
 territory of one or both of the Parties, other than duties and taxes that are 
 waived, refunded, refundable or otherwise recoverable, which include 
 credit against duty or tax paid or payable; and 
  
-(c) 
-the cost of waste and spoilage resulting from the use of the material in 
+(c)  the cost of waste and spoilage resulting from the use of the material in 
 the production of the good, less the value of reusable scrap or by-
 product. 
  
-3. 
-If the cost or expense listed in paragraph 1 or 2 is unknown or documentary 
+3.  If the cost or expense listed in paragraph 1 or 2 is unknown or documentary 
 evidence of the amount of the adjustment is not available, then no adjustment is allowed 
 for that particular cost. 
  
@@ -429,13 +341,11 @@ ARTICLE 9
  
 Accumulation 
  
-1. 
-Each Party shall provide that an originating good or material of one of the 
+1.  Each Party shall provide that an originating good or material of one of the 
 Parties that is used in the production of another good in the territory of the other Party 
 is considered as originating in the territory of the other Party. 
  
-2. 
-Each Party shall provide that production undertaken on a non-originating 
+2.  Each  Party  shall  provide  that  production  undertaken  on  a  non-originating 
 material in the territory of one or both of the Parties by one or more producers may 
 contribute toward the originating content of a good for the purpose of determining its 
 origin, regardless of whether that production was sufficient to confer originating status 
@@ -443,31 +353,26 @@ to the material itself.
  
  
  
-8 
- 
-ARTICLE 10 
+7 
+ ARTICLE 10 
  
 De Minimis 
  
-1. 
-Each Party shall provide that a good that contains non-originating materials that 
+1.  Each Party shall provide that a good that contains non-originating materials that 
 do not satisfy the applicable change in tariff classification requirement specified in 
 Annex 2 (Product-Specific Rules of Origin) for the good is nonetheless an originating 
 good if: 
  
-(a) 
-the value of all these materials does not exceed 10 per cent of the value 
+(a)  the value of all these materials does not exceed 10 per cent of the value 
 of the good, as defined under Article 5 (Regional Value Content), and 
 the good meets all the other applicable requirements of this Chapter; or 
  
-(b) 
-for a good classified in Chapters 50 through 63 of the Harmonized 
+(b)  for a good classified in Chapters 50 through 63 of the Harmonized 
 System, the total weight of all such materials does not exceed 10 per 
 cent of the total weight of the good, or the total value of all such 
 materials does not exceed 10 per cent of the value of the good. 
  
-2.  
-Paragraph 1 applies only when using a non-originating material in the 
+2.   Paragraph  1  applies  only  when  using  a  non-originating  material  in  the 
 production of another good. 
  
  
@@ -478,14 +383,12 @@ Fungible Goods or Materials
 Each Party shall provide that a fungible good or material is treated as originating 
 based on the: 
  
-(a) 
-physical segregation of each fungible good or material; or 
+(a)  physical segregation of each fungible good or material; or 
  
-(b) 
-use of any inventory management method recognised in the Generally 
+(b)  use of any inventory management method recognised in the Generally 
 Accepted Accounting Principles if the fungible good or material is 
 commingled, provided that the inventory management method selected 
-is used throughout the fiscal year of the person that selected the 
+is  used  throughout  the  fiscal  year  of  the  person  that  selected  the 
 inventory management method. 
  
  
@@ -493,41 +396,33 @@ ARTICLE 12
  
 Accessories, Spare Parts, Tools and Instructional or Other Information Materials 
  
-1. 
-Each Party shall provide that: 
+1.  Each Party shall provide that: 
  
-(a) 
-in determining whether a good is wholly obtained, or satisfies a process 
+(a)  in determining whether a good is wholly obtained, or satisfies a process 
 or change in tariff classification requirement as set out in Annex 2 
 (Product-Specific Rules of Origin), accessories, spare parts, tools or 
 instructional or other information materials, as described in paragraph 3, 
 are to be disregarded; or   
  
-9 
- 
-(b) 
-in determining whether a good meets a regional value content 
-requirement, the value of the accessories, spare parts, tools or 
+8 
+ (b)  in  determining  whether  a  good  meets  a  regional  value  content 
+requirement,  the  value  of  the  accessories,  spare  parts,  tools  or 
 instructional or other information materials, as described in paragraph 3, 
 are to be taken into account as originating or non-originating materials, 
 as the case may be, in calculating the regional value content of the good. 
  
-2. 
-Each Party shall provide that a good’s accessories, spare parts, tools or 
+2.  Each  Party  shall  provide  that  a  good’s  accessories,  spare  parts,  tools  or 
 instructional or other information materials, as described in paragraph 3, have the 
 originating status of the good with which they are delivered. 
  
-3. 
-For the purposes of this Article, accessories, spare parts, tools, and instructional 
+3.  For the purposes of this Article, accessories, spare parts, tools, and instructional 
 or other information materials are covered when: 
  
-(a) 
-the accessories, spare parts, tools and instructional or other information 
+(a)  the accessories, spare parts, tools and instructional or other information 
 materials are classified with, delivered with but not invoiced separately 
 from the good; and 
  
-(b) 
-the types, quantities, and value of the accessories, spare parts, tools and 
+(b)  the types, quantities, and value of the accessories, spare parts, tools and 
 instructional or other information materials are customary for that good. 
  
  
@@ -535,16 +430,14 @@ ARTICLE 13
  
 Packaging Materials and Containers for Retail Sale 
  
-1. 
-Each Party shall provide that packaging materials and containers in which a 
-good is packaged for retail sale, if classified with the good, are disregarded in 
+1.  Each Party shall provide that packaging materials and containers in which a 
+good  is  packaged  for  retail  sale,  if  classified  with  the  good,  are  disregarded  in 
 determining whether all the non-originating materials used in the production of the good 
 have satisfied the applicable process or change in tariff classification requirement set 
 out in Annex 2 (Product-Specific Rules of Origin) or whether the good is wholly 
 obtained or produced.  
  
-2. 
-Each Party shall provide that if a good is subject to a regional value content 
+2.  Each Party shall provide that if a good is subject to a regional value content 
 requirement, the value of the packaging materials and containers in which the good is 
 packaged for retail sale, if classified with the good, are taken into account as originating 
 or non-originating, as the case may be, in calculating the regional value content of the 
@@ -562,14 +455,12 @@ disregarded in determining whether a good is originating.
  
  
  
-10 
- 
-ARTICLE 15 
+9 
+ ARTICLE 15 
  
 Indirect materials 
  
- 
-Each Party shall provide that an indirect material is considered to be originating 
+  Each Party shall provide that an indirect material is considered to be originating 
 without regard to where it is produced.   
  
  
@@ -577,26 +468,22 @@ ARTICLE 16
  
 Sets of Goods 
  
-1. 
-Each Party shall provide that for a set classified as a result of the application of 
+1.  Each Party shall provide that for a set classified as a result of the application of 
 rule 3(a) or 3(b) of the General Rules for the Interpretation of the Harmonized System, 
 the originating status of the set shall be determined in accordance with the product-
 specific rule of origin that applies to the set. 
  
-2. 
-Each Party shall provide that for a set classified as a result of the application of 
+2.  Each Party shall provide that for a set classified as a result of the application of 
 rule 3(c) of the General Rules for the Interpretation of the Harmonized System, the set 
 is originating only if each good in the set is originating and both the set and the goods 
 meet the other applicable requirements of this Chapter. 
  
-3. 
-Notwithstanding paragraph 2, for a set classified as a result of the application of 
+3.  Notwithstanding paragraph 2, for a set classified as a result of the application of 
 rule 3(c) of the General Rules for the Interpretation of the Harmonized System, the set 
 is originating if the value of all the non-originating goods in the set does not exceed 10 
 per cent of the value of the set. 
  
-4. 
-For the purposes of paragraph 3, the value of the non-originating goods in the 
+4.  For the purposes of paragraph 3, the value of the non-originating goods in the 
 set and the value of the set shall be calculated in the same manner as the value of non-
 originating materials and the value of the good. 
  
@@ -605,13 +492,11 @@ ARTICLE 17
  
 Transit and Transhipment 
  
-1. 
-Each Party shall provide that an originating good retains its originating status if 
+1.  Each Party shall provide that an originating good retains its originating status if 
 the good has been transported to the importing Party without passing through the 
 territory of a non-Party. 
  
-2. 
-Each Party shall provide that if an originating good is transported through the 
+2.  Each Party shall provide that if an originating good is transported through the 
 territory of one or more non-Parties, the good retains its originating status provided that 
 the good does not undergo any operation outside the territories of the Parties other than: 
 unloading; reloading; separation from a bulk shipment; storing; labelling or marking 
@@ -621,109 +506,83 @@ condition or to transport the good to the territory of the importing Party.
  
  
  
-11 
- 
-Section B: Origin Procedures 
+10 
+ Section B: Origin Procedures 
  
  
 ARTICLE 18 
  
 Claims for Preferential Treatment 
  
-1. 
-Each Party shall provide that an importer may make a claim for preferential 
+1.  Each Party shall provide that an importer may make a claim for preferential 
 tariff treatment, based on a certification of origin completed by the exporter, producer 
 or importer or an authorised representative of the exporter, producer or importer.2 
  
-2. 
- Each Party shall provide that a certification of origin: 
+2.    Each Party shall provide that a certification of origin: 
  
-(a) 
-need not follow a prescribed format; 
+(a)  need not follow a prescribed format; 
  
-(b) 
-be in writing, including electronic format; 
+(b)  be in writing, including electronic format; 
  
-(c) 
-specifies that the good is both originating and meets the requirements of 
+(c)  specifies that the good is both originating and meets the requirements of 
 this Chapter; and 
  
-(d) 
-contains a set of minimum data requirements as set out in Annex 3-A 
+(d)  contains a set of minimum data requirements as set out in Annex 3-A 
+    (Minimum Data Requirements). 
  
+3.    Each Party shall provide that a certification of origin may apply to: 
  
-(Minimum Data Requirements). 
+(a)  a single shipment of a good into the territory of a Party; or 
  
-3. 
- Each Party shall provide that a certification of origin may apply to: 
- 
-(a) 
-a single shipment of a good into the territory of a Party; or 
- 
-(b) 
-multiple shipments of identical goods within any period specified in the 
+(b)  multiple shipments of identical goods within any period specified in the 
 certification of origin, but not exceeding 12 months. 
  
-4. 
- Each Party shall provide that a certification of origin is valid for one year after 
+4.    Each Party shall provide that a certification of origin is valid for one year after 
 the date that it was issued or for such longer period specified by the laws and regulations 
 of the importing Party. 
  
-5.  
- Each Party shall allow an importer to submit a certification of origin in English.  
+5.     Each Party shall allow an importer to submit a certification of origin in English.  
  
  
 ARTICLE 19 
  
 Basis of a Certification of Origin 
  
-1. 
-Each Party shall provide that if a producer certifies the origin of a good, the 
+1.  Each Party shall provide that if a producer certifies the origin of a good, the 
 certification of origin is completed on the basis of the producer having information that 
 the good is originating. 
  
-2. 
-Each Party shall provide that if the exporter is not the producer of the good, a 
+2.  Each Party shall provide that if the exporter is not the producer of the good, a 
 certification of origin may be completed by the exporter of the good on the basis of: 
                                                  
 2 This article does not prevent parties maintaining laws and regulations governing the issuance of 
 certificates of origin. 
-12 
+11 
+  
+(a)  the exporter having information that the good is originating; or 
  
- 
-(a) 
-the exporter having information that the good is originating; or 
- 
-(b) 
-reasonable reliance on the producer’s information that the good is 
+(b)  reasonable  reliance  on  the  producer’s  information  that  the  good  is 
 originating.  
  
-3. 
-Each Party shall provide that a certification of origin may be completed by the 
+3.  Each Party shall provide that a certification of origin may be completed by the 
 importer of the good on the basis of: 
  
-(a) 
-the importer having documentation that the good is originating; or 
+(a)  the importer having documentation that the good is originating; or 
  
-(b) 
-reasonable reliance on supporting documentation provided by the 
+(b)  reasonable  reliance  on  supporting  documentation  provided  by  the 
 exporter or producer that the good is originating. 
  
-4. 
-Each Party shall provide that a certification of origin may be completed by an 
+4.  Each Party shall provide that a certification of origin may be completed by an 
 authorised representative of a producer, exporter or importer of the good on the basis 
 of: 
  
-(a) 
-the authorised representative having documentation that the good is 
+(a)  the authorised representative having documentation that the good is 
 originating; or 
  
-(b)  
-reasonable reliance on supporting documentation provided by the 
+(b)   reasonable  reliance  on  supporting  documentation  provided  by  the 
 producer, exporter or importer that the good is originating. 
  
-5. 
-For greater certainty, nothing in paragraph 1 or paragraph 2 shall be construed 
+5.  For greater certainty, nothing in paragraph 1 or paragraph 2 shall be construed 
 to allow a Party to require an exporter or producer to complete a certification of origin 
 or provide a certification of origin to another person. 
  
@@ -740,21 +599,17 @@ ARTICLE 21
  
 Waiver of Certification of Origin 
  
+  Neither Party shall require a certification of origin if: 
  
-Neither Party shall require a certification of origin if: 
- 
-(a) 
-the customs value of the importation does not exceed 1000 Australian 
+(a)  the customs value of the importation does not exceed 1000 Australian 
 dollars for Australia or the equivalent amount in the importing Party’s 
 currency or any higher amount as the importing Party may establish; or 
  
-(b) 
-it is for an importation of a good for which the importing Party has 
+(b)  it is for an importation of a good for which the importing Party has 
 waived the requirement for a certificate of origin, 
  
-13 
- 
-provided that the importation does not form part of a series of importations carried out 
+12 
+ provided that the importation does not form part of a series of importations carried out 
 or planned for the purpose of evading compliance with the importing Party’s laws 
 governing claims for preferential tariff treatment under this Agreement. 
  
@@ -763,29 +618,23 @@ ARTICLE 22
  
 Obligations Relating to Importation 
  
-1. 
-Except as otherwise provided for in this Chapter, each Party shall provide that, 
+1.  Except as otherwise provided for in this Chapter, each Party shall provide that, 
 for the purpose of claiming preferential tariff treatment, the importer shall: 
  
-(a) 
-make a declaration3 that the good qualifies as an originating good; 
+(a)  make a declaration3 that the good qualifies as an originating good; 
  
-(b) 
-have a valid certification of origin in its possession at the time the 
+(b)  have a valid certification of origin in its possession at the time the 
 declaration referred to in subparagraph (a) is made; and 
  
-(c) 
-provide a copy of the certification of origin to the importing Party if 
+(c)  provide a copy of the certification of origin to the importing Party if 
 required by the Party. 
  
-2.  
-Each Party shall provide that, if the importer has reason to believe that the 
+2.   Each Party shall provide that, if the importer has reason to believe that the 
 certification of origin is based on incorrect information that could affect the accuracy 
 or validity of the certification of origin, the importer shall correct the importation 
 document and pay any customs duty and, if applicable, penalties owed.  
  
-3.  
-No importing Party shall subject an importer to a penalty for making an invalid 
+3.   No importing Party shall subject an importer to a penalty for making an invalid 
 claim for preferential tariff treatment if the importer, on becoming aware that such a 
 claim is not valid and prior to discovery of the error by that Party, voluntarily corrects 
 the claim and pays any applicable customs duty under the circumstances provided for 
@@ -795,8 +644,7 @@ in the Party’s law.
 ARTICLE 23 
  
 Obligations Relating to Exportation 
- 
- 
+   
 Each Party shall provide that an exporter or a producer, or their authorised 
 representative, that has completed and signed a certificate of origin, shall, on request, 
 provide a copy of the certificate of origin and such other documents to its customs 
@@ -812,36 +660,30 @@ administration, if required by the Party’s laws and regulations.
 3 A Party shall specify its declaration requirements in its laws, regulations or procedures that are 
 published or otherwise made available in a manner as to enable interested persons to become acquainted 
 with them.  
-14 
- 
-ARTICLE 24 
+13 
+ ARTICLE 24 
  
 Record Keeping Requirements 
  
-1. 
-Each Party shall provide that an importer claiming preferential tariff treatment 
+1.  Each Party shall provide that an importer claiming preferential tariff treatment 
 for a good imported into the territory of that Party shall maintain, for a period of no less 
 than five years from the date of importation of the good: 
  
-(a) 
-the documentation related to the importation, including the certification 
+(a)  the documentation related to the importation, including the certification 
 of origin that served as the basis for the claim; and 
  
-(b) 
-all records necessary to demonstrate that the good is originating and 
+(b)  all records necessary to demonstrate that the good is originating and 
 qualified for preferential tariff treatment, if the claim was based on a 
 certification of origin completed by the importer. 
  
-2. 
-Each Party shall provide that a producer or exporter in its territory that provides 
+2.  Each Party shall provide that a producer or exporter in its territory that provides 
 a certification of origin shall maintain, for a period of no less than five years from the 
 date the certification of origin was issued, all records necessary to demonstrate that a 
 good for which the exporter or producer provided a certification of origin is originating. 
 Each Party shall endeavour to make available information on types of records that may 
 be used to demonstrate that a good is originating. 
  
-3. 
-Each Party shall provide that an importer, exporter or producer in its territory 
+3.  Each Party shall provide that an importer, exporter or producer in its territory 
 may choose to maintain the records specified in paragraph 1 and paragraph 2 in any 
 medium that allows for prompt retrieval, including electronic, optical, magnetic or 
 written form in accordance with that Party’s law. 
@@ -851,51 +693,41 @@ ARTICLE 25
  
 Verification of Origin 
  
-1. 
-For the purposes of determining whether a good imported into a Party from the 
+1.  For the purposes of determining whether a good imported into a Party from the 
 other Party qualifies as an originating good, the customs administration of the importing 
 Party may conduct a verification action by means of:  
  
-(a) 
-written requests for information from the importer; 
+(a)  written requests for information from the importer; 
  
-(b)  
-written requests for information from the exporter or producer of the 
+(b)   written requests for information from the exporter or producer of the 
 exporting Party; 
  
-(c)  
-requests that the customs administration of the exporting Party assist in 
+(c)   requests that the customs administration of the exporting Party assist in 
 verifying the origin of the good; or 
  
-(d)  
-verification visits to the premises of the exporter or the producer in the 
+(d)   verification visits to the premises of the exporter or the producer in the 
 territory of the other Party to observe the facilities and the production 
 processes of the good and to review the records referring to origin, 
 including accounting records. 
  
-15 
- 
-2. 
-For the purposes of paragraph 1(a) and paragraph 1(b), the customs 
+14 
+ 2.  For  the  purposes  of  paragraph  1(a)  and  paragraph  1(b),  the  customs 
 administration shall allow the importer, exporter, or producer a period of 30 days from 
 the date of the written request to respond. During this period the importer, exporter, or 
 producer may request, in writing, an extension not exceeding 30 days. 
  
-3. 
-For the purposes of this Article and Article 26 (Verification Visit), all the 
+3.  For the purposes of this Article and Article 26 (Verification Visit), all the 
 information requested by the importing Party and responded to by the exporting Party 
 shall be communicated in English. 
  
-4. 
-The customs administration of the importing Party shall complete any action 
+4.  The customs administration of the importing Party shall complete any action 
 under paragraph 1 to verify eligibility for preferential tariff treatment within the period 
 specified in the laws, regulations or administrative procedures of the importing Party. 
 Upon completion of the verification action, the customs administration shall provide 
 written advice to the importer, exporter or producer of its decision as well as the legal 
 basis and findings of fact on which the decision was made within 90 days.  
  
-5. 
-Where a verification visit was undertaken, the customs administration shall also 
+5.  Where a verification visit was undertaken, the customs administration shall also 
 provide advice of the decision to the exporting Party. 
  
  
@@ -903,56 +735,42 @@ ARTICLE 26
  
 Verification Visit 
  
-1. 
-Prior to conducting a verification visit under Article 25.1(d) (Verification of 
+1.  Prior to conducting a verification visit under Article 25.1(d) (Verification of 
 Origin), the customs administration of the importing Party shall:  
  
-(a) 
-make a written request to the exporter or producer to conduct a 
+(a)  make  a  written  request  to  the  exporter  or  producer  to  conduct  a 
 verification visit of their premises; and 
  
-(b) 
-obtain the written consent of the exporter or producer whose premises 
+(b)  obtain the written consent of the exporter or producer whose premises 
 are to be visited. 
-2. 
-An exporter or producer should provide its written consent to a proposed 
+2.  An exporter or producer should provide its written consent to a proposed 
 verification visit within 30 days from the receipt of notification in accordance with 
 paragraph 1(a). 
  
-3. 
-The written request referred to in paragraph 1(a) shall include:  
+3.  The written request referred to in paragraph 1(a) shall include:  
  
-(a) 
-the identity of the customs administration issuing the request; 
+(a)  the identity of the customs administration issuing the request; 
  
-(b) 
-the name of the exporter of the good in the exporting Party to whom the 
-request is addressed;  
+(b)  the name of the exporter of the good in the exporting Party to whom the 
+request is addressed;   
  
-(c) 
-the date the written request is made; 
+(c)  the date the written request is made; 
  
-(d) 
-the proposed date and place of the visit; 
+(d)  the proposed date and place of the visit; 
  
-16 
- 
-(e) 
-the objective and scope of the proposed visit, including specific 
+15 
+ (e)  the  objective  and  scope  of  the  proposed  visit,  including  specific 
 reference to the good that is the subject of the verification referred to in 
 the certificate of origin; and 
  
-(f) 
-the names and titles of the officials of the customs administration of the 
+(f)  the names and titles of the officials of the customs administration of the 
 importing Party who will participate in the visit. 
  
-4. 
-The customs administration of the importing Party shall notify the customs 
+4.  The customs administration of the importing Party shall notify the customs 
 administration of the exporting Party when it requests a verification visit in accordance 
 with this Article. 
  
-5. 
-Officials of the customs administration of the exporting Party may participate 
+5.  Officials of the customs administration of the exporting Party may participate 
 in the verification visit as observers. 
  
  
@@ -960,75 +778,59 @@ ARTICLE 27
  
 Determinations on Claims for Preferential Tariff Treatment 
  
-1. 
-Except as otherwise provided in paragraph 2, each Party shall grant a claim for 
+1.  Except as otherwise provided in paragraph 2, each Party shall grant a claim for 
 preferential tariff treatment made on or after the date of entry into force of this 
 Agreement for that Party. 
  
-2. 
-The importing Party may deny a claim for preferential tariff treatment if:   
+2.  The importing Party may deny a claim for preferential tariff treatment if:   
  
-(a) 
-it determines that the good does not qualify for preferential treatment; 
+(a)  it determines that the good does not qualify for preferential treatment; 
  
-(b) 
-pursuant to a verification under Article 25 (Verification of Origin), it has 
+(b)  pursuant to a verification under Article 25 (Verification of Origin), it has 
 not received sufficient information to determine that the good qualifies 
 as originating;  
  
-(c) 
-the exporter, producer or importer fails to respond to a written request 
+(c)  the exporter, producer or importer fails to respond to a written request 
 for information in accordance with Article 25 (Verification of Origin); 
  
-(d) 
-after receipt of a written notification for a verification visit, the exporter 
+(d)  after receipt of a written notification for a verification visit, the exporter 
 or producer does not provide its written consent in accordance with 
 Article 25 (Verification of Origin); or 
  
-(e) 
-the importer, exporter or producer fails to comply with the requirements 
+(e)  the importer, exporter or producer fails to comply with the requirements 
 of this Chapter. 
  
-3. 
-If an importing Party denies a claim for preferential tariff treatment, it shall issue 
+3.  If an importing Party denies a claim for preferential tariff treatment, it shall issue 
 a determination to the importer that includes the reasons for the determination.  
  
-4. 
-A Party shall not reject a claim for preferential tariff treatment for the sole 
+4.  A Party shall not reject a claim for preferential tariff treatment for the sole 
 reason that the invoice was issued in a non-Party.   
  
  
  
  
-17 
- 
-ARTICLE 28 
+16 
+ ARTICLE 28 
  
 Refunds and Claims for Preferential Tariff Treatment after Importation 
  
-1. 
-Each Party shall provide that an importer may apply for preferential tariff 
+1.  Each Party shall provide that an importer may apply for preferential tariff 
 treatment and a refund of any excess duties paid for a good if the importer did not make 
 a claim for preferential tariff treatment at the time of importation, provided that the 
 good would have qualified for preferential tariff treatment when it was imported into 
 the territory of the Party. 
  
-2. 
-As a condition for preferential tariff treatment under paragraph 1, the importing 
+2.  As a condition for preferential tariff treatment under paragraph 1, the importing 
 Party may require that the importer: 
  
-(a) 
-make a claim for preferential tariff treatment;   
+(a)  make a claim for preferential tariff treatment;   
  
-(b) 
-provide a statement that the good was originating at the time of 
+(b)  provide  a  statement  that  the  good  was  originating  at  the  time  of 
 importation;    
  
-(c) 
-provide a copy of the certification of origin; and 
+(c)  provide a copy of the certification of origin; and 
  
-(d) 
-provide such other documentation relating to the importation of the good 
+(d)  provide such other documentation relating to the importation of the good 
 as the importing Party may require, 
  
 no later than one year after the date of importation or a longer period if specified in the 
@@ -1058,63 +860,52 @@ Section C: Other Matters
  
  
  
-18 
- 
-ARTICLE 31 
+17 
+ ARTICLE 31 
  
 Consultation on Rules of Origin and Origin Procedures 
  
-1. 
-The Parties shall consult regularly to ensure that this Chapter is administered 
+1.  The Parties shall consult regularly to ensure that this Chapter is administered 
 effectively, uniformly and consistently with the spirit and objectives of this Agreement, 
 and shall cooperate in the administration of this Chapter. 
  
-2. 
-The Parties shall consult to discuss possible amendments or modifications to 
-this Chapter and its Annexes, taking into account developments in technology, 
+2.  The Parties shall consult to discuss possible amendments or modifications to 
+this  Chapter  and  its  Annexes,  taking  into  account  developments  in  technology, 
 production processes or other related matters.   
  
-3. 
-Prior to the entry into force of an amended version of the Harmonized System, 
+3.  Prior to the entry into force of an amended version of the Harmonized System, 
 the Committee shall consult to prepare updates to this Chapter that are necessary to 
 reflect changes to the Harmonized System.   
- 
- 
- 
- 
-19 
- 
-ANNEX 3-A 
+   
+   
+18 
+ ANNEX 3-A 
  
 MINIMUM DATA REQUIREMENTS 
  
 A certification of origin that is the basis for a claim for preferential tariff 
 treatment under this Agreement shall include the following elements: 
  
-1. 
-Importer, Exporter, Producer or Authorised Representative Certification 
+1.  Importer, Exporter, Producer or Authorised Representative Certification 
 of Origin 
  
-Indicate whether the certifier is the exporter, producer or importer or an 
+Indicate  whether  the  certifier  is  the  exporter,  producer  or  importer  or  an 
 authorised representative of the exporter, producer or importer in accordance with 
 Article 18 (Claims for Preferential Treatment). 
  
-2. 
-Certifier 
+2.  Certifier 
  
 Provide the certifier’s name, address (including country), telephone number and 
 e-mail address.  
  
-3. 
-Exporter 
+3.  Exporter 
  
 Provide the exporter’s name, address (including country), e-mail address and 
 telephone number if different from the certifier. This information is not required if the 
 producer is completing the certification of origin and does not know the identity of the 
 exporter.   
  
-4.  
-Producer 
+4.   Producer 
  
 Provide the producer’s name, address (including country), e-mail address and 
 telephone number, if different from the certifier or exporter or, if there are multiple 
@@ -1122,40 +913,32 @@ producers, state “Various” or provide a list of producers. A person that wis
 information to remain confidential may state “Available upon request by the importing 
 authorities”.  
  
-5. 
-Importer 
+5.  Importer 
  
 Provide, if known, the importer’s name, address, e-mail address and telephone 
 number.    
  
-6. 
-Description and HS Tariff Classification of the Good 
+6.  Description and HS Tariff Classification of the Good 
  
-(a) 
-Provide a description of the good and the HS tariff classification of the 
+(a)  Provide a description of the good and the HS tariff classification of the 
 good to the 6-digit level. The description should be sufficient to relate it 
 to the good covered by the certification; and  
  
-(b) 
-If the certification of origin covers a single shipment of a good, indicate, 
+(b)  If the certification of origin covers a single shipment of a good, indicate, 
 if known, the invoice number related to the exportation. 
  
-7. 
-Origin Criterion 
+7.  Origin Criterion 
  
-20 
+19 
+ Specify the rule of origin under which the good qualifies. 
  
-Specify the rule of origin under which the good qualifies. 
- 
-8. 
-Blanket Period 
+8.  Blanket Period 
  
 Include the period if the certification covers multiple shipments of identical 
 goods for a specified period of up to 12 months as set out in Article 18.4 (Claims for 
 Preferential Treatment).  
  
-9. 
-Authorised Signature and Date: 
+9.  Authorised Signature and Date: 
  
 The certification must be signed and dated by the certifier and accompanied by 
 the following statement:  
@@ -1163,7 +946,7 @@ the following statement:
 I certify that the goods described in this document qualify as originating 
 and the information contained in this document is true and accurate. I 
 assume responsibility for proving such representations and agree to 
-maintain and present upon request or to make available during a 
+maintain  and  present  upon  request  or  to  make  available  during  a 
 verification visit, documentation necessary to support this certification. 
  
  
@@ -1173,4 +956,6 @@ verification visit, documentation necessary to support this certification.
  
  
  
+ 
+20 
  

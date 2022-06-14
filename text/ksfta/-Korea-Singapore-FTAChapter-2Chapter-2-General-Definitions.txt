@@ -34,8 +34,7 @@ Agreement;
 days means calendar days including weekends and holidays;  
  
  
-enterprise  means 
-any  corporation,  company,  association,  partnership,  trust,  joint  
+enterprise  means  any  corporation,  company,  association,  partnership,  trust,  joint  
 venture, sole-proprietorship or other legally recognised entity that is duly incorporated,  
 constituted,  set  up,  or  otherwise  duly  organised  under  the  law  of  a  Party,  including  
 branches,  regardless  of  whether  or  not  the  entity  is  organised  for  pecuniary  gain,  
@@ -50,8 +49,7 @@ Agreement;
  
  
 GATT 1994 means the General Agreement on Tariffs and Trade 1994, which is a part  
-of the WTO Agreement;  
- 
+of the WTO Agreement;   
  
  
  

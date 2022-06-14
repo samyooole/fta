@@ -10,7 +10,7 @@ The Republic of India and the Republic of Singapore (hereinafter referred to in
 this Protocol as “the Parties”), 
  
 HAVING UNDERTAKEN a general review of the Comprehensive Economic 
-Cooperation Agreement between the Republic of India and the Republic of 
+Cooperation  Agreement  between the  Republic  of  India and the  Republic  of 
 Singapore signed in New Delhi on 29 June 2005 (hereinafter referred to as “the 
 Agreement”), pursuant to Article 16.3 of the Agreement; 
  
@@ -29,8 +29,7 @@ HAVE AGREED as follows:
  
  
 Article 1 
- 
-Article 2.3 of the Agreement shall be amended by adding the phrase “and 
+  Article 2.3 of the Agreement shall be amended by adding the phrase “and 
 Annex 2A Ter” immediately after the expression “Annex 2A Bis” 
  
  
@@ -41,35 +40,32 @@ Agreement immediately after Annex 2A Bis.
  
  
 Article 3 
- 
-Article 2.7 (Anti-Dumping) of the Agreement shall be amended by adding, 
+ Article 2.7 (Anti-Dumping) of the Agreement shall be amended by adding, 
 after Article 2.7.4, the following: 
  
 “ARTICLE 2.7.5: EXEMPTION FROM INVESTIGATION AFTER TERMINATION 
  
-1.  Where an anti-dumping investigation in respect of goods from the other 
+1.   Where an anti-dumping investigation in respect of goods from the other 
 Party is terminated with negative final determination, no investigation shall be 
 initiated on the same goods by the importing Party within one year from the date 
 of termination of the previous investigation. 
  
-2.  Notwithstanding paragraph 1, the investigating authority of the importing 
+2.   Notwithstanding paragraph 1, the investigating authority of the importing 
 Party may initiate an investigation in an exceptional circumstance. 
  
  
 ARTICLE 2.7.6: LESSER DUTY RULE 
  
- 
-If a Party takes a decision to impose an anti-dumping duty in respect of 
-goods from the other Party pursuant to Article 9.1 of the Anti-Dumping 
+  If a Party takes a decision to impose an anti-dumping duty in respect of 
+goods  from  the  other  Party  pursuant  to  Article  9.1  of  the  Anti-Dumping 
 Agreement, it shall apply a duty less than the margin of dumping where such 
 lesser duty would be adequate to remove the injury to the domestic industry. 
  
  
 ARTICLE 2.7.7: PROHIBITION OF ZEROING 
  
- 
-When dumping margins are established, assessed, or reviewed by a Party in 
-any anti-dumping proceeding provided in the Anti-Dumping Agreement, all 
+  When dumping margins are established, assessed, or reviewed by a Party in 
+any  anti-dumping  proceeding  provided  in  the  Anti-Dumping  Agreement,  all 
 individual margins, whether positive or negative, shall be counted toward the 
 average regardless of the comparison bases provided for under Article 2.4.2 of 
 the Anti-Dumping Agreement.” 
@@ -77,81 +73,65 @@ the Anti-Dumping Agreement.”
  
 Article 4 
  
- 
-Article 3.4 (Not Wholly Obtained or Produced) of the Agreement shall be 
+  Article 3.4 (Not Wholly Obtained or Produced) of the Agreement shall be 
 replaced with the following: 
  
 “ARTICLE 3.4: NOT WHOLLY OBTAINED OR PRODUCED 
  
-1. 
-Within the meaning of paragraph (b) of Article 3.2 and subject to the 
+1.  Within the meaning of paragraph (b) of Article 3.2 and subject to the 
 provisions of Articles 3.6, 3.9 and that the final process of manufacturing is 
-performed within the territory of the exporting Party, products would be 
+performed  within  the  territory  of  the  exporting  Party,  products  would  be 
 considered as originating if: 
- 
-(a)       (i)  
-the total value of the materials, parts or produce originating 
-from countries other than the Parties or of undetermined 
+ (a)       (i)   the total value of the materials, parts or produce originating 
+from  countries  other  than  the  Parties  or  of  undetermined 
 origin used in the manufacture of the product does not exceed 
 65% of the FOB value of the product so produced or obtained; 
 and, 
  
-(ii)  
-the product so produced or obtained is classified in a heading, 
+(ii)   the product so produced or obtained is classified in a heading, 
 at the six digit level, of the Harmonised System different from 
 those  in which all the non-originating materials used in its 
 manufacture are classified; or 
  
-(b)  
-the product satisfies the Product Specific Rules as specified in 
+(b)   the  product  satisfies  the  Product  Specific  Rules  as  specified  in 
 Annex 3A.” 
  
  
 Article 5 
  
- 
-Chapter 3 (Rules of Origin), Section B (Origin Determination), of the 
+  Chapter 3 (Rules of Origin), Section B (Origin Determination), of the 
 Agreement shall be amended by adding, after Article 3.4 (Not Wholly Obtained 
 or Produced), the following: 
  
 “ARTICLE: 3.4A: DE MINIMIS 
  
-1. 
-A good that does not undergo a change in tariff classification pursuant to 
+1.  A good that does not undergo a change in tariff classification pursuant to 
 Article 3.4 and Annex 3A in the final process of production shall be considered 
 as originating if: 
  
-(a) 
-for all goods except those falling within Chapters 50 through 63 of 
+(a)  for all goods except those falling within Chapters 50 through 63 of 
 the Harmonised System:  
  
-i. 
-the value of all non-originating materials used in its 
+i.  the  value  of  all  non-originating  materials  used  in  its 
 production, which do not undergo the required change in tariff 
 classification, does not exceed ten percent of the FOB value 
 of the good; and 
  
-ii. 
-the good meets all other applicable criteria set forth in this 
+ii.  the good meets all other applicable criteria set forth in this 
 Chapter for qualifying as an originating good; and 
  
-(b) 
-for goods falling within Chapters 50 through 63 of the Harmonised 
+(b)  for goods falling within Chapters 50 through 63 of the Harmonised 
 System:  
  
-i. 
-the total weight of non-originating basic textile materials used 
-in its production, which do not undergo the required change 
-in tariff classification, does not exceed seven percent of the 
+i.  the total weight of non-originating basic textile materials used 
+in its production, which do not undergo the required change in tariff classification, does not exceed seven percent of the 
 total weight of all the basic textile material used; and 
  
-ii. 
-the good meets all other applicable criteria set forth in this 
+ii.  the good meets all other applicable criteria set forth in this 
 Chapter for qualifying as an originating good. 
  
-2. 
-The value of such non-originating materials shall be included in the value 
-of non-originating materials for any applicable regional value content 
+2.  The value of such non-originating materials shall be included in the value 
+of  non-originating  materials  for  any  applicable  regional  value  content 
 requirement for the good.” 
  
  
@@ -162,8 +142,8 @@ the following:
  
 “ARTICLE 3.15: CERTIFICATE OF ORIGIN  
  
-Products eligible for preferential concessions shall be supported by a 
-Certificate of Origin issued by a government authority designated by the 
+Products  eligible  for  preferential  concessions  shall  be  supported  by  a 
+Certificate  of  Origin  issued  by  a  government  authority  designated  by  the 
 government of the exporting Party (referred to herein as “the Issuing Authority”) 
 and notified to the other Party in accordance with the Operational Certification 
 Procedures, as set out in Annex 3B.” 
@@ -176,84 +156,59 @@ the Agreement shall be replaced by the following:
   
 “ARTICLE 3.16: CO-OPERATION ON VERIFICATION OF CERTIFICATES OF ORIGIN  
  
-1.  
-The Parties shall co-operate with each other to verify the authenticity and 
+1.   The Parties shall co-operate with each other to verify the authenticity and 
 the correctness of the information given in the certificates of origin.  
  
-2.  
-For the purpose of implementing the provisions of paragraph 1, the 
+2.   For  the  purpose  of  implementing  the  provisions  of  paragraph  1,  the 
 Customs Authority of the importing Party shall return the certificate of origin, or 
 a copy of the document, to the Issuing Authority of the exporting Party, giving 
 the reason for the enquiry. Any document and/or information obtained suggesting 
-that the information given on the certificate of origin is incorrect shall be 
-forwarded in support of the request for verification.  
- 
-3.  
-The verification shall be carried out by the Issuing Authority of the 
+that  the  information  given  on  the  certificate  of  origin  is  incorrect  shall  be 
+forwarded in support of the request for verification.   
+3.   The  verification  shall  be  carried  out  by  the  Issuing  Authority  of  the 
 exporting Party.” 
  
  
 Article 8 
  
- 
-Annex 3A, as attached to this Protocol, shall replace Annex 3A in the 
+  Annex 3A, as attached to this Protocol, shall replace Annex 3A in the 
 Agreement. 
  
  
 Article 9 
  
- 
-Annex 3B, as attached to this Protocol, shall replace Annex 3B in the 
+  Annex 3B, as attached to this Protocol, shall replace Annex 3B in the 
 Agreement. 
  
  
 Article 10 
  
-1. 
-This Protocol shall enter into force on 14th September 2018. 
+1.  This Protocol shall enter into force on 14th September 2018. 
  
-2. 
-Unless the Parties decide otherwise, this Protocol shall remain in force for 
+2.  Unless the Parties decide otherwise, this Protocol shall remain in force for 
 so long as the Agreement remains in force. 
  
  
-IN WITNESS WHEREOF, the undersigned, being duly authorised by their 
+IN  WITNESS  WHEREOF,  the  undersigned,  being  duly  authorised  by  their 
 respective governments, have signed this Protocol.  
  
 DONE at New Delhi, India on 24th August 2018 in duplicate. 
   
-FOR THE GOVERNMENT OF THE 
-REPUBLIC OF INDIA:  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-FOR THE GOVERNMENT OF THE 
-REPUBLIC OF SINGAPORE:  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-................................................  
-(RAJNEESH) 
-Joint Secretary 
-Ministry of Commerce and Industry  
- 
-.................................................  
-(FRANCIS CHONG) 
-Senior Director 
-Ministry of Trade and Industry 
+FOR THE GOVERNMENT OF THE  FOR THE GOVERNMENT OF THE 
+REPUBLIC OF INDIA:   REPUBLIC OF SINGAPORE:  
+   
+   
+   
+   
+   
+   
+   
+   
+      
+................................................   .................................................  
+(RAJNEESH)  (FRANCIS CHONG) 
+Joint Secretary  Senior Director 
+Ministry of Commerce and Industry   Ministry of Trade and Industry 
   
  
  

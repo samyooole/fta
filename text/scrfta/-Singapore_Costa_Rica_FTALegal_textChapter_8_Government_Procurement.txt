@@ -1,55 +1,41 @@
  
- 
-49 
- 
 Chapter 8 
 Government Procurement  
  
  
 Article 8.1: Objective 
  
-1. 
- The Parties recognize the importance of transparency and the need to 
+1.   The Parties recognize the importance of transparency and the need to 
 maximize competitive opportunities for their suppliers and to reduce costs of 
-doing business for both government and industry through reciprocal and 
+doing  business  for  both  government  and  industry  through  reciprocal  and 
 gradual opening of their respective procurement market, taking into account 
-the contribution of transparent and competitive tendering to sustainable 
+the  contribution  of  transparent  and  competitive  tendering  to  sustainable 
 economic development. 
  
-2.  
-The Parties shall achieve this objective through: 
+2.   The Parties shall achieve this objective through: 
  
-(a) 
-ensuring their suppliers the opportunity to compete on an equal 
+(a)  ensuring their suppliers the opportunity to compete on an equal 
 and transparent basis for government procurements; 
  
-(b) 
-ensuring 
-the 
-non-application 
-against 
-their 
-suppliers 
-of 
+(b)  ensuring  the  non-application  against  their  suppliers  of 
 preferential schemes and other forms of discrimination based on 
-the place of origin of goods and services ; and 
+the place of origin of goods and services; and 
  
-(c) 
-promoting the use of electronic procurement. 
+(c)  promoting the use of electronic procurement. 
  
  
 Article 8.2: Definitions 
  
 For purposes of this Chapter: 
  
-build-operate-transfer contract and public works concession 
+build-operate-transfer  contract  and  public  works  concession 
 contract mean any contractual arrangement the primary purpose of 
-which is to provide for the construction or rehabilitation of physical 
-infrastructure, plant, buildings, facilities, or other government-owned 
+which  is  to  provide  for  the  construction  or  rehabilitation  of  physical 
+infrastructure,  plant,  buildings,  facilities,  or  other  government-owned 
 works and under which, as consideration for a supplier’s execution of a 
 contractual arrangement, a procuring entity grants the supplier, for a 
 specified period of time, temporary ownership, or a right to control and 
-operate, and demand payment for the use of, such works for the 
+operate,  and  demand  payment  for  the  use  of,  such  works  for  the 
 duration of the contract; 
  
 conditions for participation means any registration, qualification or 
@@ -59,123 +45,104 @@ government procurement means the process by which a procuring
 entity purchases goods and services; 
  
 in writing or written means any worded or numbered expression that 
-can be read, reproduced, and later communicated, including 
-electronically transmitted and stored information ; 
+can  be  read,  reproduced,  and  later  communicated,  including 
+electronically transmitted and stored information; 
  
- 
- 
-50 
-limited tendering means a procurement method where the procuring 
+4 9 
+ limited tendering means a procurement method where the procuring 
 entity contacts a supplier or suppliers of its choice; 
  
-measure means any law, regulation, procedure, requirement or 
+measure  means  any  law,  regulation,  procedure,  requirement  or 
 practice; 
  
 notice of intended procurement means a notice to be published in 
 advance by a procuring entity inviting interested suppliers to submit 
 tenders for that procurement; 
  
-offsets means measures used to encourage local development or 
-improve the balance-of-payments accounts by means of domestic 
-content, licensing of technology, investment requirements, counter-
+offsets  means  measures  used  to  encourage  local  development  or 
+improve  the  balance-of-payments  accounts  by  means  of  domestic 
+content,  licensing  of  technology,  investment  requirements,  counter-
 trade or similar requirements; 
  
-open tendering means a procurement method where all interested 
+open tendering  means a procurement  method where all interested 
 suppliers may submit a tender; 
  
-procuring entity means an entity listed in Annex 8.1 (Government 
+procuring entity  means an entity listed in Annex 8.1 (Government 
 Procurement Schedules); 
  
 services includes construction services, unless otherwise specified; 
  
 standard means a document approved by a recognized body, that 
-provides, for common and repeated use, rules, guidelines or 
-characteristics for goods or services or related processes and 
+provides,  for  common  and  repeated  use,  rules,  guidelines  or 
+characteristics  for  goods  or  services  or  related  processes  and 
 production methods, with which compliance is not mandatory. It may 
 also include or deal exclusively with terminology, symbols, packaging, 
 marking or labelling requirements as they apply to a product, service, 
 process or production method; 
  
-supplier means a person that provides or could provide goods or 
+supplier  means  a  person  that  provides  or  could  provide  goods  or 
 services to a procuring entity; and 
  
 technical specification means a tendering requirement that: 
  
-(a) 
-lays down the characteristics of goods or services to be 
-procured, including quality, performance, safety and 
-dimensions, or the processes and methods for their 
+(a)  lays down the characteristics of goods or services to be 
+procured,  including  quality,  performance,  safety  and 
+dimensions,  or  the  processes  and  methods  for  their 
 production or provision; or 
  
-(b) 
-addresses terminology, symbols, packaging, marking or 
+(b)  addresses terminology, symbols, packaging, marking or 
 labelling requirements, as they apply to a good or service. 
  
  
 Article 8.3: Scope and Coverage 
  
-1.  
-This Chapter applies to all measures regarding any covered 
+1.   This  Chapter  applies  to  all  measures  regarding  any  covered 
 procurement by entities covered by this Chapter as specified in Annex 8.1 
 (Government Procurement Schedules). 
- 
- 
-51 
- 
-2.  
-This Chapter applies to procurement of goods or services, or any 
-combination of goods and services by any contractual means, including 
+5 0 
+  
+2.   This  Chapter  applies  to  procurement  of  goods  or  services,  or  any 
+combination  of  goods  and  services  by  any  contractual  means,  including 
 through such methods as purchase or as lease, rental or hire purchase, with 
 or without an option to buy, build-operate-transfer contracts and public works 
 concessions. 
  
-3.  
-Where procuring entities, in the context of a procurement covered 
+3.   Where  procuring  entities,  in  the  context  of  a  procurement  covered 
 under this Chapter, require public entities not covered to award contracts in 
 the name of the covered entity, Article 8.4 (National Treatment and Non-
 Discrimination) shall apply, mutatis mutandis, to such requirements. 
  
-4.  
-This Chapter applies to any procurement contract with a value of not 
-less than the relevant threshold specified in Annex 8.1 (Government 
+4.   This Chapter applies to any procurement contract with a value of not 
+less  than  the  relevant  threshold  specified  in  Annex  8.1  (Government 
 Procurement Schedules). 
  
-5.  
-Except as otherwise specified in Annex 8.1 (Government Procurement 
+5.   Except as otherwise specified in Annex 8.1 (Government Procurement 
 Schedules), this Chapter does not cover: 
  
-(a) 
-non-contractual agreements or any form of governmental 
-assistance, including cooperative agreements, grants, loans, 
+(a)  non-contractual  agreements  or  any  form  of  governmental 
+assistance,  including  cooperative  agreements,  grants,  loans, 
 equity infusions, guarantees, fiscal incentives and governmental 
-provision of goods and services to persons or governmental 
+provision  of  goods  and  services  to  persons  or  governmental 
 authorities; 
  
-(b) 
-purchases funded by international grants, loans or other 
+(b)  purchases  funded  by  international  grants,  loans  or  other 
 assistance, where the provision of such assistance is subject to 
-conditions inconsistent with the provisions of this Chapter ; 
+conditions inconsistent with the provisions of this Chapter; 
  
-(c) 
-acquisition of fiscal agency or depository services, liquidation 
-and management services for regulated financial institutions, 
+(c)  acquisition of fiscal agency or depository services, liquidation 
+and  management  services  for  regulated  financial  institutions, 
 and services related to the sale, redemption and distribution of 
-government debt9
+government debt9;  
  
-;  
-(d) 
-hiring of government employees and its related employment 
+(d)  hiring  of  government  employees  and  its  related  employment 
 measures; 
  
-(e) 
-the acquisition or rental of land, buildings or other immovable 
+(e)  the acquisition or rental of land, buildings or other immovable 
 property or the rights thereon; and 
  
-(f) 
-procurement between public entities of the same Party. 
+(f)  procurement between public entities of the same Party. 
  
-6.  
-No procuring entity may, at any stage of the procurement, prepare, 
+6.   No procuring entity may, at any stage of the procurement, prepare, 
 design or otherwise structure or divide any procurement in order to avoid any 
 obligation under this Chapter. 
                                                 
@@ -185,79 +152,64 @@ specialized services related to the following activities:
 (a) the incurring of public indebtedness; or 
  
 (b) public debt management. 
- 
- 
-52 
- 
-7.  
-Nothing in this Chapter shall prevent the Parties from using 
-government procurement to promote industry development including 
+5 1 
+  
+7.   Nothing  in  this  Chapter  shall  prevent  the  Parties  from  using 
+government  procurement  to  promote  industry  development  including 
 measures to assist small and medium enterprises (SMEs) within their territory 
 to gain access to the government procurement market. 
  
-8.  
-Nothing in this Chapter shall prevent a Party from developing new 
+8.   Nothing in  this  Chapter  shall  prevent  a  Party  from  developing  new 
 procurement policies, procedures, or contractual means, provided that they 
 are not inconsistent with this Chapter.  
  
-9.  
-The provisions of this Chapter do not affect the rights and obligations 
+9.   The provisions of this Chapter do not affect the rights and obligations 
 provided for in Chapter 2 (Trade in Goods), Chapter 10 (Trade in Services) 
 and Chapter 11 (Investment). 
  
  
 Article 8.4: National Treatment and Non-Discrimination 
  
-1.  
-With respect to all measures regarding government procurement 
-covered by this Chapter, each Party shall provide immediately and 
+1.   With  respect  to  all  measures  regarding  government  procurement 
+covered  by  this  Chapter,  each  Party  shall  provide  immediately  and 
 unconditionally to the goods, services and suppliers of the other Party offering 
 such goods and services, treatment no less favourable than that accorded to 
 domestic goods, services and suppliers. 
  
-2.  
-With respect to all measures regarding government procurement 
+2.   With  respect  to  all  measures  regarding  government  procurement 
 covered by this Chapter, each Party shall ensure that its entities shall not: 
  
-(a) 
-treat a locally established supplier less favourably than another 
+(a)  treat a locally established supplier less favourably than another 
 locally established supplier on the basis of degree of foreign 
 affiliation or ownership; nor 
  
-(b) 
-discriminate against a locally established supplier on the basis 
+(b)  discriminate against a locally established supplier on the basis 
 that it is a supplier of a good or service of the other Party. 
  
-3.  
-The provisions of paragraphs 1 and 2 shall not apply to customs duties 
+3.   The provisions of paragraphs 1 and 2 shall not apply to customs duties 
 and charges of any kind imposed on or in connection with importation, the 
-method of levying such duties and charges, other import regulations and 
+method  of  levying  such  duties  and  charges,  other import  regulations  and 
 formalities, and measures affecting trade in services other than measures 
 regarding government procurement covered by this Chapter. 
  
  
 Article 8.5: Valuation of Procurements 
  
-The following provisions shall apply in determining the value of a 
+The  following  provisions  shall  apply  in  determining  the  value  of  a 
 procurement for purposes of implementing this Chapter: 
  
-(a) 
-valuation shall take into account all forms of remuneration, 
+(a)  valuation  shall  take  into  account  all  forms  of  remuneration, 
 including at least any premiums, fees, commissions and interest 
 receivable; 
  
- 
- 
-53 
-(b) 
-the selection of a valuation method by a government body shall 
+5 2 
+ (b)  the selection of a valuation method by a government body shall 
 not be made, nor shall any procurement requirement be divided, 
 with the intention of avoiding the application of this Chapter ; and 
  
-(c) 
-in cases where an intended procurement specifies the need for 
+(c)  in cases where an intended procurement specifies the need for 
 option clauses, the basis for valuation shall be the total value of 
-the maximum permissible procurement, inclusive of optional 
+the  maximum  permissible  procurement,  inclusive  of  optional 
 purchases. 
  
  
@@ -280,22 +232,20 @@ of tenders and award of contracts.
 Article 8.8: Publication of Information on Procurement Measures 
  
 Each Party shall promptly publish any law, regulation, judicial decision, 
-administrative ruling of general application, procedure (including standard 
-contract clauses), and any modifications or additions thereof, regarding 
+administrative  ruling  of  general  application,  procedure  (including  standard 
+contract  clauses),  and  any  modifications  or  additions  thereof,  regarding 
 government procurement covered by this Chapter, in the relevant officially 
 designated electronic medium, as listed in Annex 8.2 (Officially Designated 
-Electronic Media for the Publication of Information on Government 
-Procurement), and in such a manner as to enable the other Party and 
+Electronic  Media  for  the  Publication  of  Information  on  Government 
+Procurement),  and  in  such  a  manner  as  to  enable  the  other  Party  and 
 suppliers to become acquainted with them.  Each Party shall be prepared, 
 upon request, to explain or provide information to the other Party concerning 
 the application of such provisions. 
  
  
 Article 8.9: Publication of Notice of Intended Procurement 
- 
- 
-1. 
-For each procurement covered by this Chapter, a procuring entity shall 
+   
+1.  For each procurement covered by this Chapter, a procuring entity shall 
 publish in advance a notice of intended procurement inviting all interested 
 suppliers to submit tenders for that procurement except as otherwise provided 
 in Article 8.14 (Limited Tendering Procedures).  This notice shall be published 
@@ -303,20 +253,16 @@ in the relevant officially designated electronic medium, as listed in Annex 8.2
 (Officially Designated Electronic Media for the Publication of Information on 
 Government Procurement).  Each notice shall be accessible during the entire 
 period established for tendering for the relevant procurement. 
- 
- 
-54 
- 
-2.  
-Each notice of intended procurement shall include a description of the 
+5 3 
+  
+2.   Each notice of intended procurement shall include a description of the 
 intended procurement, any conditions that suppliers must fulfill to participate 
 in the procurement, the name of the procuring entity issuing the notice, the 
 address and contact where suppliers may obtain all documents relating to the 
 procurement, and the time limits for submission of tenders.  The dates for 
 delivery of goods and services may be provided in the tendering documents. 
  
-3.  
-Each Party shall encourage its procuring entities to publish, as early as 
+3.   Each Party shall encourage its procuring entities to publish, as early as 
 possible in each year, information regarding their future procurement plans in 
 the relevant officially designated electronic medium, as listed in Annex 8.2 
 (Officially Designated Electronic Media for the Publication of Information on 
@@ -327,329 +273,255 @@ purpose of establishing shorter time limits for tendering.
  
 Article 8.10: Time Limits for the Tendering Process 
  
-1.  
-A procuring entity shall prescribe time limits for the tendering process 
-that allow sufficient time for suppliers to prepare and submit responsive 
+1.   A procuring entity shall prescribe time limits for the tendering process 
+that  allow  sufficient  time  for  suppliers  to  prepare  and  submit  responsive 
 tenders, taking into account the nature and complexity of the procurement.  A 
 procuring entity shall provide no less than 25 days between the date on which 
-it publishes the notice of intended procurement and the deadline for 
+it  publishes  the  notice  of  intended  procurement  and  the  deadline  for 
 submitting tenders. 
  
-2.  
-Notwithstanding paragraph 1, where there are no qualification 
+2.   Notwithstanding  paragraph  1,  where  there  are  no  qualification 
 requirements for suppliers, a procuring entity may establish a time limit of less 
-than 25 days, but in no case less than 10 days, in the following 
+than  25  days,  but  in  no  case  less  than  10  days,  in  the  following 
 circumstances: 
  
-(a) 
-where the procuring entity has published a separate notice 
+(a)  where  the  procuring  entity  has  published  a  separate  notice 
 containing the information specified in Article 8.9.3 (Publication 
 of Notice of Intended Procurement) containing the information 
-specified in Article 8.9.2 (Publication of Notice of Intended 
-Procurement) in the relevant officially designated electronic 
+specified  in  Article  8.9.2  (Publication  of  Notice  of  Intended 
+Procurement)  in  the  relevant  officially  designated  electronic 
 medium, as listed in Annex 8.2 (Officially Designated Electronic 
-Media for the Publication of Information on Government 
+Media  for  the  Publication  of  Information  on  Government 
 Procurement) at least 25 days and not more than 12 months in 
 advance; 
  
-(b) 
-in the case of the second or subsequent publication of notices 
+(b)  in the case of the second or subsequent publication of notices 
 for procurement of a recurring nature; 
  
-(c) 
-where a state of urgency duly substantiated by the procuring 
-entity renders the time limit specified in paragraph 1 
+(c)  where a state of urgency duly substantiated by the procuring 
+entity  renders  the  time  limit  specified  in  paragraph  1 
 impracticable; or 
  
-(d) 
-where the procuring entity has published a notice of intended 
-procurement by electronic means in the relevant officially 
- 
- 
-55 
-designated electronic medium, as listed in Annex 8.2 (Officially 
-Designated Media for the Publication of Information on 
+(d)  where the procuring entity has published a notice of intended 
+procurement  by  electronic  means  in  the  relevant  officially 
+5 4 
+ designated electronic medium, as listed in Annex 8.2 (Officially 
+Designated  Media  for  the  Publication  of  Information  on 
 Government Procurement). 
  
  
 Article 8.11: Tender Documentation and Technical Specifications 
  
-1. 
-Tender documentation: 
+1.  Tender documentation: 
  
-(a) 
-A procuring entity shall provide interested suppliers tender 
-documentation that includes all the information necessary to 
+(a)  A  procuring  entity  shall  provide  interested  suppliers  tender 
+documentation  that  includes  all  the  information  necessary  to 
 permit suppliers to prepare and submit responsive tenders.  The 
 documentation shall include all the criteria that the procuring 
 entity will consider in awarding the contract, including all cost 
-factors, and the weights or, where appropriate, the relative 
+factors,  and  the  weights  or,  where  appropriate,  the  relative 
 values that the procuring entity will assign to these criteria in 
 evaluating tenders. 
  
-(b) 
-To the extent possible, a procuring entity should make available 
-relevant tender documentation on electronic networks openly 
-and publicly accessible to all suppliers.  Where a procuring 
-entity does not publish all the tender documentation by 
+(b)  To the extent possible, a procuring entity should make available 
+relevant  tender  documentation  on  electronic  networks  openly 
+and  publicly  accessible  to  all  suppliers.    Where  a  procuring 
+entity  does  not  publish  all  the  tender  documentation  by 
 electronic means, the entity shall, on request of any supplier, 
 promptly make the documentation available in written form to 
 the supplier. 
  
-2.  
-Technical specifications: 
+2.   Technical specifications: 
  
-(a) 
-Technical specifications laying down the characteristics of the 
+(a)  Technical specifications laying down the characteristics of the 
 goods or services to be procured shall not be prepared, adopted 
-or applied with a view to, or with the effect of, creating 
+or  applied  with  a  view  to,  or  with  the  effect  of,  creating 
 unnecessary obstacles to trade between the Parties. 
  
-(b) 
-Technical specifications prescribed by a procuring entity shall, 
+(b)  Technical specifications prescribed by a procuring entity shall, 
 where appropriate, be: 
  
-i. 
-expressed in terms of performance requirements rather 
-than design or descriptive characteristics ; and 
+i.  expressed in terms of performance requirements rather 
+than design or descriptive characteristics; and 
  
-ii. 
-based on international standards, where applicable
-; 
+ii.  based  on  international  standards,  where  appli;c able
 otherwise, on national technical regulations, recognized 
 national standards or building codes. 
  
-(c) 
-There shall be no requirement or reference to a particular 
+(c)  There  shall  be  no  requirement  or  reference  to  a  particular 
 trademark or trade name, patent, design or type, specific origin 
 or producer or supplier unless there is no sufficiently precise or 
-intelligible way of otherwise describing the procurement 
+intelligible  way  of  otherwise  describing  the  procurement 
 requirements and provided that, in such cases, words such as 
 “or equivalent” are included in the tender documentation. 
  
- 
- 
-56 
-(d) 
-A procuring entity shall not seek or accept, in a manner that 
+5 5 
+ (d)  A procuring entity shall not seek or accept, in a manner that 
 would have the effect of precluding competition, advice that may 
-be used in the preparation or adoption of any technical 
+be  used  in  the  preparation  or  adoption  of  any  technical 
 specification for a specific procurement from a person that may 
 have a commercial interest in that procurement. 
  
-(e) 
-If, during the course of a procurement, a procuring entity 
-modifies any part of the tender documentation referred to in 
-paragraph 1, including the criteria or technical requirements 
+(e)  If,  during  the  course  of  a  procurement,  a  procuring  entity 
+modifies  any  part  of  the  tender  documentation  referred  to in 
+paragraph  1,  including  the  criteria  or  technical  requirements 
 thereof, it shall transmit all such modifications in writing: 
  
-i. 
-to all suppliers that are participating in the procurement at 
+i.  to all suppliers that are participating in the procurement at 
 the time the criteria was modified, if the identities of such 
 suppliers are known, and in all other cases, in the same 
 manner the original information was transmitted; and 
  
-ii. 
-in adequate time to allow such suppliers to modify and 
+ii.  in adequate time to allow such suppliers to modify and 
 resubmit their tenders, as appropriate. 
  
  
 Article 8.12: Qualification of Suppliers 
  
-1.  
-In the process of qualifying suppliers, a procuring entity shall not 
+1.   In  the  process  of  qualifying  suppliers,  a  procuring  entity  shall  not 
 discriminate between domestic suppliers and suppliers of the other Party.  
  
-2.  
-Any conditions for participation in open tendering procedures shall be 
+2.   Any conditions for participation in open tendering procedures shall be 
 no less favourable to suppliers of the other Party than to domestic suppliers. 
  
-3.  
-The process of, and the time required for, registering and/or qualifying 
+3.   The process of, and the time required for, registering and/or qualifying 
 suppliers shall not be used in order to exclude suppliers of the other Party, 
 from being considered for a particular procurement. 
  
-4.  
-Qualification procedures shall be consistent with the following: 
+4.   Qualification procedures shall be consistent with the following: 
  
-(a) 
-any condition for participation in the procurement, including 
-financial guarantees, technical qualifications and information 
+(a)  any  condition  for  participation  in  the  procurement,  including 
+financial  guarantees,  technical  qualifications  and  information 
 necessary for establishing the legal, financial, commercial and 
 technical capacity of suppliers, as well as the verifications of 
 qualifications, shall be limited to those which are essential to 
 ensure the supplier’s capability to fulfill the contract in question.  
-The legal, financial, commercial and technical capacity of a 
-supplier shall be judged both on the basis of that supplier’s 
-global business activity and its activity in the territory of the 
-procuring entity taking due account of the legal relationship 
+The  legal,  financial,  commercial  and  technical  capacity  of  a 
+supplier  shall  be  judged  both  on  the  basis  of  that  supplier’s 
+global  business  activity  and its  activity in  the  territory  of  the 
+procuring  entity  taking  due  account  of  the  legal  relationship 
 between the supply organizations; 
  
-(b) 
-recognize as qualified all suppliers of the other Party that have 
+(b)  recognize as qualified all suppliers of the other Party that have 
 met the requisite conditions for participation;  
  
- 
- 
-57 
-(c) 
-a procuring entity shall promptly communicate to any supplier 
+5 6 
+ (c)  a procuring entity shall promptly communicate to any supplier 
 that has applied for qualification its decision on whether that 
-supplier is qualified.  Where a procuring entity rejects an 
+supplier  is  qualified.    Where  a  procuring  entity  rejects  an 
 application for qualification or ceases to recognize a supplier as 
 qualified, that procuring entity shall, on request of the supplier, 
 promptly provide it with a written explanation; and 
  
-(d) 
-any conditions for participation in tendering procedures shall be 
-published in adequate time to enable interested suppliers to 
-initiate and, to the extent that it is compatible with efficient 
+(d)  any conditions for participation in tendering procedures shall be 
+published  in  adequate  time  to  enable  interested  suppliers  to 
+initiate  and,  to  the  extent  that  it  is  compatible  with  efficient 
 operation of the procurement process, complete the qualification 
 procedures. 
  
-5.  
-Nothing in this Article shall preclude a procuring entity from excluding a 
-supplier from a procurement on grounds such as bankruptcy or false 
-declaration, provided that such an action is consistent with the national 
+5.   Nothing in this Article shall preclude a procuring entity from excluding a 
+supplier  from  a  procurement  on  grounds  such  as  bankruptcy  or  false 
+declaration,  provided  that  such  an  action  is  consistent  with  the  national 
 treatment provisions of this Chapter. 
  
  
 Article 8.13: Ensuring Integrity in Procurement Practices 
  
 The Parties may adopt or maintain procedures to debar, for a specific 
-period of time, suppliers who have been reasonably determined to have 
+period  of  time,  suppliers  who  have  been  reasonably  determined  to  have 
 defaulted on their contractual performances or engaged in fraudulent or other 
-illegal actions pertaining to procurement.  If there is adequate evidence 
+illegal  actions  pertaining  to  procurement.    If  there  is  adequate  evidence 
 available, actions may be taken on such errant suppliers under the respective 
 Party’s domestic laws. 
  
  
 Article 8.14: Limited Tendering Procedures 
  
-1.  
-A procuring entity shall award contracts by means of open tendering 
-procedures, in the course of which any interested supplier may submit a 
+1.   A procuring entity shall award contracts by means of open tendering 
+procedures, in  the  course  of  which  any interested  supplier  may  submit  a 
 tender. 
  
-2.  
-Provided that the tendering procedure is not used to avoid competition 
+2.   Provided that the tendering procedure is not used to avoid competition 
 or to protect domestic suppliers, a procuring entity may award contracts by 
 means other than open tendering procedures in the following circumstances, 
 where applicable: 
  
-(a) 
-when no tenders were submitted in response to a prior notice or 
-invitation to participate, or in the absence of tenders that 
-conform 
-to 
-the 
-essential 
-requirements 
-in 
-the 
-tender 
+(a)  when no tenders were submitted in response to a prior notice or 
+invitation  to  participate,  or  in  the  absence  of  tenders  that 
+conform  to  the  essential  requirements  in  the  tender 
 documentation provided in a prior invitation to tender, including 
-any conditions for participation, on 
-condition 
-that the 
-requirements of the initial procurement are not substantially 
+any  conditions  for  participation,  on  condition  that  the 
+requirements  of  the  initial  procurement  are  not  substantially 
 modified in the contract as awarded; 
  
-(b) 
-when, for works of art, or for reasons connected with the 
+(b)  when,  for  works  of  art,  or  for  reasons  connected  with  the 
 protection of exclusive rights, such as patents or copyrights, or 
- 
- 
-58 
-proprietary information, or where there is an absence of 
+5 7 
+ proprietary  information,  or  where  there  is  an  absence  of 
 competition for technical reasons, the goods or services can be 
-supplied only by a particular supplier and no reasonable 
+supplied  only  by  a  particular  supplier  and  no  reasonable 
 alternative or substitute exists; 
  
-(c) 
-for additional deliveries by the original supplier that are intended 
+(c)  for additional deliveries by the original supplier that are intended 
 either as replacement parts, extensions, or continuing services 
 for existing equipment, software, services or installations, where 
-a change of supplier would compel the procuring entity to 
-procure goods or services not meeting requirements of 
+a  change  of  supplier  would  compel  the  procuring  entity  to 
+procure  goods  or  services  not  meeting  requirements  of 
 interchangeability with existing equipment, software, services, or 
 installations; 
  
-(d) 
-for goods purchased on a commodity market; 
+(d)  for goods purchased on a commodity market; 
  
-(e) 
-when a procuring entity procures a prototype or a first good or 
+(e)  when a procuring entity procures a prototype or a first good or 
 service that is developed at its request in the course of, and for, 
 a particular contract for research, experiment, study or original 
-development.  When such contracts have been fulfilled, 
+development.    When  such  contracts  have  been  fulfilled, 
 subsequent procurements of such goods or services shall be 
-subject to the principles and procedures laid down in this 
+subject  to  the  principles  and  procedures  laid  down  in  this 
 Chapter; 
  
-(f) 
-where additional construction services that were not included in 
-the initial contract but that were within the objectives of the 
-original tender documentation have, due to unforeseeable 
+(f)  where additional construction services that were not included in 
+the  initial  contract  but  that  were  within  the  objectives  of  the 
+original  tender  documentation  have,  due  to  unforeseeable 
 circumstances, become necessary to complete the construction 
-services described therein.  However, the total value of 
+services  described  therein.    However,  the  total  value  of 
 contracts awarded for additional construction services may not 
 exceed 50% of the amount of the initial contract; 
  
-(g) 
-for new construction services consisting of the repetition of 
+(g)  for  new  construction  services  consisting  of  the  repetition  of 
 similar services which conform to a basic project for which an 
-initial contract was awarded following an open procurement 
+initial  contract  was  awarded  following  an  open  procurement 
 method, and for which the procuring entity has indicated in the 
 notice of intended procurement concerning the initial service, 
 that a limited procurement method might be used in awarding 
 contracts for such new services; 
  
-(h) 
-in so far as is strictly necessary where, for reasons of extreme 
-urgency brought about by events unforeseeable by the 
+(h)  in so far as is strictly necessary where, for reasons of extreme 
+urgency  brought  about  by  events  unforeseeable  by  the 
 procuring entity, the goods or services could not be obtained in 
 time by means of an open tendering procedure and the use of 
 an open tendering procedure would result in serious injury to the 
-procuring 
-entity, 
-or 
-the 
-procuring 
-entity’s 
-program 
+procuring  entity,  or  the  procuring  entity’s  program 
 responsibilities or the Party; 
  
-(i) 
-for 
-purchases 
-made 
-under 
-exceptionally 
-advantageous 
+(i)  for  purchases  made  under  exceptionally  advantageous 
 conditions which only arise in the very short term in the case of 
-unusual disposals such as those arising from liquidation, 
- 
- 
-59 
-receivership or bankruptcy and not for routine purchases from 
+unusual  disposals  such  as  those  arising  from  liquidation, 
+5 8 
+ receivership or bankruptcy and not for routine purchases from 
 regular suppliers; or 
  
-(j) 
-in the case of a contract awarded to a winner of a design 
+(j)  in  the  case  of  a  contract  awarded  to  a  winner  of  a  design 
 contest, provided that: 
  
-i. 
-the contest has been organized in a manner that is 
+i.  the  contest  has  been  organized  in  a  manner  that  is 
 consistent with the principles of this Chapter; and 
  
-ii. 
-the participants are judged by an independent jury with a 
+ii.  the participants are judged by an independent jury with a 
 view to a design contract being awarded to a winner. 
  
-3.  
-A procuring entity shall maintain records or prepare a written report on 
-the contract awarded under these provisions, containing the name of the 
+3.   A procuring entity shall maintain records or prepare a written report on 
+the  contract  awarded  under these  provisions,  containing  the  name  of  the 
 procuring entity, the value and kind of goods or services procured, and the 
 specific justifications for use of tender procedures other than open tendering 
 procedures, as provided in paragraph 2. 
@@ -665,74 +537,54 @@ process.
  
 Article 8.16: Information on Awards 
  
-1. 
-Subject to Article 8.22 (Non-Disclosure of Information), a procuring 
+1.  Subject  to  Article  8.22  (Non-Disclosure  of  Information),  a  procuring 
 entity shall promptly inform suppliers participating in a tendering procedure of 
 its contract award decision.  The award notice should include at least the 
 following information: 
  
-(a) 
-the name of the procuring entity; 
+(a)  the name of the procuring entity; 
  
-(b) 
-a description of the goods or services procured ; 
+(b)  a description of the goods or services procured; 
  
-(c) 
-the name of the winning supplier; 
+(c)  the name of the winning supplier; 
  
-(d) 
-the date of award; 
+(d)  the date of award; 
  
-(e) 
-the value of the contract award; and 
+(e)  the value of the contract award; and 
  
-(f) 
-the type of procurement method used. 
+(f)  the type of procurement method used. 
  
-2.  
-Where the procuring entity has not used an open tendering procedure, 
-the 
-entity 
-shall 
-promptly 
-provide 
-pertinent 
-information 
-concerning 
+2.   Where the procuring entity has not used an open tendering procedure, 
+the  entity  shall  promptly  provide  pertinent  information  concerning 
 circumstances, in accordance to Article 8.14 (Limited Tendering Procedures), 
 justifying the procedure used. 
- 
- 
-60 
- 
-3.  
-A procuring entity shall, on request from an unsuccessful supplier of 
+5 9 
+  
+3.   A procuring entity shall, on request from an unsuccessful supplier of 
 the other Party which participated in the relevant tender, promptly provide 
 pertinent information concerning reasons for the rejection of its tender, unless 
 the release of such information would impede law enforcement or otherwise 
 be contrary to the public interest or would prejudice the legitimate commercial 
-interest of particular enterprises, public or private, or might prejudice fair 
+interest  of  particular  enterprises,  public  or  private,  or  might  prejudice  fair 
 competition between suppliers. 
  
  
 Article 8.17: Modifications and Rectifications to Coverage 
  
-1.  
-Each Party may make rectifications of a purely formal nature to its 
+1.   Each Party may make rectifications of a purely formal nature to its 
 coverage under this Chapter, or minor amendments to its Schedules in Annex 
 8.1 (Government Procurement Schedules), provided that it notifies the other 
 Party in writing and that Party does not object in writing within 30 days of the 
 notification.  A Party that makes such a rectification or minor amendment does 
 not need to provide compensatory adjustments to the other Party. 
  
-2.  
-Where a Party proposes to make a modification to its Schedules in 
-Annex 8.1 (Government Procurement Schedules), when the business or 
+2.   Where a Party proposes to make a modification to its Schedules in 
+Annex  8.1  (Government  Procurement  Schedules),  when  the  business  or 
 commercial operations or functions of any of its procuring entities or part 
-thereof is constituted or established as an enterprise with a legal entity 
+thereof  is  constituted  or  established  as  an  enterprise  with  a  legal  entity 
 separate and distinct from the Government of the Party, regardless of whether 
 or not the Government holds any shares or interest in such a legal entity, it 
-shall notify the other Party.  The proposed removal of such an entity or 
+shall  notify  the  other  Party.    The  proposed  removal  of  such  an  entity  or 
 modification shall become effective 30 days from the date of notification.  The 
 other Party shall not be entitled to compensatory adjustments. 
  
@@ -740,133 +592,105 @@ other Party shall not be entitled to compensatory adjustments.
 Article 8.18: Transparency 
  
 The Parties shall apply all procurement measures consistently, fairly 
-and equitably so that their corporate governance structures provide 
+and  equitably  so  that  their  corporate  governance  structures  provide 
 transparency to potential suppliers. 
  
  
 Article 8.19: Electronic Procurement 
  
-1.  
-The Parties shall, within the context of their commitment to promote 
-electronic commerce, seek to provide opportunities for government 
+1.   The Parties shall, within the context of their commitment to promote 
+electronic  commerce,  seek  to  provide  opportunities  for  government 
 procurement to be undertaken through electronic means, hereinafter referred 
 to as “e-procurement”. 
  
-2.  
-Each Party shall make best efforts in order to work toward a single 
+2.   Each Party shall make best efforts in order to work toward a single 
 entry point for the purpose of enabling suppliers to access information on 
 covered procurement opportunities in its territory. 
  
-3.  
-Each Party shall, to the extent possible, make procurement 
+3.   Each  Party  shall,  to  the  extent  possible,  make  procurement 
 opportunities that are available to the public, accessible to suppliers via the 
- 
- 
-61 
-internet 
-or 
-a 
-comparable 
-publicly 
-available 
-computer-based 
+6 0 
+ internet  or  a  comparable  publicly  available  computer-based 
 telecommunications network openly accessible to all suppliers.  To the extent 
-possible, each Party shall make relevant documentation available by the 
+possible,  each  Party  shall  make  relevant  documentation  available  by  the 
 same means. 
  
-4.  
-For purposes of this Chapter, the Parties shall perform best efforts to 
+4.   For purposes of this Chapter, the Parties shall perform best efforts to 
 provide summaries of notices of intended procurement in a language that is 
-accessible to the other Party.  The notice of intended procurement shall 
+accessible  to  the  other  Party.    The  notice  of  intended  procurement  shall 
 contain at least the following information: 
  
-(a) 
-the subject matter of the contract; 
+(a)  the subject matter of the contract; 
  
-(b) 
-the time-limits set for the submission of tenders; and 
+(b)  the time-limits set for the submission of tenders; and 
  
-(c) 
-the addresses and contact from which documents relating to the 
+(c)  the addresses and contact from which documents relating to the 
 contracts may be requested. 
  
  
 Article 8.20: Challenge Procedures 
  
-1.  
-In the event of a complaint by a supplier of a Party that there has been 
+1.   In the event of a complaint by a supplier of a Party that there has been 
 a breach of this Chapter in the context of procurement by the other Party, that 
 Party may encourage the supplier to first seek resolution of its complaint in 
 consultation with the procuring entity of the other Party.  Such consultations 
-shall not prevent the Party from applying time periods for submitting 
+shall  not  prevent  the  Party  from  applying  time  periods  for  submitting 
 challenges.  
  
-2. 
-Each Party shall provide non-discriminatory, timely, transparent and 
+2.  Each Party shall provide non-discriminatory, timely, transparent and 
 effective procedures to challenge alleged breaches of this Chapter arising in 
 the context of procurements in which they have, or have had, an interest. 
  
-3.  
-Each Party shall provide its challenge procedures in writing and make 
+3.   Each Party shall provide its challenge procedures in writing and make 
 them generally available. 
  
-4.  
-Challenges shall be heard by a court or by an impartial and 
+4.   Challenges  shall  be  heard  by  a  court  or  by  an  impartial  and 
 independent review body with no interest in the outcome of the procurement 
 and the members of which are secure from external influence during the term 
 of appointment. 
  
-5.  
-Challenge procedures shall provide for correction of the breach of 
+5.   Challenge  procedures  shall  provide  for  correction  of  the  breach  of 
 agreement or compensation for the loss or damages suffered, according to 
-each Party’s domestic laws, which may be limited to costs for tender 
+each  Party’s  domestic  laws,  which  may  be  limited  to  costs  for  tender 
 preparation or protest.  
  
  
 Article 8.21: Exceptions 
  
-1.  
-Nothing in this Chapter shall be construed to prevent a Party from 
-taking any action or not disclosing any information which it considers 
+1.   Nothing in this Chapter shall be construed to prevent a Party from 
+taking  any  action  or  not  disclosing  any  information  which  it  considers 
 necessary for the protection of its essential security interests relating to the 
- 
- 
-62 
-procurement of arms, ammunition or war materials, or to procurement 
+6 1 
+ procurement  of  arms,  ammunition  or  war  materials,  or  to  procurement 
 indispensable for national security or for national defence purposes. 
  
-2.  
-Subject to the requirement that such measures are not applied in a 
-manner which would constitute a means of arbitrary or unjustifiable 
-discrimination between countries where the same conditions prevail or a 
+2.   Subject to the requirement that such measures are not applied in a 
+manner  which  would  constitute  a  means  of  arbitrary  or  unjustifiable 
+discrimination  between  countries  where  the  same  conditions  prevail  or  a 
 disguised restriction on international trade, nothing in this Chapter shall be 
 construed to prevent a Party from imposing or enforcing measures: 
  
-(a) 
-necessary to protect public morals, order or safety; 
+(a)  necessary to protect public morals, order or safety; 
  
-(b) 
-necessary to protect human, animal or plant life or health ; 
+(b)  necessary to protect human, animal or plant life or health; 
  
-(c) 
-necessary to protect intellectual property ; or 
+(c)  necessary to protect intellectual property; or 
  
-(d) 
-relating to the products or services of handicapped persons, of 
+(d)  relating to the products or services of handicapped persons, of 
 philanthropic institutions or of prison labour. 
  
  
 Article 8.22: Non-Disclosure of Information 
  
-1. 
-The Parties, their procuring entities, and their review authorities shall 
-not disclose confidential information if such disclosure would prejudice 
+1.  The Parties, their procuring entities, and their review authorities shall 
+not  disclose  confidential  information  if  such  disclosure  would  prejudice 
 legitimate commercial interests of a particular person or might prejudice fair 
 competition between suppliers, without the formal authorization of the person 
 that provided the information to the Party. 
  
-2. 
-Nothing in this Chapter shall be construed as requiring a Party, 
-including its procuring entities, to disclose confidential information if such 
+2.  Nothing  in  this  Chapter  shall  be  construed  as  requiring  a  Party, 
+including  its  procuring  entities,  to  disclose  confidential  information  if  such 
 disclosure would impede law enforcement or otherwise be contrary to the 
 public interest. 
+6 2 
+ 

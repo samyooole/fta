@@ -1,397 +1,289 @@
-CHAPTER 11 : CROSS­BORDER TRADE IN SERVICES 
-ARTICLE 11.1 : DEFINITIONS 
+CHAPTER 11:CROSS­BORDER TRADE IN SERVICES 
+ARTICLE 11.1:DEFINITIONS 
 For the purposes of this Chapter: 
-1. 
-cross­border  supply  of  services  or  cross­border  trade  in 
-services means the supply of a service: 
-(a) 
-from the territory of a Party into the territory of the other 
+1.  cross­border  supply  of  services  or  cross­border  trade  in 
+services means the supplyof a service: 
+(a)  from the territory of a Party into the territory of the other 
 Party; 
-(b) 
-in  the  territory  of  a  Party  by  a  person  of  that  Party  to  a 
+(b)  in the territory of a Party by a person of that Party to a 
 person of the other Party; or 
-(c) 
-by a national of a Party in the territory of the other Party; 
+(c)  by a nationalof a Party in the territory of the other Party; 
 but does not include the supply of a service in the territory of a Party by 
 an investor of the other Party or an investment of an investor of the other 
 Party; 
-2. 
-enterprise  of  a  Party  means  an  enterprise  organised  or 
+2.  enterprise  of  a  Party  means  an  enterprise  organised  or 
 constituted under the laws of a Party and a branch located in the territory 
 of a Party and carrying out substantive business activites there; 
-3. 
-professional  services  means  services,  the  supply  of  which 
+3.  professional  services  means  services,  the  supply  of  which 
 requires specialized 11­1 post­secondary education, or equivalent training or 
 experience, and for which the right to practice is granted or restricted by a 
 Party, but does not include services supplied by trades­persons or vessel 
 and aircraft crew members; and 
-4. 
-service  supplier  of  a  Party  means  a  person  of  that  Party  that 
-seeks to supply or supplies a service 11­2 . 
-ARTICLE 11.2 : SCOPE ­AND COVERAGE 
-1. 
-(a) 
-This Chapter applies to measures adopted or maintained by 
+4.  service supplier of a Party means a person of that Party that 
+seeks to supply or supplies a service1 1­2 . 
+ARTICLE 11.2:SCOPE ­AND COVERAGE 
+1.  (a)  This Chapter applies to measures adopted or maintained by 
 a Party affecting cross­border trade in services by service suppliers 
 of the other Party. 
-11­1  For  greater  certainty,  the  term  “specialized  post­secondary  education”  includes 
+11­1  For  greater certainty, the term “specialized  post­secondary education” includes 
 education beyond the high­school level that is related to a specific area of knowledge. 
-11­2  The  Parties  understand  that  for  purposes  of  Articles  11.3  (National  Treatment), 
-11.4 (Most­Favoured­Nation  Treatment), and  11.5  (Market  Access),  service  suppliers 
+11­2  The Parties understand that for purposes of Articles 11.3 (National Treatment), 
+11.4(Most­Favoured­Nation Treatment), and 11.5 (Market Access), service suppliers 
 has the same meaning as “services and service suppliers” as used in GATS Articles II , 
-XVI, and XVII.
-(b) 
-Measures covered by sub­paragraph (a)  include measures 
+XVI, and XVII.(b)  Measures covered by sub­paragraph (a) include measures 
 affecting: 
-(i) 
-the  production,  distribution,  marketing,  sale  and 
+(i)  the  production,  distribution,  marketing,  sale  and 
 delivery of a service; 
-(ii) 
-the purchase or use of, or payment for, a service; 
-(iii) 
-the access  to and use of distribution,  transport, or 
+(ii)  the purchase or use of, or payment for, a service; 
+(iii)  the access to and use of distribution, transport, or 
 telecommunications  networks  and  services  in 
 connection with the supply of a service; 
-(iv) 
-the presence in its territory of a service supplier of 
-the other Party; and 
-(v) 
-the provision of a bond or other form of financial 
+(iv)  the presence in its territory of a service supplier of 
+the other Party;and 
+(v)  the provision of a bond or other form of financial 
 security as a condition for the supply of a service. 
-(c) 
-For  purposes  of  this  Chapter,  measures  adopted  or 
+(c)  For  purposes  of  this  Chapter,  measures  adopted  or 
 maintained  by a Party means measures adopted or maintained 
 by: 
-(i) 
-central,  regional  or  local  governments  and 
+(i)  central,  regional  or  local  governments  and 
 authorities; and 
-(ii) 
-non­governmental bodies in the exercise of powers 
+(ii)  non­governmental bodies in the exercise of powers 
 delegated by central, regional or local governments 
 or authorities. 
-2. 
-Articles 11.5 (Market Access), Article 11.8 (Domestic Regulation) 
-and  Article  11.13  (Transparency)  also  apply  to  measures  by  a  Party 
+2.  Articles 11.5 (Market Access), Article 11.8 (Domestic Regulation) 
+and  Article 11.13 (Transparency) also apply to measures by a Party 
 affecting the supply of a service in its territory by an investor of the other 
 Party or an investment of an investor of the other Party 11­3 . 
-3. 
-This Chapter does not apply to: 
-(a) 
-government procurement as defined in Article 9.3 (Scope 
+3.  This Chapter does not apply to: 
+(a)  government procurement as defined in Article 9.3 (Scope 
 and Coverage); 
-(b) 
-air  services 11­4 ,  including  domestic  and  international  air 
+(b)  air  services 11­4 ,  including  domestic  and  international  air 
 transportation  services,  whether  scheduled  or  non­ 
-scheduled, and related services  in support of air  services, 
+scheduled, and related services in support of air services, 
 other than: 
-11­3  The  Parties  understand  that  nothing  in  this  Chapter,  including  this  paragraph,  is 
-subject  to  investor­state  settlement  pursuant  to  Article  10.17  (Investor­State  Dispute 
+11­3 The Parties understand that nothing in this Chapter, including this paragraph, is 
+subject to investor­state settlement pursuant to Article 10.17 (Investor­State Dispute 
 Settlement) of Chapter 10 (Investment). 
-11­4 For greater certainty, the term “air services” includes traffic rights.
-(i) 
-aircraft repair and maintenance services; 
-(ii) 
-the selling and marketing of air transport services; 
+11­4 For greater certainty, the term “air services” includes traffic rights.(i)  aircraft repair and maintenance services; 
+(ii)  the selling and marketing of air transport services; 
 and 
-(iii) 
-computer reservation system (“CRS”) services; or 
-(c) 
-subsidies 11­5  or  grants  provided  by  a  Party  or  public 
-enterprises, 
-including 
-government­supported 
-loans, 
+(iii)  computer reservation system (“CRS”) services;or 
+(c)  subsidies 11­5  or  grants  provided  by  a  Party  or  public 
+enterprises,  including  government­supported  loans, 
 guarantees, and insurances. 
 If the results of the negotiations related to Article XV.1 of 
 the  GATS  (or  the  results  of  any  similar  negotiations 
 undertaken in other multilateral forum in which each of the 
-Parties participate) enter  into effect, this Chapter shall be 
+Parties participate) enter into effect, this Chapter shall be 
 amended,  as  appropriate,  after  consultations  among  the 
 Parties,  to  bring  those  results  into  effect  under  this 
 Agreement.  The  Parties  shall  coordinate  on  such 
 negotiations, as appropriate. 
-4. 
-This  Chapter  does  not  impose  any  obligation  on  a  Party  with 
+4.  This Chapter  does not impose any obligation on a Party with 
 respect to a national of the other Party seeking access to its employment 
-market, or employed on a permanent basis  in  its territory, and does not 
+market, or employed on a permanent basis in its territory, and does not 
 confer  any  right  on  that  national  with  respect  to  that  access  or 
 employment. 
-5. 
-(a) 
-This  Chapter  does  not  apply  to  services  supplied  in  the 
-exercise of governmental authority in a Party’s territory. 
-(b) 
-For  purposes  of  this  Chapter,  a  service  supplied  in  the 
+5.  (a)  This Chapter does not apply to services supplied in the 
+exercise of governmental authorityin a Party’s territory. 
+(b)  For purposes of this Chapter, a service supplied in the 
 exercise of governmental authority means any service which is 
-supplied  neither  on  a commercial  basis,  nor in  competition with 
+supplied neither on a commercial basis, nor in competition with 
 one or more service suppliers. 
-6. 
-Nothing  in  this  Chapter  shall  prevent  a  Party  from  applying 
+6.  Nothing  in  this  Chapter  shall  prevent  a  Party  from  applying 
 measures to regulate the entry of nationals of the other Party into, or their 
-temporary  stay  in,  its  territory,  including  those  measures  necessary  to 
+temporary stay in, its territory, including those measures necessary to 
 protect the integrity of, and to ensure the orderly movement of nationals 
 of the other Party across its borders, provided that such measures are not 
 applied in such a manner as to nullify or impair the benefits accruing to 
 the other Party under the terms of this Chapter. 11­6 
-11­5  For  greater  certainty,  Chapter  16  (Transparency)  applies  to  subsidies  or  grants 
+11­5  For greater certainty, Chapter 16 (Transparency) applies to subsidies or grants 
 provided  by  a  Party  or  public  enterprises,  including  government­supported  loans, 
 guarantees, and insurances. 
 11­6 The sole fact of requiring a visa for nationals of the other Party shall not be regarded 
-as nullifying or impairing benefits under a specific commitment.
-7. 
-This Chapter does not apply to measures affecting the supply of 
+as nullifying or impairing benefits under a specific commitment.7.  This Chapter does not apply to measures affecting the supply of 
 financial services 11­7 as defined in paragraph 5(a) of the GATS Annex on 
-Financial Services. The obligations of each Party with respect to measures 
+Financial Services. The obligations of each Partywithrespect to measures 
 affecting the supply of financial services shall be in accordance with its 
 obligations under GATS, the GATS Annex on Financial Services and the 
 GATS  Second  Annex  on  Financial  Services,  and  subject  to  any 
 reservations thereto. The said obligations are hereby incorporated into this 
 Agreement. 
-8. 
-In  addition  to  the  provisions  of  this  Chapter,  the  rights  and 
-obligations of the Parties  in respect of telecommunication services shall 
+8.  In  addition  to  the  provisions  of  this  Chapter,  the  rights  and 
+obligations of the Parties in respect of telecommunication services shall 
 also be governed by the provisions of: 
-(a) 
-the GATS Annex on Telecommunication Services; and 
-(b) 
-the GATS  Reference  Paper  developed  in the Negotiating 
+(a)  the GATS Annex on Telecommunication Services; and 
+(b)  the GATS Reference Paper developed in the Negotiating 
 Group  on  Basic  Telecommunications  attached  to  each 
 Party’s GATS schedules of commitments 
 which are hereby incorporated into this Chapter, mutatis mutandis, as if 
 those provisions were fully set out herein. 
-ARTICLE 11.3 : NATIONAL TREATMENT 
-Each  Party  shall  accord  to  service  suppliers  of  the  other  Party 
+ARTICLE 11.3:NATIONALTREATMENT 
+Each Party shall accord to service suppliers of the other Party 
 treatment no less favourable than that it accords, in like circumstances, to 
 its own service suppliers. 
-ARTICLE 11.4 : MOST­FAVOURED­NATION TREATMENT 
-Each  Party  shall  accord  to  service  suppliers  of  the  other  Party 
+ARTICLE 11.4:MOST­FAVOURED­NATION TREATMENT 
+Each Party shall accord to service suppliers of the other Party 
 treatment no less favourable than that it accords, in like circumstances, to 
 service suppliers of a non­Party. 
-ARTICLE 11.5 : MARKET ACCESS 
-1. 
-A  Party  shall  not  adopt  or  maintain,  either  on  the  basis  of  a 
+ARTICLE 11.5:MARKET ACCESS 
+1.  A  Party  shall  not  adopt or  maintain,  either  on  the  basis  of  a 
 regional subdivision or on the basis of its entire territory, measures that: 
-(a) 
-impose limitations on: 
-(i) 
-the number of service suppliers whether in the form 
+(a)  impose limitations on: 
+(i)  the number of service suppliers whether in the form 
 of numerical quotas, monopolies, exclusive service 
-11­7  For  greater  certainty,  “the  supply  of  financial  services”  shall  mean  the  supply  of 
-services as defined in GATS Article I.2.
-suppliers or the requirement of an economic needs 
+11­7 For greater certainty, “the supply of financial services” shall mean the supply of 
+services as defined in GATS Article I.2.suppliers or the requirement of an economic needs 
 test; 
-(ii) 
-the total  value of  service transactions  or assets  in 
+(ii)  the total value of service transactions or assets in 
 the form of numerical quotas or the requirement of 
 an economic needs test; 
-(iii) 
-the total  number of service operations or the total 
-quantity  of  services  output  expressed  in  terms  of 
+(iii)  the total number of service operations or the total 
+quantity of services output expressed in terms of 
 designated numerical units in the form of quotas or 
 the requirement of an economic needs test 11­8 ; 
-(iv) 
-the  total  number  of  natural  persons  that  may  be 
-employed  in  a  particular  service  sector  or  that  a 
+(iv)  the total number  of natural persons that  may  be 
+employed in a particular service sector or that a 
 service supplier may employ and who are necessary 
 for, and directly related to, the supply of a specific 
 service  in  the  form  of  numerical  quotas  or  the 
-requirement of an economic needs test; and 
-(b) 
-restrict  or  require  specific  types  of  legal  entity  or  joint 
-venture  through  which  a  service  supplier  may  supply  a 
+requirement of an economic needs test;and 
+(b)  restrict or require specific types of  legal entity or joint 
+venture through which a service supplier  may  supply  a 
 service. 
-ARTICLE 11.6 : LOCAL PRESENCE 
+ARTICLE 11.6:LOCALPRESENCE 
 A Party shall not require a service supplier of the other Party to 
 establish or maintain a representative office or any form of enterprise, or 
 to be resident, in its territory as a condition for the cross­border supply of 
 a service. 
-ARTICLE 11.7 : NON­CONFORMING MEASURES 
-1. 
-Article 11.3  (National Treatment),  Article  11.4  (Most­Favoured­ 
+ARTICLE 11.7:NON­CONFORMINGMEASURES 
+1.  Article 11.3 (National Treatment), Article 11.4 (Most­Favoured­ 
 Nation Treatment), Article 11.5 (Market Access) and Article 11.6 (Local 
 Presence) do not apply to: 
-(a) 
-any existing non­conforming measure that is maintained by 
+(a)  any existing non­conforming measure that is maintained by 
 a Party at: 
-(i) 
-the central level of government, as set out by that 
+(i)  the central level of government, as set out by that 
 Party in its Schedule to Annex 11B (Peru’s Cross­ 
-Border 
-Trade 
-in 
-Services 
-and 
-Investment 
-Reservations 
-for 
-Existing 
-Measures 
-and 
+Border  Trade  in  Services  and  Investment 
+Reservations  for  Existing  Measures  and 
 Liberalisation Commitments) and 11C (Singapore’s 
 Cross­Border  Trade  in  Services  and  Investment 
 11­8 This paragraph does not cover measures of a Party which limit inputs for the supply 
-of services.
-Reservations 
-for 
-Existing 
-Measures 
-and 
+of services.Reservations  for  Existing  Measures  and 
 Liberalisation Commitments), respectively; 
-(ii) 
-a regional  level of government, as set out by  that 
+(ii)  a regional level of government, as set out by that 
 Party in its Schedule to Annex 11B (Peru’s Cross­ 
-Border 
-Trade 
-in 
-Services 
-and 
-Investment 
-Reservations 
-for 
-Existing 
-Measures 
-and 
+Border  Trade  in  Services  and  Investment 
+Reservations  for  Existing  Measures  and 
 Liberalisation Commitments) and 11C (Singapore’s 
 Cross­Border  Trade  in  Services  and  Investment 
-Reservations 
-for 
-Existing 
-Measures 
-and 
+Reservations  for  Existing  Measures  and 
 Liberalisation Commitments), respectively; or 
-(iii) 
-a local level of government; 
-(b) 
-the continuation or prompt renewal of any non­conforming 
-measure referred to in sub­paragraph (a); or 
-(c) 
-an amendment to any non­conforming measure referred to 
+(iii)  a local level of government; 
+(b)  the continuation or prompt renewal of any non­conforming 
+measure referred to insub­paragraph(a); or 
+(c)  an amendment to any non­conforming measure referred to 
 in sub­paragraph (a) to the extent that the amendment does 
-not decrease the conformity of the  measure,  as  it  existed 
+not decrease the conformity of the measure, as it existed 
 immediately  before  the  amendment,  with  Article  11.3 
 (National Treatment), Article 11.4 (Most­Favoured Nation 
 Treatment), Article 11.5 (Market Access), and Article 11.6 
 (Local Presence). 
-2. 
-Article  11.3  (National  Treatment),  Article  11.4  (Most­Favoured 
+2.  Article 11.3 (National Treatment), Article 11.4 (Most­Favoured 
 Nation Treatment), Article 11.5 (Market Access) and Article 11.6 (Local 
 Presence) do not apply to any measure that a Party adopts or maintains 
 with respect to sectors, sub­sectors or activities as set out in its Schedule 
-to  Annex  11D  (Peru’s  Cross­Border  Trade  in  Services  and  Investment 
-Reservations  for  Future  Measures)  and  11E  (Singapore’s  Cross­Border 
-Trade  in  Services  and  Investment  Reservations  for  Future  Measures), 
+to Annex 11D (Peru’s Cross­Border Trade in Services and Investment 
+Reservations for Future Measures) and 11E (Singapore’s Cross­Border 
+Trade  in Services and Investment Reservations  for Future Measures), 
 respectively. 
-ARTICLE 11.8 : DOMESTIC REGULATION 
-1. 
-Where a Party requires authorization for the supply of a service, 
+ARTICLE 11.8:DOMESTIC REGULATION 
+1.  Where a Party requires authorization for the supply of a service, 
 the Party’s competent authorities shall, within a reasonable period of time 
 after  the  submission  of  an  application  considered  complete  under 
 domestic  laws  and  regulations,  inform  the  applicant  of  the  decision 
 concerning the application. At the request of the applicant, the competent 
-authorities of  the Party  shall  provide,  without  undue delay,  information 
+authorities of the Party shall provide, without undue delay, information 
 concerning the status of the application. This obligation shall not apply to 
-authorization  requirements  that  are  within  the  scope  of  paragraph  2  of 
+authorization requirements that are within the scope of paragraph 2 of 
 Article 11.7 (Non­Conforming Measures). 
-2. 
-With  a  view  to  ensuring  that  measures  relating  to  qualification 
+2.  With a view to ensuring that measures relating to qualification 
 requirements  and  procedures,  technical  standards  and  licensing 
-requirements do not constitute unnecessary barriers to trade in services,
-each Party shall endeavour to ensure, as appropriate for individual sectors, 
+requirements do not constitute unnecessary barriers to trade in services,each Party shall endeavour to ensure, as appropriate for individual sectors, 
 that such measures are: 
-(a) 
-based  on  objective  and  transparent  criteria,  such  as 
+(a)  based  on  objective  and  transparent  criteria,  such  as 
 competence and the ability to supply the service; 
-(b) 
-not more burdensome than necessary to ensure the quality 
+(b)  not more burdensome than necessary to ensure the quality 
 of the service; and 
-(c) 
-in  the  case  of  licensing  procedures,  not  in  themselves  a 
-restriction on the supply of the service. 
-3. 
-If the results of the negotiations related to Article VI:4 of GATS 
+(c)  in the case of licensing procedures, not in themselves a 
+restriction on the supplyof the service. 
+3.  If the results of the negotiations related to Article VI:4 of GATS 
 (or the results of any similar negotiations undertaken in other multilateral 
 fora in which both Parties participate) enter into effect, this Article shall 
-be  amended,  as  appropriate,  after  consultations  between  the  Parties,  to 
+be amended, as appropriate, after consultations between the Parties, to 
 bring those results into effect under this Agreement. The Parties agree to 
 coordinate on such negotiations, as appropriate. 
-ARTICLE 11.9 : RECOGNITION 
-1. 
-For  the  purposes  of  the  fulfillment,  in  whole  or  in  part,  of  its 
-standards  or  criteria  for  the  authorization,  licensing  or  certification  of 
-services suppliers, and subject to the requirements of paragraph 4, a Party 
+ARTICLE 11.9:RECOGNITION 
+1.  For the purposes of the fulfillment, in whole or in part, of its 
+standards or criteria for the authorization, licensing or certification of 
+services suppliers, and subject to the requirements ofparagraph 4, a Party 
 may recognize the education or experience obtained, requirements met, or 
-licences  or  certifications  granted  in  a  particular  country,  including  the 
-other  Party  and  non­Parties.  Such  recognition,  which  may  be  achieved 
+licences or certifications granted in a particular country, including the 
+other Party and non­Parties. Such recognition, which may be achieved 
 through harmonization or otherwise, may be based upon an agreement or 
 arrangement  with  the  country  concerned  or  may  be  accorded 
 autonomously. 
-2. 
-Where  a  Party  recognizes,  autonomously  or  by  agreement  or 
+2.  Where  a  Party  recognizes,  autonomously  or  by  agreement  or 
 arrangement, the education or experience obtained, requirements met, or 
 licenses or certifications granted in the territory of a non­Party, nothing in 
 Article  11.4  (Most­Favoured­Nation  Treatment)  shall  be  construed  to 
 require the Party to accord such recognition to the education or experience 
-obtained,  requirements  met,  or  licences  or  certifications  granted  in  the 
+obtained, requirements met, or licences or certifications granted in the 
 territory of the other Party. 
-3. 
-A Party that is a party to an agreement or arrangement of the type 
+3.  A Party that is a party to an agreement or arrangement of the type 
 referred  to  in  paragraph  1,  whether  existing  or  future,  shall  afford 
 adequate opportunity for the other Party, if the other Party is interested, to 
 negotiate  its  accession  to  such  an  agreement  or  arrangement  or  to 
-negotiate  comparable  ones  with  it.  Where  a  Party  accords  recognition 
+negotiate comparable ones with it. Where a Party accords recognition 
 autonomously, it shall afford adequate opportunity for the other Party to 
 demonstrate that education, experience, licences or certifications obtained 
-or requirements met in that other Party’s territory should be recognized.
-4. 
-A  Party  shall  not  accord  recognition  in  a  manner which would 
+or requirements met in that other Party’s territory should be recognized.4.  A Party shall not accord recognition in a manner which would 
 constitute a means of discrimination between countries in the application 
 of its standards or criteria for the authorization, licensing or certification 
 of services suppliers, or a disguised restriction on trade in services. 
-5. 
-Annex 11A (Professional Services) applies to measures adopted or 
+5.  Annex11A (Professional Services) applies to measures adopted or 
 maintained  by  a  Party  relating  to  the  licensing  or  certification  of 
 professional service suppliers as set out in that Annex. 
-ARTICLE 11.10 : TRANSFERS AND PAYMENTS 
-1. 
-Each Party shall permit all transfers and payments relating to the 
+ARTICLE 11.10:TRANSFERS AND PAYMENTS 
+1.  Each Party shall permit all transfers and payments relating to the 
 cross­border supply of services to be made freely and without delay into 
 and out of its territory. 
-2. 
-Each Party shall permit such transfers and payments relating to 
+2.  Each Party shall permit such transfers and payments relating to 
 the cross­border supply of services to be made in a freely usable currency 
 at the market rate of exchange prevailing on the date of transfer. 
-3. 
-Notwithstanding  paragraphs  1  and  2,  a  Party  may  prevent  or 
+3.  Notwithstanding  paragraphs 1 and 2, a Party  may  prevent  or 
 delay a transfer or payment through the equitable, non­discriminatory and 
 good faith application of its laws relating to: 
-(a) 
-bankruptcy,  insolvency  or  the  protection  of  the  rights  of 
+(a)  bankruptcy, insolvency or the protection of the rights of 
 creditors; 
-(b) 
-issuing, trading or dealing in securities, futures, options, or 
+(b)  issuing, trading or dealing in securities, futures, options, or 
 derivatives; 
-(c) 
-financial  reporting  or  record  keeping  of  transfers  when 
+(c)  financial  reporting  or  record  keeping  of  transfers  when 
 necessary to assist law enforcement or financial regulatory 
 authorities; 
-(d) 
-criminal or penal offences; or 
-(e) 
-ensuring  compliance with orders or  judgments in judicial 
+(d)  criminal or penal offences; or 
+(e)  ensuring compliance with orders or judgments in judicial 
 or administrative proceedings. 
-4. 
-Nothing in this Chapter shall affect the rights and obligations of 
-the  Members  of  the  International  Monetary  Fund  under  the  Articles  of 
+4.  Nothing in this Chapter shall affect the rights and obligations of 
+the Members of the International Monetary Fund under the Articles of 
 Agreement of the Fund, including the use of exchange actions which are 
-in  conformity  with the  Articles  of  Agreement,  provided that a Member 
+in conformity with the Articles of Agreement, provided that a Member 
 shall not impose restrictions on any capital transactions inconsisently with 
 its  obligations  under  this  Chapter  regarding  such  transactions,  except 
 under Article 11.11 (Restrictions to Safeguard the Balance of Payments) 
-or at the request of the Fund.
-ARTICLE  11.11  :  RESTRICTIONS  TO  SAFEGUARD  THE  BALANCE  OF 
+or at the request of the Fund.ARTICLE  11.11  :  RESTRICTIONS  TO  SAFEGUARD  THE  BALANCE  OF 
 PAYMENTS 
-1. 
-In the event of serious balance of payments and external financial 
+1.  In the event of serious balance of payments and external financial 
 difficulties or threat thereof, a Party may adopt or maintain restrictions on 
 cross­border  trade  in  services,  including  payments  or  transfers  for 
 transactions  of  cross­border  trade  in  services.  It  is  recognized  that 
@@ -400,68 +292,55 @@ of  economic  development  may  necessitate  the  use  of  restrictions�
 ensure,  inter  alia,  the  maintenance  of  a  level  of  financial  reserves 
 adequate  for  the  implementation  of  its  programme  of  economic 
 development. 
-2. 
-The restrictions referred to in paragraph 1 shall: 
-(a) 
-be  consistent  with  the  Articles  of  Agreement  of  the 
+2.  The restrictions referred to in paragraph 1 shall: 
+(a)  be  consistent  with  the  Articles  of  Agreement  of  the 
 International Monetary Fund; 
-(b) 
-avoid  unnecessary  damage  to  the  commercial,  economic 
+(b)  avoid unnecessary damage to the commercial, economic 
 and financial interests of the other Party; 
-(c) 
-not exceed those necessary to deal with the circumstances 
+(c)  not exceed those necessary to deal with the circumstances 
 described in paragraph 1; 
-(d) 
-be  temporary  and  be  phased  out  progressively  as  the 
+(d)  be  temporary  and  be  phased  out  progressively  as  the 
 situation specified in paragraph 1 improves; 
-(e) 
-be applied on a national treatment basis and such that the 
-other  Party  is  treated  no  less  favourably  than  any  non­ 
+(e)  be applied on a national treatment basis and such that the 
+other  Party  is treated no less  favourably than  any  non­ 
 Party. 
-3. 
-Any restrictions adopted or maintained under paragraph 1, or any 
+3.  Any restrictions adopted or maintained under paragraph 1, or any 
 changes therein, shall be promptly notified to the other Party. 
-4. 
-The  Party  adopting  any  restrictions  under  paragraph  1  shall 
+4.  The  Party  adopting  any  restrictions  under  paragraph  1  shall 
 commence  consultations  with  the  other  Party  in  order  to  review  the 
 restrictions adopted by it. 
-ARTICLE 11.12 : DENIAL OF BENEFITS 
+ARTICLE 11.12:DENIAL OF BENEFITS 
 Subject  to  prior  notification  and  consultation  according  to  the 
 procedures set out in Article 17.4 (Consultations), a Party may deny the 
 benefits of this Chapter to: 
-(a) 
-a service supplier of the other Party if the service supplier 
+(a)  a service supplier of the other Party if the service supplier 
 is an enterprise owned or controlled by persons of a non­ 
 Party  and  such  enterprise  has  no  substantive  business 
-operations in the territory of the other Party; or
-(b) 
-a service supplier of the other Party if the service supplier 
+operations in the territory of the other Party; or(b)  a service supplier of the other Party if the service supplier 
 is  an  enterprise  owned  or  controlled  by  persons  of  the 
 denying  Party  and  such  enterprise  has  no  substantive 
 business operations in the territory of the other Party. 
-ARTICLE 11.13 : TRANSPARENCY 
-1. 
-Each  Party  shall  publish  promptly  or otherwise  make  publicly 
+ARTICLE 11.13:TRANSPARENCY 
+1.  Each Party shall publish promptly or otherwise make publicly 
 available  international  agreements  pertaining  to  or  affecting  trade  in 
 services to which it is a signatory.  International agreements pertaining to 
-or affecting trade in services to which either Party is a signatory shall also 
+or affecting trade in services to whicheither Partyis a signatory shall also 
 be published. 
-2. 
-Each  Party  shall  maintain or establish appropriate  mechanisms 
+2.  Each Party shall maintain or establish appropriate mechanisms 
 for  responding  to  inquiries  from  interested  persons  regarding  its 
 regulations relating to the subject matter of this Chapter 11­9 . 
-ARTICLE 11.14 : IMPLEMENTATION 
+ARTICLE 11.14:IMPLEMENTATION 
 The Parties shall consult whenever the Free Trade Commission 
 convenes  under  Article 16.1  (The  Free  Trade  Commission)  of  this 
 Agreement, or as otherwise agreed, to review the implementation of this 
-Chapter  and  consider  other  matters of  mutual  interest affecting  trade in 
-services.  Among  other  issues,  the  Parties  may  consult  with  a  view  to 
+Chapter and consider other matters of mutual interest affecting trade in 
+services.  Among other issues, the Parties may consult with a view to 
 determining  the  feasibility  of  removing  any  remaining  citizenship  or 
 permanent  residency  requirements  for  the  supply  of  services  in  the 
-territory of each Party. Such consultations may also include consideration 
+territory ofeach Party. Such consultations may also include consideration 
 of  the  development  of  procedures  that  could  contribute  to  greater 
 transparency of measures described in paragraph 1(c) and paragraph 2 of 
 Article 11.7 (Non­Conforming Measures). 
 11­9 The Parties’ implementation of their obligations to establish appropriate mechanisms 
-for  small  administrative  agencies  may  need  to  take  into  account resource  and  budget 
+for small administrative agencies may need to take into account resource and budget 
 constraints.

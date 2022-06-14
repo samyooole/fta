@@ -1,5 +1,4 @@
  
-7-1 
 CHAPTER 7 
  
 TRADE REMEDIES 
@@ -13,8 +12,7 @@ Article 7.1: Definitions
  
 For the purposes of this Chapter: 
  
-(a) 
-confidential information includes information which is 
+(a)  confidential information includes information which is 
 provided on a confidential basis and which is by its nature 
 confidential (for example, because its disclosure would be 
 of significant competitive advantage to a competitor or 
@@ -22,231 +20,190 @@ because its disclosure would have a significantly adverse
 effect upon a person supplying the information or upon a 
 person from whom that person acquired the information); 
  
-(b) 
-customs duty means customs duties as defined in 
+(b)  customs  duty  means  customs  duties  as  defined  in 
 subparagraph (b) of Article 2.1 (Definitions); 
  
-(c) 
-domestic industry means, with respect to an imported 
-good, the producers as a whole of the like or directly 
+(c)  domestic industry means, with respect to an imported 
+good,  the  producers  as  a  whole  of  the  like  or  directly 
 competitive goods operating within the territory of a Party, 
 or those producers whose collective output of the like or 
 directly competitive goods constitutes a major proportion of 
 the total domestic production of that good; 
  
-(d) 
-originating good means an originating good as defined in 
+(d)  originating good means an originating good as defined in 
 subparagraph (l) of Article 3.1 (Definitions); 
  
-(e) 
-provisional RCEP safeguard measure means a 
+(e)  provisional  RCEP  safeguard  measure  means  a 
 safeguard measure described in paragraph 1 of Article 7.8 
 (Provisional RCEP Safeguard Measures); 
  
-(f) 
-serious injury means a significant overall impairment in 
+(f)  serious injury means a significant overall impairment in 
 the position of a domestic industry; 
  
-(g) 
-threat of serious injury means serious injury that, on the 
+(g)  threat of serious injury means serious injury that, on the 
 basis of facts and not merely on allegation, conjecture, or 
 remote possibility, is clearly imminent; 
  
- 
-7-2 
-(h) 
-transitional RCEP safeguard measure means a 
+7-1  
+(h)  transitional  RCEP  safeguard  measure  means  a 
 safeguard measure described in Article 7.2 (Application of 
 Transitional RCEP Safeguard Measures); and 
  
-(i) 
-transitional safeguard period means, in relation to a 
+(i)  transitional  safeguard  period  means,  in  relation  to  a 
 particular good, the period from the date of entry into force 
 of this Agreement until eight years after the date on which 
 the elimination or reduction of the customs duty on that 
 good is completed, in accordance with a Party’s Schedule 
-of tariff commitments in Annex I (Schedules of Tariff 
+of  tariff  commitments  in  Annex  I  (Schedules  of  Tariff 
 Commitments). 
  
  
 Article 7.2: Application of Transitional RCEP Safeguard Measures 
  
-1. 
-If, as a result of the reduction or elimination of a customs duty 
+1.  If, as a result of the reduction or elimination of a customs duty 
 under this Agreement, an originating good of another Party or 
 Parties collectively is being imported into the territory of a Party in 
-such increased quantities, in absolute terms or relative to 
+such  increased  quantities,  in  absolute  terms  or  relative  to 
 domestic production, and under such conditions as to cause or 
 threaten to cause serious injury to its domestic industry producing 
 a like or directly competitive good, the importing Party may, to the 
 extent necessary to prevent or remedy the serious injury to its 
-domestic industry and to facilitate its domestic industry’s 
+domestic  industry  and  to  facilitate  its  domestic  industry’s 
 adjustment: 
  
-(a) 
-suspend the further reduction of any rate of customs duty 
+(a)  suspend the further reduction of any rate of customs duty 
 provided for in this Agreement on the originating good; or 
  
-(b) 
-increase the rate of customs duty on the originating good 
+(b)  increase the rate of customs duty on the originating good 
 to a level not to exceed the lesser of: 
  
-(i) 
-the most-favoured-nation applied rate of customs 
+(i)  the most-favoured-nation applied rate of customs 
 duty in effect on the day when the transitional RCEP 
 safeguard measure is applied; or 
  
-(ii) 
-the most-favoured-nation applied rate of customs 
+(ii)  the most-favoured-nation applied rate of customs 
 duty in effect on the day immediately preceding the 
 date of entry into force of this Agreement for that 
 Party. 
  
-2. 
-The Parties understand that neither tariff rate quotas nor 
-quantitative restrictions are permissible forms of transitional 
+2.  The  Parties  understand  that  neither  tariff  rate  quotas  nor 
+quantitative  restrictions  are  permissible  forms  of  transitional 
 RCEP safeguard measures. 
  
- 
-7-3 
-3. 
-On request of any Party, the Committee on Goods may, no later 
+7-2  
+3.  On request of any Party, the Committee on Goods may, no later 
 than three years before the end of the transitional safeguard 
 period, discuss and review the implementation and operation, 
-including the duration, of the transitional RCEP safeguard 
+including  the  duration,  of  the  transitional  RCEP  safeguard 
 measures. 
  
  
 Article 7.3: Notification and Consultation 
  
-1. 
-A Party shall immediately deliver a written notice to the other 
+1.  A Party shall immediately deliver a written notice to the other 
 Parties upon: 
  
-(a) 
-initiating an investigation referred to in Article 7.4 
-(Investigation Procedures) relating to serious injury or 
+(a)  initiating  an  investigation  referred  to  in  Article  7.4 
+(Investigation  Procedures)  relating  to  serious  injury  or 
 threat of serious injury and the reasons for it; 
  
-(b) 
-making a finding of serious injury or threat of serious injury 
+(b)  making a finding of serious injury or threat of serious injury 
 caused by increased imports; 
  
-(c) 
-applying or extending the imposition of a transitional RCEP 
+(c)  applying or extending the imposition of a transitional RCEP 
 safeguard measure; and 
  
-(d) 
-taking a decision to modify, including to progressively 
+(d)  taking  a  decision  to  modify,  including  to  progressively 
 liberalise, a transitional RCEP safeguard measure. 
  
-2. 
-A written notice referred to in subparagraph 1(a) shall include: 
+2.  A written notice referred to in subparagraph 1(a) shall include: 
  
-(a) 
-a precise description of the originating good subject to the 
+(a)  a precise description of the originating good subject to the 
 investigation including its heading and subheading under 
 the Harmonized System and the national nomenclature of 
 the Party; 
  
-(b) 
-a summary of the reason for the initiation of the 
+(b)  a  summary  of  the  reason  for  the  initiation  of  the 
 investigation; and 
  
-(c) 
-the date of the initiation of the investigation and the period 
+(c)  the date of the initiation of the investigation and the period 
 of investigation. 
  
-3. 
-A Party shall provide to the other Parties a copy or the Uniform 
-Resource Locator of the public version of the report by its 
+3.  A Party shall provide to the other Parties a copy or the Uniform 
+Resource  Locator  of  the  public  version  of  the  report  by  its 
 competent authorities that is required under paragraph 1 of Article 
 7.4 (Investigation Procedures).  The provided report may be in the 
 language originally used in the report by its competent authorities. 
  
-4. 
-A written notice referred to in subparagraphs 1(b) through (d) shall 
+4.  A written notice referred to in subparagraphs 1(b) through (d) shall 
 include: 
+7-3  
  
-7-4 
- 
-(a) 
-a precise description of the originating good subject to the 
-transitional RCEP safeguard measure including its 
+(a)  a precise description of the originating good subject to the 
+transitional  RCEP  safeguard  measure  including  its 
 heading and subheading under the Harmonized System 
 and the national nomenclature of the Party; 
  
-(b) 
-evidence of the serious injury or threat of serious injury 
+(b)  evidence of the serious injury or threat of serious injury 
 caused by increased imports of the originating good of 
 another Party or Parties as a result of the reduction or 
 elimination of a customs duty pursuant to this Agreement; 
  
-(c) 
-a precise description of the proposed transitional RCEP 
+(c)  a precise description of the proposed transitional RCEP 
 safeguard measure; 
  
-(d) 
-the proposed date of the introduction of the transitional 
+(d)  the proposed date of the introduction of the transitional 
 RCEP safeguard measure, its expected duration, and, if 
 applicable, a timetable for the progressive liberalisation of 
 the transitional RCEP safeguard measure referred to in 
-paragraph 3 of Article 7.5 (Scope and Duration of 
+paragraph  3  of  Article  7.5  (Scope  and  Duration  of 
 Transitional RCEP Safeguard Measures); and 
  
-(e) 
-in the case of an extension of the transitional RCEP 
+(e)  in  the  case  of  an  extension  of  the  transitional  RCEP 
 safeguard measure, evidence that the domestic industry 
 concerned is adjusting. 
  
-5. 
-A Party proposing to apply or extend a transitional RCEP 
+5.  A  Party  proposing  to  apply  or  extend  a  transitional  RCEP 
 safeguard measure shall provide adequate opportunity for prior 
 consultations with the Parties that have a substantial interest as 
-exporters of the good concerned, with a view to, inter alia, 
+exporters  of  the  good  concerned,  with  a  view  to,  inter  alia, 
 reviewing the information provided under paragraphs 2 and 4 that 
-has arisen from the investigation referred to in Article 7.4 
+has  arisen  from  the  investigation  referred  to  in  Article  7.4 
 (Investigation Procedures), exchanging views on the transitional 
 RCEP safeguard measure, and reaching an understanding on 
-ways to achieve the objective set out in Article 7.7 
+ways  to  achieve  the  objective  set  out  in  Article  7.7 
 (Compensation). 
  
  
 Article 7.4: Investigation Procedures 
  
-1. 
-A Party shall apply a transitional RCEP safeguard measure 
-only following an investigation by its competent authorities in 
+1.  A  Party  shall  apply  a transitional  RCEP  safeguard  measure 
+only  following an investigation  by its competent authorities in 
 accordance with the same procedures as those provided for in 
-Article 3 and paragraph 2 of Article 4 of the Safeguards 
+Article  3  and  paragraph  2  of  Article  4  of  the  Safeguards 
 Agreement.  To this end, Article 3 and paragraph 2 of Article 4 of 
 the Safeguards Agreement are incorporated into and made part 
 of this Agreement, mutatis mutandis. 
+7-4  
  
-7-5 
- 
-2. 
-Each Party shall ensure that its competent authorities complete 
-the investigation referred to in paragraph 1 within one year 
+2.  Each Party shall ensure that its competent authorities complete 
+the  investigation  referred  to  in  paragraph  1  within  one  year 
 following its date of initiation. 
  
  
 Article 7.5: Scope and Duration of Transitional RCEP Safeguard 
 Measures 
  
-1. 
-No Party shall apply a transitional RCEP safeguard measure: 
+1.  No Party shall apply a transitional RCEP safeguard measure: 
  
-(a) 
-except to the extent, and for such time, as may be 
-necessary to prevent or remedy serious injury and to 
+(a)  except  to  the  extent,  and  for  such  time,  as  may  be 
+necessary  to  prevent  or  remedy  serious  injury  and  to 
 facilitate adjustment; 
  
-(b) 
-for a period exceeding three years, except that in 
+(b)  for  a  period  exceeding  three  years,  except  that  in 
 exceptional circumstances, the period may be extended by 
 up to one year if the competent authorities of the Party that 
-applies the transitional RCEP safeguard measure 
+applies  the  transitional  RCEP  safeguard  measure 
 determines, in conformity with the procedures specified in 
 this Article, that the transitional RCEP safeguard measure 
 continues to be necessary to prevent or remedy serious 
@@ -259,36 +216,30 @@ exceed four years.  Notwithstanding this provision, a Least
 Developed Country Party may extend its transitional RCEP 
 safeguard measure for an additional period of one year; or 
  
-(c) 
-beyond the expiration of the transitional safeguard period. 
+(c)  beyond the expiration of the transitional safeguard period. 
  
-2.  
-No transitional RCEP safeguard measure shall be applied to the 
+2.   No transitional RCEP safeguard measure shall be applied to the 
 import of an originating good for a period of one year from the 
 date on which the first tariff reduction or tariff elimination takes 
-effect for that originating good as committed under this 
+effect  for  that  originating  good  as  committed  under  this 
 Agreement. 
  
-3. 
-In order to facilitate adjustment in a situation where the expected 
+3.  In order to facilitate adjustment in a situation where the expected 
 duration of a transitional RCEP safeguard measure exceeds one 
-year, the Party applying the transitional RCEP safeguard 
-measure shall progressively liberalise the transitional RCEP 
-safeguard measure at regular intervals during its period of 
+year,  the  Party  applying  the  transitional  RCEP  safeguard 
+measure  shall  progressively  liberalise  the  transitional  RCEP 
+safeguard  measure  at  regular  intervals  during  its  period  of 
 application. 
  
- 
-7-6 
-4. 
-When a Party terminates a transitional RCEP safeguard measure, 
+7-5  
+4.  When a Party terminates a transitional RCEP safeguard measure, 
 the rate of customs duty for the originating good subject to that 
-transitional RCEP safeguard measure shall be the rate that, 
+transitional  RCEP  safeguard  measure  shall  be  the  rate  that, 
 according to that Party’s Schedule in Annex I (Schedules of Tariff 
 Commitments), would have been in effect but for that transitional 
 RCEP safeguard measure. 
  
-5. 
-No transitional RCEP safeguard measure shall be applied again 
+5.  No transitional RCEP safeguard measure shall be applied again 
 to the import of a particular originating good that has been subject 
 to a transitional RCEP safeguard measure, for a period of time 
 equal to the duration of the previous transitional RCEP safeguard 
@@ -298,136 +249,119 @@ is longer.
  
 Article 7.6: De Minimis Imports and Special Treatment 
  
-1. 
-A provisional or transitional RCEP safeguard measure shall not 
-be applied to an originating good of a Party, as long as that 
+1.  A provisional or transitional RCEP safeguard measure shall not 
+be applied to an originating good of a Party,  as  long  as  that 
 Party’s share of imports of the good concerned in the importing 
 Party does not exceed three per cent of the total imports of that 
 good from all the Parties, provided that those Parties with less 
 than three per cent import share collectively account for not more 
 than nine per cent. 
  
-2. 
-A provisional or transitional RCEP safeguard measure shall not 
+2.  A provisional or transitional RCEP safeguard measure shall not 
 be applied to an originating good of any Least Developed Country 
 Party. 
  
  
 Article 7.7: Compensation 
  
-1. 
-A Party proposing to apply or extend a transitional RCEP 
-safeguard measure shall, in consultation with the exporting 
-Parties that would be affected by such a measure, provide to 
-those exporting Parties mutually agreed, adequate means of 
-trade compensation 
-in the form of concessions having 
+1.  A  Party  proposing  to  apply  or  extend  a  transitional  RCEP 
+safeguard  measure  shall,  in  consultation  with  the  exporting 
+Parties that would be affected by such a measure, provide  to 
+those  exporting  Parties  mutually  agreed,  adequate  means  of 
+trade  compensation  in  the  form  of  concessions  having 
 substantially equivalent trade effects or equivalent to the value of 
-the additional customs duties expected to result from the 
+the  additional  customs  duties  expected  to  result  from  the 
 measure.  The Party applying a transitional RCEP safeguard 
-measure shall provide those exporting Parties that would be 
+measure  shall  provide  those  exporting  Parties  that  would  be 
 affected by such a measure with the opportunity to consult within 
 30 days of the date on which the transitional RCEP safeguard 
 measure was applied. 
  
- 
-7-7 
-2. 
-If the consultations referred to in paragraph 1 do not result in an 
-agreement on trade compensation within 30 days of the 
+7-6  
+2.  If the consultations referred to in paragraph 1 do not result in an 
+agreement  on  trade  compensation  within  30  days  of  the 
 commencement of such consultations, any Party against whose 
 good the transitional RCEP safeguard measure is applied may 
 suspend the application of substantially equivalent concessions 
 to the trade in goods of the Party applying the transitional RCEP 
 safeguard measure. 
  
-3. 
-A Party against whose good a transitional RCEP safeguard 
+3.  A  Party  against  whose  good  a  transitional  RCEP  safeguard 
 measure is applied shall deliver a written notice to the Party 
 applying the transitional RCEP safeguard measure at least 30 
-days before it suspends the application of concessions in 
+days  before  it  suspends  the  application  of  concessions  in 
 accordance with paragraph 2. 
  
-4. 
-The obligation to provide compensation under paragraph 1 and 
+4.  The obligation to provide compensation under paragraph 1 and 
 the right to suspend the application of concessions in accordance 
 with paragraph 2 shall cease on the termination of the transitional 
 RCEP safeguard measure. 
  
-5. 
-The right to suspend the application of concessions in accordance 
+5.  The right to suspend the application of concessions in accordance 
 with paragraph 2 shall not be exercised for the first three years 
-during which the transitional RCEP safeguard measure is in 
+during  which  the  transitional  RCEP  safeguard  measure  is  in 
 effect, provided that the transitional RCEP safeguard measure 
 has been applied as a result of an absolute increase in imports 
 and that it conforms to this Agreement. 
  
-6. 
-A Least Developed Country Party that applies or extends a 
+6.  A  Least  Developed  Country  Party  that  applies  or  extends  a 
 transitional RCEP safeguard measure shall not be requested for 
 any compensation by the affected Parties. 
  
  
 Article 7.8: Provisional RCEP Safeguard Measures 
  
-1. 
-In critical circumstances where delay would cause damage that 
-would be difficult to repair, an importing Party may apply a 
+1.  In critical circumstances where delay would cause damage that 
+would  be  difficult  to  repair,  an  importing  Party  may  apply  a 
 provisional RCEP safeguard measure, which shall take the form 
 of the measures set out in subparagraph 1(a) or (b) of Article 7.2 
-(Application of Transitional RCEP Safeguard Measures), 
-pursuant to a preliminary determination by its competent 
-authorities that there is clear evidence that imports of an 
+(Application  of  Transitional  RCEP  Safeguard  Measures), 
+pursuant  to  a  preliminary  determination  by  its  competent 
+authorities  that  there  is  clear  evidence  that  imports  of  an 
 originating good from another Party or Parties have increased as 
 the result of the reduction or elimination of a customs duty under 
 this Agreement, and such increased imports have caused or are 
 threatening to cause serious injury to a domestic industry of the 
 importing Party. 
  
- 
-7-8 
-2. 
-A Party shall deliver a written notice to the other Parties prior to 
+7-7  
+2.  A Party shall deliver a written notice to the other Parties prior to 
 applying a provisional RCEP safeguard measure.  Consultations 
 with the Parties that have a substantial interest as exporters of the 
-good concerned on the application of the provisional RCEP 
-safeguard measure shall be initiated immediately after the 
+good  concerned  on  the  application  of  the  provisional  RCEP 
+safeguard  measure  shall  be  initiated  immediately  after  the 
 provisional RCEP safeguard measure is applied. 
  
-3. 
-The duration of any provisional RCEP safeguard measure shall 
+3.  The duration of any provisional RCEP safeguard measure shall 
 not exceed 200 days, during which period the Party applying that 
-provisional RCEP safeguard measure shall comply with the 
-requirements of paragraph 1 of Article 7.4 (Investigation 
+provisional  RCEP  safeguard  measure  shall  comply  with  the 
+requirements  of  paragraph  1  of  Article  7.4  (Investigation 
 Procedures).  If the investigation referred to in paragraph 1 of 
 Article 7.4 (Investigation Procedures) does not result in a finding 
 that the requirements of Article 7.2 (Application of Transitional 
-RCEP Safeguard Measures) are met, the Party applying the 
+RCEP  Safeguard  Measures)  are  met,  the  Party  applying  the 
 provisional RCEP safeguard measure shall promptly refund any 
 additional customs duties collected as a result of the provisional 
 RCEP safeguard measure.  For greater certainty, the duration of 
 any provisional RCEP safeguard measure shall be counted as 
 part of the total period prescribed by subparagraph 1(b) of Article 
-7.5 (Scope and Duration of Transitional RCEP Safeguard 
+7.5  (Scope  and  Duration  of  Transitional  RCEP  Safeguard 
 Measures). 
  
-4. 
-Paragraph 2 of Article 7.2 (Application of Transitional RCEP 
+4.  Paragraph  2  of  Article  7.2  (Application  of  Transitional  RCEP 
 Safeguard Measures), paragraph 4 of Article 7.5 (Scope and 
-Duration of Transitional RCEP Safeguard Measures), and 
+Duration  of  Transitional  RCEP  Safeguard  Measures),  and 
 paragraphs 1 and 2 of Article 7.10 (Other Provisions) shall apply, 
 mutatis mutandis, to a provisional RCEP safeguard measure. 
  
  
 Article 7.9: Global Safeguard Measures 
  
-1. 
-Nothing in this Agreement shall affect the rights and obligations 
+1.  Nothing in this Agreement shall affect the rights and obligations 
 of the Parties under Article XIX of GATT 1994 and the Safeguards 
 Agreement.1 
  
-2. 
-Unless otherwise provided in paragraph 3, nothing in this 
+2.  Unless  otherwise  provided  in  paragraph  3,  nothing  in  this 
 Agreement shall confer any rights or impose any obligations on 
 the Parties with regard to actions taken pursuant to Article XIX of 
 GATT 1994 and the Safeguards Agreement.2 
@@ -437,100 +371,84 @@ the Agreement on Agriculture in view of Article 20.2 (Relation to Other Agreemen
  
 2 For greater certainty, each Party retains its rights and obligations under Article 5 of 
 the Agreement on Agriculture in view of Article 20.2 (Relation to Other Agreements). 
+7-8  
  
-7-9 
- 
-3. 
-On request of another Party, a Party intending to take safeguard 
-measures pursuant to Article XIX of GATT 1994 and the 
+3.  On request of another Party, a Party intending to take safeguard 
+measures  pursuant  to  Article  XIX  of  GATT  1994  and  the 
 Safeguards Agreement shall immediately provide written notice 
 or Uniform Resource Locator of all pertinent information required 
 under paragraphs 1, 2, and 4 of Article 12 of the Safeguards 
-Agreement on the initiation of a safeguard investigation, the 
-preliminary determination, and the final finding of the 
+Agreement  on  the  initiation  of  a  safeguard  investigation,  the 
+preliminary  determination,  and  the  final  finding  of  the 
 investigation.  A Party shall be deemed to be in compliance with 
-this paragraph if it has notified the measure to the WTO 
+this  paragraph  if  it  has  notified  the  measure  to  the  WTO 
 Committee on Safeguards in accordance with Article 12 of the 
 Safeguards Agreement. 
  
-4. 
-No Party shall apply, with respect to the same good, at the same 
+4.  No Party shall apply, with respect to the same good, at the same 
 time: 
  
-(a) 
-a provisional or transitional RCEP safeguard measure; and 
+(a)  a provisional or transitional RCEP safeguard measure; and 
  
-(b) 
-a measure under Article XIX of GATT 1994 and the 
+(b)  a  measure  under  Article  XIX  of  GATT  1994  and  the 
 Safeguards Agreement. 
  
  
 Article 7.10: Other Provisions 
  
-1. 
-Each Party shall ensure the consistent, impartial, and reasonable 
+1.  Each Party shall ensure the consistent, impartial, and reasonable 
 administration of its laws and regulations relating to transitional 
 RCEP safeguard measures. 
  
-2. 
-Each Party shall adopt or maintain equitable, timely, transparent, 
+2.  Each Party shall adopt or maintain equitable, timely, transparent, 
 and effective procedures relating to transitional RCEP safeguard 
 measures. 
  
-3. 
-A written notice referred to in paragraph 1 of Article 7.3 
-(Notification and Consultation), paragraph 3 of Article 7.7 
-(Compensation), and paragraph 2 of Article 7.8 (Provisional 
+3.  A  written  notice  referred  to  in  paragraph  1  of  Article  7.3 
+(Notification  and  Consultation),  paragraph  3  of  Article  7.7 
+(Compensation),  and  paragraph  2  of  Article  7.8  (Provisional 
 RCEP Safeguard Measures) shall be in the English language. 
  
  
- 
- 
- 
-7-10 
+   
+7-9  
 SECTION B 
 ANTI-DUMPING AND COUNTERVAILING DUTIES 
  
  
 Article 7.11: General Provisions 
  
-1. 
-The Parties retain their rights and obligations under Article VI of 
+1.  The Parties retain their rights and obligations under Article VI of 
 GATT 1994, the AD Agreement, and the SCM Agreement.  This 
 Section affirms and builds on those rights and obligations. 
  
-2. 
-In any proceeding in which the investigating authorities of a Party 
-determine to conduct an on-the-spot investigation to verify 
-information provided by a respondent3 and pertinent to the 
-calculation of anti-dumping duty margins or the level of a 
-countervailable subsidy, the investigating authorities shall 
+2.  In any proceeding in which the investigating authorities of a Party 
+determine  to  conduct  an  on-the-spot  investigation  to  verify 
+information  provided  by  a  respondent3  and  pertinent  to  the 
+calculation  of  anti-dumping  duty  margins  or  the  level  of  a 
+countervailable  subsidy,  the  investigating  authorities  shall 
 promptly notify that respondent of their intent, and: 
  
-(a) 
-shall endeavour to provide to the respondent at least seven 
+(a)  shall endeavour to provide to the respondent at least seven 
 days advance notice of the date on which investigating 
-authorities intend to conduct any such on-the-spot 
+authorities  intend  to  conduct  any  such  on-the-spot 
 investigation to verify the information; and 
  
-(b) 
-shall endeavour to, at least seven days prior to any such 
+(b)  shall endeavour to, at least seven days prior to any such 
 on-the-spot investigation to verify the information, provide 
 to the respondent a document that sets forth the topics the 
-respondent should be prepared to address during the 
-verification and that describes the types of supporting 
+respondent  should  be  prepared  to  address  during  the 
+verification  and  that  describes  the  types  of  supporting 
 documentation the respondent is to make available for 
 review, 
  
 provided that the implementation of subparagraphs (a) and (b) 
 does not unnecessarily delay the conduct of the investigation. 
  
-3. 
-A Party’s investigating authorities shall maintain a non-
+3.  A  Party’s  investigating  authorities  shall  maintain  a  non-
 confidential file for each investigation and review containing: 
  
-(a) 
-all non-confidential documents which are part of the record 
+(a)  all non-confidential documents which are part of the record 
 of the investigation or review; and 
  
  
@@ -539,39 +457,32 @@ exporter, importer, and, where appropriate, a government or government entity, t
 required by a Party’s investigating authorities to respond to an anti-dumping or 
 countervailing duty questionnaire. 
  
- 
-7-11 
-(b) 
-to the extent feasible without revealing confidential 
-information, non-confidential summaries of confidential 
+7-10  
+(b)  to  the  extent  feasible  without  revealing  confidential 
+information,  non-confidential  summaries  of  confidential 
 information contained in the record of each investigation or 
 review. 
  
-4. 
-During an investigation or review, a Party’s investigating 
+4.  During  an  investigation  or  review,  a  Party’s  investigating 
 authorities shall make the non-confidential file of the investigation 
 or review available to interested parties either: 
  
-(a)  
-physically for inspection and copying during the 
+(a)   physically  for  inspection  and  copying  during  the 
 investigation authorities’ normal business hours; or 
  
-(b)  
-electronically. 
+(b)   electronically. 
  
  
 Article 7.12: Notification and Consultations 
  
-1. 
-On receipt by a Party’s competent authorities of a properly 
-documented anti-dumping application with respect to imports 
+1.  On  receipt  by  a  Party’s  competent  authorities  of  a  properly 
+documented  anti-dumping  application  with  respect  to  imports 
 from another Party, the Party shall endeavour to provide written 
 notice to the other Party of its receipt of the application at least 
 seven days before initiating such an anti-dumping investigation. 
  
-2. 
-On receipt by a Party’s competent authorities of a properly 
-documented countervailing duty application with respect to 
+2.  On  receipt  by  a  Party’s  competent  authorities  of  a  properly 
+documented  countervailing  duty  application  with  respect  to 
 imports from another Party, and before initiating an investigation, 
 the Party shall endeavour to provide written notice to the other 
 Party of its receipt of the application at least 20 days in advance 
@@ -579,22 +490,19 @@ of the date of initiation of a countervailing investigation and invite
 the other Party for consultations on the application.  The Parties 
 concerned will endeavour to hold consultations within that period. 
  
-3. 
-In view of the consultations referred to in paragraph 2, the Party 
+3.  In view of the consultations referred to in paragraph 2, the Party 
 intending to initiate the investigation referred to in paragraph 2 
 shall, before the initiation of the investigation, on request of the 
 other Party, provide the non-confidential version of the complaint 
 to the other Party.  The Party intending to initiate the investigation 
 shall endeavour to provide adequate opportunity to the other 
-Party to comment and submit additional information or 
+Party  to  comment  and  submit  additional  information  or 
 documents, as appropriate and in conformity with the procedural 
 rules provided for in the laws and regulations of the former Party. 
  
  
- 
- 
- 
-7-12 
+   
+7-11  
 Article 7.13: Prohibition of Zeroing 
  
 When margins of dumping are established, assessed, or reviewed under 
@@ -602,8 +510,8 @@ Article 2, paragraphs 3 and 5 of Article 9, and Article 11 of the AD
 Agreement, all individual margins, whether positive or negative, shall be 
 counted for weighted average-to-weighted average and transaction-to-
 transaction comparison.  Nothing in this Article shall prejudice or affect 
-a Party’s rights and obligations under the second sentence of 
-subparagraph 4.2 of Article 2 of the AD Agreement in relation to 
+a  Party’s  rights  and  obligations  under  the  second  sentence  of 
+subparagraph  4.2  of  Article  2  of  the  AD  Agreement  in  relation  to 
 weighted average-to-transaction comparison. 
  
  
@@ -612,9 +520,9 @@ Article 7.14: Disclosure of the Essential Facts
 Each Party shall ensure, to the extent possible at least 10 days before 
 the final determination, full and meaningful disclosure of all essential 
 facts under consideration which form the basis for the decision to apply 
-measures, without prejudice to paragraph 5 of Article 6 of the AD 
-Agreement and paragraph 4 of Article 12 of the SCM Agreement.  
-Disclosures shall be made in writing, and allow interested parties 
+measures,  without  prejudice  to  paragraph  5  of  Article  6  of  the  AD 
+Agreement  and  paragraph  4  of  Article  12  of  the  SCM  Agreement.  
+Disclosures  shall  be  made  in  writing,  and  allow  interested  parties 
 sufficient time to provide their comments.  The investigating authorities 
 of a Party should, in their final determination, take into account such 
 comments, if the comments have been received in the time frames 
@@ -627,7 +535,7 @@ Article 7.15: Treatment of Confidential Information
 The investigating authorities of a Party shall require interested parties 
 providing confidential information to furnish non-confidential summaries 
 of such information, as referred to in subparagraph 5.1 of Article 6 of the 
-AD Agreement.  The non-confidential summaries referred to in 
+AD  Agreement.    The  non-confidential  summaries  referred  to  in 
 subparagraph 5.1 of Article 6 of the AD Agreement shall be in sufficient 
 detail to permit a reasonable understanding of the substance of the 
 information submitted in confidence in order to allow other interested 
@@ -639,10 +547,10 @@ Article 7.16: Non-Application of Dispute Settlement
  
 No Party shall have recourse to dispute settlement under Chapter 19 
 (Dispute Settlement) for any matter arising under this Section or Annex 
-7A (Practices Relating to Anti-Dumping and Countervailing Duty 
- 
-7-13 
+7A  (Practices  Relating  to  Anti-Dumping  and  Countervailing  Duty 
+7-12  
 Proceedings).  The applicability of dispute settlement to this Section will 
 be subject to review in accordance with Article 20.8 (General Review). 
  
  
+7-13 

@@ -5,26 +5,19 @@ ANNEX II
 SCHEDULE OF CHILE 
  
  
-Sector: 
-All  
+Sector:  All  
  
  
 Sub-Sector: 
  
  
-Obligations Concerned: 
-National Treatment (Article 9.4) 
+Obligations Concerned:  National Treatment (Article 9.4) 
+    Most-Favoured-Nation Treatment (Article 9.5) 
  
  
-Most-Favoured-Nation Treatment (Article 9.5) 
+Description:  Investment 
  
- 
-Description: 
-Investment 
- 
- 
- 
-Chile reserves the right to adopt or maintain any measure 
+    Chile reserves the right to adopt or maintain any measure 
 relating to the ownership or control of land within five 
 kilometres of the coastline that is used for agricultural activities.  
 Such measure could include a requirement that the majority of 
@@ -33,30 +26,23 @@ own or control such land be held by Chilean persons or by
 persons residing in Chile for 183 days or more per year. 
  
  
-Existing Measures: 
-Decree Law 1.939, Official Gazette, November 10, 1977, Rules 
+Existing Measures:  Decree Law 1.939, Official Gazette, November 10, 1977, Rules 
 for acquisition, administration and disposal of State owned 
 assets, Title I (Decreto Ley 1.939, Diario Oficial, noviembre 10, 
 1977, Normas sobre adquisición, administración y disposición 
 de bienes del Estado, Título I) 
-ANNEX II – CHILE – 1 
- 
-Sector: 
-All 
+ANNEX II – CHILE – 1  
+Sector:  All 
  
  
 Sub-Sector: 
  
  
-Obligations Concerned: 
-National Treatment (Article 9.4) 
+Obligations Concerned:  National Treatment (Article 9.4) 
+    Senior Management and Boards of Directors (Article 9.11) 
  
  
-Senior Management and Boards of Directors (Article 9.11) 
- 
- 
-Description: 
-Investment 
+Description:  Investment 
  
 In the transfer or disposal of any interest in stock or asset held in 
 an existing state enterprise or governmental entity, Chile reserves 
@@ -77,95 +63,57 @@ of an existing state enterprise or governmental entity.
  
  
 Existing Measures: 
-1  A list of existing state enterprises in Chile can be found on the following website: http://www.dipres.gob.cl. 
-ANNEX II – CHILE – 2 
                                                  
- 
-Sector: 
- 
- 
-All  
+1  A list of existing state enterprises in Chile can be found on the following website: http://www.dipres.gob.cl. 
+ANNEX II – CHILE – 2  
+Sector:      All  
  
  
 Sub-Sector: 
  
  
-Obligations Concerned: 
-Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
+Obligations Concerned:  Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
  
  
-Description: 
-Investment and Cross-Border Trade in Services 
+Description:  Investment and Cross-Border Trade in Services 
  
- 
- 
-Chile reserves the right to adopt or maintain any measure that 
+    Chile reserves the right to adopt or maintain any measure that 
 accords differential treatment to countries under any bilateral or 
 multilateral international agreement in force on, or signed prior 
 to, the date of entry into force of this Agreement. 
  
- 
- 
-Chile reserves the right to adopt or maintain any measure that 
+    Chile reserves the right to adopt or maintain any measure that 
 accords differential treatment to countries under any 
 international agreement in force or signed after the date of entry 
 into force of this Agreement involving: 
  
-  
+         (a)  aviation; 
  
+          (b)  fisheries; or 
  
- 
-(a) 
-aviation; 
- 
- 
- 
- 
- 
- 
-(b) 
-fisheries; or 
- 
- 
- 
- 
- 
- 
-(c) 
-maritime matters, including salvage. 
+          (c)  maritime matters, including salvage. 
  
  
 Existing Measures: 
-ANNEX II – CHILE – 3 
- 
-Sector: 
-Communications 
+ANNEX II – CHILE – 3  
+Sector:  Communications 
  
  
-Sub-Sector: 
-One way satellite broadcasting of digital telecommunication 
+Sub-Sector:  One way satellite broadcasting of digital telecommunication 
 services, whether these involve direct home television 
 broadcasting, direct broadcasting of television services and 
 direct audio broadcasting; supplementary telecommunication 
 services; and limited telecommunication services 
  
  
-Obligations Concerned: 
-National Treatment (Article 10.3) 
+Obligations Concerned:  National Treatment (Article 10.3) 
+    Most-Favoured-Nation Treatment (Article 10.4) 
+    Local Presence (Article 10.6) 
  
  
-Most-Favoured-Nation Treatment (Article 10.4) 
+Description:  Cross-Border Trade in Services 
  
- 
-Local Presence (Article 10.6) 
- 
- 
-Description: 
-Cross-Border Trade in Services 
- 
- 
- 
-Chile reserves the right to adopt or maintain any measure related 
+    Chile reserves the right to adopt or maintain any measure related 
 to cross-border trade in one way satellite broadcasting of digital 
 telecommunication services, whether these involve direct home 
 television broadcasting, direct broadcasting of television 
@@ -174,42 +122,30 @@ telecommunication services; and limited telecommunication
 services. 
  
  
-Existing Measures: 
-Law 18.168, Official Gazette, October 2, 1982, General 
+Existing Measures:  Law 18.168, Official Gazette, October 2, 1982, General 
 Telecommunications Law, Titles I, II, III, V and VI (Ley 18.168, 
 Diario Oficial, octubre 2, 1982, Ley General de 
 Telecomunicaciones, Títulos I, II, III, V y VI) 
-ANNEX II – CHILE – 4 
- 
-Sector: 
-Communications 
+ANNEX II – CHILE – 4  
+Sector:  Communications 
  
  
-Sub-Sector: 
-One way satellite broadcasting of digital telecommunication 
+Sub-Sector:  One way satellite broadcasting of digital telecommunication 
 services, whether these involve direct home television 
 broadcasting, direct broadcasting of television services and 
 direct audio broadcasting; supplementary telecommunication 
 services; and limited telecommunication services 
  
  
-Obligations Concerned: 
-National Treatment (Article 9.4) 
- 
- 
-Most-Favoured-Nation Treatment (Article 9.5) 
- 
- 
-Performance Requirements (Article 9.10) 
+Obligations Concerned:  National Treatment (Article 9.4) 
+    Most-Favoured-Nation Treatment (Article 9.5) 
+    Performance Requirements (Article 9.10) 
 Senior Management and Boards of Directors (Article 9.11) 
  
  
-Description: 
-Investment 
+Description:  Investment 
  
- 
- 
-Chile reserves the right to adopt or maintain any measure related 
+    Chile reserves the right to adopt or maintain any measure related 
 to the investors of another Party or to their investments in one 
 way satellite broadcasting of digital telecommunication services, 
 whether these involve direct home television broadcasting, 
@@ -218,60 +154,47 @@ broadcasting; supplementary telecommunication services; and
 limited telecommunication services. 
  
  
-Existing Measures: 
-Law 18.168, Official Gazette, October 2, 1982, General 
+Existing Measures:  Law 18.168, Official Gazette, October 2, 1982, General 
 Telecommunications Law, Titles I, II, III, V and VI (Ley 18.168, 
 Diario Oficial, octubre 2, 1982, Ley General de 
 Telecomunicaciones, Títulos I, II, III, V y VI) 
-ANNEX II – CHILE – 5 
- 
-Sector: 
-Issues Involving Minorities 
+ANNEX II – CHILE – 5  
+Sector:  Issues Involving Minorities 
  
  
 Sub-Sector: 
  
  
-Obligations Concerned: 
-National Treatment (Article 9.4 and Article 10.3) 
+Obligations Concerned:  National Treatment (Article 9.4 and Article 10.3) 
 Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
- 
- 
-Performance Requirements (Article 9.10) 
+    Performance Requirements (Article 9.10) 
 Senior Management and Boards of Directors (Article 9.11) 
 Local Presence (Article 10.6) 
  
  
-Description: 
-Investment and Cross-Border Trade in Services  
+Description:  Investment and Cross-Border Trade in Services  
  
- 
- 
-Chile reserves the right to adopt or maintain any measure 
+    Chile reserves the right to adopt or maintain any measure 
 according rights or preferences to socially or economically 
 disadvantaged minorities. 
  
  
 Existing Measures: 
-ANNEX II – CHILE – 6 
- 
-Sector: 
-Issues Involving Indigenous Peoples 
+ANNEX II – CHILE – 6  
+Sector:  Issues Involving Indigenous Peoples 
  
  
 Sub-Sector: 
  
  
-Obligations Concerned: 
-National Treatment (Article 9.4 and Article 10.3) 
+Obligations Concerned:  National Treatment (Article 9.4 and Article 10.3) 
 Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
 Performance Requirements (Article 9.10) 
 Senior Management and Boards of Directors (Article 9.11) 
 Local Presence (Article 10.6) 
  
  
-Description: 
-Investment and Cross-Border Trade in Services 
+Description:  Investment and Cross-Border Trade in Services 
  
 Chile reserves the right to adopt or maintain any measure 
 according rights or preferences to indigenous peoples.  
@@ -280,37 +203,29 @@ according rights or preferences to indigenous peoples.
 Existing Measures: 
  
  
-ANNEX II – CHILE – 7 
- 
-Sector: 
-Education 
+ANNEX II – CHILE – 7  
+Sector:  Education 
  
  
 Sub-Sector: 
  
  
-Obligations Concerned: 
-National Treatment (Article 9.4 and Article 10.3) 
+Obligations Concerned:  National Treatment (Article 9.4 and Article 10.3) 
 Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
 Performance Requirements (Article 9.10)  
 Senior Management and Boards of Directors (Article 9.11) 
 Local Presence (Article 10.6) 
  
  
-Description: 
-Investment and Cross-Border Trade in Services 
+Description:  Investment and Cross-Border Trade in Services 
  
- 
- 
-Chile reserves the right to adopt or maintain any measure 
+    Chile reserves the right to adopt or maintain any measure 
 relating to: 
  
-(a) 
-investors and an investment of an investor of 
+(a)  investors and an investment of an investor of 
 another Party in education; and 
  
-(b) 
-natural persons who supply educational services in 
+(b)  natural persons who supply educational services in 
 Chile. 
  
 Subparagraph (b) includes teachers and auxiliary personnel 
@@ -333,27 +248,19 @@ programme development in education.
  
  
 Existing Measures: 
-ANNEX II – CHILE – 8 
- 
-Sector: 
-Government Finances 
+ANNEX II – CHILE – 8  
+Sector:  Government Finances 
  
  
 Sub-Sector: 
+   
+   
+Obligations Concerned:  National Treatment (Article 9.4) 
  
  
+Description:  Investment 
  
- 
-Obligations Concerned: 
-National Treatment (Article 9.4) 
- 
- 
-Description: 
-Investment 
- 
- 
- 
-Chile reserves the right to adopt or maintain any measure related 
+    Chile reserves the right to adopt or maintain any measure related 
 to the acquisition, sale or disposal by another Party’s nationals 
 of bonds, treasury securities or any other type of debt 
 instruments issued by the Central Bank of Chile (Banco Central 
@@ -364,84 +271,60 @@ instruments when required for the purposes of regulatory capital.
  
  
 Existing Measures: 
-ANNEX II – CHILE – 9 
- 
-Sector: 
-Fisheries 
+ANNEX II – CHILE – 9  
+Sector:  Fisheries 
  
  
-Sub-Sector: 
-Fishing related activities 
+Sub-Sector:  Fishing related activities 
  
  
-Obligations Concerned: 
-National Treatment (Article 9.4 and Article 10.3) 
+Obligations Concerned:  National Treatment (Article 9.4 and Article 10.3) 
 Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
  
  
-Description: 
-Investment and Cross-Border Trade in Services  
+Description:  Investment and Cross-Border Trade in Services  
  
- 
- 
-Chile reserves the right to control the activities of foreign 
+    Chile reserves the right to control the activities of foreign 
 fishing, including fish landing, first landing of fish processed at 
 sea and access to Chilean ports (port privileges). 
  
- 
- 
-Chile reserves the right to control the use of beaches, land 
+    Chile reserves the right to control the use of beaches, land 
 adjacent to beaches (terrenos de playas), water-columns 
 (porciones de agua) and sea-bed lots (fondos marinos) for the 
 issuance of maritime concessions.  For greater certainty, 
 “maritime concessions” do not cover aquaculture. 
  
  
-Existing Measures: 
-Decree Law 2.222, Official Gazette, May 31, 1978, Navigation 
+Existing Measures:  Decree Law 2.222, Official Gazette, May 31, 1978, Navigation 
 Law, Titles I, II, III, IV and V (Decreto Ley 2.222, Diario 
 Oficial, mayo 31, 1978, Ley de Navegación Títulos I, II, III, IV y 
 V) 
- 
- 
-D.F.L. 340, Official Gazette, April 6, 1960, about Maritime 
+    D.F.L. 340, Official Gazette, April 6, 1960, about Maritime 
 Concessions (D.F.L. 340, Diario Oficial, abril 6, 1960, sobre 
 Concesiones Marítimas) 
- 
- 
-Supreme Decree 660, Official Gazette, November 28, 1988, 
+    Supreme Decree 660, Official Gazette, November 28, 1988, 
 Maritime Concession Act (Decreto Supremo 660, Diario 
 Oficial, noviembre 28, 1988, Reglamento de Concesiones 
 Marítimas) 
- 
- 
-Supreme Decree 123 of the Ministry of Economic Affairs, 
+    Supreme Decree 123 of the Ministry of Economic Affairs, 
 Development and Reconstruction, Vice-Ministry of Fishing, 
 Official Gazette, August 23, 2004, On Use of Ports (Decreto 
 Supremo 123 del Ministerio de Economía, Fomento y 
 Reconstrucción, Subsecretaría de Pesca, Diario Oficial, agosto 
 23, 2004, Sobre Uso de Puertos) 
-ANNEX II – CHILE – 10 
- 
-Sector: 
-Arts and Cultural Industries 
+ANNEX II – CHILE – 10  
+Sector:  Arts and Cultural Industries 
  
  
 Sub-Sector: 
  
  
-Obligations Concerned: 
-Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
+Obligations Concerned:  Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
+   
+    
+Description:   Investment and Cross-Border Trade in Services 
  
- 
- 
-  
-Description:  
-Investment and Cross-Border Trade in Services 
- 
- 
- 
-Chile reserves the right to adopt or maintain any measure that 
+    Chile reserves the right to adopt or maintain any measure that 
 accords differential treatment to countries under any existing or 
 future bilateral or multilateral international agreement, with 
 respect to arts and cultural industries, such as audio-visual 
@@ -451,115 +334,79 @@ For greater certainty, government supported subsidy
 programmes for the promotion of cultural activities are not 
 subject to the limitations or obligations of this Agreement.  
  
- 
- 
-For the purposes of this entry, “arts and cultural industries” 
+    For the purposes of this entry, “arts and cultural industries” 
 includes: 
  
-(a) 
-books, magazines, periodical publications, or 
+(a)  books, magazines, periodical publications, or 
 printed or electronic newspapers, excluding the 
 printing and typesetting of any of the foregoing; 
  
-(b) 
-recordings of movies or videos; 
+(b)  recordings of movies or videos; 
  
+          (c)  music recordings in audio or video format; 
  
- 
- 
- 
- 
-(c) 
-music recordings in audio or video format; 
- 
-(d) 
-printed music scores or scores readable by 
+(d)  printed music scores or scores readable by 
 machines; 
  
-(e) 
-visual arts, artistic photography and new media; 
+(e)  visual arts, artistic photography and new media; 
  
-(f) 
-performing arts, including theatre, dance and 
+(f)  performing arts, including theatre, dance and 
 circus arts; and 
  
-(g) 
-media services or multimedia. 
+(g)  media services or multimedia. 
  
 Existing Measures: 
-ANNEX II – CHILE – 11 
- 
-Sector: 
-Entertainment, Audio-visual and Broadcasting Services 
+ANNEX II – CHILE – 11  
+Sector:  Entertainment, Audio-visual and Broadcasting Services 
  
  
-Sub-Sector:  
+Sub-Sector:       
  
  
- 
- 
-Obligations Concerned: 
-National Treatment (Article 9.4 and Article 10.3)  
+Obligations Concerned:  National Treatment (Article 9.4 and Article 10.3)  
 Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
 Performance Requirements (Article 9.10) 
  
  
-Description:  
- 
-Investment and Cross-Border Trade in Services 
+Description:      Investment and Cross-Border Trade in Services 
  
 Chile reserves the right to adopt or maintain any measure relating 
 to:  
  
-(a) 
-the organisation and presentation in Chile of 
+(a)  the organisation and presentation in Chile of 
 concerts and musical performances; 
  
-(b) 
-the distribution or display of movies or videos; and  
+(b)  the distribution or display of movies or videos; and  
  
-(c) 
-radio broadcasts aimed at the public in general, as 
+(c)  radio broadcasts aimed at the public in general, as 
 well as all radio, television and cable television-
 related activities, satellite programming services 
 and broadcasting networks. 
  
- 
- 
-Notwithstanding the above, Chile shall extend to the persons and 
+    Notwithstanding the above, Chile shall extend to the persons and 
 investors of another Party, and their investments, treatment no 
 less favourable than that Party accords persons and investors of 
 Chile, and their investments. 
  
  
 Existing Measures: 
-ANNEX II – CHILE – 12 
- 
-Sector: 
-Social Services 
+ANNEX II – CHILE – 12  
+Sector:  Social Services 
  
  
 Sub-Sector: 
  
  
-Obligations Concerned: 
-National Treatment (Article 9.4 and Article 10.3) 
+Obligations Concerned:  National Treatment (Article 9.4 and Article 10.3) 
 Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
- 
- 
-Performance Requirements (Article 9.10) 
+    Performance Requirements (Article 9.10) 
 Senior Management and Boards of Directors (Article 9.11) 
+    Local Presence (Article 10.6) 
  
  
-Local Presence (Article 10.6) 
+Description:   Investment and Cross-Border Trade in Services  
  
- 
-Description:  
-Investment and Cross-Border Trade in Services  
- 
- 
- 
-Chile reserves the right to adopt or maintain any measure with 
+    Chile reserves the right to adopt or maintain any measure with 
 respect to the supply of public law enforcement and correctional 
 services, and the following services to the extent that they are 
 social services established or maintained for reasons of public 
@@ -569,34 +416,21 @@ health care and child care.
  
  
 Existing Measures: 
-ANNEX II – CHILE – 13 
- 
-Sector: 
-Environmental Services 
+ANNEX II – CHILE – 13  
+Sector:  Environmental Services 
  
  
-Sub-Sector: 
+Sub-Sector:   
+   
+   
+Obligations Concerned:  National Treatment (Article 10.3) 
+    Most-Favoured-Nation Treatment (Article 10.4) 
+    Local Presence (Article 10.6) 
  
  
+Description:  Cross-Border Trade in Services  
  
- 
- 
-Obligations Concerned: 
-National Treatment (Article 10.3) 
- 
- 
-Most-Favoured-Nation Treatment (Article 10.4) 
- 
- 
-Local Presence (Article 10.6) 
- 
- 
-Description: 
-Cross-Border Trade in Services  
- 
- 
- 
-Chile reserves the right to adopt or maintain any measure 
+    Chile reserves the right to adopt or maintain any measure 
 imposing the requirement that the production and distribution of 
 drinking water, the collection and disposal of waste water and 
 sanitation services, such as sewage systems, waste disposal and 
@@ -604,79 +438,48 @@ waste water treatment may only be supplied by juridical persons
 incorporated under Chilean law or created in accordance with 
 the requirements established by Chilean law.  
  
- 
- 
-This entry shall not apply to consultancy services retained by the 
+    This entry shall not apply to consultancy services retained by the 
 said juridical persons. 
  
  
 Existing Measures: 
-ANNEX II – CHILE – 14 
- 
-Sector: 
-Construction Services 
+ANNEX II – CHILE – 14  
+Sector:  Construction Services 
  
  
 Sub-Sector: 
+     
+ 
+Obligations Concerned:  National Treatment (Article 10.3) 
+    Local Presence (Article 10.6) 
  
  
+Description:  Cross-Border Trade in Services  
  
- 
-Obligations Concerned: 
-National Treatment (Article 10.3) 
- 
- 
-Local Presence (Article 10.6) 
- 
- 
-Description: 
-Cross-Border Trade in Services  
- 
- 
- 
-Chile reserves the right to adopt or maintain any measure with 
+    Chile reserves the right to adopt or maintain any measure with 
 respect to the supply of construction services by foreign juridical 
 persons or legal entities.  
  
- 
- 
-These measures may include requirements such as residency, 
+    These measures may include requirements such as residency, 
 registration or any other form of local presence, or the obligation 
 of giving financial security for work as a condition for the 
 supply of construction services.  
  
  
 Existing Measures: 
-ANNEX II – CHILE – 15 
- 
-Sector: 
- 
- 
-Transportation  
+ANNEX II – CHILE – 15  
+Sector:      Transportation  
  
  
-Sub-Sector:  
- 
-International road transportation  
+Sub-Sector:      International road transportation  
  
  
-Obligations Concerned: 
-National Treatment (Article 9.4 and Article 10.3) 
+Obligations Concerned:  National Treatment (Article 9.4 and Article 10.3) 
+        Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
+        Local Presence (Article 10.6) 
  
  
- 
- 
-Most-Favoured-Nation Treatment (Article 9.5 and Article 10.4) 
- 
- 
- 
- 
-Local Presence (Article 10.6) 
- 
- 
-Description:  
- 
-Investment and Cross-Border Trade in Services 
+Description:      Investment and Cross-Border Trade in Services 
  
 Chile reserves the right to adopt or maintain any measure relating 
 to the international land transportation of cargo or passengers in 
@@ -686,16 +489,13 @@ Additionally, Chile reserves the right to adopt or maintain the
 following limitations for the supply of international land 
 transportation from Chile: 
  
-(a) 
-the service supplier must be a Chilean natural or 
+(a)  the service supplier must be a Chilean natural or 
 juridical person; 
  
-(b) 
-the service supplier must have a real and effective 
+(b)  the service supplier must have a real and effective 
 domicile in Chile; and  
  
-(c) 
-in the case of juridical persons, the service supplier 
+(c)  in the case of juridical persons, the service supplier 
 must be legally constituted in Chile and more than 
 50 per cent of its capital stock must be owned by 
 Chilean nationals and its effective control must be 
@@ -703,26 +503,17 @@ by Chilean nationals.
  
  
 Existing Measures: 
-ANNEX II – CHILE – 16 
- 
-Sector: 
- 
- 
-Transportation Services 
+ANNEX II – CHILE – 16  
+Sector:      Transportation Services 
  
  
-Sub-Sector:  
- 
-Road transportation services  
+Sub-Sector:      Road transportation services  
  
  
-Obligations Concerned: 
-National Treatment (Article 10.3) 
+Obligations Concerned:  National Treatment (Article 10.3) 
  
  
-Description:  
- 
-Cross-Border Trade in Services  
+Description:      Cross-Border Trade in Services  
  
 Chile reserves the right to adopt or maintain any measure that 
 authorises only Chilean natural or juridical persons to supply 
@@ -732,23 +523,16 @@ registered in Chile.
  
  
 Existing Measures: 
-ANNEX II – CHILE – 17 
+ANNEX II – CHILE – 17  
+Sector:  All  
+   
  
-Sector: 
+Obligations Concerned:  Market Access (Article 10.5) 
  
+   
+Description:  Investment and Cross-Border Trade in Services 
  
-All  
- 
-Obligations Concerned: 
- 
-Market Access (Article 10.5) 
- 
-Description: 
- 
-Investment and Cross-Border Trade in Services 
- 
- 
-Chile reserves the right to adopt or maintain any measure 
+  Chile reserves the right to adopt or maintain any measure 
 relating to Article 10.5 (Market Access), except for the 
 following sectors and sub-sectors subject to the limitations 
 and conditions listed below:2 
@@ -782,12 +566,11 @@ Taxation Services:
 (4) No commitments, except as indicated in Labour Code 
 restriction. 
  
+                                                 
 2  For greater certainty, nothing in this entry shall be construed to prevent the adoption or maintenance of any 
 measure regarding the supply of a financial service by a covered investment that is not a covered investment in a 
 financial institution. 
-ANNEX II – CHILE – 18 
-                                                 
- 
+ANNEX II – CHILE – 18  
 Architectural services:  
 (1), (2) and (3) None. 
 (4) No commitments, except as indicated in Labour Code 
@@ -834,8 +617,7 @@ intend to carry out in border areas need to be authorised and
 supervised by the Directorate of Borders and Frontiers 
 (Dirección de Fronteras y Límites del Estado).  The 
 Directorate of Borders and Frontiers may stipulate that an 
-ANNEX II – CHILE – 19 
-expedition include one or more representatives of relevant 
+ANNEX II – CHILE – 19 expedition include one or more representatives of relevant 
 Chilean activities.  These representatives would participate 
 in and learn about the studies and their scope.  
 (2) None. 
@@ -882,8 +664,7 @@ restriction.
  
  
  
-ANNEX II – CHILE – 20 
- 
+ANNEX II – CHILE – 20  
 Maintenance and repair of equipment (not including vessels, 
 aircraft, or other transport equipment), building-cleaning 
 services, photographic services, packing services, and 
@@ -930,8 +711,7 @@ technical standards established by the Undersecretariat of
 Telecommunications (Subsecretaría de Telecomunicaciones) 
 and non-alteration of the essential technical features of 
 networks or of the permissible technological or basic service 
-ANNEX II – CHILE – 21 
-modalities provided through them. 
+ANNEX II – CHILE – 21 modalities provided through them. 
  
 A permit issued by the Undersecretariat of 
 Telecommunications (Subsecretaría de Telecomunicaciones) 
@@ -978,8 +758,7 @@ restriction.
  
 Sports facility operation services:  
 (1), (2) and (3) None.  
-ANNEX II – CHILE – 22 
-(4) No commitments, except as indicated in Labour Code 
+ANNEX II – CHILE – 22 (4) No commitments, except as indicated in Labour Code 
 restriction.  
  
 Road Transport: freight transportation, rental of commercial 
@@ -1025,8 +804,7 @@ restriction.
  
 For the purposes of this entry: 
  
-ANNEX II – CHILE – 23 
-(1) refers to the supply of a service from the territory of one Party into the territory of another 
+ANNEX II – CHILE – 23 (1) refers to the supply of a service from the territory of one Party into the territory of another 
 Party; 
  
 (2) refers to the supply of a service in the territory of one Party to a person of another Party; 
