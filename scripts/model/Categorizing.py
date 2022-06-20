@@ -85,6 +85,7 @@ model.fit(relevant_embed,dummy_y,epochs=400)
 zhat = model.predict(embed)
 cathat = [catlist[np.argmax(zhat_i)] for zhat_i in zhat]
 
+pd.Series(cathat).to_csv('withnewTrainingData.csv')
 
 
 df['cathat'] = cathat

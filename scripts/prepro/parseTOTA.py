@@ -71,10 +71,20 @@ embed = model.encode(unique_chapters, show_progress_bar=True)
 """
 some other legwork: encode all the relevant embeddings
 """
+import re
 article_lower = [article.lower() for article in df['article']]
 clause_lower = [clause.lower() for clause in df['text']]
+
+mid = [re.split(r"\. *?\d+\. *?", item, flags=re.DOTALL | re.I) for item in clause_lower]
+mid = [ [item.replace("\n", " ") for item in intermed] for intermed in mid]
+mid = [ [item.replace("\t", " ") for item in intermed] for intermed in mid]
+
+df['splitted'] = mid
+df=df.explode('splitted')
+df=df.reset_index()
+
 article_embed = model.encode(article_lower, show_progress_bar=True)
-clause_embed = model.encode(clause_lower, show_progress_bar=True)
+clause_embed = model.encode(df['splitted'], show_progress_bar=True)
 
 import pickle
 with open('pickles/tota_art_embed.pkl', 'wb') as file:
@@ -122,6 +132,12 @@ Strategy #2: now that we have our chapter clusters, we want to cluster our artic
 - for now, we discard noisy samples
 """
 
+import pickle
+with open('pickles/tota_art_embed.pkl', 'rb') as f:
+    article_embed=pickle.load(f)
+with open('pickles/tota_clause_embed.pkl', 'rb') as f:
+    clause_embed=pickle.load(f)
+
 from sklearn.cluster import DBSCAN
 
 newdf = pd.DataFrame()
@@ -138,6 +154,23 @@ for chapter in pd.unique(df['chapter_cat']):
     area = pd.concat([area, pd.Series(clusters)],axis=1)
     area=area.rename(columns={0:'article_cat'})
 
-    area = area[area['article_cat']!=-1]
+    #area = area[area['article_cat']!=-1]
 
     newdf=newdf.append(area)
+
+newdf=newdf.rename(columns={0:'article_cat'})
+newdf=newdf.reset_index()
+
+"""
+Give a verbose name to each article category. Naively, we simply pick whatever happens to be the most first occuring phrase and assign the category as that
+"""
+
+name_indices = newdf[['chapter_cat', 'article_cat']].drop_duplicates().index
+art_categories = newdf['article'][name_indices]
+
+tagdf=pd.concat([newdf[['chapter_cat', 'article_cat']].drop_duplicates(), art_categories], axis=1)
+tagdf.columns = ['chapter_cat', 'article_cat', 'article_label']
+
+newdf=newdf.merge(tagdf, how='left', on=['chapter_cat', 'article_cat'])
+
+newdf.to_csv("pickles/totadf.csv")
