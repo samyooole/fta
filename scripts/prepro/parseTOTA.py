@@ -115,8 +115,29 @@ df=df.merge(totadict, how='left')
 df=df.drop(['cluster','chapter_label'],axis=1)
 
 """
-Strategy #2: now that we have our chapter clusters, we want to 
+Strategy #2: now that we have our chapter clusters, we want to cluster our article titles
+- We use DBSCAN so that we don't have to determine the number of clusters
+- minimum number of samples = 2, to catch even irregular clause types
+- eps = 0.8, so that words with a small edit distance can still be lumped into the same category
+- for now, we discard noisy samples
 """
 
-sps = df[df['chapter_cat'] == 'sanitary and phytosanitary measures']
+from sklearn.cluster import DBSCAN
 
+newdf = pd.DataFrame()
+
+for chapter in pd.unique(df['chapter_cat']):
+
+    area = df[df['chapter_cat'] == chapter].reset_index().drop('index',axis=1)
+
+    relevant_embed = article_embed[df['chapter_cat'] == chapter]
+
+    clustermodel=DBSCAN(min_samples=2, eps=0.8)
+    clusters = clustermodel.fit_predict(relevant_embed)
+
+    area = pd.concat([area, pd.Series(clusters)],axis=1)
+    area=area.rename(columns={0:'article_cat'})
+
+    area = area[area['article_cat']!=-1]
+
+    newdf=newdf.append(area)
