@@ -66,6 +66,40 @@ def givemeDocuments(corpusfolder):
     os.chdir(os.path.dirname(os.getcwd()))
     return list_to_return
 
+def implicitCleaning(text):
+    newtext=[]
+    for para in text:
+        if re.match(r"^\d+\.\d+", para, flags=re.DOTALL|re.I): # i want to get rid of stuff that starts with hs code
+            continue
+        else:
+            newtext.append(para)
+
+    newtext2=[]
+    for para in newtext:
+        if re.match(r"^\d+(?: -)+", para, flags=re.DOTALL|re.I): # i want to get rid of stuff that starts with hs code
+            continue
+        else:
+            newtext2.append(para)
+
+    newtext3 = []
+    for para in newtext2:
+            if re.match(r"^\d+ *$", para, flags=re.DOTALL|re.I): # i want to get rid of stuff that starts with hs code
+                continue
+            else:
+                newtext3.append(para)
+    
+    newtext4 = []
+    for para in newtext3:
+            if re.match(r"^\d{2}", para, flags=re.DOTALL|re.I): # i want to get rid of stuff that starts with hs code
+                continue
+            else:
+                newtext4.append(para)
+
+    newtext4 = [para for para in newtext4 if para != ""]
+    newtext4 = [para for para in newtext4 if not para.isspace()]
+    return newtext4
+    
+
 def splitParasbynewline(text):
     """
     takes in a text and splits it into paragraphs
@@ -83,18 +117,24 @@ def splitParasbyArticle(text):
     - assumes the header "Article X" sufficiently divides for our purposes
     - add capturing group () to get the article name. if you want easy access next time
     """
-    mid = re.split(r"\narticle \d *?\n", text, flags= re.DOTALL | re.I)
-    mid = [re.split(r"\narticle\d *?\n", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = re.split(r"\narticle \d+ *?\n", text, flags= re.DOTALL | re.I)
+    mid = [re.split(r"\narticle\d+ *?\n", item, flags=re.DOTALL | re.I) for item in mid]
     mid = list(chain(*mid))
-    mid = [re.split(r"\n\d\. *?\n", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = [re.split(r"\narticle \d+\.\d+ *?\n", item, flags=re.DOTALL | re.I) for item in mid]
     mid = list(chain(*mid))
-    mid = [re.split(r"\n\d\. *?", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = [re.split(r"\n+article", item, flags=re.DOTALL | re.I) for item in mid]
     mid = list(chain(*mid))
-    mid = [re.split(r"\. *?\d\. *?", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = [re.split(r"\. +article", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = list(chain(*mid))
+    mid = [re.split(r"\n\d+\. *?\n", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = list(chain(*mid))
+    mid = [re.split(r"\n\d+\. *?", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = list(chain(*mid))
+    mid = [re.split(r"\. *?\d+\. *?", item, flags=re.DOTALL | re.I) for item in mid]
     mid = list(chain(*mid))
 
     mid = [item.replace("\n", " ") for item in mid]
-    mid = [re.split(r"\. *?\d\. *?", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = [re.split(r"\. *?\d+\. *?", item, flags=re.DOTALL | re.I) for item in mid]
     mid = list(chain(*mid))
     output=mid
     return output
@@ -104,13 +144,13 @@ def splitParasbyArticlewithTagging(text):
     returns pandas df
     """
 
-    mid = re.split(r"\narticle \d.*?\n", text, flags= re.DOTALL | re.I)
-    mid = [re.split(r"\narticle\d.*?\n", item, flags=re.DOTALL | re.I) for item in mid]
+    mid = re.split(r"\narticle \d+ *?\n", text, flags= re.DOTALL | re.I)
+    mid = [re.split(r"\narticle\d+ *?\n", item, flags=re.DOTALL | re.I) for item in mid]
 
     # get chapter name
     chapter_noisy = mid[0][0]
     try:
-        toparse = re.split(r"\n(?:annex|chapter) \d.*?\n", chapter_noisy, flags = re.DOTALL | re.I)[1] # get characters after the split
+        toparse = re.split(r"\n(?:annex|chapter) \d+ *?\n", chapter_noisy, flags = re.DOTALL | re.I)[1] # get characters after the split
         chapter = toparse.replace("\n", "").strip().lower()
     except:
         chapter=np.nan
@@ -129,8 +169,8 @@ def splitParasbyArticlewithTagging(text):
         spl.pop(0)
         spl = "".join(spl).strip()
 
-        spl = re.split(r"\n\d\..*?\n", spl, flags=re.DOTALL)
-        spl = [re.split(r" \d\. ", item, flags=re.DOTALL) for item in spl]
+        spl = re.split(r"\n\d+\. *?\n", spl, flags=re.DOTALL)
+        spl = [re.split(r" \d+\. ", item, flags=re.DOTALL) for item in spl]
         spl=list(chain(*spl))
 
         for idx, clause in enumerate(spl):

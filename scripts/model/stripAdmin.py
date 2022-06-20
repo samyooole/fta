@@ -36,11 +36,15 @@ new_embeddings = model.encode(dsdf['text'], show_progress_bar=True)
 classification = svmodel.predict(new_embeddings)
 
 import pandas as pd
+import pickle
 df=pd.read_csv('text_toStripAdmin.csv')
 
 df['predictions'] = classification
 
 df.to_csv('text_toSplit.csv')
+
+with open('pickles/new_embeddings.pkl', 'wb') as file:
+    pickle.dump(new_embeddings, file)
 
 ## now, classify all text
 
