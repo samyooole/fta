@@ -30,3 +30,31 @@ for idx, clause in enumerate(sgfta_embed):
     rel_article = totadf['article_label'][index]
     closestcats.append([rel_chapter, rel_article])
     print(idx/len(sgfta_embed))
+
+
+
+
+##
+from sentence_transformers import SentenceTransformer
+
+model = SentenceTransformer('all-mpnet-base-v2')
+
+artchap_indexed = totadf['chapter'] +" " + totadf['article']
+artchap_unique = pd.unique(artchap_indexed)
+
+artchap_embed = model.encode(artchap_unique, show_progress_bar=True)
+
+
+closestcats=[]
+
+for idx, clause in enumerate(sgfta_embed):
+    scores=[]
+    for clausecat in artchap_embed:
+        score = 1 - cosine(clause, clausecat) # scipy's cosine gives distance, so we must have 1 - that to get similarity
+        scores.append(score)
+    index = argmax(scores)
+    rel_chapter = artchap_unique[index]
+    closestcats.append(rel_chapter)
+    print(idx/len(sgfta_embed))
+
+closestcatsdf=pd.DataFrame(closestcats)
