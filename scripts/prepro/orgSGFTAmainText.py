@@ -62,7 +62,7 @@ def splitParasbyArticlewithTagging(text, spare_title, fta_name):
     try:
         toparse = re.split(r"chapter", chapter_noisy, flags = re.DOTALL | re.I)[1] # get characters after the split
         
-        toparse = toparse.replace("\n", "").strip().lower()
+        toparse = toparse.replace("\n", " ").strip().lower()
         chapter = re.sub('[^A-Za-z]+',' ', toparse)
         chapter = chapter.strip()
         mid.pop(0)
@@ -98,9 +98,16 @@ def splitParasbyArticlewithTagging(text, spare_title, fta_name):
         article = re.sub('[^A-Za-z\-]+',' ', article)
         article = article.strip()
         
-        spl= item.replace("\n", "")
-        splitted = re.split(r"\. +\d+\.", spl, flags=re.DOTALL | re.I)
-        splitted = [" ".join(clause.strip().split()) for clause in splitted]
+        spl = re.split(r"\n\d+\. +\n", item, flags=re.DOTALL | re.I)
+        #spl = list(chain(*spl))
+        spl = [re.split(r"\n\d+\. +", item, flags=re.DOTALL | re.I) for item in spl]
+        spl = list(chain(*spl))
+        spl = [re.split(r"\. +\d+\.", item, flags=re.DOTALL | re.I) for item in spl]
+        spl = list(chain(*spl))
+
+        spl = ["".join(clause) for clause in spl]
+        spl = [clause.replace("\n", " ") for clause in spl]
+        splitted=spl
         
         art_identifier=idx
 
@@ -260,7 +267,7 @@ df['text']=df.text.fillna('')
 df.text = df[['article', 'text']].apply(lambda x: x['text'][len(x['article']):] if x['text'].startswith(x['article']) else x['text'], axis=1)
 
 # delete leading 1.
-df['text'] = df['text'].apply(lambda x: re.split(r'^ *\d\.', x, re.DOTALL)[-1])
+df['text'] = df['text'].apply(lambda x: re.split(r'^ *\d+\.', x, re.DOTALL)[-1])
 
 """
 remove numbers in alphabetical form from chapter titles
@@ -288,12 +295,12 @@ eg.
 investmentprotection > investment protection
 """
 
-import splitter
-import enchant
+import wordninja
+wordninja.split('investmentprotection')
+df['chapter'] = df['chapter'].apply(lambda x: " ".join(wordninja.split(x)))
+df['article'] = df['article'].apply(lambda x: " ".join(wordninja.split(x)))
+df['text'] = df['text'].apply(lambda x: x.strip())
 
-print(enchant.list_dicts())
+df=df.drop_duplicates(subset='text', keep='first') # assuming the first occurrence implies membership. probably wrong
 
-splitter.split('artfactory')
-df.to_csv('tagged.csv')
-
-d=enchant.Dict('en_US')
+df.to_csv("tagged.csv")
