@@ -1,6 +1,8 @@
 import xml.etree.ElementTree as ET
 import pandas as pd
 import os
+import re
+from itertools import chain
 
 df = pd.DataFrame()
 lol=[]
@@ -22,6 +24,17 @@ for xml in os.listdir('tota'):
     root = tree.getroot()
     meta = root[0]
 
+    # get meta details of the fta
+    """
+    fta name format for tota is <full country name> - <full country name>
+    """
+    fta_name = meta.find('name').text
+    rta_id = meta.find('wto_rta_id').text
+    parties = [party.text for party in meta.find('parties').findall('partyisocode')] # returns a list
+    parties = set(parties) # convert to set because the order of parties does not matter
+    toa =  meta.find('type').text# type of agreement
+    dif = meta.find('date_into_force').text
+
     """
     do a quick check of the meta: if it is non-english, we do not want it
     """
@@ -42,135 +55,56 @@ for xml in os.listdir('tota'):
             article_name = getelementfromHead(article, 'name')
             article_text = article.text
             
-            lol.append([chapter_name, article_name, article_text])
+            lol.append([fta_name, rta_id, parties, toa, dif, chapter_name, article_name, article_text])
 
 df = pd.DataFrame(lol)
 
-df.columns=['chapter', 'article', 'text']
-
-
-
-# first, check the unique values of chapter
-len(pd.unique(df['chapter']))
-unique_chapters = pd.unique(df['chapter'])
-unique_chapters = [chapter.lower() for chapter in unique_chapters] # convert all words to lowercase
-unique_chapters_proper = pd.unique(df['chapter'])
+df.columns=['fta_name', 'rta_id', 'parties', 'toa', 'dif', 'chapter', 'article', 'text']
 
 """
-we want to take all the varied chapters, and cluster them into around 10-20 proper groups
+divide fta articles into constituent clauses (marked by clause numbers). eg.
 
-Strategy #1: create sentence embeddings and use clustering to get them into groups, possibly DBSCAN
+Article 3 
+Transparency
+
+1. Each Party shall promptly publish...
+
+2. Following the end of the ...
 """
 
-from sentence_transformers import SentenceTransformer
+# clean out tags like \t \n and \xa0
+text_cleaned = [item.replace('\t', '').replace('\n', '').replace('\xa0',' ') for item in df['text'] ]
 
-model = SentenceTransformer('all-mpnet-base-v2')
-embed = model.encode(unique_chapters, show_progress_bar=True)
+df['text'] = text_cleaned
 
 
 """
-some other legwork: encode all the relevant embeddings
-"""
-import re
-article_lower = [article.lower() for article in df['article']]
-clause_lower = [clause.lower() for clause in df['text']]
-
-mid = [re.split(r"\. *?\d+\. *?", item, flags=re.DOTALL | re.I) for item in clause_lower]
-mid = [ [item.replace("\n", " ") for item in intermed] for intermed in mid]
-mid = [ [item.replace("\t", " ") for item in intermed] for intermed in mid]
-
-df['splitted'] = mid
-df=df.explode('splitted')
-df=df.reset_index()
-
-article_embed = model.encode(article_lower, show_progress_bar=True)
-clause_embed = model.encode(df['splitted'], show_progress_bar=True)
-
-import pickle
-with open('pickles/tota_art_embed.pkl', 'wb') as file:
-    pickle.dump(article_embed, file)
-with open('pickles/tota_clause_embed.pkl', 'wb') as file:
-    pickle.dump(clause_embed, file)
-
-
-from sklearn.cluster import KMeans
-from yellowbrick.cluster import KElbowVisualizer
-
-"""
-elbow method: find ideal number of clusters"""
-
-clustermodel = KMeans()
-visualizer = KElbowVisualizer(clustermodel, k=(30,50))
-visualizer.fit(embed)
-visualizer.show()
-
-clustermodel = KMeans(n_clusters=41)
-clusters = clustermodel.fit_predict(embed)
-
-clusterdf=pd.concat([pd.Series(unique_chapters_proper), pd.Series(clusters)], axis=1)
-clusterdf.columns = ['chapter', 'cluster']
-
-clusterdf.to_csv('clusterdf.csv') # write out as csv, manually re-classify
-
-"""
-reload back in, map accordingly"""
-
-totachapters=pd.read_csv('important_excels/tota_chapters.csv')
-chapterdict=pd.read_csv('important_excels/chapter_dict.csv')
-
-
-totadict=totachapters.merge(chapterdict, how='left', left_on='cluster', right_on='chapter_label')
-
-df=df.merge(totadict, how='left')
-df=df.drop(['cluster','chapter_label'],axis=1)
-
-"""
-Strategy #2: now that we have our chapter clusters, we want to cluster our article titles
-- We use DBSCAN so that we don't have to determine the number of clusters
-- minimum number of samples = 2, to catch even irregular clause types
-- eps = 0.8, so that words with a small edit distance can still be lumped into the same category
-- for now, we discard noisy samples
+split each article according to clause numbers, then explode down rows
 """
 
-import pickle
-with open('pickles/tota_art_embed.pkl', 'rb') as f:
-    article_embed=pickle.load(f)
-with open('pickles/tota_clause_embed.pkl', 'rb') as f:
-    clause_embed=pickle.load(f)
+text=df['text']
+newtext=[]
+newrange=[]
+for article in text:
+    spl = re.split(r"\. +\d+\.", article, flags=re.DOTALL | re.I)
+    spl = [clause.strip() for clause in spl]
+    spl = [clause.strip("1. ") for clause in spl]
 
-from sklearn.cluster import DBSCAN
+    rangeadd = list(range(1, len(spl)+1))
+    if len(spl) == 1:
+        rangeadd=[1]
 
-newdf = pd.DataFrame()
+    newrange.append(rangeadd)
+    newtext.append(spl)
 
-for chapter in pd.unique(df['chapter_cat']):
+clauseno = list(chain(*newrange))
 
-    area = df[df['chapter_cat'] == chapter].reset_index().drop('index',axis=1)
+df['text'] = newtext
 
-    relevant_embed = article_embed[df['chapter_cat'] == chapter]
+df = df.explode('text').reset_index()
 
-    clustermodel=DBSCAN(min_samples=2, eps=0.8)
-    clusters = clustermodel.fit_predict(relevant_embed)
+df['clauseno'] = clauseno
 
-    area = pd.concat([area, pd.Series(clusters)],axis=1)
-    area=area.rename(columns={0:'article_cat'})
+df=df.drop('index', axis=1)
 
-    #area = area[area['article_cat']!=-1]
-
-    newdf=newdf.append(area)
-
-newdf=newdf.rename(columns={0:'article_cat'})
-newdf=newdf.reset_index()
-
-"""
-Give a verbose name to each article category. Naively, we simply pick whatever happens to be the most first occuring phrase and assign the category as that
-"""
-
-name_indices = newdf[['chapter_cat', 'article_cat']].drop_duplicates().index
-art_categories = newdf['article'][name_indices]
-
-tagdf=pd.concat([newdf[['chapter_cat', 'article_cat']].drop_duplicates(), art_categories], axis=1)
-tagdf.columns = ['chapter_cat', 'article_cat', 'article_label']
-
-newdf=newdf.merge(tagdf, how='left', on=['chapter_cat', 'article_cat'])
-
-newdf.to_csv("pickles/totadf.csv")
+df.to_csv('scripts/prepro/totafta.csv', index=False)
