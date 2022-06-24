@@ -1,3 +1,9 @@
+import pandas as pd
+
+df = pd.read_csv('newtota.csv')
+
+
+
 
 # first, check the unique values of chapter
 len(pd.unique(df['chapter']))
