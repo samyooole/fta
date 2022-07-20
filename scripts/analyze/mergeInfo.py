@@ -12,7 +12,7 @@ import pycountry as cty
 import statsmodels.formula.api as smf
 from dask.dataframe import from_pandas
 
-df = pd.read_csv("core_excels/totaPlus_bypass.csv")
+df = pd.read_csv("core_excels/totaPlus_MandatoryPredict.csv")
 
 # try filtering out only the substantive clauses
 
@@ -22,9 +22,9 @@ df=df[df['isSubstantive_predict'] == 1]
 """
 select relevant columns<clause semantic classification>"""
 
-df=df[['parties', 'dif', 'din', 'chapter_cat', 'article_cat']]
-df['clause_id'] = df.groupby(['chapter_cat', 'article_cat']).ngroup()
-df=df.drop(['chapter_cat', 'article_cat'],axis=1)
+df=df[['parties', 'dif', 'din', 'chapter_cat', 'clauseSem_no']]
+df['clause_id'] = df.groupby(['chapter_cat', 'clauseSem_no']).ngroup()
+df=df.drop(['chapter_cat', 'clauseSem_no'],axis=1)
 df=df.drop_duplicates(['parties', 'clause_id']).reset_index(drop=True)
 
 """
@@ -45,17 +45,20 @@ del newdf
 is a particular clause type active?
 """
 df['din'] = df['din'].apply(lambda x: '2050' if pd.isnull(x) else x)
-df['clauseyear_dum'] = df.apply(lambda x: 1 if ( (x['year'] >= int(x['dif'][0:4])) & (x['year'] <= int(x['din'][0:4])) ) else 0, axis=1)
+df['clauseyear_dum'] = df.apply(lambda x: 1 if ( (x['year'] >= int(x['dif'][0][-4:])) & (x['year'] <= int(x['din'][0][-4:])) ) else 0, axis=1)
 
 
 df=df.drop(['din', 'dif'],axis=1)
 
 """
 first, we have to explode the parties column. since our baseline model has trade from exporter i to importer j, we first take all permutations of the parties
+
+note USING COMBINATIONS HERE SO LATER HAVE TO USE TOTAL TRADE INSTEAD OF JUST EXPORTS THANKS
+
 """
 
 parties = pd.Series(pd.unique(df.parties))
-parties_perm = parties.apply(lambda x: list(permutations(eval(x), 2)))
+parties_perm = parties.apply(lambda x: list(combinations(eval(x), 2)))
 parties_keyer = pd.concat([parties, parties_perm], axis=1)
 parties_keyer.columns = ['parties', 'parties_perm']
 
@@ -76,11 +79,14 @@ df2.columns = ['exporter', 'importer']
 #df = df.drop('parties_perm', axis=1)
 df[['exporter', 'importer']] = df2
 
+del df2
+
 df=df.drop_duplicates(['exporter', 'importer', 'year', 'clause_id']).reset_index(drop=True) # we only take at least one appearance of the clause as the threshold. also reduces the space
 
 """
 pivot out clause_ids
 """
+
 x=df.pivot(index=['year', 'parties_perm', 'exporter', 'importer'], columns = 'clause_id', values='clauseyear_dum' )
 
 df = x

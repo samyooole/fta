@@ -39,7 +39,7 @@ before moving forward, do some bespoke cleaning. though arguably this should hav
 """
 
 # remove "-" because it seems to mess stuff up. read as compound word
-df = pd.read_csv('core_excels/totaPlus_bypass.csv')
+df = pd.read_csv('core_excels/totaPlus.csv')
 df = df[df['isSubstantive_predict'] == 1]
 df=df.reset_index(drop=True)
 
@@ -56,18 +56,30 @@ df=df.drop('Unnamed: 0', axis=1)
 df=df.reset_index(drop=True)
 df['text'] = df.text.apply(lambda x: x.strip())
 
-# try to get rid of all (x) to see if it fits the dependency parser model better
-newtextfull=[]
-for text in df.text:
-    newtext=re.sub(r'\([a-z]{1}\)', '', text)
-    newtext=re.sub(' {2,}', ' ', newtext)
-    newtextfull.append(newtext)
+"""
+# explode based on (x). might as well just do a new effort lol
+mid = df['text'].apply(lambda x: re.split(r'\([a-z]{1}\)', x))
 
+lonewtext=[]
+for txt in mid:
+    if len(txt) == 1:
+        toappend = txt
+    else:
+        mide = txt
+        toappend = [mide[0] + item for item in mide if item != mide[0]]
+    lonewtext.append(toappend)
+
+
+df['text'] = lonewtext
+df=df.explode('text')
+df=df.reset_index(drop=True)
+df['text'] = df.text.apply(lambda x: x.strip())
+"""
 
 ####################
 
 lol = []
-for idx, text in enumerate(newtextfull):
+for idx, text in enumerate(df.text):
     doc = nlp(text)
 
     """
@@ -337,7 +349,7 @@ df=df.reset_index(drop=True)
 checkdf=pd.concat([df[0:len(lol)], pd.DataFrame(lol, columns = ['subjw','coreact', 'objw', 'objw_adjectival', 'clausal_complement', 'conditionals', 'subj', 'cvp', 'obj'])], axis=1)
 
 
-checkdf.to_csv('checkdf.csv')
+checkdf.to_csv('checkdf2.csv')
 
 
 
