@@ -3,6 +3,8 @@ import pandas as pd
 import os
 import re
 from itertools import chain
+from pandas.core.common import flatten
+import pycountry as cty
 
 df = pd.DataFrame()
 lol=[]
@@ -31,10 +33,15 @@ for xml in os.listdir('tota'):
     fta_name = meta.find('name').text
     rta_id = meta.find('wto_rta_id').text
     parties = [party.text for party in meta.find('parties').findall('partyisocode')] # returns a list
-    parties = set(parties) # convert to set because the order of parties does not matter
+    if None in parties:
+        parties = None
+    else:
+
+        parties = set(parties) # convert to set because the order of parties does not matter
+    
     toa =  meta.find('type').text# type of agreement
     dif = meta.find('date_into_force').text
-
+    din = meta.find('date_inactive').text
     """
     do a quick check of the meta: if it is non-english, we do not want it
     """
@@ -55,11 +62,11 @@ for xml in os.listdir('tota'):
             article_name = getelementfromHead(article, 'name')
             article_text = article.text
             
-            lol.append([fta_name, rta_id, parties, toa, dif, chapter_name, article_name, article_text])
+            lol.append([fta_name, rta_id, parties, toa, dif, din, chapter_name, article_name, article_text])
 
 df = pd.DataFrame(lol)
 
-df.columns=['fta_name', 'rta_id', 'parties', 'toa', 'dif', 'chapter', 'article', 'text']
+df.columns=['fta_name', 'rta_id', 'parties', 'toa', 'dif', 'din', 'chapter', 'article', 'text']
 
 """
 divide fta articles into constituent clauses (marked by clause numbers). eg.
@@ -106,5 +113,84 @@ df = df.explode('text').reset_index()
 df['clauseno'] = clauseno
 
 df=df.drop('index', axis=1)
+
+"""
+get empty party details from the RTA dataset
+"""
+rta = pd.read_excel('scripts/prepro/wtorta.xlsx')
+rta = rta[['RTA ID', 'Original signatories']]
+rta['RTA ID'] = rta['RTA ID'].apply(lambda x: float(x))
+df = df.dropna(subset='rta_id')
+df.rta_id = df.rta_id.apply(lambda x: float(x))
+
+df = df.merge(rta, how='left', left_on = 'rta_id', right_on = 'RTA ID')
+
+"""
+compress into the empty slots
+"""
+
+# create a dictionary. {RTA name : ISO 3166 level code}
+
+df['partiess'] = df.apply(lambda x: x['Original signatories'].split("; ") if pd.notnull(x['Original signatories']) else x['Original signatories'], axis=1)
+
+subdf = df[df['parties'].isnull()]
+
+# get unique country values. i <3 russian doll functions
+
+countrynames = list(set(list(chain(*list(subdf.partiess)))))
+
+sf = cty.countries.search_fuzzy
+
+unfoundnames = []
+ctydict = {}
+for country in countrynames:
+    try:
+        iso = sf(country)[0].alpha_3
+        ctydict.update({country:iso})
+    except:
+        unfoundnames.append(country)
+
+
+ctydict.update(
+    {'Türkiye': 
+    
+    sf('turkey')[0].alpha_3}
+)
+
+ctydict.update(
+    {'Faeroe Islands': 
+    
+    sf('faroe islands')[0].alpha_3}
+)
+
+ctydict.update(
+    {'UNMIK/Kosovo': 
+    
+    sf('kosovo')[0].alpha_3}
+)
+
+
+subdf['partiesss'] = subdf.apply(lambda x: set(list(flatten([ ctydict[party] for party in x['partiess'] ]))) if type(x['partiess']) is list else x['partiess'], axis=1)
+
+subdf = subdf.drop_duplicates('fta_name')
+subdf = subdf[['rta_id', 'partiesss']]
+
+df=df.merge(subdf, how='left')
+
+df['parties']=df.apply(lambda x: x['partiesss'] if pd.isnull(x['parties']) else x['parties'], axis=1)
+
+df[df.parties.isnull()]
+
+df=df.drop(['Original signatories', 'partiess', 'partiesss'], axis=1)
+
+# some incomplete difs in tota
+subdf = df[df['dif'].isnull()]
+rta = pd.read_excel('scripts/prepro/wtorta.xlsx')
+rta = rta[['RTA ID', 'Date of Entry into Force (G)']]
+df = df.merge(rta, how='left')
+
+df['dif'] = df.apply(lambda x: x['Date of Entry into Force (G)'] if pd.isnull(x['dif']) else x['dif'], axis=1)
+
+df = df.drop(['RTA ID', 'Date of Entry into Force (G)'], axis=1)
 
 df.to_csv('scripts/prepro/totafta.csv', index=False)

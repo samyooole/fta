@@ -112,6 +112,7 @@ sg['dif'] = sg['Date of Entry into Force (G)']
 
 sg=sg.drop(['Date of Entry into Force (G)', 'Date of Entry into Force (S)'], axis=1)
 sg=sg.rename({'Type': 'toa'}, axis=1)
+sg['din'] = None
 
 # finally, map fta names to country sets where RTA has not identified them in their database yet. also, give bespoke placeholder rta ids
 
@@ -193,4 +194,11 @@ sg.append(tota_excl)
 
 newtota = pd.concat([sg, tota_excl], axis=0).reset_index()
 
-newtota.to_csv('newtota.csv')
+newtota = newtota.drop(['index'],axis=1)
+
+"""
+for now we drop ukfta because it is. a tad messy. and then just stop the analysis up till the end of 2020 because covid
+"""
+newtota = newtota[newtota['fta_name'] != 'ukfta']
+
+newtota.to_csv('scripts/model/newtota_preSubstantiate.csv')

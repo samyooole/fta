@@ -242,7 +242,7 @@ df=df.replace(r'^\s*$', np.nan, regex=True)
 df['article'] = df.groupby(['fta_name', 'chapter', 'art_identifier']).article.ffill()
 
 
-# clean up chapter names that contain section which provides additional useless information
+# clean up chapter names and texts that contain section which provides additional useless information
 df['chapter']=df['chapter'].apply(lambda x: re.split("section", x, flags=re.I)[0] if pd.notnull(x) else x)
 
 """
@@ -305,4 +305,68 @@ df['article'] = df['article'].apply(lambda x: " ".join(wordninja.split(x)))
 df['text'] = df['text'].apply(lambda x: x.strip())
 
 df=df.drop_duplicates(subset='text', keep='first') # assuming the first occurrence implies membership. probably wrong
+
+"""
+get rid of accidentally detected page numbers.
+for some bizarre reason, ner>cardinal numbers seem to fit the bill very well
+"""
+
+import spacy
+import numpy as np
+nlp = spacy.load('en_core_web_trf')
+newtext=[]
+for text in df.text:
+    doc=nlp(text)
+    labels = [item.label_ for item in doc.ents]
+    ents = doc.ents
+
+    if 'CARDINAL' in labels:
+        print("$$$$$$$$$$$$$$$$$")
+        print(text)
+        
+        indices = [i for i, x in enumerate(labels) if x == "CARDINAL"]
+
+        offenders = [ents[index] for index in indices]
+
+        for offender in offenders:
+
+            pattern = re.compile(r"\d{2,}") # offender must be a number of at least 2 digits
+
+            if pattern.match(offender.text):
+                replacement = text.replace(offender.text, "")
+                print(offender)
+            else:
+                replacement =text
+    else:
+        replacement = text
+
+    newtext.append(replacement)
+
+df['newtext'] = newtext
+    
+df['text'] = newtext
+
+
+
+
+
+
+
+
 df.to_csv("scripts/prepro/sgfta.csv", index=False)
+
+
+
+
+
+
+
+
+
+
+
+
+
+totaplus = pd.read_csv("core_excels/totaPlus_bypass.csv")
+
+totaplus.merge(df, how='left', on= ['chapter', 'article', 'clauseno', 'fta_name'])

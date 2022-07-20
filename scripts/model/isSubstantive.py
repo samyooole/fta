@@ -17,36 +17,24 @@ However, for the purposes of this classifier, we only bother with establishing i
 Data is manually labeled. (Labeler: sam ho)
 """
 
+import os
+
+from sklearn.linear_model import LogisticRegression
+os.add_dll_directory("C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.7/bin")
 import pandas as pd
 import sys
 sys.path.append("scripts/model/")
 from cleanandTransform import cleanandTransform
 
-cat = cleanandTransform(filters = [])
+cat = cleanandTransform(filters = [], transformer_package='all-MiniLM-L12-v2')
 
 df=pd.read_csv('scripts/model/newtota_toSubstantiate.csv')
 
 # Getting train-test data
 
-df=df[df.isSubstantive_label.notnull()]
+df=df[df.isSubstantive_label.notnull()].reset_index()
 
 text = df.text
-
-
-# Idea: use POS tagging to only select the verbs
-import nltk
-nltk.download('averaged_perceptron_tagger')
-"""
-newclause=[]
-for clause in text:
-    
-    
-    newlist = [tup[0] for tup in nltk.pos_tag(clause.split()) if len(set(tup).intersection({'MD', })) != 0] 
-    # i probably don't want gerunds
-    newclause.append(" ".join(newlist))
-
-text=newclause
-"""
 
 """
 preprocess and store within the cat object for standardization purposes
@@ -54,6 +42,67 @@ preprocess and store within the cat object for standardization purposes
 cat.set_filters(['to_lower', 'remove_url','remove_special_character', 'normalize_unicode', 'remove_whitespace'])
 cat.init_text(text)
 cat.process_text()
+cat.transform_text()
+
+"""
+continue training the sentence transformer model. (TO WRITE INTO CAT CLASS)
+- we take all the 1s and set combinations of them to have a cosine sim of 0.9
+- similarly for the 0s
+- then, for the combinations of strictly 1,0s, we assign them a cosine sim of 0.1
+- then, continue training the sentence transformer model within the cat object
+"""
+
+from sentence_transformers import InputExample, losses, evaluation
+from itertools import combinations
+from torch.utils.data import DataLoader
+from random import sample
+
+train_examples = []
+text = pd.Series(cat.current_text)
+
+# load and add combinations of 1s
+list_of_ones = text[df['isSubstantive_label'] == 1]
+combination_of_ones = list(combinations(list_of_ones, r=2))
+for combination in combination_of_ones:
+    left = combination[0]
+    right = combination[1]
+    train_example = InputExample(texts=[left, right], label = 0.9)
+
+    train_examples.append(train_example)
+
+# load and add combinations of 0s
+list_of_zeroes = text[df['isSubstantive_label'] == 0]
+combination_of_zeroes = list(combinations(list_of_zeroes, r=2))
+for combination in combination_of_zeroes:
+    left = combination[0]
+    right = combination[1]
+    train_example = InputExample(texts=[left, right], label = 0.9)
+
+    train_examples.append(train_example)
+
+# load and add combinations of {1,0}s
+for one in list_of_ones:
+    for zero in list_of_zeroes:
+        train_example = InputExample(texts=(one, zero), label = 0.1)
+        train_examples.append(train_example)
+
+# load relevant objects
+model=cat.transformer
+train_dataloader = DataLoader(train_examples, shuffle=True, batch_size=16)
+train_loss = losses.CosineSimilarityLoss(model=model)
+num_epochs=5
+model_save_path = 'scripts/model/substantiveFineTuning'
+
+
+"""
+may load model from substantiveFineTuning directly next time
+"""
+
+model.fit(train_objectives=[(train_dataloader, train_loss)],
+          epochs=num_epochs,
+          output_path=model_save_path)
+
+cat.transformer = model
 cat.transform_text()
 
 """
@@ -71,7 +120,7 @@ for i in range(0,100):
     """
     SVM model
     """
-    Classifier=LinearSVC(C=1)
+    Classifier=NuSVC()
     Classifier.fit(X = X_train, y = y_train)
 
     acscore=Classifier.score(X_test, y_test)
@@ -79,41 +128,75 @@ for i in range(0,100):
 
 print(sum(score)/len(score))
 
+with open('working_pickles/trmodel_30000sample_additivemodel.pkl', 'wb') as f:
+    pickle.dump(model,f)
 
+
+
+
+df=pd.read_csv('scripts/model/newtota_toSubstantiate.csv')
+
+df=df[df.isSubstantive_label.notnull()].reset_index()
+Classifier = GaussianNB()
+Classifier.fit(X=cat.current_embedding, y=df.isSubstantive_label)
+
+
+
+
+
+
+######################### testing
+
+df=pd.read_csv('scripts/model/newtota_toSubstantiate.csv')
+df=df[df.isSubstantive_cordon_label.notnull()].reset_index()
+text=df.text
+newcat = cleanandTransform(filters = [], transformer_package='all-MiniLM-L12-v2')
+newcat.set_filters(['to_lower', 'remove_url','remove_special_character', 'normalize_unicode', 'remove_whitespace'])
+newcat.init_text(text)
+newcat.process_text()
+newcat.transformer = cat.transformer
+newcat.transform_text()
+
+Classifier.score(newcat.current_embedding, df.isSubstantive_cordon_label)
+
+
+############################ output text for sanity check
+df=pd.read_csv('scripts/model/newtota_toSubstantiate.csv')
+text=df.text
+newcat.set_filters(['to_lower', 'remove_url','remove_special_character', 'normalize_unicode', 'remove_whitespace'])
+newcat.init_text(text)
+newcat.process_text()
+newcat.transformer = cat.transformer
+newcat.transform_text()
+array = Classifier.predict(newcat.current_embedding)
+
+df['isSubstantive_predict'] = array
+
+df.to_csv("scripts/model/newtota_SubstantiatePredict.csv")
+
+
+
+##############################
 """
-keras"""
-import keras
-from keras import layers
-import tensorflow as tf
-from sklearn.metrics import confusion_matrix, accuracy_score
+for fresh running through, start code here
+"""
 
-model = keras.Sequential([
-        layers.Dense(20, activation="sigmoid"),
-        layers.Dense(1, activation="sigmoid", name="predictions")
-])
+import os
 
-bce = tf.keras.losses.BinaryCrossentropy(reduction='sum')
+from sklearn.linear_model import LogisticRegression
+os.add_dll_directory("C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.7/bin")
+import pandas as pd
+import sys
+sys.path.append("scripts/model/")
+from cleanandTransform import cleanandTransform
+from sentence_transformers import SentenceTransformer
 
-model.compile(
-    optimizer='adam',  # Optimizer
-    # Loss function to minimize
-    loss=bce,
-    # List of metrics to monitor
-    metrics=[keras.metrics.SparseCategoricalAccuracy()],
-)
+df=pd.read_csv('scripts/model/newtota_toSubstantiate.csv')
+text=df.text
+cat = cleanandTransform(filters = [], transformer_package='all-MiniLM-L12-v2')
+cat.model = SentenceTransformer('trfModels/substantiveFineTuning')
 
-model.fit(
-    X_train,
-    y_train,
-    epochs=2000,
-    # We pass some validation for
-    # monitoring validation loss and metrics
-    # at the end of each epoch
-    #validation_data=(X_test, y_test),
-)
-
-y_pred = model.predict(X_test).round()
-
-cm = confusion_matrix(y_true = y_test, y_pred = y_pred)
-acscore = accuracy_score(y_true = y_test, y_pred = y_pred)
-print(acscore)
+cat.set_filters(['to_lower', 'remove_url','remove_special_character', 'normalize_unicode', 'remove_whitespace'])
+cat.init_text(text)
+cat.process_text()
+cat.transform_text()
