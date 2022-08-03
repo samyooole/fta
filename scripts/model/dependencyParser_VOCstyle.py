@@ -39,7 +39,8 @@ before moving forward, do some bespoke cleaning. though arguably this should hav
 """
 
 # remove "-" because it seems to mess stuff up. read as compound word
-df = pd.read_csv('core_excels/totaPlus.csv')
+df = pd.read_csv('core_excels/totaPlus_refinebranch.csv')
+nonsub = df[df['isSubstantive_predict'] == 0]
 df = df[df['isSubstantive_predict'] == 1]
 df=df.reset_index(drop=True)
 
@@ -47,7 +48,8 @@ df['text'] = df.text.apply(lambda x: x.replace("-", "").strip())
 
 
 # split by periods, then explode. this is because clauses are sometimes composed of multiple sentences, which generally correspond to multiple core actions
-
+# WE DO NOT DO THIS. the costs of this rule outweigh the benefits
+"""
 df['text'] = df.text.apply(lambda x: x.split("."))
 df['text'] = df.text.apply(lambda x: [item for item in x if item != ''])
 
@@ -55,6 +57,7 @@ df = df.explode('text')
 df=df.drop('Unnamed: 0', axis=1)
 df=df.reset_index(drop=True)
 df['text'] = df.text.apply(lambda x: x.strip())
+"""
 
 """
 # explode based on (x). might as well just do a new effort lol
@@ -348,8 +351,11 @@ df=df.reset_index(drop=True)
 
 checkdf=pd.concat([df[0:len(lol)], pd.DataFrame(lol, columns = ['subjw','coreact', 'objw', 'objw_adjectival', 'clausal_complement', 'conditionals', 'subj', 'cvp', 'obj'])], axis=1)
 
+nonsub[['subjw','coreact', 'objw', 'objw_adjectival', 'clausal_complement', 'conditionals', 'subj', 'cvp', 'obj']] = None
 
-checkdf.to_csv('checkdf2.csv')
+checkdf = pd.concat([checkdf, nonsub])
+
+checkdf.to_csv('core_excels/totaPlus_dp.csv')
 
 
 

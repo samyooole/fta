@@ -42,7 +42,7 @@ class NERModel():
                 for idx, batch in tqdm(batches_list):
                      self.ner_model.update(
                          batch,
-                         drop=0.25,
+                         drop=0.5,
                          losses=train_losses,
                          sgd=optimizer,
                      )

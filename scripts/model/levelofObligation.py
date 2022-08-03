@@ -136,7 +136,7 @@ sys.path.append("scripts/model/")
 from cleanandTransform import cleanandTransform
 from sentence_transformers import SentenceTransformer
 
-df=pd.read_csv('scripts/model/totaPlus_preMandate.csv')
+df=pd.read_csv('core_excels/totaPlus_dp.csv')
 text=df.cvp.astype('str')
 newcat = cleanandTransform(filters = [], transformer_package='all-MiniLM-L12-v2')
 newcat.model = SentenceTransformer('trfModels/MandatoryFineTuning')
