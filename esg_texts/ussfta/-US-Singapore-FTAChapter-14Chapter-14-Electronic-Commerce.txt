@@ -1,0 +1,109 @@
+ 
+ 
+ 
+153 
+ 
+CHAPTER 14 : ELECTRONIC COMMERCE  
+ 
+ARTICLE 14.1 : GENERAL 
+ 
+The Parties recognize the economic growth and opportunity provided by electronic 
+commerce and the importance of avoiding barriers to its use and development and the 
+applicability of WTO rules to electronic commerce.    
+ 
+ARTICLE 14.2 : ELECTRONIC SUPPLY OF SERVICES 
+ 
+For greater certainty, the Parties affirm that measures related to the supply of a service 
+using electronic means falls within the scope of the obligations contained in the relevant 
+provisions of Chapters 8 (Cross-Border Trade in Services), 10 (Financial Services), and 15 
+(Investment), subject to any exceptions applicable to such obligations and except where an 
+obligation does not apply to any such measure pursuant to Articles 8.7 (Non-Conforming 
+Measures), 10.9 (Non-Conforming Measures), or 15.12 (Non-Conforming Measures).  
+ 
+ARTICLE 14.3 : DIGITAL PRODUCTS 
+ 
+1.    A Party shall not apply customs duties or other duties, fees, or charges on or in 
+connection with the importation or exportation of digital products by electronic transmission. 
+14-1 
+2.    Each Party shall determine the customs value of an imported carrier medium bearing a 
+digital product according to the cost or value of the carrier medium alone, without regard to the 
+cost or value of the digital product stored on the carrier medium.  
+ 
+3.    A Party shall not accord less favorable treatment to some digital products than it accords 
+to other like digital products:  
+ 
+(a)   on the basis that  
+ 
+(i)    the digital products receiving less favorable treatment are created, 
+produced, published, stored, transmitted, contracted for, commissioned, or 
+first made available on commercial terms, outside its territory; or  
+ 
+(ii)    the author, performer, producer, developer, or distributor of such digital 
+products is a person of the other Party or a non-Party,    
+ 
+or  
+ 
+ 
+ 
+ 
+ 
+ Paragraph 1 of this Article does not preclude a Party from imposing internal taxes or other 
+14-1
+internal charges provided that these are imposed in a manner consistent with this Agreement.    
+ 
+ 
+154 
+ 
+(b)    so as otherwise to afford protection to the other like digital products that are 
+created, produced, published, stored, transmitted, contracted for, commissioned, 
+or first made available on commercial terms, in its territory.  
+ 
+4.    (a)    A Party shall not accord less favorable treatment to digital products created, 
+produced, published, stored, transmitted, contracted for, commissioned, or first 
+made available on commercial terms in the territory of the other Party than it 
+accords to like digital products created, produced, published, stored, transmitted, 
+contracted for, commissioned, or first made available on commercial terms, in the 
+territory of a non-Party.  
+ 
+(b)    A Party shall not accord less favorable treatment to digital products whose author, 
+performer, producer, developer, or distributor is a person of the other Party than it 
+accords to like digital products whose author, performer, producer, developer, or 
+distributor is a person of a non-Party.  
+ 
+5.    Paragraphs 3 and 4 do not apply to any non-conforming measure described in Article 8.7 
+(Non-Conforming Measures), 10.9 (Non-Conforming Measures), or 15.12 (Non-Conforming 
+Measures).  
+   
+6.   This Article does not apply to measures affecting the electronic transmission of a series 
+of text, video, images, sound recordings, and other products scheduled by a content provider for 
+aural and/or visual reception, and for which the content consumer has no choice over the 
+scheduling of the series. 
+ 
+ARTICLE 14.4 : DEFINITIONS 
+ 
+For purposes of this Chapter:  
+   
+1.   carrier medium means any physical object capable of storing a digital product by any 
+method now known or later developed, and from which a digital product can be perceived, 
+reproduced, or communicated, directly or indirectly, and includes, but is not limited to, an optical 
+medium, a floppy disk, or a magnetic tape;  
+   
+2.   digital products means computer programs, text, video, images, sound recordings and 
+other products that are digitally encoded, regardless of whether they are fixed on a carrier 
+medium or transmitted electronically;
+14-3 
+ 
+3.   electronic transmission or transmitted electronically means the transfer of digital 
+products using any electromagnetic or photonic means; and  
+ 
+ 
+ For greater clarity, digital products do not include digitized representations of financial 
+14-3
+instruments.     
+   
+   
+ 
+155 
+ 
+   
+4.   using electronic means means employing computer processing.  

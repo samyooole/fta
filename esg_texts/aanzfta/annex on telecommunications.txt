@@ -1,0 +1,481 @@
+ 
+ 
+ANNEX ON TELECOMMUNICATIONS 
+ 
+Article 1 
+Scope and Coverage 
+ 
+1.  This Annex applies to measures by a Party affecting 
+trade in public telecommunications transport networks and 
+services. 
+ 
+2.  Notwithstanding  Paragraph  1,  this  Annex  shall  not 
+apply  to  measures  by  a  Party  affecting  the  distribution  of 
+broadcasting and audio-visual services, as defined in each 
+Party’s domestic legal framework. 
+ 
+3.  Nothing in this Annex shall be construed to require a 
+Party  to  allow  the  supply  of  public  telecommunications 
+transport networks or services in relation to which it has not 
+made specific commitments under this Chapter. 
+ 
+Article 2 
+Definitions 
+ 
+For the purposes of this Annex: 
+ 
+(a)  co-location (physical) means access to space 
+in order to install, maintain or repair equipment at 
+premises  owned  or  controlled  and  used  by  a 
+major  supplier  to  supply  public 
+telecommunications transport services; 
+ 
+(b)  cost-oriented  means  based  on  cost,  and  may 
+include  a  reasonable  profit,  and  may  involve 
+different cost methodologies for different facilities 
+or services; 
+ 
+(c)  essential  facilities  means  facilities  of  a  public 
+telecommunications transport network or service 
+that: 
+  117 
+ 
+(i)  are  exclusively  or  predominantly  provided 
+by a single or limited number of suppliers; 
+and 
+ 
+(ii)  cannot  feasibly  be  economically  or 
+technically substituted in order to provide a 
+service; 
+ 
+(d)  facilities-based  suppliers  means  suppliers  of 
+public telecommunications transport networks or 
+services that: 
+ 
+(i)  are licensed carriers in Australia; 
+ 
+(ii)  are  classified  as  Access  Seekers  in 
+accordance  with  the  Telecommunications 
+Act 2001 as amended from time to time in 
+New Zealand; 
+ 
+(iii)  are  the  Infrastructure  Provider  for  the 
+Telecommunication  Industry  (InTi) 
+licensees in Brunei Darussalam; 
+ 
+(iv)  are  licensed  as  network  facility  provider 
+and  licensed  network  services  provider 
+under domestic law in Cambodia; 
+ 
+(v)  are licensed as telecommunication network 
+provider in Indonesia; 
+ 
+(vi)  are authorised to establish an enterprise to 
+provide  telecommunications  service  under 
+the Telecommunications Act of 2001 in Lao 
+PDR; 
+ 
+(vii)  are licensed as Network Facilities Provider 
+and Network Services Provider in Malaysia; 
+ 
+  118 
+(viii)  are telecommunications operators licensed 
+as network facility provider and/or network 
+service provider; and operators authorised 
+by the Ministry of Communications, Posts 
+and  Telegraphs  to  provide  facility  based 
+services in Myanmar; 
+ 
+(ix)  are  licensed  public  telecommunications 
+entities  as  defined  in  the  Public 
+Telecommunications  Policy  Act  of  the 
+Philippines; 
+ 
+(x)  are facilities-based operators in Singapore; 
+ 
+(xi)  are  duly  licensed  under  domestic  law  as 
+facilities-based supplier in Thailand; and 
+ 
+(xii)  are facilities-based operators duly licensed 
+in Viet Nam; 
+ 
+(e)  interconnection  means  linking  with  suppliers 
+providing  public  telecommunications  transport 
+networks or services in order to allow the users of 
+one  supplier  to  communicate  with  users  of 
+another supplier and to access services provided 
+by another supplier; 
+ 
+(f)  leased  circuits 1  means  telecommunications 
+facilities between two or more designated points 
+that  are  set  aside  for  the  dedicated  use  of,  or 
+availability to, a particular user; 
+ 
+(g)  major supplier means a supplier which has the 
+ability  to  materially  affect  the  terms  of 
+participation, having regard to price and supply, 
+in  the  relevant  market  for  the  supply  of  public 
+                                                 
+1  In the case of Thailand, “leased circuits”  means telecommunications facilities 
+between two designated  points that are set  aside for the dedicated use  of, or 
+availability to, a particular user. 
+  119 
+telecommunications  transport  networks  or 
+services, or parts thereof, as a result of: 
+ 
+(i)  control over essential facilities; or 
+ 
+(ii)  use of its position in the market; 
+ 
+(h)  non-discriminatory  means  treatment  no  less 
+favourable than that accorded to any other user 
+of  like  public  telecommunications  transport 
+networks or services in like circumstances; 
+ 
+(i)  public telecommunications transport network 
+means  the  public  telecommunications 
+infrastructure which permits telecommunications 
+between and among defined network termination 
+points; 
+ 
+(j)  public  telecommunications  transport  service 
+means any telecommunications transport service 
+required, explicitly or in effect, by a Party to be 
+offered  to  the  public  generally.  Such  services 
+may include, inter alia, telegraph, telephone and 
+data transmission typically involving the real-time 
+transmission  of  customer-supplied  information 
+between two or more points without any end-to-
+end  change  in  the  form  or  content  of  the 
+customer’s information; 
+ 
+(k)  telecommunications  means  the  transmission 
+and reception of signals by any electromagnetic 
+means; 
+ 
+(l)  telecommunications  regulatory  body  means 
+any  body  or  bodies  in  the  territory  of  a  Party 
+which  is  or  are  responsible,  under  the  Party’s 
+domestic  legal  framework,  for  the  regulation  of 
+telecommunications; and 
+ 
+  120 
+(m)  user  means  service  consumers  and  service 
+suppliers. 
+ 
+Article 3 
+Transitional Arrangements 
+ 
+Noting  each  Party’s  different  stage  of  development,  and 
+noting each Party’s commitments under GATS, a Party may 
+delay the application of Article 4 (Competitive Safeguards), 
+Article 6 (Interconnection), Article 7 (Co-location), Article 8 
+(Leased  Circuits  Services)  and  Article  9.2  (Resolution  of 
+Disputes)  in  accordance  with  the  timetable  set  out  in  this 
+Annex’s Appendix on Transitional Arrangements. 
+ 
+Article 4 
+Competitive Safeguards 
+ 
+1.  Subject to Article 3 (Transitional Arrangements), each 
+Party  shall  prevent  suppliers  of  public  telecommunications 
+transport networks or services who, alone or together, are 
+major suppliers in its territory, from engaging in or continuing 
+anti-competitive practices. 
+ 
+2.  The anti-competitive practices referred to in this Article 
+shall include: 
+ 
+(a)  engaging in anti-competitive cross-subsidisation; 
+ 
+(b)  using information obtained from competitors with 
+anti-competitive results; and 
+ 
+(c)  not  making  available  to  other  suppliers  of 
+telecommunications  transport  networks  or 
+services, in a timely fashion, technical information 
+about essential facilities or commercially relevant 
+information,  which  is  necessary  for  such 
+suppliers  to  provide  public  telecommunications 
+transport networks or services. 
+  121 
+ 
+Article 5 
+Licensing 
+ 
+1.  Each  Party  shall  ensure  that,  where  a  licence  is 
+required, all measures relating to the licensing of suppliers of 
+public telecommunications transport networks or services in 
+its  territory  are  published  or,  where  publication  is  not 
+practicable, otherwise made publicly available, including: 
+ 
+(a)  circumstances in which a licence is required; 
+ 
+(b)  licence application procedures; 
+ 
+(c)  criteria used to assess licence applications; 
+ 
+(d)  standard  terms  and  conditions  applicable  to 
+licences; 
+ 
+(e)  the period of time normally required to reach a 
+decision concerning a licence application; 
+ 
+(f)  the  cost  of  and/or  fees  for  applying  for  and/or 
+obtaining a licence; and 
+ 
+(g)  the period of validity of a licence. 
+ 
+2.  Each Party shall ensure that the reasons for the denial 
+of a licence are made known to an applicant upon request. 
+ 
+Article 6 
+Interconnection2 
+ 
+1.  Subject to Article 3 (Transitional Arrangements), each 
+Party shall ensure that major suppliers in its territory provide 
+                                                 
+2  For the sake of clarity, nothing in this Article shall be construed to require Thailand 
+or Viet Nam to allow cross-border supply of public telecommunications transport 
+networks or services in relation to which it has not made specific commitments under 
+this Chapter. 
+  122 
+interconnection  to  suppliers  of  public  telecommunications 
+transport  networks  or  services  of  other  Parties  at  any 
+technically  feasible  point  in  the  major  supplier’s  network. 
+Such interconnection shall be: 
+ 
+(a)  provided  in  a  timely  fashion,  on  terms  and 
+conditions  (including  technical  standards  and 
+specifications),  and  at  cost-oriented  rates,  that 
+are  reasonable  (having  regard  to  economic 
+feasibility), non-discriminatory and transparent; 
+ 
+(b)  sufficiently unbundled, such that the supplier of 
+public telecommunications transport networks or 
+services seeking interconnection need not pay for 
+network components or facilities that it does not 
+require for the service to be provided; 
+ 
+(c)  of a quality no less favourable than that provided 
+for the major supplier’s own like services, or for 
+like services of non-affiliated service suppliers, or 
+for its subsidiaries or other affiliates; and 
+ 
+(d)  provided upon request, at points in addition to the 
+network termination points offered to the majority 
+of users, subject to charges that reflect the cost 
+of construction of necessary additional facilities. 
+ 
+2.  Each Party shall ensure that the terms, conditions and 
+rates  (including  technical  standards  and  specifications)  for 
+interconnection between major suppliers in its territory and 
+suppliers of public telecommunications transport networks or 
+services of other Parties are able to be established (at least): 
+ 
+(a)  through commercial negotiation; or 
+ 
+(b)  by  reference  to  a  set  of  standard  terms, 
+conditions and rates that the major supplier offers 
+generally  to  other  suppliers  of  public 
+telecommunications  transport  networks  or 
+  123 
+services, and that are approved or set out by a 
+telecommunications regulatory body. 
+ 
+3.  Each  Party  shall  ensure  that  the  procedures  for 
+interconnection  with  major  suppliers  in  its  territory  are 
+published or otherwise made publicly available. 
+ 
+Article 7 
+Co-location 
+ 
+1.  Subject to Article 3 (Transitional Arrangements), each 
+Party shall ensure that major suppliers in its territory: 
+ 
+(a)  provide to suppliers of public telecommunications 
+transport  networks  or  services  of  other  Parties 
+that are facilities-based suppliers in the territory 
+of that Party, physical co-location of equipment 
+necessary for interconnection; and 
+ 
+(b)  in situations where physical co-location referred 
+to  in  Subparagraph  (a)  is  not  practical  for 
+technical reasons or because of space limitations, 
+co-operate  with  suppliers  of  public 
+telecommunications  transport  networks  or 
+services of other Parties that are facilities-based 
+suppliers in the territory of that Party, to find and 
+implement  a  practical  and  commercially  viable 
+alternative solution.3 
+ 
+2.  Each  Party  shall  ensure  that  major  suppliers  in  its 
+territory  provide  the  physical  co-location  or  practical  and 
+commercially  viable  alternative  solution  referred  to  in 
+Paragraph 1 in a timely fashion and on terms and conditions 
+(including  technical  standards  and  specifications),  and  at 
+                                                 
+3  Such solutions may include: 
+(a) permitting  facilities-based  suppliers  to  locate  equipment  in  a  nearby 
+building and to connect such equipment to the major supplier’s network; 
+(b) conditioning additional equipment space or virtual co-location; 
+(c)  optimising the use of existing space; and 
+(d) finding adjacent space. 
+  124 
+rates,  that  are  reasonable  (having  regard  to  economic 
+feasibility), non-discriminatory and transparent. 
+ 
+3.  Each  Party  may  determine,  in  accordance  with  its 
+domestic  laws  and  regulations,  the  locations  at  which  it 
+requires major suppliers in its territory to provide the physical 
+co-location  or  the  practical  and  commercially  viable 
+alternative solutions referred to in Paragraph 1. 
+ 
+Article 8 
+Leased Circuits Services 
+ 
+Subject to Article 3 (Transitional Arrangements), each Party 
+shall, unless it is not technically feasible, ensure that major 
+suppliers in its territory make leased circuits services (that 
+are public telecommunications transport services) available 
+to suppliers of public telecommunications transport networks 
+or services of other Parties in a timely fashion and on terms 
+and  conditions  (including  technical  standards  and 
+specifications),  and  at  rates,  that  are  reasonable  (having 
+regard  to  economic  feasibility),  non-discriminatory  and 
+transparent. 
+ 
+Article 9 
+Resolution of Disputes 
+ 
+1.  Each  Party  shall  ensure  that  a  supplier  of  public 
+telecommunications  transport  networks  or  services  of 
+another  Party  who  requests  interconnection  with  a  major 
+supplier  that  is  authorised  to  supply  public 
+telecommunications  transport  networks  or  services  in  the 
+Party’s  territory  has  recourse  to  a  telecommunications 
+regulatory  body  to  resolve  disputes  in  relation  to  such 
+interconnection, including in relation to terms, conditions or 
+rates: 
+ 
+(a)  within a reasonable period of time, according to a 
+procedure that has been published or otherwise 
+made publicly available; and 
+  125 
+ 
+(b)  at the request of the affected supplier of public 
+telecommunications  transport  networks  or 
+services of the other Party. 
+ 
+2.  Subject to Article 3 (Transitional Arrangements), each 
+Party  shall  ensure  that  a  supplier  of  public 
+telecommunications  transport  networks  or  services  of 
+another  Party  who  requests  co-location  with  or  leased 
+circuits services from a major supplier that is authorised to 
+supply  public  telecommunications  transport  networks  or 
+services  in  the  Party’s  territory  has  recourse  to  a 
+telecommunications  regulatory  body  or  a  competition 
+regulatory  body  to  address  issues  in  relation  to  such  co-
+location or leased circuits services, including in relation to 
+terms, conditions or rates: 
+ 
+(a)  within a reasonable period of time, according to a 
+procedure that has been published or otherwise 
+made publicly available; and 
+ 
+(b)  at the request of the affected supplier of public 
+telecommunications  transport  networks  or 
+services of the other Party. 
+ 
+3.  Each  Party  shall  ensure  that  its  telecommunications 
+regulatory  body  or  bodies  provide,  upon  request  by  a 
+supplier of public telecommunications transport networks or 
+services  of  another  Party,  a  written  explanation  of  any 
+decision  by  a  telecommunications  regulatory  body  that 
+affects  the  supplier  of  public telecommunications  transport 
+networks  or  services  of  the  other  Party,  unless  such 
+explanation is otherwise publicly available. 
+ 
+Article 10 
+Transparency 
+ 
+Each  Party  shall  endeavour  to  make  information  that  the 
+Party  is  required  to  publish  or  make  publicly  available 
+  126 
+pursuant to this Annex available on the internet. 
+ 
+Article 11 
+Telecommunications Regulatory Body 
+ 
+1.  Each Party shall establish or maintain, as part of its 
+domestic legal framework, a telecommunications regulatory 
+body. 
+ 
+2.  Each Party shall ensure that every telecommunications 
+regulatory body that it establishes or maintains is separate 
+from,  and  not  accountable  to,  any  supplier  of  public 
+telecommunications transport networks or services. 
+ 
+3.  Each  Party  shall  ensure  that  the  functions  and 
+responsibilities of the telecommunications regulatory body or 
+bodies, which shall include enforcement of the commitments 
+set out in Article 6 (Interconnection), and all of its decision-
+making powers, shall be set out in the Party’s domestic laws 
+or regulations. 
+ 
+4.  Each Party shall ensure that the decisions of, and the 
+procedures used by, its telecommunications regulatory body 
+or bodies are impartial with respect to all interested persons. 
+ 
+5.  Each  Party  shall  ensure  that  any  supplier  of  public 
+telecommunications  transport  networks  or  services  of 
+another  Party  that  is  aggrieved,  or  whose  interests  are 
+adversely  affected  by  a  determination  or  decision  of  a 
+telecommunications  regulatory  body  of  that  Party,  may 
+obtain  review  of  the  determination  or  decision  by  an 
+administrative,  arbitral  or  judicial  tribunal  or  authority  or 
+according  to  administrative,  arbitral  or  judicial  procedures. 
+Where  such  procedures  are  not  independent  of  the 
+telecommunications regulatory body, the Party shall ensure 
+that  the  procedures  in  fact  provide  for  an  objective  and 
+impartial review. 
+ 
+  127 
+Article 12 
+Universal Service 
+ 
+Each  Party  has  the  right  to  define  the  kind  of  universal 
+service  obligation  it  wishes  to  maintain.  Such  obligations, 
+including any cross subsidisation policy set out under each 
+Party’s  domestic  laws,  shall  not  be  regarded  as  anti-
+competitive  per  se,  provided  they  are  administered  in  a 
+transparent,  non-discriminatory  and  competitively  neutral 
+manner and are not more burdensome than necessary for 
+the kind of universal service defined by the Party. 
+ 
+Article 13 
+Allocation and Use of Scarce Resources4 
+ 
+1.  Each  Party  shall  administer  its  procedures  for  the 
+allocation and use of scarce resources, including frequencies 
+and numbers, in an objective, timely, transparent and non-
+discriminatory manner. 
+ 
+2.  Each  Party  shall  publish  or  otherwise  make  publicly 
+available the current state of allocated frequency bands.5 
+ 
+3.  Parties  are  not  required  to  publish  identification  of 
+frequencies  allocated  for  specific  government  uses,  or  to 
+otherwise make them publicly available. 
+                                                 
+4  Decisions  on  the  allocation  and  assignment  of  spectrum  and  frequency 
+management are not measures that are per se inconsistent with Article 4 (Market 
+Access) of Chapter 8 (Trade in Services). Accordingly, each Party retains the ability 
+to exercise its spectrum and frequency management policies, which may affect the 
+number of service suppliers, provided that this is done in a manner that is consistent 
+with this Chapter. Each Party also retains the right to allocate frequency bands taking 
+into account existing and future needs. 
+ 
+5  Parties are not required to publish information about the allocation of individual 
+frequencies to specific licencees.  
+  128

@@ -1,0 +1,1122 @@
+Chapter 10 – Investment 
+CHAPTER 10 
+INVESTMENT 
+ 
+ 
+Article 10.1 
+Definitions 
+ 
+For the purposes of this Chapter: 
+ 
+(a)  “claimant” means an investor of a Party that is a party to an investment dispute with 
+the other Party;  
+ 
+(b)  “disputing parties” means the claimant and the respondent; 
+ 
+(c)  “disputing party” means either the claimant or the respondent; 
+ 
+(e)  “enterprise” means any entity constituted or organised under applicable law, whether 
+or  not  for  profit,  and  whether  privately  or  governmentally  owned  or  controlled, 
+including  a  corporation,  trust,  partnership,  sole  proprietorship,  joint  venture, 
+association, or similar organisation; and a branch of an enterprise; 
+ 
+(f)  “enterprise of a Party” means an enterprise constituted or organised under the law of 
+a Party, and a branch1 located in the territory of a Party and carrying out business 
+activities there; 
+ 
+(g)  “freely useable currency” means any currency as determined by the IMF under the 
+Articles  of  Agreement  of  the  International  Monetary  Fund  and  any  amendments 
+thereto; 
+ 
+(h)  “government procurement” means the process by which a government obtains the 
+use of or acquires goods or services, or any combination thereof, for governmental 
+purposes and not with a view to commercial sale or resale, or use in the production or 
+supply of goods or services for commercial sale or resale; 
+(i)  “ICLP”  means  the  Arbitration  Centre  of  the  Institute  for  the  Development  of 
+Commercial Law and Practice in Sri Lanka; 
+ 
+(j)  “intellectual property rights” means: 
+ 
+(i)  copyright and related rights; 
+ 
+(ii)  patents; 
+ 
+(iii)  trademarks; 
+ 
+                                                           
+1 For greater certainty, a branch of a legal entity of a non-Party shall not be considered as an enterprise of a 
+Party. 
+10-1 Chapter 10 – Investment 
+(iv)  designs; 
+ 
+(v)  layout-designs (topographies) of integrated circuits; 
+ 
+(vi)  geographical indications; and 
+ 
+(vii)  protection of undisclosed information; 
+ 
+(k)  “investment” means every kind of asset that an investor owns or controls, directly or 
+indirectly,  that  has  the  characteristics  of  an  investment 2 ,  which  includes  the 
+commitment of capital or other resources, a certain duration, the expectation of gain 
+or profit, or the assumption of risk. Forms that an investment may take include3, 4: 
+ 
+(i)  an enterprise; 
+ 
+(ii)  shares, stock, and other forms of equity participation in an enterprise; 
+ 
+(iii)  bonds, debentures, loans and other debt instruments5, 6 of an enterprise; 
+ 
+(iv)  turnkey, construction, management, production, concession, revenue-sharing, 
+and other similar contracts;  
+ 
+(v)  claims to money7 or to other assets, or to any contractual performance having 
+an economic value associated with an investment; 
+ 
+(vi)  intellectual property rights8; 
+ 
+(vii)  licences,  authorisations,  permits,  and  similar  rights  conferred  pursuant  to 
+applicable domestic law; 
+ 
+                                                           
+2 Where an asset lacks the characteristics of an investment, that asset is not an investment regardless of the form 
+it may take. 
+3 For greater certainty, donation does not constitute an investment. 
+4 The term “investment” does not include an order or judgment entered in a judicial or administrative action. 
+5 Some forms of debt, such as bonds, debentures, and long term notes, are more likely to have the characteristics 
+of an investment, while other forms of debt such as claims to payment that are immediately due and result from 
+the sale of goods or services, are not likely to have such characteristics. 
+6 For the purpose of this Chapter, “loans and other debt instruments” described in sub-paragraph (k)(iii) of 
+this Article and “claims to money or to any contractual performance” described in sub-paragraph (k)(v) of 
+this Article refer to assets which relate to a business activity associated with an investment and do not refer to 
+assets which are of a personal nature, unrelated to any business activity associated with an investment. 
+7 For greater certainty, claims to money does not include: 
+(a)  claims to money that arise solely from commercial contracts for the sale of goods or services by a 
+natural person or enterprise in the territory of a Party to a natural person or enterprise in the 
+territory of the other Party; 
+(b)  the domestic financing of such contracts; or 
+(c)  any order, judgment or arbitral award related to sub-paragraph (a) or (b) above. 
+8 In accordance with the relevant laws of the Party admitting the investment. 
+10-2 Chapter 10 – Investment 
+(viii) other  tangible  or  intangible,  movable  or  immovable  property,  and  related 
+property rights, such as leases, mortgages, liens, and pledges9; 
+ 
+(l)  “investor of a Party” means a Party, a natural person or an enterprise of a Party 
+recognised as a legal entity by the laws of the other Party, that has made a covered 
+investment in the territory of the other Party; 
+ 
+(m)  “investor of a non-Party” means, with respect to a Party, an investor that has made 
+an investment in the territory of that Party, that is not an investor of either Party; 
+ 
+(n)  “measures” means any measure taken by a Party, whether in the form of a law, 
+regulation, rule, procedure, decision or administrative action, and includes measures 
+taken by: 
+ 
+(i)  central, regional or local governments and authorities; and 
+ 
+(ii)  non-governmental  bodies  in  the  exercise  of  powers  delegated  by  central, 
+regional or local governments or authorities; 
+ 
+(o)  “national” means” 
+(i)  with respect to the Republic of Singapore, any person who is a citizen of 
+Singapore within the meaning of its Constitution and its domestic laws; and 
+ 
+(ii)  with respect to Sri Lanka, any person who is a citizen of Sri Lanka within the 
+meaning of its Constitution and its domestic laws; 
+ 
+(p)  “New York Convention” means the Convention on the Recognition and Enforcement 
+of Foreign Arbitral Awards, adopted at the United Nations in New York on 10 June 
+1958; 
+ 
+(q)  “respondent” means the Party that is a party to an investment dispute; 
+ 
+(r)  “return” means an amount  yielded by or derived from an investment, including 
+profits, dividends, interest, capital gains, royalty payments, payments in connection 
+with intellectual property rights, and all other lawful income. For the purposes of the 
+definition of “investment”, returns that are invested shall be treated as investments 
+and any alteration of the form in which assets are invested or reinvested shall not 
+affect their character as investments; 
+ 
+(s)  “SIAC” means the Singapore International Arbitration Centre; 
+ 
+(t)  “SLNAC” means the Sri Lanka National Arbitration Centre; and 
+ 
+                                                           
+9 For greater certainty, market share, access to market, expected gains, and opportunities for profit making are 
+not, by themselves, investments. 
+10-3 Chapter 10 – Investment 
+(u)  “UNCITRAL Arbitration Rules” means the arbitration rules of the United Nations 
+Commission on International Trade Law, as adopted by the United Nations General 
+Assembly on 15 December 1976, as revised in 2010. 
+ 
+ 
+SECTION 10-A 
+INVESTMENT PROTECTION 
+ 
+ 
+Article 10.2 
+Scope and Coverage 
+ 
+1.  This Chapter shall apply to measures adopted or maintained by a Party relating to: 
+ 
+(a)  investors of the other Party; and 
+ 
+(b)  all investments made by investors of one Party in the territory of the other 
+Party, whether made before or after the entry into force of this Agreement. 
+ 
+2.  This Chapter shall not apply to: 
+  
+(a)  government procurement by a Party; 
+ 
+(b)  services supplied in the exercise of governmental authority within the territory 
+of the respective Party. For purposes of this Chapter, a service supplied in the 
+exercise  of  governmental  authority  means  any  service  which  is  supplied 
+neither on a commercial basis, nor in competition with one or more service 
+suppliers; 
+ 
+(c)  subsidies or grants provided by a Party, or to any conditions attached to the 
+receipt or continued receipt of such subsidies or grants, whether or not such 
+subsidies  or  grants  are  offered  exclusively  to  investors  of  the  Party  or 
+investments of investors of the Party, including government-supported loans, 
+guarantees and insurance;  
+  
+(d)  any measures adopted or maintained by a Party to the extent that they are 
+covered by Chapter 7 (Trade in Services). Notwithstanding the foregoing, 
+Article 10.3 (Minimum Standard of Treatment), Article 10.6 (Compensation 
+for Losses), Article 10.10 (Expropriation), Article 10.11 (Transfers), Article 
+10.12 (Subrogation) and Section 10-B (Investment Disputes Between a Party 
+and an Investor) shall apply, mutatis mutandis, to any measure affecting the 
+supply of service by a service supplier of a Party through commercial presence 
+in the territory of the other Party pursuant to Chapter 7 (Trade in Services), but 
+only to the extent that any such measures relate to an investment and an 
+obligation under this Chapter, regardless of whether such a service sector is 
+scheduled in the Party’s Schedule of Specific Services Commitments in Annex 
+7-A (Sri Lanka) and Annex 7-B (Singapore); and 
+10-4 Chapter 10 – Investment 
+ 
+(e)  any  taxation  measure,  including  measures  taken  to  enforce  taxation 
+obligations. 
+ 
+3.  Notwithstanding any other provisions of this Chapter, a Party shall not be prevented 
+from taking measures for prudential reasons, including for the protection of investors, 
+depositors, policy holders or persons to whom a fiduciary duty is owed by a financial 
+service supplier, or to ensure the integrity and stability of the financial system. Where 
+such measures do not conform with the provisions of this Chapter, they shall not be 
+used  as  a  means  of  avoiding  the  Party’s  commitments  or  obligations  under  this 
+Chapter. 
+ 
+4.  In the event of any inconsistency between this Chapter and another Chapter, the other 
+Chapter shall prevail over this Chapter to the extent of the inconsistency. For the 
+avoidance  of  doubt,  this  paragraph  shall  not  be  deemed  to  impose  additional 
+obligations on a Party other than the obligations set out in this Chapter in respect of 
+any dispute under Section 10-B (Investor-State Dispute Settlement). 
+ 
+5.  The requirement by a Party that a service provider of the other Party post a bond or 
+other form of financial security as a condition of providing a service into its territory 
+does not of itself make this Chapter applicable to the provision of that cross-border 
+service. This Chapter applies to that Party’s treatment of the posted bond or financial 
+security, to the extent that such bond or financial security is an investment. 
+ 
+6.  For greater certainty, the provisions of this Chapter do not impose any obligation on 
+either Party in relation to any act or fact that took place or any situation that ceased to 
+exist before the date of entry into force of this Agreement. 
+ 
+7.  In  the  event  that  a  Party  extends  protection  to  the  establishment,  acquisition  or 
+expansion of investments to any non-Party after the signing of this Agreement, the 
+other Party shall have the right to initiate a review of the commitments under this 
+Chapter, to extend the provisions of this Chapter to the establishment, acquisition and 
+expansion of investments in like circumstances. 
+ 
+8.  Articles 10.4 (National  Treatment), 10.5 (Most-Favoured-Nation Treatment), 10.7 
+(Performance Requirements) and 10.8 (Senior Management and Board of Directors) 
+do not apply to any measure that a Party adopts or maintains with respect to sectors, 
+sub-sectors, or activities, as set out in its Schedule to Annex 10-B (Sri Lanka) and 
+Annex 10-C (Singapore). 
+ 
+9.  Neither Party may, under any measure adopted after the date of entry into force of this 
+Agreement and set out in its Schedule to Annex 10-B (Sri Lanka) and Annex 10-C 
+(Singapore), require an investor of the other Party, by reason of its nationality, to sell 
+or otherwise dispose of an investment existing at the time the measure becomes 
+effective. 
+ 
+10-5 Chapter 10 – Investment 
+10.  Articles 10.4 (National Treatment) and 10.5 (Most-Favoured-Nation Treatment) do 
+not  apply to  any measure that is  an exception to,  or derogation from,  a Party’s 
+obligations under Chapter 13 (Intellectual Property) and the TRIPS Agreement, as 
+specifically provided for in that Agreement. 
+ 
+ 
+Article 10.3 
+Minimum Standard of Treatment 
+ 
+1.  Each  Party  shall  accord  to  investments  treatment  in  accordance  with  customary 
+international law minimum standard of treatment of aliens10, including “fair and 
+equitable treatment” and “full protection and security”. 
+ 
+2.  For  greater  certainty,  paragraph  1  of  this  Article  prescribes  the  customary 
+international law minimum standard of treatment of aliens as the minimum standard 
+of  treatment  to  be  afforded  to  investments.  The  concepts  of  “fair  and  equitable 
+treatment” and “full protection and security” do not require treatment in addition to or 
+beyond  that  which  is  required  by  that  standard,  and  do  not  create  additional 
+substantive rights. The obligation to provide:  
+ 
+(a)  “fair  and  equitable  treatment”  requires  the  Parties  not  to  deny  justice  in 
+criminal, civil or administrative adjudicatory proceedings in accordance with 
+the principle of due process; and   
+ 
+(b)  “full protection and security” requires each Party to provide the level of police 
+protection in relation to the physical security of investors and investments as 
+required under customary international law. 
+ 
+3.  A determination that there has been a breach of another provision of this Agreement, 
+or of a separate international agreement, does not establish that there has been a 
+breach of this Article. 
+ 
+ 
+Article 10.4 
+National Treatment 
+ 
+1.  Each Party shall accord to investors of the other Party treatment no less favourable 
+than that it accords, in like circumstances11, to its own investors with respect to the 
+management, conduct, operation, and sale or other disposition of investments in its 
+territory. 
+                                                           
+10 Customary international law results from a general and consistent practice of States that they follow from a 
+sense of legal obligation. With regard to this Article, the customary international law minimum standard of 
+treatment of aliens refers to all customary international law principles that protect the economic rights and 
+interests of aliens.   
+11 For greater certainty, whether treatment is accorded in “like circumstances” depends on the totality of the 
+circumstances, including whether the relevant treatment distinguishes between investors or investments on the 
+basis of legitimate public welfare objectives. 
+10-6 Chapter 10 – Investment 
+ 
+2.  Each  Party  shall  accord  to  investments  treatment  no  less  favourable  than  that  it 
+accords, in like circumstances, to investments in its territory of its own investors with 
+respect  to  the  management,  conduct,  operation,  and  sale  or  other  disposition  of 
+investments. 
+ 
+ 
+Article 10.5 
+Most-Favoured-Nation Treatment 
+ 
+1.  Each Party shall accord to investors of the other Party treatment no less favourable 
+than that it accords, in like circumstances, to investors of any non-Party with respect 
+to the management, conduct, operation, and sale or other disposition of investments in 
+its territory. 
+ 
+2.  Each  Party  shall  accord  to  investments  treatment  no  less  favourable  than  that  it 
+accords, in like circumstances, to investments in its territory of investors of any non-
+Party  with  respect  to  the  management,  conduct,  operation,  and  sale  or  other 
+disposition of investments. 
+ 
+3.  For greater certainty, paragraphs 1 and 2 of this Article shall not be construed as 
+granting to investors options or procedures for the settlement of disputes other than 
+those set out in Section 10-B (Investor-State Dispute Settlement). 
+ 
+4.  The treatment, as set forth in paragraphs 1 and 2 of this Article, shall not include: 
+ 
+(a)  any preferential treatment accorded to investors or their investments under any 
+existing  bilateral,  regional,  multilateral  or  international  agreements  or 
+arrangements or any forms of economic and regional cooperation with any 
+non-Party; 
+ 
+(b)  in the case of Singapore, any measure that accords preferential treatment to 
+ASEAN member states under any agreements between all ASEAN member 
+states, in force or signed after the date of entry into force of this Agreement. 
+For  the  avoidance  of  doubt,  such  agreements  do  not  include  agreements 
+between ASEAN member states and non-ASEAN member states; and 
+ 
+(c)  in the case of Sri Lanka, any measure that accords preferential treatment to 
+SAARC member states under any agreements between all SAARC member 
+states, in force or signed after the date of entry into force of this Agreement. 
+For  the  avoidance  of  doubt,  such  agreements  do  not  include  agreements 
+between SAARC member states and non-SAARC member states. 
+ 
+ 
+ 
+ 
+ 
+10-7 Chapter 10 – Investment 
+Article 10.6 
+Compensation for Losses 
+ 
+1.  Investors of one Party whose investments in the territory of the other Party suffer 
+losses owing to war or other armed conflict, revolution, a state of national emergency, 
+insurrection, riot, or any other similar event in the territory of the latter Party, shall be 
+accorded  by  the  latter  Party  treatment,  as  regards  restitution,  indemnification, 
+compensation or other settlement, no less favourable than that which the latter Party 
+accords to investments of its own investors or investments of investors of any non-
+Party, whichever is more favourable, to the investment of the investor of the former 
+Party. 
+ 
+2.  Notwithstanding paragraph 1 of this Article, if an investor of a Party, in the situations 
+referred to in paragraph 1 of this Article, suffers a loss in the territory of the other 
+Party resulting from: 
+ 
+(a)  requisitioning  of  its  investment  or  part  thereof  by  the  latter’s  forces  or 
+authorities; or 
+ 
+(b)  destruction of its investment or part thereof by the latter’s forces or authorities, 
+which was not required by the necessity of the situation, 
+ 
+the  latter  Party  shall  provide  the  investor  restitution,  compensation,  or  both,  as 
+appropriate, for such loss. 
+ 
+ 
+Article 10.7 
+Performance Requirements 
+ 
+The provisions of Annex 1A to the TRIMs Agreement, which are not specifically mentioned 
+in or modified by this Chapter, shall apply, mutatis mutandis, to this Chapter. 
+ 
+ 
+Article 10.8 
+Senior Management and Boards of Directors 
+ 
+1.  A Party shall not require that an enterprise of that Party that is an investment appoint 
+to senior management positions natural persons of any particular nationality. 
+ 
+2.  A Party may require that a majority of the board of directors, or any committee 
+thereof,  of  an  enterprise  of  that  Party  that  is  an  investment,  be  of  a  particular 
+nationality, or resident in the territory of the Party, provided that the requirement does 
+not materially impair the ability of the investor of the other Party to exercise control 
+over its investment. 
+ 
+3.  For the avoidance of doubt, nothing in this Article shall be construed to limit a Party 
+from exercising its rights as a shareholder. 
+10-8 Chapter 10 – Investment 
+ 
+ 
+Article 10.9 
+Special Formalities and Treatment of Information 
+ 
+1.  Nothing in Article 12.4 (National Treatment) shall be construed to prevent a Party 
+from  adopting  or  maintaining  a  measure  that  prescribes  special  formalities  in 
+connection with investments, such as residency requirements for registration or a 
+requirement that investments be legally constituted under its laws or regulations, 
+provided that such formalities do not materially impair the protections afforded by the 
+Party to investors of the other Party and investments pursuant to this Chapter. 
+ 
+2.  Notwithstanding Article 12.4 (National Treatment) and Article 12.5 (Most-Favoured-
+Nation Treatment), a Party may require an investor of the other Party or its investment 
+to  provide  information  concerning  that  investment  solely  for  informational  or 
+statistical  purposes.  The  Party  shall  protect  such  business  information  that  is 
+confidential from any disclosure that would prejudice the competitive position of the 
+investor or the investment. Nothing in this paragraph shall be construed to prevent a 
+Party  from  otherwise  obtaining  or  disclosing  information  in  connection  with  the 
+equitable and good faith application of its law. 
+ 
+ 
+Article 10.10 
+Expropriation12 
+ 
+1.  Neither  Party  shall  nationalise,  expropriate  or  subject  to  measures  having  effect 
+equivalent  to  nationalisation  or  expropriation  (hereinafter  referred  to  as 
+“expropriation”)  an  investment  unless  such  a  measure  is  taken  on  a  non-
+discriminatory basis, for a public purpose, in accordance with due process of law and 
+upon payment of compensation in accordance with this Article. 
+ 
+2.  The expropriation shall be accompanied by the payment of prompt, adequate and 
+effective compensation. Compensation shall be equivalent to the fair market value of 
+the  expropriated  investment  immediately  before  the  expropriation  or  impending 
+expropriation  became  public  knowledge.  Such  compensation  shall  be  effectively 
+realisable, freely transferable in accordance with Article 10.11 (Transfers) and made 
+without  delay.  The  compensation  shall  include  interest  at  an  appropriate  and 
+reasonable rate for that currency, accrued from the date of expropriation until the date 
+of payment. 
+ 
+3.  Notwithstanding paragraphs 1 and 2 of this Article, any measure of expropriation 
+relating to land, which shall be as defined in the existing domestic legislation of the 
+expropriating Party on the date of entry into force of this Agreement, shall be for a 
+purpose  and  upon  payment  of  compensation  in  accordance  with  the  aforesaid 
+legislation. 
+                                                           
+12 Article 10.10 (Expropriation) is to be interpreted in accordance with Annex 12-A (Expropriation). 
+10-9 Chapter 10 – Investment 
+ 
+4.  This Article does not apply to the issuance of compulsory licences granted in relation 
+to intellectual property rights in accordance with the TRIPS Agreement, or to the 
+revocation, limitation, or creation of intellectual property rights, to the extent that 
+such  issuance,  revocation,  limitation,  or  creation  is  consistent  with  Chapter  13 
+(Intellectual Property) and the TRIPS Agreement13. 
+ 
+Article 10.11 
+Transfers 
+ 
+1.  Each Party shall permit all transfers relating to an investment to be made freely and 
+without delay14 into and out of its territory. Such transfers include: 
+   
+(a)  the  initial  capital  and  additional  amounts  to  maintain  or  increase  an 
+investment; 
+ 
+(b)  profits, dividends, capital gains, and proceeds from the sale of all or any part 
+of the investment or from the partial or complete liquidation of the investment; 
+ 
+(c)  interest,  royalty  payments,  management  fees,  and  technical  assistance  and 
+other fees;  
+ 
+(d)  payments made under a contract entered into by the investor, or its investment, 
+including payments made pursuant to a loan agreement;  
+ 
+(e)  payments  made  pursuant  to  Article  10.6  (Compensation  for  Losses)  and 
+Article 10.10 (Expropriation); and 
+ 
+(f)  payments arising under Section 10-B (Investor-State Dispute Settlement). 
+ 
+2.  Each Party shall permit such transfers to be made in a freely convertible currency at 
+the market rate of exchange prevailing at the time of transfer. 
+ 
+3.  Each Party shall permit returns in kind relating to an investment to be made as 
+authorised or specified in an investment authorisation or other written agreement 
+between the Party15 and an investment or an investor of the other Party. 
+ 
+4.  Notwithstanding paragraphs 1, 2, and 3 of this Article, a Party may delay or prevent a 
+transfer through the equitable, non-discriminatory, and good faith application of its 
+laws relating to: 
+                                                           
+13 For greater certainty, the Parties recognise that, for the purposes of this Article, the term “revocation” of 
+intellectual property rights includes the cancellation or nullification of such rights, and the term “limitation” of 
+intellectual property rights includes exceptions to such rights. 
+14 A transfer shall be deemed to have been made without delay if effected within a reasonable period as is 
+typically required for the completion of the relevant transfer formalities. 
+15 In the case of Sri Lanka, the investment authorisation or written agreement may only be granted or entered 
+into, in accordance with its written laws, by the Board of Investment of Sri Lanka or such other entities as may 
+be designated by Sri Lanka. 
+10-10 Chapter 10 – Investment 
+ 
+(a)  bankruptcy, insolvency, or the protection of the rights of creditors;  
+ 
+(b)  issuing, trading, or dealing in securities, futures, options, or derivatives;  
+ 
+(c)  financial reporting or record keeping of transfers when necessary to assist law 
+enforcement or financial regulatory authorities;  
+ 
+(d)  criminal or penal offences16; 
+(e)  ensuring compliance with orders or judgments in judicial or administrative 
+proceedings; 
+ 
+(f)  social security17, public retirement or compulsory savings schemes; or 
+ 
+(g)  labour and severance entitlements of employees. 
+ 
+5.  Nothing in this Chapter shall affect the rights and obligations of the members of the 
+IMF under the Articles of Agreement of the International Monetary Fund, including 
+the use of exchange actions which are consistent with such Articles of Agreement, 
+provided  that  a  Party  shall  not  impose  restrictions  on  any  capital  transactions 
+inconsistently with its obligations under this Chapter regarding such transactions, 
+except under Article 17.6 (Restrictions to Safeguard the Balance-of-Payments) of 
+Chapter 17 (Institutional, General and Final Provisions) or at the request of the IMF. 
+ 
+ 
+Article 10.12 
+Subrogation 
+ 
+1.  If a Party (or any agency, institution, statutory body or corporation designated by it) 
+makes a payment to any of its investors under a guarantee, a contract of insurance or 
+other form of indemnity it has granted in respect of an investment, against non-
+commercial risks, the other Party shall recognise the subrogation or transfer of any 
+right or title in respect of such investment. The Party or its designated agency is 
+entitled by virtue of subrogation to exercise the rights and enforce the claims of that 
+investor. The subrogated or transferred right or claim shall not be greater than the 
+original right or claim of the investor. 
+ 
+2.  Where a Party (or any agency, institution, statutory body or corporation designated by 
+it) has made a payment to an investor of that Party and has taken over rights and 
+claims of the investor, that investor shall not, unless authorised to act on behalf of the 
+Party or the designated agency of the Party making the payment, pursue those rights 
+and claims against the other Party. 
+ 
+                                                           
+16 For greater certainty, the laws relating to criminal and penal offences include laws relating to the recovery of 
+proceeds of crimes. 
+17 For greater certainty, social security schemes include compulsory health insurance schemes.   
+ 
+10-11 Chapter 10 – Investment 
+ 
+SECTION 10-B 
+INVESTOR-STATE DISPUTE SETTLEMENT 
+ 
+ 
+ Article 10.13 
+Scope 
+ 
+1.  This Section shall apply to disputes between a Party and an investor of the other 
+Party18 concerning  an  alleged  breach  of  Articles  10.3  (Minimum  Standard  of 
+Treatment), 10.4 (National Treatment), 10.5 (Most-Favoured-Nation Treatment), 10.6 
+(Compensation for Losses), 10.9 (Special Formalities and Treatment of Information), 
+10.10 (Expropriation), 10.11 (Transfers), and 10.12 (Subrogation), which causes loss 
+or damage to that investor or its investment. 
+ 
+2.  This Section shall apply to losses and damages incurred in respect of activities carried 
+out prior to the establishment of an investment only where such activities result in an 
+investment being established in the Party hosting the investment. 
+ 
+3.  This  Section  shall  not  apply  to  any  dispute  concerning  any  measure  adopted  or 
+maintained or any treatment accorded to investors or investments by a Party in respect 
+of tobacco or tobacco-related products19 that is aimed at protecting or promoting 
+human health. 
+ 
+ 
+Article 10.14 
+Institution of Arbitral Proceedings 
+ 
+1.  The disputing parties shall initially seek to resolve the dispute by consultations. 
+ 
+2.  In the event of an investment dispute, the claimant may deliver to the respondent a 
+written request for consultations. Such written request shall specify the measure(s) 
+complained of and how such measure(s) has given rise to the dispute. 
+ 
+3.  Where the dispute cannot be resolved as provided for under paragraphs 1 and 2 of this 
+Article within six (6) months from the date of receipt of such written request for 
+consultations,  the  claimant  shall  exhaust  any  domestic  remedy  provided  in  the 
+respondent State. In the event: 
+ 
+(a)  the claimant has invoked domestic remedies and such remedies have not been 
+concluded within a period of twenty-four (24) months from the date that notice 
+invoking such domestic remedies was served on the respondent State; or 
+                                                           
+18 For greater certainty, a natural person possessing the nationality or citizenship of a Party shall not pursue a 
+claim against that Party under this Agreement. 
+19 For the purpose of this Chapter, “tobacco products” means products under HS Chapter 24 (Tobacco and 
+Manufactured Tobacco Substitutes) and tobacco-related products falling outside HS Chapter 24 (Tobacco and 
+Manufactured Tobacco Substitutes).  
+10-12 Chapter 10 – Investment 
+ 
+(b)  the claimant has invoked and exhausted all domestic remedies, 
+ 
+the claimant may have recourse to the dispute settlement procedures in this Section. 
+ 
+4.  Subject to paragraph 3 of this Article, a claimant may submit to arbitration20: 
+ 
+(a)  a claim, on its own behalf, that the respondent has breached an obligation 
+under this Agreement and the claimant has incurred loss or damage by reason 
+of, or arising out of, that breach; or 
+ 
+(b)  a claim, on behalf of an enterprise of the respondent that is an enterprise that 
+the claimant owns or controls21, that the respondent has breached an obligation 
+under this Agreement and the enterprise has incurred loss or damage by reason 
+of, or arising out of, that breach. 
+ 
+5.  A claimant may submit the claim to arbitration: 
+ 
+(a)  under the SIAC and the SIAC Arbitration Rules; 
+ 
+(b)  to the ICLP or the SLNAC; 
+ 
+(c)  under the UNCITRAL Arbitration Rules; or 
+ 
+(d)  to any other arbitral institutions or under any other arbitration rules, if the 
+disputing parties so agree. 
+ 
+6.  Each Party hereby consents to the submission of a dispute to arbitration under sub-
+paragraphs 5(a), 5(b), 5(c) and 5(d) of this Article in accordance with the provisions 
+of this Section, conditional upon: 
+ 
+(a)  the submission of the dispute to such arbitration taking place within four (4) 
+years from the time at which the claimant became aware, or should reasonably 
+have  become  aware,  of  a  breach  of  an  obligation  under  this  Agreement 
+causing loss or damage to the claimant or its investment; 
+ 
+(b)  the claimant not being an enterprise of the respondent until the claimant refers 
+the dispute for arbitration pursuant to paragraph 5 of this Article;  
+ 
+                                                           
+20 For greater certainty, a claimant shall not be entitled to bring a claim under both sub-paragraphs (a) and (b) of 
+paragraph 4 of this Article in respect of the same alleged breach of an obligation. 
+21 An enterprise is:  
+ 
+(a)   owned by natural persons or enterprises of the other Party if more than fifty (50) percent of the equity 
+interest in it is beneficially owned by natural persons or enterprises of that Party;  
+ 
+(b)   controlled by natural persons or enterprises of the other Party if such natural persons or enterprises 
+have the power to name a majority of its directors or otherwise to legally direct its actions. 
+10-13 Chapter 10 – Investment 
+(c)  the claimant providing written consent to arbitration in accordance with the 
+provisions set out in this Section; and 
+ 
+(d)  the claimant providing written notice, which shall be delivered at least ninety 
+(90) days before the claim is submitted, to the respondent of its intent to 
+submit the dispute to such arbitration and which: 
+ 
+(i)  states whether the claim is made on its own behalf or on behalf of the 
+enterprise; 
+ 
+(ii)  states the name and address of the claimant and, where a dispute is 
+submitted on behalf of an enterprise, the name, address, and place of 
+constitution of the enterprise; 
+ 
+(iii)  nominates one of the fora referred to in paragraph 5 of this Article as 
+the forum for dispute settlement; 
+ 
+(iv)  is accompanied:  
+ 
+(A)  for claims submitted to arbitration under sub-paragraph 4(a) 
+of this Article, by the claimant’s written waiver; and  
+ 
+(B)  for claims submitted to arbitration under subparagraph 4(b) 
+of this Article, by the claimant’s and the enterprise’s written 
+waivers, 
+ 
+of  any  right  to  initiate  or  continue  any  proceedings  (excluding 
+proceedings for interim measures of protection referred to in paragraph 
+1 of Article 10.18 (Interim Measures of Protection and Diplomatic 
+Protection)) before any of the other dispute settlement fora referred to 
+in paragraph 5 of this Article in relation to the matter under dispute; 
+and 
+ 
+(v)  briefly summarises the alleged breach of the respondent under this 
+Agreement (including the measures giving rise to the claim and the 
+provisions alleged to have been breached), the legal and factual basis 
+for the dispute, the loss or damage allegedly caused to the claimant or 
+its investment by reason of that breach, the type of relief sought and 
+the approximate amount of damages claimed. 
+ 
+7.  The consent under paragraph 6 of this Article and the submission of a claim to 
+arbitration under this Section shall satisfy the requirements of Article II of the New 
+York Convention for an “agreement in writing”. 
+ 
+8.  A claim that is submitted for arbitration under this Section shall be considered to arise 
+out of a commercial relationship or transaction for purposes of Article I of the New 
+York Convention. 
+10-14 Chapter 10 – Investment 
+ 
+Article 10.15 
+Constitution of Arbitral Tribunal 
+ 
+1.  Unless the disputing parties otherwise agree, the arbitral tribunal shall be composed of 
+three  (3)  arbitrators.  Each  disputing  party  shall  appoint  one  arbitrator  and  the 
+disputing parties shall agree upon a third arbitrator, who shall be the chairman of the 
+arbitral tribunal. If an arbitral tribunal has not been established within ninety (90) days 
+from the date on which the claim was submitted to arbitration, either because a 
+disputing party failed to appoint an arbitrator or because the disputing parties failed to 
+agree  upon  the  chairman,  the  President  of  the  Permanent  Court  of  Arbitration 
+(“PCA”), upon request of either disputing party, shall appoint, at his own discretion, 
+the arbitrator or arbitrators not yet appointed.  
+ 
+2.  For the purposes of paragraph 1 of this Article, in the event that the President of the 
+PCA is a national or permanent resident of either Party, the Vice-President of the 
+PCA or the officer next in seniority who is not a national or permanent resident of 
+either Party shall be requested to make the necessary appointment or appointments. 
+ 
+ 
+Article 10.16 
+Place of Arbitration 
+ 
+1.  Unless the disputing parties otherwise agree, the place of arbitration shall be in the 
+territory of either Party. 
+ 
+2.  In the event, the disputing parties cannot agree between the territories of the Parties as 
+the place of arbitration, the tribunal shall determine the place of arbitration giving 
+consideration to where the investment has been made, unless tribunal is of the opinion 
+that there are reasons for the place of arbitration to be in the territory of the other 
+Party or a non- Party. 
+ 
+ 
+Article 10.17 
+Conduct of the Arbitration 
+ 
+1.  A  tribunal  established  under  this  Section  shall  decide  the  issues  in  dispute  in 
+accordance  with  this  Agreement  and  the  applicable  rules  and  principles  of 
+international law.22 
+ 
+2.  Without prejudice to a tribunal’s authority to address other objections as a preliminary 
+question, such as an objection that a dispute is not within the competence of the 
+tribunal, including an objection to the tribunal’s jurisdiction, a tribunal shall address 
+and decide as a preliminary question any objection by the respondent that, as a matter 
+                                                           
+22 The Parties confirm their mutual understanding that when domestic law of the Respondent is relevant to a 
+claim, an arbitral tribunal established under this Section shall take into account the domestic law as a matter of 
+fact. 
+10-15 Chapter 10 – Investment 
+of law, a claim submitted is not a claim for which an award in favour of the claimant 
+may be made under Article 10.19 (Award). 
+ 
+(a)  Such objection shall be submitted to the tribunal as soon as possible after the 
+tribunal is constituted, and in no event later than the date the tribunal fixes for 
+the  respondent  to  submit  its  counter-memorial  (or,  in  the  case  of  an 
+amendment to the notice of arbitration, the date the tribunal fixes for the 
+respondent to submit its response to the amendment).   
+ 
+(b)  On receipt of an objection under this paragraph, the tribunal shall suspend any 
+proceedings on the merits, establish a schedule for considering the objection 
+consistent  with  any  schedule  it  has  established  for  considering  any  other 
+preliminary question, and issue a decision or award on the objection, stating 
+the grounds therefor.  
+ 
+(c)  In deciding an objection under this paragraph, the tribunal shall assume to be 
+true claimant’s factual allegations in support of any claim in the notice of 
+arbitration (or any amendment thereof) and, in disputes brought under the 
+UNCITRAL  Arbitration  Rules,  the  statement  of  claim  referred  to  in  the 
+relevant article of the UNCITRAL Arbitration Rules. The tribunal may also 
+consider any relevant facts not in dispute.  
+ 
+(d)  The  respondent  does  not  waive  any  objection  as  to  competence  or  any 
+argument on the merits merely because the respondent did or did not raise an 
+objection under this paragraph or make use of the expedited procedure set out 
+in paragraph 3 of this Article.   
+ 
+3.    In the event that the respondent so requests within forty-five (45) days after the 
+tribunal is constituted, the tribunal shall decide on an expedited basis an objection 
+under paragraph 2 of this Article or any objection that the dispute is not within the 
+tribunal’s  competence,  including  an  objection  that  the  dispute  is  not  within  the 
+tribunal’s jurisdiction. The tribunal shall suspend any proceedings on the merits and 
+issue a decision or award on the objection(s), stating the grounds therefor, no later 
+than one hundred and fifty (150) days after the date of the request. However, if a 
+disputing party requests a hearing, the tribunal may take an additional thirty (30) days 
+to issue the decision or award. Regardless of whether a hearing is requested, a tribunal 
+may, on a showing of extraordinary cause, delay issuing its decision or award by an 
+additional brief period, which may not exceed thirty (30) days. 
+ 
+4.    When it decides a respondent’s objection under paragraphs 2 or 3 of this Article, the 
+tribunal may, if warranted, award to the prevailing disputing party reasonable costs 
+and attorney’s fees incurred in submitting or opposing the objection. In determining 
+whether such an award is warranted, the tribunal shall consider whether either the 
+claimant’s claim or the respondent’s objection was frivolous, and shall provide the 
+disputing parties a reasonable opportunity to comment.  
+ 
+ 
+10-16 Chapter 10 – Investment 
+ 
+ 
+ 
+Article 10.18 
+Interim Measures of Protection and Diplomatic Protection 
+ 
+1.  Sub-paragraph 6(d)(iii) of Article 10.14 (Institution of Arbitral Proceedings) shall not 
+prevent the claimant from seeking interim measures of protection,  not  involving  the  
+payment of damages or resolution of the substance of the matter in dispute before the 
+courts  or  administrative  tribunals  of  the  respondent,  prior  to  the  institution  of 
+proceedings before any of the dispute settlement fora referred to in paragraph 3 of 
+Article 10.14 (Institution of Arbitral Proceedings), for the preservation of its rights 
+and interests.  
+ 
+2.  Neither Party shall give diplomatic protection, or bring an international claim, in 
+respect  of  a  dispute  which  one  of  its  investors  and  the  other  Party  shall  have 
+consented to submit or have submitted to arbitration under this Section, unless such 
+other Party has failed to abide by and comply with the award rendered in such dispute. 
+Diplomatic protection, for the purposes of this paragraph, shall not include informal 
+diplomatic exchanges for the sole purpose of facilitating a settlement of the dispute.  
+ 
+ 
+Article 10.19 
+Award 
+ 
+1.  Where a tribunal makes a final award against a respondent, the tribunal may award, 
+separately or in combination, only: 
+ 
+(a)  monetary damages and any applicable interest; and 
+ 
+(b)  restitution  of  property,  in  which  case  the  award  shall  provide  that  the 
+respondent may pay monetary damages and any applicable interest in lieu of 
+restitution. 
+ 
+A tribunal may also award costs and attorney’s fees in accordance with this Section 
+and the applicable arbitration rules. 
+ 
+2.  Any arbitral award shall be final and binding upon the disputing parties. Each Party 
+shall ensure the recognition and enforcement of the award in accordance with its 
+relevant laws and regulations.  
+ 
+3.  Where a claim is submitted on behalf of an enterprise of the respondent, the arbitral 
+award shall be made to the enterprise. 
+ 
+ 
+Article 10.20 
+Consolidation 
+10-17 Chapter 10 – Investment 
+ 
+1.  Where two (2) or more claims have been submitted separately to arbitration under this 
+Section, and the claims have a question of law or fact in common and arise out of the 
+same events or circumstances, any disputing party may seek a consolidation order, in 
+accordance with the agreement of all the disputing parties sought to be covered by the 
+order or the terms of this Article. 
+ 
+2.  A disputing party that seeks a consolidation order under this Article shall deliver, in 
+writing, a request to the President of the PCA and to all the disputing parties sought to 
+be covered by the order, specifying the name and address of all the disputing parties 
+sought to be covered by the order; the nature of the order sought; and the grounds on 
+which the order is sought. 
+ 
+3.  Unless the President of the PCA finds within thirty (30) days after receiving a request 
+in  conformity  with  paragraph  2  of  this  Article  that  the  request  is  manifestly 
+unfounded, a tribunal shall be established under this Article. 
+ 
+4.  Unless  all the disputing parties sought  to  be covered by the  consolidation  order 
+otherwise agree, the tribunal established under this Article shall comprise three (3) 
+arbitrators: 
+ 
+(a)  one (1) arbitrator appointed by agreement of the disputing investors;  
+ 
+(b)  one (1)  arbitrator appointed by the respondent; and  
+ 
+(c)  the chairman of the arbitral tribunal appointed by the President of the PCA 
+provided that the chairman shall not be a national of either Party. 
+ 
+5.  If, within the sixty (60) days after the President of the PCA receives a request made 
+under paragraph 2 of this Article, the respondent fails or the disputing investors fail to 
+appoint an arbitrator in accordance with paragraph 4 of this Article, the President of 
+the PCA, on request of any disputing party sought to be covered by the order, shall 
+appoint the arbitrator or arbitrators not yet appointed. 
+ 
+6.  Where a tribunal established under this Article is satisfied that two or more claims 
+that have been submitted to arbitration in accordance to Article 10.14 (Institution of 
+Arbitral Proceedings), have a question of law or fact in common, and arise out of the 
+same events or circumstances, the tribunal may, in the interest of fair and efficient 
+resolution of the claims, and after hearing the disputing parties, by order: 
+ 
+(a)  assume jurisdiction over, and hear and determine together, all or part of the 
+claims;  
+ 
+(b)  assume jurisdiction over, and hear and determine one or more claims, whose 
+determination it considers would assist in the resolution of the other claims; or  
+ 
+10-18 Chapter 10 – Investment 
+(c)  instruct a tribunal previously established under Article 10.15 (Constitution of 
+Arbitral  Tribunal)  to  assume  jurisdiction  over  and  to  hear  and  determine 
+together, all or part of the claims, provided that: 
+ 
+(i)  that tribunal, at the request of any disputing investor not previously a 
+disputing  party  before  that  tribunal,  shall  be  reconstituted  with  its 
+original members, except that the arbitrator for the disputing investors 
+shall be appointed pursuant to sub-paragraph 4(a) and paragraph 5 of 
+this Article; and 
+ 
+(ii)  that  tribunal  shall  decide  whether  any  previous  hearing  must  be 
+repeated. 
+ 
+7.  Where a tribunal has been established under this Article, a disputing investor that has 
+submitted a claim to arbitration pursuant to Article 10.14 (Institution of Arbitral 
+Proceedings) and that has not been named in a request made under paragraph 2 of this 
+Article, may make a written request to the tribunal that it be included in any order 
+issued under paragraph 6 of this Article, specifying: 
+ 
+(a)  the name and address of the disputing investor; 
+ 
+(b)  the nature of the order sought; and 
+ 
+(c)  the grounds on which the order is sought. 
+ 
+The claimant shall provide the President of the PCA with a copy of his request. 
+ 
+8.  A  tribunal  established  pursuant  to  this  Article  shall  conduct  the  proceedings  in 
+accordance  with  the  UNCITRAL  Arbitration  Rules,  except  as  modified  by  this 
+Section. 
+ 
+9.  A tribunal established under Article 10.15 (Constitution of Arbitral Tribunal) shall not 
+have  jurisdiction  to  decide  a  claim  or  a  part  of  a  claim  over  which  a  tribunal 
+established or instructed under this Article has assumed jurisdiction. 
+ 
+10.  On application of a disputing party, a tribunal established pursuant to this Article 
+may, pending its decision under paragraph 6 of this Article, order that the proceedings 
+of a tribunal established under Article 10.15 (Constitution of Arbitral Tribunal) be 
+stayed, unless the latter tribunal has already adjourned its proceedings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION 10-C 
+10-19 Chapter 10 – Investment 
+FINAL PROVISIONS 
+ 
+ 
+Article 10.21 
+Denial of Benefits 
+ 
+1.  A Party may deny the benefits of this Chapter to an investor of the other Party and to 
+its investments if the investor is an enterprise owned or controlled by persons of a 
+non-Party  or  the  denying  Party,  and  such  enterprise  has  no  substantive  business 
+operations in the territory of the other Party. 
+ 
+2.  The  denying  Party  shall,  to  the  extent  practicable,  notify  the  other  Party  before 
+denying the benefits. If the denying Party provides such notice, it shall consult with 
+the other Party at the request of the other Party. 
+ 
+ 
+Article 10.22 
+Publication of International Agreements 
+ 
+1.   To  the  extent  possible,  each  Party  shall  ensure  that  international  agreements 
+pertaining to or affecting investors or investment activities to which a Party is a 
+signatory shall be promptly published or otherwise made available in such a manner 
+as to enable interested persons or parties to become acquainted with them. 
+ 
+2.   To the extent possible, each Party shall make the international agreements of the kind 
+referred to in paragraph 1 of this Article available on the Internet. Each Party shall, 
+upon request by the other Party, respond to specific questions from and provide 
+information to the other Party with respect to the international agreements referred to 
+in paragraph 1 of this Article. 
+ 
+ 
+Article 10.23 
+General Exceptions23 
+Subject to the requirement that such measures are not applied in a manner which would 
+constitute a means of arbitrary or unjustifiable discrimination against the other Party or its 
+investors where like conditions prevail, or a disguised restriction on investments of investors 
+of the other Party in the territory of a Party, nothing in this Agreement shall be construed to 
+prevent the adoption or enforcement by a Party of measures: 
+ 
+(a)  necessary to protect public morals or to maintain public order24; 
+ 
+                                                           
+23 For greater certainty, the application of the general exception to these provisions shall not be interpreted so as 
+to diminish the ability of governments to take measures where investors are not in like circumstances due to the 
+existence of legitimate regulatory objectives. 
+24 The public order exception may be invoked only where a genuine and sufficiently serious threat is posed to 
+one of the fundamental interests of society. For greater certainty, the Parties understand that the fundamental 
+interests of society include the maintenance of religious harmony. 
+10-20 Chapter 10 – Investment 
+(b)  necessary to protect human, animal or plant life or health25; 
+ 
+(c)  necessary to secure compliance with laws or regulations which are not inconsistent 
+with the provisions of this Agreement including those relating to: 
+ 
+(i)  the prevention of deceptive and fraudulent practices or to deal with the effects 
+of a default on a contract; 
+ 
+(ii)  the protection of the privacy of individuals in relation to the processing and 
+dissemination  of  personal  data  and  the  protection  of  confidentiality  of 
+individual records and accounts; 
+ 
+(iii)  safety; or 
+ 
+(d)  relating to the conservation of exhaustible natural resources26. 
+ 
+(e)  necessary to protect national treasures of artistic, historic or archaeological value; 
+ 
+ 
+Article 10.24 
+Savings Clause 
+ 
+1.  For ten (10) years from the date of termination of this Agreement, the following 
+provisions  shall  continue  to  apply  to  investments  in  existence  at  the  date  of 
+termination, and without prejudice to the application thereafter of the rules of general 
+international law: 
+ 
+(a)  the provisions of this Chapter; and 
+ 
+(b)  such  other  provisions  in  the  Agreement  as  may  be  necessary  for  or 
+consequential to the application or interpretation of this Chapter. 
+ 
+ 
+Article 10.25 
+Term of Investment Promotion and Protection Agreement 
+ 
+1.  Subject to paragraph 2 of this Article, the Parties hereby agree that the Agreement 
+between the Government of the Republic of Singapore and the Government of the 
+Socialist Republic of Sri Lanka Concerning the Reciprocal Promotion and Protection 
+of Investments Signed in Singapore on 09th May 1980 (“IPPA”), as well as all the 
+rights and obligations derived from the said agreement, shall cease to have effect on 
+the date of entry into force of this Agreement. 
+ 
+                                                           
+25 The Parties understand that the measures referred in sub-paragraph 1(b) of this Article include environmental 
+measures necessary to protect human, animal or plant life or health. 
+26 The Parties understand that the measures referred in sub-paragraph 1(d) of this Article include environmental 
+measures relating to the conservation of living and non-living exhaustible natural resources. 
+10-21 Chapter 10 – Investment 
+2.  Any and all investments made pursuant to the IPPA before the entry into force of this 
+Agreement will be governed by the rules of the said IPPA regarding any matter 
+arising while the IPPA was in force. An investor may only submit an arbitration claim 
+pursuant to the IPPA regarding any matter arising while the IPPA was in force, 
+pursuant to the rules and procedures established in it, and provided that no more than 
+three (3) years have elapsed since the date of entry into force of this Agreement. 
+ 
+ 
+ 
+ 
+Article 10.26 
+Corporate Social Responsibility 
+ 
+The Parties reaffirm the importance of each Party encouraging enterprises operating within its 
+territory or subject to its jurisdiction to voluntarily incorporate into their internal policies 
+those  internationally  recognised  standards,  guidelines  and  principles  of  corporate  social 
+responsibility that have been endorsed or are supported by that Party. 
+   
+10-22 Chapter 10 – Investment 
+ANNEX 10-A 
+ 
+EXPROPRIATION 
+ 
+The Parties confirm their shared understanding that: 
+ 
+1.  An action or a series of actions by a Party cannot constitute an expropriation unless it 
+interferes  with  a  tangible  or  intangible  property  right  or  property  interest  in  an 
+investment.  
+ 
+2.  Paragraph 1 of Article 10.10 (Expropriation) addresses two situations. The first is 
+direct  expropriation,  where  an  investment  is  nationalised  or  otherwise  directly 
+expropriated through formal transfer of title or outright seizure. 
+ 
+2.  The second situation addressed by paragraph 1 of Article 10.10 (Expropriation) is 
+indirect expropriation, where an action or series of actions by a Party has an effect 
+equivalent to direct expropriation without formal transfer of title or outright seizure. 
+ 
+(a)  The determination of whether an action or series of actions by a Party, in a 
+specific fact situation, constitutes an indirect expropriation, requires a case-by-
+case, fact-based inquiry that considers, among other factors: 
+ 
+(i)  the economic impact of the government action, although the fact that 
+an action or series of actions by a Party has an adverse effect on the 
+economic value of an investment, standing alone, does not establish 
+that an indirect expropriation has occurred; 
+ 
+(ii)  the extent to  which the government  action interferes with  distinct, 
+reasonable investment-backed expectations; and 
+ 
+(iii)  the character of the government action. 
+ 
+(b)  Except in rare circumstances, non-discriminatory regulatory actions by a Party 
+that are designed and applied to protect legitimate public welfare objectives, 
+such as public health, safety and the environment, do not constitute indirect 
+expropriations. 
+   
+10-23 Chapter 10 – Investment 
+ANNEX 10-B 
+ 
+SCHEDULE OF SRI LANKA 
+ 
+Articles  10.4  (National  Treatment),  10.5  (Most-Favoured  Nation  Treatment),  10.7 
+(Performance Requirements) and 10.8 (Senior Management and Boards of Directors) shall 
+not apply to any measure relating to the following sectors: 
+ 
+(a)  agriculture; 
+ 
+(b)  fisheries; 
+ 
+(c)  forestry; 
+ 
+(d)  mining and quarrying; 
+ 
+(e)  real estate; 
+ 
+(f)  arms and explosives; and 
+ 
+(g)  traditional handicrafts. 
+   
+10-24 Chapter 10 – Investment 
+ANNEX 10-C 
+ 
+SCHEDULE OF SINGAPORE 
+ 
+Articles  10.4  (National  Treatment),  10.5  (Most-Favoured-Nation  Treatment),  10.7 
+(Performance Requirements) and 10.8 (Senior Management and Board of Directors) do not 
+apply to any measure relating to: 
+ 
+(a)  the collection, purification, treatment, disposal and distribution of water, including 
+waste water, in Singapore; 
+ 
+(b)  real  estate,  including  but  not  limited  to  the  ownership,  purchase,  development, 
+maintenance, use, enjoyment, sale or other disposal of real estate in Singapore; 
+ 
+(c)  the arms and explosives sector; 
+ 
+(d)  the retention of a controlling interest by the Singapore Government in Singapore 
+Technologies Engineering (the Company) and/or its successor body, including but not 
+limited to controls over the appointment and termination of members of the Board of 
+Directors, divestment of equity and dissolution of the Company for the purpose of 
+safeguarding the security interest of Singapore; and 
+ 
+(e)  broadcasting. 
+10-25 

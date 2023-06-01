@@ -1,0 +1,1570 @@
+08  INVESTMENT 
+ 
+ 
+Section A 
+ 
+ 
+ARTICLE 1 
+ 
+Definitions 
+ 
+For the purposes of this Chapter:  
+ 
+(a)  “Centre” means the International Centre for Settlement of Investment 
+Disputes (ICSID) established by the ICSID Convention; 
+ 
+(b)  “claimant” means an investor of a Party that is a party to an investment 
+dispute with the other Party. If that investor is a natural person, who is a 
+permanent resident of a Party and a national of the other Party, that 
+natural person may not submit a claim to arbitration against that latter 
+Party; 
+ 
+(c)  “disputing parties” means the claimant and the respondent; 
+ 
+(d)  “disputing party” means either the claimant or the respondent;  
+ 
+(e)  “enterprise” means 
+ 
+(i)  any entity constituted or organised under applicable law, whether 
+or not for profit, and whether privately or governmentally owned 
+or controlled, including any corporation, trust, partnership, sole 
+proprietorship, joint venture, association or similar organisation; 
+and 
+ 
+(ii)  a branch of an enterprise; 
+   
+(f)  “enterprise of a Party” means an enterprise constituted or organised 
+under the law of a Party, or a branch located in the territory of a Party 
+and carrying out business activities there;1 
+ 
+(g)  “freely usable currency” means “freely usable currency” as determined 
+by the International Monetary Fund under its Articles of Agreement;   
+ 
+(h)  “ICC Arbitration Rules” means the arbitration rules of the International 
+Chamber of Commerce; 
+ 
+                                                 
+1 For greater certainty, the inclusion of a “branch” in the definitions of “enterprise” and “enterprise of a 
+Party” is without prejudice to a Party’s ability to treat a branch under its laws as an entity that has no 
+independent legal existence and is not separately organised. 
+ 
+1 
+ (i)  “ICSID  Additional  Facility  Rules”  means  the  Rules  Governing  the 
+Additional  Facility  for  the  Administration  of  Proceedings  by  the 
+Secretariat of the International Centre for Settlement of Investment 
+Disputes; 
+ 
+(j)  “ICSID  Convention”  means  the  Convention  on  the  Settlement  of 
+Investment Disputes between States and Nationals of other States, done 
+at Washington, March 18, 1965;  
+ 
+(k)  “investment”  means  every  asset  that  an  investor  owns  or  controls, 
+directly  or  indirectly,  that  has  the  characteristics  of  an  investment, 
+including such characteristics as the commitment of capital or other 
+resources, the expectation of gain or profit, or the assumption of risk. 
+Forms that an investment may take include:  
+ 
+(i)  an enterprise; 
+ 
+(ii)  shares,  stock  and  other  forms  of  equity  participation  in  an 
+enterprise; 
+ 
+(iii)  bonds, debentures, other debt instruments and loans;2, 3 
+ 
+(iv)  futures, options and other derivatives;  
+ 
+(v)  turnkey,  construction,  management,  production,  concession, 
+revenue-sharing and other similar contracts; 
+ 
+(vi)  intellectual property rights; 
+ 
+(vii)  licences, authorisations, permits and similar rights  conferred 
+pursuant to the Party’s law; and 
+ 
+(viii)  other tangible or intangible, movable or immovable property, 
+and related property rights, such as leases, mortgages, liens and 
+pledges, 
+ 
+but investment does not mean an order or judgment entered in a judicial 
+or administrative action; 
+ 
+(l)  “investor of a non-Party” means, with respect to a Party, an investor that 
+attempts to make,4 is making, or has made an investment in the territory 
+of that Party, that is not an investor of a Party;  
+                                                 
+2 Some forms of debt, such as bonds, debentures, and long-term notes, are more likely to have the 
+characteristics of an investment, while other forms of debt, such as claims to payment that are 
+immediately due and result from the sale of goods or services, are less likely to have such characteristics. 
+ 
+3 A loan issued by one Party to the other Party is not an investment. 
+ 
+4 For greater certainty, the Parties understand that, for the purposes of the definitions of “investor of a 
+non-Party” and “investor of a Party”, an investor “attempts to make” an investment when that investor 
+2 
+  
+(m)  “investor of a Party” means a Party, or a national5 or an enterprise of a 
+Party, that attempts to make, is making, or has made an investment in 
+the territory of the other Party; 
+ 
+(n)  “measure”  includes  any  law,  regulation,  procedure,  requirement  or 
+practice; 
+ 
+(o)  “non-disputing  Party”  means  the  Party  that  is  not  a  party  to  an 
+investment dispute; 
+ 
+(p)  “New York Convention” means the Convention on the Recognition and 
+Enforcement of Foreign Arbitral Awards, done at New York, June 10, 
+1958; 
+ 
+(q)  “person” means a natural person or an enterprise; 
+ 
+(r)  “protected  information”  means  confidential  business  information  or 
+information that is privileged or otherwise protected from disclosure 
+under a Party’s law, including classified government information;  
+ 
+(s)  “respondent” means the Party that is a party to an investment dispute; 
+ 
+(t)  “Secretary-General” means the Secretary-General of ICSID; 
+ 
+(u)  “TRIPS Agreement” means the Agreement on Trade-Related Aspects of 
+Intellectual  Property  Rights,  set  out  in  Annex  1C  to  the  WTO 
+Agreement;6 and 
+ 
+(v)  “UNCITRAL  Arbitration Rules” means the  arbitration rules of the 
+United Nations Commission on International Trade Law.  
+ 
+ 
+ARTICLE 2 
+ 
+Scope 
+ 
+1.  This Chapter shall apply to measures adopted or maintained by a Party relating 
+to:  
+                                                 
+has taken concrete action or actions to make an investment, such as channelling resources or capital in 
+order to set up a business, or applying for a permit or licence. 
+  
+ 
+ 
+ 
+ 
+6 For greater certainty, a reference in this Agreement to the TRIPS Agreement includes any waiver in 
+force between the Parties of any provision of the TRIPS Agreement granted by WTO Members in 
+accordance with the WTO Agreement. 
+ 
+3 
+  
+(a)  investors of the other Party; 
+  
+(b)  covered investments; and 
+ 
+(c)  all investments in the territory of that Party with respect to: 
+ 
+(i)  Article 7 (Prohibition of Performance Requirements); and 
+ 
+(ii)  Article 20 (Investment and Environmental, Health and other 
+Regulatory Objectives).  
+ 
+2.  This Chapter shall not apply to:  
+ 
+  (a)  subsidies or grants provided by a Party or to any conditions attached to 
+the receipt or continued receipt of such subsidies or grants, whether or 
+not such subsidies or grants are offered exclusively to domestic investors 
+and investments; or  
+ 
+  (b)  a natural person who is a permanent resident but not a citizen of a Party 
+where:  
+ 
+(i)  the provisions of an investment protection agreement between 
+the other Party and the country of which the person is a citizen 
+have already been invoked in respect of the same matter; or  
+ 
+(ii)  the person is a citizen of the other Party.  
+ 
+3.  An enterprise of a Party shall not be treated as an investor of the other Party, but 
+any investments in that enterprise by investors of that other Party shall be protected by 
+this Chapter.  
+ 
+4.  Nothing in this Chapter shall be construed to impose an obligation on a Party to 
+privatise.  
+ 
+5.  A Party’s obligations under this Chapter shall apply to measures adopted or 
+maintained by: 
+ 
+(a)  the central, regional or local governments or authorities of that Party; 
+and 
+ 
+(b)  any person, including a state enterprise or any other body, when it 
+exercises any governmental authority delegated to it by central, regional 
+or local governments or authorities of that Party.7  
+ 
+ 
+                                                 
+7 For greater certainty, governmental authority is delegated under the Party’s law, including through a 
+legislative grant or a government order, directive or other action transferring or authorising the exercise 
+of governmental authority. 
+ 
+4 
+ ARTICLE 3 
+ 
+Relation to Other Chapters 
+ 
+1.  In the event of any inconsistency between this Chapter and another Chapter of 
+this Agreement, the other Chapter shall prevail to the extent of the inconsistency. 
+ 
+2.  A requirement of a Party that a service supplier of the other Party post a bond 
+or other form of financial security as a condition for the cross-border supply of a service 
+does not of itself make this Chapter applicable to measures adopted or maintained by 
+the Party relating to such cross-border supply of the service. This Chapter shall apply 
+to measures adopted or maintained by the Party relating to the posted bond or financial 
+security, to the extent that the bond or financial security is a covered investment. 
+ 
+3.  This Chapter shall not apply to measures adopted or maintained by a Party to 
+the extent that they are covered by Chapter 9 (Financial Services). 
+ 
+  
+ARTICLE 4 
+ 
+National Treatment8  
+ 
+1.  Each  Party  shall  accord  to  investors  of  the  other  Party  treatment  no  less 
+favourable than that it accords, in like circumstances, to its own investors with respect 
+to the establishment, acquisition, expansion, management, conduct, operation, and sale 
+or other disposition of investments in its territory. 
+ 
+2.  Each Party shall accord to covered investments treatment no less favourable 
+than that it accords, in like circumstances, to investments in its territory of its own 
+investors  with  respect  to  the  establishment,  acquisition,  expansion,  management, 
+conduct, operation, and sale or other disposition of investments. 
+ 
+3.  For greater certainty, the treatment to be accorded by a Party under paragraphs 
+1 and 2 means, with respect to a regional level of government, treatment no less 
+favourable than the most favourable treatment accorded, in like circumstances, by that 
+regional level of government to investors, and to investments of investors, of the Party 
+of which it forms a part. 
+ 
+ 
+ARTICLE 5 
+ 
+Most-Favoured-Nation Treatment 
+ 
+1.  Each  Party  shall  accord  to  investors  of  the  other  Party  treatment  no  less 
+favourable than that it accords, in like circumstances, to investors of any non-Party with 
+                                                 
+8 For greater certainty, whether treatment is accorded in “like circumstances” under Articles 4 (National 
+Treatment) or 5 (Most-Favoured-Nation Treatment) depends on the totality of the circumstances, 
+including whether the relevant treatment distinguishes between investors or investments on the basis of 
+legitimate public welfare objectives. 
+5 
+ respect to the establishment, acquisition, expansion, management, conduct, operation, 
+and sale or other disposition of investments in its territory. 
+ 
+2.  Each Party shall accord to covered investments treatment no less favourable 
+than that it accords, in like circumstances, to investments in its territory of investors of 
+any non-Party with respect to the establishment, acquisition, expansion, management, 
+conduct, operation, and sale or other disposition of investments.  
+ 
+3.  For greater certainty, the treatment referred to in this Article does not encompass 
+international dispute resolution procedures or mechanisms such as those included in 
+Section B (Investor-State Dispute Settlement).  
+ 
+ 
+ARTICLE 6 
+ 
+Minimum Standard of Treatment 
+ 
+1.  Each Party shall accord to covered investments treatment in accordance with 
+the customary international law minimum standard of treatment of aliens, including fair 
+and equitable treatment and full protection and security.9 
+ 
+2.  For greater certainty, paragraph 1 prescribes the customary international law 
+minimum standard of treatment of aliens as the standard of treatment to be afforded to 
+covered investments. The concepts of “fair and equitable treatment” and “full protection 
+and security” do not require treatment in addition to or beyond that which is required 
+by the customary international law minimum standard of treatment of aliens referred to 
+in paragraph 1 and do not create additional substantive rights. The obligation in 
+paragraph 1 to provide:  
+ 
+(a)  “fair and equitable treatment” includes the obligation not to deny justice 
+in  criminal,  civil  or  administrative  adjudicatory  proceedings  in 
+accordance with the principle of due process embodied in the principal 
+legal systems of the world; and  
+ 
+(b)  “full protection and security” requires each Party to provide the level of 
+police protection required under customary international law.  
+ 
+3.  A determination that there has been a breach of another provision of this 
+Agreement, or of a separate international agreement, does not establish that there has 
+been a breach of this Article.  
+ 
+4.  For greater certainty, the mere fact that a Party takes or fails to take an action 
+that may be inconsistent with an investor’s expectations does not constitute a breach of 
+this Article, even if there is loss or damage to the covered investment as a result. 
+ 
+                                                 
+9 The Parties confirm their shared understanding that “customary international law” generally and as 
+specifically referenced in Article 6 (Minimum Standard of Treatment) results from a general and 
+consistent practice of States that they follow from a sense of legal obligation. The customary international 
+law minimum standard of treatment of aliens refers to all customary international law principles that 
+protect the investments of aliens. 
+6 
+ 5.  For greater certainty, the mere fact that a subsidy or grant has not been issued, 
+renewed or maintained, or has been modified or reduced, by a Party, does not constitute 
+a breach of this Article, even if there is loss or damage to the covered investment as a 
+result.  
+ 
+ 
+ARTICLE 7 
+ 
+Prohibition of Performance Requirements 
+ 
+1.  Neither  Party  shall,  in  connection  with  the  establishment,  acquisition, 
+expansion,  management,  conduct,  operation,  or  sale  or  other  disposition  of  an 
+investment of an investor of a Party or of a non-Party in its territory, impose or enforce 
+any requirement, or enforce any commitment or undertaking, to:10  
+ 
+(a)  export a given level or percentage of goods or services;  
+ 
+(b)  achieve a given level or percentage of domestic content;  
+ 
+(c)  purchase, use or accord a preference to goods produced in its territory, 
+or to purchase goods from persons in its territory;  
+ 
+(d)  relate in any way the volume or value of imports to the volume or value 
+of exports or to the amount of foreign exchange inflows associated with 
+such investment;  
+ 
+(e)  restrict sales of goods or services in its territory that such investment 
+produces or supplies by relating such sales in any way to the volume or 
+value of its exports or foreign exchange earnings;  
+ 
+(f)  transfer  a  particular  technology,  a  production  process  or  other 
+proprietary knowledge to a person in its territory; or  
+ 
+(g)  supply exclusively from the territory of the Party the goods that such 
+investment produces or the services that such investment supplies to a 
+specific regional market or to the world market.  
+ 
+2.  Neither Party may condition the receipt or continued receipt of an advantage, in 
+connection  with  the  establishment,  acquisition,  expansion,  management,  conduct, 
+operation, or sale or other disposition of an investment in its territory of an investor of 
+a Party or of a non-Party, on compliance with any requirement to:  
+ 
+(a)  achieve a given level or percentage of domestic content;  
+ 
+(b)  purchase, use or accord a preference to goods produced in its territory, 
+or to purchase goods from persons in its territory;  
+ 
+                                                 
+10 For greater certainty, a condition for the receipt or continued receipt of an advantage referred to in 
+paragraph 2 does not constitute a “requirement” or a “commitment or undertaking” for the purposes of 
+paragraph 1. 
+7 
+ (c)  relate in any way the volume or value of imports to the volume or value 
+of exports or to the amount of foreign exchange inflows associated with 
+such investment; or  
+ 
+(d)  restrict sales of goods or services in its territory that such investment 
+produces or supplies by relating such sales in any way to the volume or 
+value of its exports or foreign exchange earnings.  
+ 
+3.  (a)  Nothing in paragraph 2 shall be construed to prevent a Party from 
+conditioning  the  receipt  or  continued  receipt  of  an  advantage,  in 
+connection with an investment in its territory of an investor of a Party or 
+of a non-Party, on compliance with a requirement to locate production, 
+supply a service, train or employ workers, construct or expand particular 
+facilities, or carry out research and development, in its territory.  
+ 
+(b)  Paragraph 1(f) shall not apply:  
+ 
+(i)  when a Party authorises use of an intellectual property right in 
+accordance with Article 3111 of the TRIPS Agreement, or to 
+measures requiring the disclosure of proprietary information that 
+fall within the scope of, and are consistent with, Article 39 of the 
+TRIPS Agreement; or  
+ 
+(ii)  when  the  requirement  is  imposed  or  the  commitment  or 
+undertaking is enforced by a court, administrative tribunal or 
+competition  authority  to remedy  a practice determined  after 
+judicial or administrative process to be anticompetitive under a 
+Party’s competition laws.12 
+ 
+(c)  Provided  that  such  measures  are  not  applied  in  an  arbitrary  or 
+unjustifiable manner, and provided that such measures do not constitute 
+a disguised restriction on investment or international trade, paragraphs 
+1(b), (c), and (f), and 2(a) and (b), shall not be construed to prevent a 
+Party from adopting or maintaining measures, including environmental 
+measures:  
+ 
+(i)  necessary to secure compliance with laws and regulations that 
+are not inconsistent with this Agreement;  
+ 
+(ii)  necessary to protect human, animal, or plant life or health; or  
+ 
+(iii)  related to the conservation of living or non-living exhaustible 
+natural resources.  
+ 
+                                                 
+11 The reference to Article 31 includes footnote 7 to Article 31 and includes any waiver or amendment to 
+the TRIPS Agreement implementing paragraph 6 of the Doha Declaration on the TRIPS Agreement and 
+Public Health (WT/MIN (01)/DEC/2). 
+ 
+12 The Parties recognise that a patent does not necessarily confer market power. 
+8 
+ (d)  Paragraphs  1(a),  (b),  and  (c),  and  2(a)  and  (b),  do  not  apply  to 
+qualification requirements for goods or services with respect to export 
+promotion and foreign aid programs.  
+ 
+(e)  Paragraphs 1(b), (c), (f), and (g), and 2(a) and (b), do not apply to 
+government procurement.  
+ 
+(f)  Paragraphs 2(a) and (b) do not apply to requirements imposed by an 
+importing Party relating to the content of goods necessary to qualify for 
+preferential tariffs or preferential quotas.  
+ 
+4.  For greater certainty, paragraphs 1 and 2 do not apply to any requirement other 
+than the requirements set out in those paragraphs.  
+ 
+5.  This Article does not preclude enforcement of any commitment, undertaking, 
+or requirement between private parties, where a Party did not impose or require the 
+commitment, undertaking, or requirement.  
+ 
+ 
+ARTICLE 8  
+ 
+ Senior Management and Boards of Directors 
+ 
+1.  A Party shall not require that an enterprise of that Party that is a covered 
+investment appoint to a senior management position a natural person of any particular 
+nationality. 
+ 
+2.  A Party may require that a majority of the board of directors, or any committee 
+thereof, of an enterprise of that Party that is a covered investment, be of a particular 
+nationality or resident in the territory of the Party, provided that the requirement does 
+not materially impair the ability of the investor to exercise control over its investment. 
+ 
+ 
+ARTICLE 9 
+ 
+Special Formalities and Information Requirements 
+ 
+1.  Nothing in Article 4 (National Treatment) shall be construed to prevent a Party 
+from  adopting  or  maintaining  a  measure  that  prescribes  special  formalities  in 
+connection with a covered investment, such as a residency requirement for registration 
+or a requirement that a covered investment be legally constituted under the laws or 
+regulations of the Party, provided that these formalities do not materially impair the 
+protections afforded by the Party to investors of the other Party and covered investments 
+pursuant to this Chapter. 
+ 
+2.  Notwithstanding Articles 4 (National Treatment) and 5 (Most-Favoured-Nation 
+Treatment), a Party may require an investor of the other Party or its covered investment 
+to provide information concerning that investment solely for informational or statistical 
+purposes.  The  Party  shall  protect  such  information  that  is  confidential  from  any 
+disclosure that would prejudice the competitive position of the investor or the covered 
+9 
+ investment. Nothing in this paragraph shall be construed to prevent a Party from 
+otherwise obtaining or disclosing information in connection with the equitable and good 
+faith application of its law. 
+ 
+ 
+ARTICLE 10 
+ 
+Transparency 
+ 
+Each Party shall promptly make public its laws, regulations and investment 
+policies, and any amendments thereto, of general application that pertain to or affect 
+investments in its territory by investors of the other Party.  
+ 
+ 
+ARTICLE 11 
+ 
+Reservations 
+ 
+1.  Articles  4  (National  Treatment),  5  (Most-Favoured-Nation  Treatment),  7 
+(Prohibition of Performance Requirements) and 8 (Senior Management and Boards of 
+Directors) shall not apply to:  
+ 
+(a)  any existing non-conforming measure that is maintained by a Party at:  
+ 
+(i)  the  central  level  of  government  or  a  regional  level  of 
+government, as set out by that Party in its Schedule to Annex 4-
+I; or  
+ 
+(ii)  a local level of government; or  
+ 
+(b)  the continuation or prompt renewal of any non-conforming measure 
+referred to in subparagraph (a); or 
+ 
+(c)  an  amendment  to  any  non-conforming  measure  referred  to  in 
+subparagraph (a) to the extent that the amendment does not decrease the 
+conformity  of  the  measure,  as  it  existed  immediately  before  the 
+amendment, with Articles 4 (National Treatment), 5 (Most-Favoured-
+Nation  Treatment),  7  (Performance  Requirements)  or  8  (Senior 
+Management and Board of Directors). 
+ 
+2.  Articles  4  (National  Treatment),  5  (Most-Favoured-Nation  Treatment),  7 
+(Prohibition of Performance Requirements) and 8 (Senior Management and Boards of 
+Directors) shall not apply to any measure that a Party adopts or maintains with respect 
+to sectors, subsectors or activities as set out in its Schedule to Annex 4-II.  
+ 
+3.  Neither Party shall, under any measure adopted after the date of entry into force 
+of this Agreement for that Party and covered by its Schedule to Annex 4-II, require an 
+investor of the other Party, by reason of its nationality, to sell or otherwise dispose of 
+an investment existing at the time the measure becomes effective.  
+ 
+10 
+ 4.  (a)  Article 4 (National Treatment) shall not apply to any measure that falls 
+within an exception to, or derogation from, the obligations which are 
+imposed by Article 3 of the TRIPS Agreement; and 
+ 
+(b)   Article 5 (Most-Favoured-Nation Treatment) shall not apply to any 
+measure that falls within Article 5 of the TRIPS Agreement, or an 
+exception to, or derogation from, the obligations which are imposed by: 
+Article 4 of the TRIPS Agreement. 
+ 
+5.  Articles 4 (National Treatment), 5 (Most-Favoured-Nation Treatment) and 8 
+(Senior  Management  and  Boards  of  Directors)  shall  not  apply  to  government 
+procurement.  
+ 
+6.  For greater certainty, any amendments or modifications to a Party’s Schedules 
+to Annex 4-I or Annex 4-II, pursuant to this Article, shall be made in accordance with 
+Article 11 (Amendments) of Chapter 17 (Final Provisions). 
+ 
+ 
+ARTICLE 12 
+ 
+Additional Commitments 
+ 
+1.  The Parties shall set out their respective additional commitments in Annex 4- 
+III of this Agreement with respect to investment matters not covered by Articles 4 
+(National  Treatment),  5  (Most-Favoured-Nation  Treatment),  7  (Prohibition  of 
+Performance Requirements) and 8 (Senior Management and Board of Directors).  
+ 
+2.  Section B (Investor-State Dispute Settlement) shall not apply to these additional 
+commitments.  
+ 
+ 
+ARTICLE 13 
+ 
+Expropriation and Nationalisation 
+ 
+1.  Neither  Party  shall  expropriate  or  nationalise  a  covered  investment  either 
+directly or indirectly through measures equivalent to expropriation or nationalisation 
+(expropriation), except: 
+ 
+  (a)  for a public purpose;13 
+ 
+  (b)  in a non-discriminatory manner;  
+ 
+  (c)  on  payment  of  prompt,  adequate  and  effective  compensation  in 
+accordance with paragraphs 2, 3 and 4; and  
+ 
+  (d)  in accordance with due process of law. 
+                                                 
+13 For greater certainty, for the purposes of this Article, the term “public purpose” refers to a concept in 
+customary international law. Domestic law may express this or a similar concept by using different terms, 
+such as “public necessity”, “public interest” or “public use”. 
+11 
+  
+2.  Compensation shall:  
+ 
+  (a)  be paid without delay; 
+ 
+  (b)  be equivalent to the fair market value of the expropriated investment 
+immediately  before  the  expropriation  took  place  (the  date  of 
+expropriation); 
+ 
+  (c)  not  reflect  any  change  in  value  occurring  because  the  intended 
+expropriation had become known earlier; and  
+ 
+(d)  be fully realisable and freely transferable.  
+ 
+3.  If  the  fair  market  value  is  denominated  in  a  freely  usable  currency,  the 
+compensation  paid  shall  be  no  less  than  the  fair  market  value  on  the  date  of 
+expropriation, plus interest at a commercially reasonable rate for that currency, accrued 
+from the date of expropriation until the date of payment. 
+ 
+4.  If the fair market value is denominated in a currency that is not freely usable, 
+the compensation paid, converted into the currency of payment at the market rate of 
+exchange prevailing on the date of payment, shall be no less than: 
+ 
+  (a)  the fair market value on the date of expropriation, converted into a freely 
+usable currency at the market rate of exchange prevailing on that date; 
+plus 
+ 
+  (b)  interest,  at  a  commercially  reasonable  rate  for  that  freely  usable 
+currency,  accrued  from  the  date  of  expropriation  until  the  date  of 
+payment. 
+ 
+5.  Notwithstanding paragraphs 1, 2, 3 and 4, any measure of expropriation relating 
+to  land,  which  shall  be  as  defined  in  the  existing  domestic  legislation  of  the 
+expropriating Party on the date of entry into force of this Agreement, shall be for a 
+purpose and upon payment of compensation in accordance with the aforesaid legislation 
+and any subsequent amendments thereto relating to the amount of compensation where 
+such amendments follow the general trends in the market value of the land.   
+ 
+6.  This Article shall not apply to the issuance of compulsory licences granted in 
+relation to intellectual property rights in accordance with the TRIPS Agreement, or to 
+the revocation, limitation or creation of intellectual property rights, to the extent that 
+the  issuance,  revocation,  limitation  or  creation  is  consistent  with  the  TRIPS 
+Agreement.14 
+ 
+7.  For greater certainty, a Party’s decision not to issue, renew or maintain a subsidy 
+or grant, or decision to modify or reduce a subsidy or grant,  
+ 
+                                                 
+14 For greater certainty, the Parties recognise that, for the purposes of this Article, the term “revocation” 
+of intellectual property rights includes the cancellation or nullification of those rights, and the term 
+“limitation” of intellectual property rights includes exceptions to those rights. 
+12 
+ (a)  in the absence of any specific commitment under law or contract to issue, 
+renew or maintain that subsidy or grant; or 
+ 
+(b)  in accordance with any terms or conditions attached to the issuance, 
+renewal, modification, reduction and maintenance of that subsidy or 
+grant; 
+ 
+standing alone, does not constitute an expropriation. 
+ 
+ 
+ARTICLE 14 
+ 
+Treatment in Cases of Armed Conflict or Civil Strife 
+ 
+1.  Each  Party  shall  accord  to  investors  of  the  other  Party  and  to  covered 
+investments  non-discriminatory  treatment  with  respect  to  measures  it  adopts  or 
+maintains relating to losses suffered by investments in its territory owing to armed 
+conflict or civil strife.  
+ 
+2.  Notwithstanding paragraph 1, if an investor of a Party, in a situation referred to 
+in paragraph 1, suffers a loss in the territory of the other Party resulting from: 
+ 
+(a)  requisitioning of its covered investment or part thereof by the latter’s 
+forces or authorities; or 
+ 
+(b)  destruction of its covered investment or part thereof by the latter’s forces 
+or authorities, which was not required by the necessity of the situation,  
+ 
+the  latter  Party  shall  provide  the  investor  restitution,  compensation  or  both,  as 
+appropriate, for that loss. 
+ 
+ 
+ARTICLE 15 
+ 
+Transfers  
+ 
+1.  Each Party shall permit all transfers relating to a covered investment to be made 
+freely and without delay into and out of its territory. Such transfers include:  
+ 
+(a)  contributions to capital;15 
+ 
+(b)  profits, dividends, interest, capital gains, royalty payments, management 
+fees, technical assistance fees and other fees; 
+ 
+(c)  proceeds from the sale of all or any part of the covered investment or 
+from the partial or complete liquidation of the covered investment; 
+ 
+                                                 
+15 For greater certainty, contributions to capital include the initial contribution. 
+ 
+13 
+ (d)  payments made under a contract, including a loan agreement;  
+ 
+(e)  payments made pursuant to Article 14 (Treatment in Cases of Armed 
+Conflict  or  Civil  Strife)  and  Article  13  (Expropriation  and 
+Nationalisation); and  
+ 
+(f)  payments arising out of a dispute. 
+ 
+2.  Each Party shall permit transfers relating to a covered investment to be made in 
+a freely usable currency at the market rate of exchange prevailing at the time of transfer. 
+ 
+3.  Each Party shall permit returns in kind relating to a covered investment to be 
+made as authorised or specified in a written agreement between the Party and a covered 
+investment or an investor of another Party. 
+ 
+4.  Notwithstanding paragraphs 1, 2 and 3, a Party may prevent or delay a transfer 
+through the equitable, non-discriminatory and good faith application of its laws16 
+relating to: 
+ 
+(a)  bankruptcy, insolvency or the protection of the rights of creditors;  
+ 
+(b)  issuing, trading or dealing in securities, futures, options or derivatives; 
+ 
+(c)  criminal or penal offences;  
+ 
+(d)  financial reporting or record keeping of transfers when necessary to 
+assist law enforcement or financial regulatory authorities; or 
+ 
+(e)  ensuring  compliance  with  orders  or  judgments  in  judicial  or 
+administrative proceedings. 
+ 
+5.  Notwithstanding paragraph 3, a Party may restrict transfers of returns in kind in 
+circumstances where it could otherwise restrict such transfers under this Agreement, 
+including as set out in paragraph 4. 
+ 
+6.   Nothing in this Chapter shall affect the rights and obligations of the members 
+of the International Monetary Fund under the Articles of Agreement of the Fund, 
+including the use of exchange actions which are in conformity with the Articles of 
+Agreement,  provided  that  a  Party  shall  not  impose  restrictions  on  any  capital 
+transactions  inconsistently  with  its  obligations  under  this  Chapter  regarding  such 
+transactions, except under Article 4 (Temporary Safeguard Measures) of Chapter 17 
+(Final Provisions) or at the request of the Fund.  
+ 
+ 
+ARTICLE 16 
+ 
+                                                 
+16 For greater certainty, this Article does not preclude the equitable, non-discriminatory and good faith 
+application of a Party’s laws relating to its social security, public retirement or compulsory savings 
+programmes. 
+ 
+14 
+ Subrogation 
+ 
+1.  If a Party or a designated agency of a Party makes a payment to an investor of 
+the Party under a guarantee, a contract of insurance or other form of indemnity it has 
+granted in respect of a covered investment, the other Party in whose territory the 
+covered investment was made shall recognise the subrogation or transfer of any rights 
+or title the investor would have possessed under this Chapter in respect of such covered 
+investment but for the subrogation. The subrogated or transferred right or claim shall 
+not be greater than the original right or claim of the investor.  
+ 
+2.  Where a Party or a designated agency of a Party has made a payment to an 
+investor of that Party and has taken over rights and claims of the investor, that investor 
+shall not, unless authorised to act on behalf of the Party or the designated agency of the 
+Party making the payment, pursue those rights and claims against the other Party.  
+ 
+ 
+ARTICLE 17 
+ 
+Review of Subsidies 
+ 
+1.  The  Parties  shall  review  the  treatment  of  subsidies  in  the  context  of 
+developments at international fora to which both Parties are Members. 
+ 
+2.  The Parties shall consult on appropriate steps in regard to subsidies related to 
+investments or investors where any subsidies issues arise under this Chapter. 
+ 
+ 
+ARTICLE 18 
+ 
+Denial of Benefits 
+ 
+1.  A Party may deny the benefits of this Chapter to an investor of the other Party 
+that is an enterprise of the other Party and to investments of that investor if the 
+enterprise: 
+ 
+(a)  is owned or controlled by a person of a non-Party or of the denying 
+Party; and 
+ 
+(b)  has no substantial business activities in the territory of the other Party.  
+ 
+2.  A Party may deny the benefits of this Chapter to an investor of the other Party 
+that is an enterprise of that other Party and to investments of that investor if persons of 
+a non-Party own or control the enterprise and the denying Party adopts or maintains 
+measures with respect to the non-Party or a person of the non-Party that prohibit 
+transactions with the enterprise or that would be violated or circumvented if the benefits 
+of this Chapter were accorded to the enterprise or to its investments. 
+ 
+ 
+ARTICLE 19 
+ 
+15 
+ General Exceptions 
+ 
+Subject to the requirement that such measures are not applied in a manner which 
+would constitute a means of arbitrary or unjustifiable discrimination between the Parties 
+where like conditions prevail, or a disguised restriction on investments in the territory 
+of a Party by investors of the other Party, nothing in this Chapter shall be construed to 
+prevent the adoption or enforcement by a Party of measures:  
+ 
+(a)  necessary to protect public morals or to maintain public order;17  
+ 
+(b)  necessary to protect human, animal or plant life or health;  
+ 
+(c)  necessary to secure compliance with laws or regulations which are not 
+inconsistent with the provisions of this Chapter including those relating 
+to:  
+ 
+(i)  the prevention of deceptive and fraudulent practices or to deal 
+with the effects of a default on a contract;  
+ 
+(ii)  the protection of the privacy of individuals in relation to the 
+processing and dissemination of personal data and the protection 
+of confidentiality of individual records and accounts; or 
+ 
+(iii)  safety;  
+ 
+(d)  imposed for the protection of national treasures of artistic, historic or 
+archaeological value; or 
+ 
+(e)  relating to the conservation of exhaustible natural resources if such 
+measures are made effective in conjunction with restrictions on domestic 
+production or consumption. 
+ 
+ 
+ARTICLE 20 
+ 
+Investment and Environmental, Health and other Regulatory Objectives 
+ 
+Nothing in this Chapter shall be construed to prevent a Party from adopting, 
+maintaining or enforcing any measure otherwise consistent with this Chapter that it 
+considers appropriate to ensure that investment activity in its territory is undertaken in 
+a manner sensitive to environmental, health or other regulatory objectives. 
+ 
+ 
+ARTICLE 21 
+ 
+Disclosure of Confidential Information 
+ 
+                                                 
+17 The public order exception may be invoked only where a genuine and sufficiently serious threat is 
+posed to one of the fundamental interests of society. 
+16 
+ Nothing in this Chapter shall require a Party to furnish or allow access to 
+confidential information, the disclosure of which would be contrary to its law, impede 
+law enforcement, or otherwise be contrary to the public interest, or which would 
+prejudice legitimate commercial interests of particular enterprises, public or private. 
+ 
+ 
+Section B: Investor-State Dispute Settlement18 
+ 
+ 
+ARTICLE 22  
+ 
+Tobacco Control Measures  
+ 
+No claim may be brought under this Section in respect of a tobacco control 
+measure19 of a Party.  
+ 
+ 
+ARTICLE 23 
+ 
+Consultation and Negotiation 
+ 
+1.  In the event of an investment dispute, the claimant and the respondent should 
+initially seek to resolve the dispute through consultation and negotiation, which may 
+include the use of non-binding, third party procedures, such as good offices, 
+conciliation or mediation. 
+2.  The claimant shall deliver to the respondent a written request for consultations 
+setting out a brief description of facts regarding the measure or measures at issue.  
+ 
+3.  For greater certainty, the initiation of consultations and negotiations shall not be 
+construed as recognition of the jurisdiction of the tribunal. 
+ 
+ 
+ARTICLE 24 
+ 
+Submission of a Claim to Arbitration 
+ 
+1.  If an investment dispute has not been resolved within six months of the receipt 
+by the respondent of a written request for  consultations pursuant to Article 23.2 
+(Consultation and Negotiation): 
+                                                 
+18 No claim may be brought under this Section in respect of the following measures of Australia: measures 
+comprising or related to the Pharmaceutical Benefits Scheme, Medicare Benefits Scheme, Therapeutic 
+Goods Administration and Office of the Gene Technology Regulator. A reference to a body or program 
+in this footnote includes any successor of that body or program.  
+ 
+19 “Tobacco control measure” means a measure of a Party related to tobacco products (including products 
+made or derived from tobacco), such as for their production, consumption, distribution, labelling, 
+packaging, advertising, marketing, promotion, sale, purchase, or use, as well as fiscal measures such as 
+internal taxes and excise taxes, and enforcement measures, such as inspection, recordkeeping, and 
+reporting requirements. “Tobacco products” means products under Chapter 24 of the Harmonised 
+System, including processed tobacco, or any product that contains tobacco, that is manufactured to be 
+used for smoking, sucking, chewing or snuffing. 
+17 
+  
+(a)  the claimant, on its own behalf, may submit to arbitration under this 
+Section a claim: 
+ 
+(i)  that the respondent has breached an obligation under Section A; 
+and 
+ 
+(ii)  that the claimant has incurred loss or damage by reason of, or 
+arising out of, that breach; and 
+ 
+(b)  the claimant, on behalf of an enterprise of the respondent that is a 
+juridical person that the claimant owns or controls directly or indirectly, 
+may submit to arbitration under this Section a claim: 
+ 
+(i)  that the respondent has breached an obligation under Section A; 
+and 
+ 
+(ii)  that the enterprise has incurred loss or damage by reason of, or 
+arising out of, that breach. 
+ 
+2.  At least 90 days before submitting any claim to arbitration under this Section, 
+the claimant shall deliver to the respondent a written notice of its intention to submit a 
+claim to arbitration (notice of intent). The notice shall specify: 
+ 
+(a)  the name and address of the claimant and, if a claim is submitted on 
+behalf of an enterprise, the name, address and place of incorporation of 
+the enterprise; 
+ 
+(b)  for each claim, the provision of this Agreement alleged to have been 
+breached and any other relevant provisions;  
+ 
+(c)  the legal and factual basis for each claim; and  
+ 
+(d)  the relief sought and the approximate amount of damages claimed. 
+ 
+3.  The claimant may submit a claim referred to in paragraph 1 under one of the 
+following alternatives: 
+ 
+(a)  the ICSID Convention and the ICSID Rules of Procedure for Arbitration 
+Proceedings;  
+ 
+(b)  the ICSID Additional Facility Rules; 
+ 
+(c)  the UNCITRAL Arbitration Rules; or 
+ 
+(d)  if the claimant and respondent agree, any other arbitral institution or any 
+other arbitration rules. 
+ 
+4.  A claim shall be deemed submitted to arbitration under this Section when the 
+claimant’s notice of or request for arbitration (notice of arbitration): 
+18 
+  
+(a)  referred to  in  the  ICSID Convention is  received by the Secretary-
+General;  
+          
+(b)  referred to in the ICSID Additional Facility Rules is received by the 
+Secretary-General; 
+  
+(c)  referred to in the UNCITRAL Arbitration Rules, together with the 
+statement of claim referred to therein, are received by the respondent; or 
+ 
+(d)  referred to under any arbitral institution or arbitration rules selected 
+under paragraph 3(d) is received by the respondent. 
+ 
+5.  A claim asserted by the claimant for the first time after such notice of arbitration 
+is submitted shall be deemed submitted to arbitration under this Section on the date of 
+its receipt under the applicable arbitration rules. 
+ 
+6.  The arbitration rules applicable under paragraph 3 that are in effect on the date 
+the claim or claims were submitted to arbitration under this Section shall govern the 
+arbitration except to the extent modified by this Agreement. 
+ 
+7.  The claimant shall provide with the notice of arbitration: 
+ 
+(a)  the name of the arbitrator that the claimant appoints; or 
+ 
+(b)  the claimant’s written consent for the Secretary-General to appoint that 
+arbitrator.  
+ 
+ 
+ARTICLE 25 
+ 
+Consent of Each Party to Arbitration 
+ 
+1.  Each Party consents to the submission of a claim to arbitration under this 
+Section in accordance with this Agreement. 
+ 
+2.  The consent under paragraph 1 and the submission of a claim to arbitration 
+under this Section shall be deemed to satisfy the requirements of: 
+ 
+(a)   Chapter II of the ICSID Convention (Jurisdiction of the Centre) and the 
+ICSID Additional Facility Rules for written consent of the parties to the 
+dispute; and 
+ 
+(b)  Article II of the New York Convention for an “agreement in writing”.  
+19 
+  
+ 
+ARTICLE 26 
+ 
+Conditions and Limitations on Consent of Each Party 
+ 
+1.  No claim shall be submitted to arbitration under this Section if more than three 
+years and six months have elapsed from the date on which the claimant first acquired, 
+or should have first acquired, knowledge of the breach alleged under Article 24 
+(Submission of a Claim to Arbitration) and knowledge that the claimant (for claims 
+brought under Article 24.1(a)) or the enterprise (for claims brought under Article 
+24.1(b)) has incurred loss or damage. 
+ 
+2.  No claim shall be submitted to arbitration under this Section unless: 
+ 
+(a)  the claimant consents in writing to arbitration in accordance with the 
+procedures set out in this Agreement; and 
+ 
+  (b)  the notice of arbitration is accompanied: 
+ 
+(i)  for  claims  submitted  to  arbitration  under  Article  24.1(a) 
+(Submission of a Claim to Arbitration), by the claimant’s written 
+waiver; and  
+     
+(ii)  for  claims  submitted  to  arbitration  under  Article  24.1(b) 
+(Submission of a Claim to Arbitration), by the claimant’s and the 
+enterprise’s written waivers, 
+ 
+of any right to initiate or continue before any court or administrative 
+tribunal under the law of either Party, or any other dispute settlement 
+procedures, any proceeding with respect to any measure alleged to 
+constitute a breach referred to in Article 24 (Submission of a Claim to 
+Arbitration). 
+ 
+3.  Notwithstanding paragraph 2(b), the claimant (for claims brought under Article 
+24.1(a) (Submission of a Claim to Arbitration)) and the claimant or the enterprise (for 
+claims brought under Article 24.1(b)) may initiate or continue an action that seeks 
+interim injunctive relief and does not involve the payment of monetary damages before 
+a judicial or administrative tribunal of the respondent, provided that the action is 
+brought for the sole purpose of preserving the claimant’s or the enterprise’s rights and 
+interests during the pendency of the arbitration.  
+ 
+ 
+ARTICLE 27 
+ 
+Selection of Arbitrators 
+ 
+1.  Unless the disputing parties agree otherwise, the tribunal shall comprise three 
+arbitrators, one arbitrator appointed by each of the disputing parties and the third, who 
+shall be the presiding arbitrator, appointed by agreement of the disputing parties. 
+20 
+  
+2.  The Secretary-General shall serve as appointing authority for an arbitration 
+under this Section.  
+ 
+3.  If a tribunal has not been constituted within a period of 75 days after the date 
+that a claim is submitted to arbitration under this Section, the Secretary-General, on the 
+request of a disputing party, shall appoint, in his or her discretion, the arbitrator or 
+arbitrators not yet appointed. The Secretary-General shall not appoint a national of 
+either Party as the presiding arbitrator unless the disputing parties agree otherwise. 
+ 
+4.  For the purposes of Article 39 of the ICSID Convention and Article 7 of 
+Schedule C to the ICSID Additional Facility Rules, and without prejudice to an 
+objection to an arbitrator on a ground other than nationality:  
+ 
+(a)  the respondent agrees to the appointment of each individual member of 
+a  tribunal  established  under  the  ICSID  Convention  or  the  ICSID 
+Additional Facility Rules;  
+ 
+(b)  a claimant referred to in Article 24.1(a) (Submission of a Claim to 
+Arbitration) may submit a claim to arbitration under this Section, or 
+continue a claim, under the ICSID Convention or the ICSID Additional 
+Facility Rules, only on condition that the claimant agrees in writing to 
+the appointment of each individual member of the tribunal; and  
+ 
+(c)  a claimant referred to in Article 24.1(b) (Submission of a Claim to 
+Arbitration) may submit a claim to arbitration under this Section, or 
+continue a claim, under the ICSID Convention or the ICSID Additional 
+Facility Rules, only on condition that the claimant and the enterprise 
+agree in writing to the appointment of each individual member of the 
+tribunal. 
+ 
+5.  Any person appointed  as a member or chair  of a tribunal  shall meet  the 
+requirements set out in Article 5 (Composition of Arbitral Tribunals) of Chapter 16 
+(Dispute Settlement).  
+ 
+6.  In  addition  to  any  applicable  arbitral  rules  regarding  independence  and 
+impartiality of arbitrators, arbitrators shall comply with Annex 7 (Code of Conduct for 
+Arbitrators  appointed  under  Chapter  8  (Investment)  and  Chapter  16  (Dispute 
+Settlement)) and any other guidance on the application of relevant rules or guidelines 
+on conflicts of interest in international arbitration that the Parties may provide.  
+ 
+ 
+ARTICLE 28 
+ 
+Conduct of the Arbitration 
+ 
+1.  The disputing parties may agree on the legal place of any arbitration under the 
+arbitration rules applicable under Article 24.4 (Submission of a Claim to Arbitration). 
+If the disputing parties fail to reach agreement, the tribunal shall determine the place in 
+21 
+ accordance with the applicable arbitration rules, provided that the place shall be in the 
+territory of a State that is a party to the New York Convention. 
+ 
+2.  A non-disputing Party may make oral and written submissions to the tribunal 
+regarding the interpretation of this Agreement. 
+ 
+3.  After consultation with the disputing parties, the tribunal may accept and 
+consider written amicus curiae submissions regarding a matter of fact or law within the 
+scope of the dispute that may assist the tribunal in evaluating the submissions and 
+arguments of the disputing parties from a person or entity that is not a disputing party 
+but has a significant interest in the arbitral proceedings. Each submission shall identify 
+the author; disclose any affiliation, direct or indirect, with any disputing party; and 
+identify any person, government or other entity that has provided, or will provide, any 
+financial or other assistance in preparing the submission. Each submission shall be in a 
+language of the arbitration and comply with any page limits and deadlines set by the 
+tribunal. The tribunal shall provide the disputing parties with an opportunity to respond 
+to such submissions. The tribunal shall ensure that the submissions do not disrupt or 
+unduly burden the arbitral proceedings, or unfairly prejudice any disputing party. 
+ 
+4.  Without prejudice to a tribunal’s authority to address other objections as a 
+preliminary question, such as an objection that a dispute is not within the competence 
+of the tribunal, including an objection to the tribunal’s jurisdiction, a tribunal shall 
+address and decide as a preliminary question any objection by the respondent that, as a 
+matter of law, a claim submitted is not a claim for which an award in favour of the 
+claimant may be made under Article 33 (Awards) or that a claim is manifestly without 
+legal merit. 
+ 
+(a)  An objection under this paragraph shall be submitted to the tribunal as 
+soon as possible after the tribunal is constituted, and in no event later 
+than the date the tribunal fixes for the respondent to submit its counter-
+memorial or, in the case of an amendment to the notice of arbitration, 
+the date the tribunal fixes for the respondent to submit its response to the 
+amendment. 
+ 
+(b)  On receipt of an objection under this paragraph, the tribunal  shall 
+suspend  any  proceedings  on  the  merits,  establish  a  schedule  for 
+considering the objection consistent with any schedule it has established 
+for considering any other preliminary question, and issue a decision or 
+award on the objection, stating the grounds therefor. 
+ 
+(c)  In deciding an objection under this paragraph that a claim submitted is 
+not a claim for which an award in favour of the claimant may be made 
+under Article 33 (Awards), the tribunal shall assume to be true the 
+claimant’s factual allegations in support of any claim in the notice of 
+arbitration (or any amendment thereof) and, in disputes brought under 
+the UNCITRAL Arbitration Rules, the statement of claim referred to in 
+the relevant article of the UNCITRAL Arbitration Rules. The tribunal 
+may also consider any relevant facts not in dispute. 
+ 
+22 
+ (d)  The  respondent  does  not  waive  any  objection  as  to  competence, 
+including an objection to jurisdiction, or any argument on the merits 
+merely because the respondent did or did not raise an objection under 
+this  paragraph  or  make  use  of  the  expedited  procedure  set  out  in 
+paragraph 5. 
+ 
+5.  In the event that the respondent so requests within 45 days after the tribunal is 
+constituted, the tribunal shall decide on an expedited basis an objection under paragraph 
+4 or any objection that the dispute is not within the tribunal’s competence, including an 
+objection that the dispute is not within the tribunal’s jurisdiction. The tribunal shall 
+suspend any proceedings on the merits and issue a decision or award on the objection, 
+stating the grounds therefor, no later than 150 days after the date of the request. 
+However, if a disputing party requests a hearing, the tribunal may take an additional 30 
+days to issue the decision or award. Regardless of whether a hearing is requested, a 
+tribunal may, on a showing of extraordinary cause, delay issuing its decision or award 
+by an additional brief period, which may not exceed 30 days. 
+ 
+6.  When the tribunal decides a respondent’s objection under paragraph 4 or 5, it 
+may,  if  warranted,  award  to  the  prevailing  disputing  party  reasonable  costs  and 
+attorney’s  fees  incurred  in  submitting  or  opposing  the  objection.  In  determining 
+whether such an award is warranted, the tribunal shall consider whether either the 
+claimant’s claim or the respondent’s objection was frivolous, and shall provide the 
+disputing parties a reasonable opportunity to comment.  
+ 
+7.  For greater certainty, if an investor of a Party submits a claim under this Section, 
+including a claim alleging that a Party breached Article 6 (Minimum Standard of 
+Treatment), the investor has the burden of proving all elements of its claims, consistent 
+with general principles of international law applicable to international arbitration. 
+ 
+8.  A respondent may not assert as a defence, counterclaim, right of set-off or for 
+any other reason, that the claimant has received or will receive indemnification or other 
+compensation for all or part of the alleged damages pursuant to an insurance or 
+guarantee contract.  
+ 
+9.  A tribunal may order an interim measure of protection to preserve the rights of 
+a disputing party, or to ensure that the tribunal’s jurisdiction is made fully effective, 
+including an order to preserve evidence in the possession or control of a disputing party 
+or to protect the tribunal’s jurisdiction. A tribunal may not order attachment or enjoin 
+the application of a measure alleged to constitute a breach referred to in Article 24 
+(Submission of a Claim to Arbitration). For the purposes of this paragraph, an order 
+includes a recommendation. 
+ 
+10.  In any arbitration conducted under this Section, at the request of a disputing 
+party, a tribunal shall, before issuing a decision or award on liability, transmit its 
+proposed decision or award to the disputing parties. Within 60 days after the tribunal 
+transmits its proposed decision or award, the disputing parties may submit written 
+comments to the tribunal concerning any aspect of its proposed decision or award. The 
+tribunal shall consider any comments and issue its decision or award no later than 45 
+days after the expiration of the 60 day comment period. 
+ 
+23 
+ 11.  In the event that an appellate mechanism for reviewing awards rendered by 
+investor-State  dispute  settlement  tribunals  is  developed  in  the  future  under  other 
+institutional arrangements including under another Agreement to which both Parties are 
+party, the Parties shall consider whether awards rendered under Article 33 (Awards) 
+should be subject to that appellate mechanism. The Parties shall strive to ensure that 
+any such appellate mechanism they consider adopting provides for transparency of 
+proceedings  similar  to  the  transparency  provisions  established  in  Article  29 
+(Transparency of Arbitral Proceedings). 
+ 
+ 
+ARTICLE 29 
+ 
+Transparency of Arbitral Proceedings 
+ 
+1.  Subject to paragraphs 2 and 4, the respondent shall, after receiving the following 
+documents, promptly transmit them to the non-disputing Party and make them available 
+to the public: 
+ 
+(a)  the notice of intent; 
+ 
+(b)  the notice of arbitration; 
+ 
+(c)  pleadings, memorials and briefs submitted to the tribunal by a disputing 
+party and any written submissions submitted pursuant to Articles 28.2 
+and 28.3 (Conduct of the Arbitration) and Article 32 (Consolidation); 
+ 
+(d)  minutes or transcripts of hearings of the tribunal, if available; and 
+ 
+(e)  orders, awards and decisions of the tribunal. 
+ 
+2.  The tribunal shall conduct hearings open to the public and shall determine, in 
+consultation with the disputing parties, the appropriate logistical arrangements. If a 
+disputing party intends to use information in a hearing that is designated as protected 
+information or otherwise subject to paragraph 3 it shall so advise the tribunal. The 
+tribunal  shall  make  appropriate  arrangements  to  protect  such  information  from 
+disclosure which may include closing the hearing for the duration of the discussion of 
+that information. 
+ 
+3.  Nothing in this Section, including paragraph 4(d), requires a respondent to make 
+available to the public or otherwise disclose during or after the arbitral proceedings, 
+including  the  hearing,  protected  information,  or  to  furnish  or  allow  access  to 
+information that it may withhold in accordance with Article 2 (Security Exceptions) of 
+Chapter 17 (Final Provisions) or Article 21 (Disclosure of Confidential Information).20 
+ 
+4.  Any protected information that is submitted to the tribunal shall be protected 
+from disclosure in accordance with the following procedures: 
+                                                 
+20 For greater certainty, when a respondent chooses to disclose to the tribunal information that may be 
+withheld in accordance with Article 2 (Security Exceptions) of Chapter 17 (Final Provisions) or Article 
+21 (Disclosure of Confidential Information), the respondent may still withhold that information from 
+disclosure to the public. 
+24 
+  
+(a)  subject to subparagraph (d), neither the disputing parties nor the tribunal 
+shall disclose to the non-disputing Party or to the public any protected 
+information if the disputing party that provided the information clearly 
+designates it in accordance with subparagraph (b); 
+ 
+(b)  any  disputing  party  claiming  that  certain  information  constitutes 
+protected information shall clearly designate the information according 
+to any schedule set by the tribunal; 
+ 
+(c)  a disputing party shall, according to any schedule set by the tribunal, 
+submit a redacted version of the document that does not contain the 
+protected information. Only the redacted version shall be disclosed in 
+accordance with paragraph 1; and 
+ 
+(d)  the tribunal, subject to paragraph 3, shall decide any objection regarding 
+the designation of information claimed to be protected information. If 
+the tribunal determines that the information was not properly designated, 
+the disputing party that submitted the information may:  
+ 
+(i)  withdraw  all  or  part  of  its  submission  containing  that 
+information; or  
+ 
+(ii)  agree  to  resubmit  complete  and  redacted  documents  with 
+corrected  designations  in  accordance  with  the  tribunal’s 
+determination and subparagraph (c). 
+ 
+In either case, the other disputing party shall, whenever necessary, 
+resubmit complete and redacted documents which either remove the 
+information withdrawn under subparagraph (d)(i) by the disputing party 
+that  first  submitted  the  information  or  redesignate  the  information 
+consistent  with  the  designation  under  subparagraph  (d)(ii)  of  the 
+disputing party that first submitted the information. 
+ 
+5.  Nothing in this Section requires a respondent to withhold from the public 
+information required to be disclosed by its laws. The respondent should endeavour to 
+apply those laws in a manner sensitive to protecting from disclosure information that 
+has been designated as protected information. 
+ 
+ 
+25 
+ ARTICLE 30 
+ 
+Governing Law 
+ 
+  When a claim is submitted under Articles 24.1(a) or 24.1(b) (Submission of a 
+Claim to Arbitration), the tribunal shall decide the issues in dispute in accordance with 
+this Agreement and applicable rules of international law.21 
+ 
+ 
+ARTICLE 31  
+ 
+Expert Reports 
+ 
+  Without prejudice to the appointment of other kinds of experts when authorised 
+by the applicable arbitration rules, a tribunal, on request of a disputing party or, unless 
+the disputing parties disapprove, on its own initiative, may appoint one or more experts 
+to report to it in writing on any factual issue concerning scientific matters raised by a 
+disputing party in a proceeding, subject to any terms and conditions that the disputing 
+parties may agree. 
+ 
+ 
+ARTICLE 32 
+ 
+Consolidation 
+ 
+1.  If two or more claims have been submitted separately to arbitration under 
+Article 24.1 (Submission of a Claim to Arbitration) and the claims have a question of 
+law or fact in common and arise out of the same events or circumstances, any disputing 
+party may seek a consolidation order in accordance with the agreement of all the 
+disputing parties sought to be covered by the order or the terms of paragraphs 2 through 
+10. 
+ 
+2.  A disputing party that seeks a consolidation order under this Article shall 
+deliver, in writing, a request to the Secretary-General and to all the disputing parties 
+sought to be covered by the order and shall specify in the request: 
+ 
+(a)  the names and addresses of all the disputing parties sought to be covered 
+by the order; 
+ 
+(b)  the nature of the order sought; and 
+ 
+(c)  the grounds on which the order is sought. 
+ 
+3.  Unless the Secretary-General finds within a period of 30 days after the date of 
+receiving a request under paragraph 2 that the request is manifestly unfounded, a 
+tribunal shall be established under this Article. 
+ 
+                                                 
+21 For greater certainty, this provision is without prejudice to any consideration of the domestic law of 
+the respondent when it is relevant to the claim as a matter of fact. 
+ 
+26 
+ 4.  Unless  all  the  disputing  parties  sought  to  be  covered  by  the  order  agree 
+otherwise, a tribunal established under this Article shall comprise three arbitrators:  
+ 
+(a)  one arbitrator appointed by agreement of the claimants; 
+ 
+(b)  one arbitrator appointed by the respondent; and  
+ 
+(c)  the presiding arbitrator appointed by the Secretary-General, provided 
+that the presiding arbitrator is not a national of the respondent or of a 
+Party of any claimant. 
+ 
+5.  If, within a period of 60 days after the date when the Secretary-General receives 
+a request made under paragraph 2, the respondent fails or the claimants fail to appoint 
+an arbitrator in accordance with paragraph 4, the Secretary-General, on request of any 
+disputing party sought to be covered by the order, shall appoint, in his or her discretion, 
+the arbitrator or arbitrators not yet appointed. 
+ 
+6.  If a tribunal established under this Article is satisfied that two or more claims 
+that have been submitted to arbitration under Article 24.1 (Submission of a Claim to 
+Arbitration) have a question of law or fact in common, and arise out of the same events 
+or circumstances, the tribunal may, in the interest of fair and efficient resolution of the 
+claims, and after hearing the disputing parties, by order: 
+ 
+(a)  assume jurisdiction over, and hear and determine together, all or part of 
+the claims;  
+ 
+(b)  assume jurisdiction over, and hear and determine one or more of the 
+claims,  the  determination  of  which  it  believes  would  assist  in  the 
+resolution of the others; or 
+ 
+(c)  instruct a tribunal previously established under Article 27 (Selection of 
+Arbitrators)  to  assume  jurisdiction  over,  and  hear  and  determine 
+together, all or part of the claims, provided that: 
+ 
+ (i)  that tribunal, on request of a claimant that was not previously a 
+disputing party before that tribunal, shall be reconstituted with 
+its original members, except that the arbitrator for the claimants 
+shall be appointed pursuant to paragraphs 4(a) and 5; and 
+ 
+(ii)  that  tribunal  shall  decide  whether  a  prior  hearing  shall  be 
+repeated. 
+ 
+7.  If  a  tribunal  has  been  established  under  this  Article,  a  claimant  that  has 
+submitted  a  claim  to  arbitration  under  Article  24.1  (Submission  of  a  Claim  to 
+Arbitration) and that has not been named in a request made under paragraph 2 may 
+make a written request to the tribunal that it be included in any order made under 
+paragraph 6. The request shall specify: 
+ 
+(a)  the name and address of the claimant; 
+ 
+27 
+ (b)  the nature of the order sought; and 
+ 
+(c)  the grounds on which the order is sought. 
+ 
+The claimant shall deliver a copy of its request to the Secretary-General. 
+ 
+8.  A  tribunal  established  under  this  Article  shall  conduct  its  proceedings  in 
+accordance with the UNCITRAL Arbitration Rules, except as modified by this Section. 
+ 
+9.  A tribunal established under Article 27 (Selection of Arbitrators) shall not have 
+jurisdiction to decide a claim, or a part of a claim, over which a tribunal established or 
+instructed under this Article has assumed jurisdiction. 
+ 
+10.  On the application of a disputing party, a tribunal established under this Article, 
+pending its decision under paragraph 6, may order that the proceedings of a tribunal 
+established under Article 27 (Selection of Arbitrators) be stayed, unless the latter 
+tribunal has already adjourned its proceedings. 
+ 
+ 
+ARTICLE 33 
+ 
+Awards 
+ 
+1.  When a tribunal makes a final award, the tribunal may award, separately or in 
+combination, only: 
+ 
+(a)  monetary damages and any applicable interest; and 
+ 
+(b)  restitution of property, in which case the award shall provide that the 
+respondent may pay monetary damages and any applicable interest in 
+lieu of restitution. 
+ 
+2.  For greater certainty, if an investor of a Party submits a claim to arbitration 
+under Article 24.1(a) (Submission of a Claim to Arbitration), it may recover only for 
+loss or damage that it has incurred in its capacity as an investor of a Party. 
+ 
+3.  A tribunal may also award costs and attorney’s fees incurred by the disputing 
+parties in connection with the arbitral proceeding, and shall determine how and by 
+whom those costs and attorney’s fees shall be paid, in accordance with this Section and 
+the applicable arbitration rules. 
+ 
+4.  For greater certainty, for claims alleging the breach of an obligation under 
+Section A with respect to an attempt to make an investment, when an award is made in 
+favour of the claimant, the only damages that may be awarded are those that the 
+claimant has proven were sustained in the attempt to make the investment, provided 
+that the claimant also proves that the breach was the proximate cause of those damages. 
+If the tribunal determines such claims to be frivolous, the tribunal may award to the 
+respondent reasonable costs and attorney’s fees. 
+ 
+28 
+ 5.  Subject to paragraph 1, if a claim is submitted to arbitration under Article 
+24.1(b) (Submission of a Claim to Arbitration) and an award is made in favour of the 
+enterprise: 
+ 
+(a)  an award of restitution of property shall provide that restitution be made 
+to the enterprise;  
+ 
+(b)  an award of monetary damages and any applicable interest shall provide 
+that the sum be paid to the enterprise; and  
+ 
+(c)  the award shall provide that it is made without prejudice to any right that 
+any person may have under applicable domestic law with respect to the 
+relief provided in the award. 
+ 
+6.  A tribunal shall not award punitive damages.  
+ 
+7.  An award made by a tribunal shall have no binding force except between the 
+disputing parties and in respect of the particular case. 
+ 
+8.  Subject to paragraph 9 and the applicable review procedure for an interim 
+award, a disputing party shall abide by and comply with an award without delay. 
+ 
+9.  A disputing party shall not seek enforcement of a final award until:  
+ 
+(a)  in the case of a final award made under the ICSID Convention: 
+ 
+(i)  120 days have elapsed from the date the award was rendered and 
+no disputing party has requested revision or annulment of the 
+award; or  
+ 
+(ii)  revision or annulment proceedings have been completed; and 
+ 
+(b)  in the case of a final award under the ICSID Additional Facility Rules, 
+the UNCITRAL Arbitration Rules, or the rules selected pursuant to 
+Article 24.4(d) (Submission of a Claim to Arbitration): 
+ 
+(i)  90 days have elapsed from the date the award was rendered and 
+no disputing party has commenced a proceeding to revise, set 
+aside or annul the award; or  
+ 
+(ii)  a court has dismissed or allowed an application to revise, set 
+aside or annul the award and there is no further appeal.  
+ 
+10.  Each Party shall provide for the enforcement of an award in its territory. 
+ 
+11.  If the respondent fails to abide by or comply with a final award, on delivery of 
+a request by the Party of the claimant, a tribunal shall be established under Chapter 16 
+(Dispute Settlement). The requesting Party may seek in those proceedings: 
+ 
+29 
+ (a)  a determination that the failure to abide by or comply with the final 
+award is inconsistent with the obligations of this Agreement; and  
+ 
+(b)  a recommendation that the respondent abide by or comply with the final 
+award. 
+ 
+12.  A disputing party may seek enforcement of an arbitration award under the 
+ICSID Convention or the New York Convention regardless of whether proceedings 
+have been taken under paragraph 11. 
+ 
+13.  A claim that is submitted to arbitration under this Section shall be considered to 
+arise out of a commercial relationship or transaction for the purposes of Article I of the 
+New York Convention. 
+ 
+ 
+ARTICLE 34 
+ 
+Service of Documents 
+ 
+1.  Notices  and  other  documents  in  disputes  under  Section  B  (Investor-State 
+Dispute Settlement) shall be served on Australia by delivery to:  
+ 
+  Department of Foreign Affairs and Trade 
+  R.G. Casey Building 
+  John McEwen Crescent 
+  Barton ACT 0221 
+  Australia 
+ 
+2.  Notices  and  other  documents  in  disputes  under  Section  B  (Investor-State 
+Dispute Settlement) shall be served on Singapore by delivery to:  
+ 
+Permanent Secretary 
+Ministry of Trade & Industry 
+100 High Street #09-01 
+Singapore 179434 
+Singapore.    
+30 
+ ANNEX 8-A 
+ 
+EXPROPRIATION 
+ 
+The Parties confirm their shared understanding that: 
+ 
+1.  An action or a series of actions by a Party cannot constitute an expropriation 
+unless it interferes with a tangible or intangible property right or property interest in an 
+investment. 
+ 
+2.  Article 13.1 (Expropriation and Nationalisation) addresses two situations. The 
+first is direct expropriation, where an investment is nationalised or otherwise directly 
+expropriated through formal transfer of title or outright seizure. 
+ 
+3.  The  second  situation  addressed  by  Article  13.1  (Expropriation  and 
+Nationalisation) is indirect expropriation, where an action or series of actions by a Party 
+has an effect equivalent to direct expropriation without formal transfer of title or 
+outright seizure. 
+ 
+(a)  The determination of whether an action or series of actions by a Party, 
+in a specific fact situation, constitutes an indirect expropriation, requires 
+a case-by-case, fact-based inquiry that considers, among other factors: 
+ 
+(i)  the economic impact of the government action, although the fact 
+that an action or series of actions by a Party has an adverse effect 
+on the economic value of an investment, standing alone, does not 
+establish that an indirect expropriation has occurred;  
+ 
+(ii)  the  extent  to  which  the  government  action  interferes  with 
+distinct, reasonable investment-backed expectations; and 
+ 
+(iii)  the character of the government action. 
+ 
+(b)  Non-discriminatory regulatory actions by a Party that are designed and 
+applied to protect legitimate public welfare objectives, such as public 
+health,22  safety,  and  the  environment,  do  not  constitute  indirect 
+expropriation, except in rare circumstances. 
+   
+                                                 
+22 For greater certainty and without limiting the scope of this subparagraph, regulatory actions to protect 
+public health include, among others, such measures with respect to the regulation, pricing and supply of, 
+and reimbursement for, pharmaceuticals (including biological products), diagnostics, vaccines, medical 
+devices, gene therapies and technologies, health-related aids and appliances and blood and blood-related 
+products.  
+31 
+ ANNEX 8-B 
+ 
+ 
+  For greater certainty, a decision under Australia’s foreign investment policy, 
+which  consists  of  the  Foreign  Acquisitions  and  Takeovers  Act  1975,  Foreign 
+Acquisitions and Takeovers Regulations 2015, Foreign Acquisitions Fees Imposition 
+Act 2015 (Commonwealth), Foreign Acquisitions Fees Imposition Regulation 2015 
+(Commonwealth),  Financial  Sector  (Shareholdings)  Act  1998  and  associated 
+Ministerial Statements by the Treasurer of the Commonwealth of Australia or a minister 
+acting on his or her behalf, on whether or not to approve a foreign investment proposal, 
+shall not be subject to the dispute settlement provisions under Section B (Investor-State 
+Dispute Settlement) or Chapter 16 (Dispute Settlement). 
+ 
+ 
+ 
+32 
+ 

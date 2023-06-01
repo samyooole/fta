@@ -1,0 +1,1099 @@
+Chapter 12 – Investment 
+ 
+CHAPTER 12 
+INVESTMENT 
+ 
+Article 12.1 
+Definitions 
+ 
+For the purposes of this Chapter: 
+ 
+“claimant” means an investor of a Party that is a party to an investment dispute with the other 
+Party; 
+ 
+“covered investment” means, with respect to a Party, an investment in its territory, of an 
+investor of the other Party that is in existence as of the date of entry into force of this 
+Agreement or established, acquired, or expanded thereafter; 
+ 
+“disputing parties” means the claimant and the respondent; 
+ 
+“disputing party” means either the claimant or the respondent; 
+ 
+“enterprise” means any entity constituted or organised under applicable law, whether or not 
+for  profit,  and  whether  privately  or  governmentally  owned  or  controlled,  including  a 
+corporation,  trust,  partnership,  sole  proprietorship,  joint  venture,  association,  or  similar 
+organisation; and a branch of an enterprise; 
+ 
+“enterprise of a Party” means an enterprise constituted or organised under the law of a Party, 
+and a branch1 located in the territory of a Party and carrying out business activities there; 
+ 
+“freely useable currency” means any currency as determined by the International Monetary 
+Fund  under  the  Articles  of  Agreement  of  the  International  Monetary  Fund  and  any 
+amendments thereto; 
+ 
+“ICSID Additional Facility Rules” means the Rules Governing the Additional Facility for the 
+Administration of Proceedings by the Secretariat of the International Centre for Settlement of 
+Investment Disputes; 
+ 
+“ICSID  Arbitration  Rules”  means  the  Rules  of  Procedure  for  Arbitration  Proceedings 
+(Arbitration Rules) as amended and in effect on 10 April 2006; 
+ 
+“ICSID Convention” means the Convention on the Settlement of Investment Disputes between 
+States and Nationals of Other States, done at Washington, 18 March 1965; 
+ 
+“investment” means every kind of asset, owned or controlled, by an investor, that has the 
+characteristics of an investment2, including such characteristics as the commitment of capital 
+                                                           
+1   For greater certainty, a branch of a legal entity of a non-Party shall not be considered as an enterprise 
+of a Party. 
+ 
+12 1 Chapter 12 – Investment 
+ 
+or other resources, the expectation of gain or profit, the assumption of risk, or a certain 
+duration. Forms that an investment may take include:3 
+ 
+(a)  an enterprise; 
+ 
+(b)  shares, stock, and other forms of equity participation in an enterprise;  
+ 
+(c)      bonds, debentures,  loans and other debt instruments4,5of an enterprise;  
+ 
+(d)  turnkey, construction, management, production, concession, revenue-sharing, 
+and other similar contracts; 
+ 
+(e)  claims to money or to other assets, or to any contractual performance having 
+an economic value associated with an investment6; 
+ 
+(f)  intellectual property rights and goodwill; 
+ 
+(g)  licences,  authorisations,  permits,  and  similar  rights  conferred  pursuant  to 
+applicable domestic law, including any concession to search for, cultivate, 
+extract or exploit natural resources7; and 
+ 
+(h)  other  tangible  or  intangible,  movable  or  immovable  property,  and  related 
+property rights, such as leases, mortgages, liens, and pledges8; 
+                                                                                                                                                                                     
+2   Where an asset lacks the characteristics of an investment, that asset is not an investment regardless of 
+the form it may take.  
+ 
+3   The term “investment” does not include an order or judgment entered in a judicial or administrative 
+action. 
+ 
+4   Some forms of debt, such as bonds, debentures, and long-term notes, are more likely to have the 
+characteristics of an investment,  while other forms of debt such as claims to payment that are 
+immediately  due  and  result  from  the  sale  of  goods  or  services,  are  less  likely  to  have  such 
+characteristics. 
+ 
+5   For the purpose of this Agreement, “loans and other debt instruments” described in subparagraph (c) 
+and “claims to money …or to any contractual performance” described in subparagraph (e) refer to 
+assets which relate to a business activity associated with an investment and do not refer to assets which 
+are of a personal nature, unrelated to any business activity associated with an investment. 
+ 
+6   For the purpose of this Agreement, a claim to payment that arises solely from the commercial sale of 
+goods and services is not an investment unless it is a loan that has the characteristics of an investment. 
+ 
+7   Whether  a  particular  type  of  licence,  authorisation,  permit,  or  similar  instrument  (including  a 
+concession, to the extent that it has the nature of such an instrument) has the characteristics of an 
+investment depends on such factors as the nature and extent of the rights that the holder has under the 
+law of the Party. For greater certainty, the foregoing is without prejudice to whether any asset 
+associated with the licence, authorisation, permit, or similar instrument has the characteristics of an 
+investment. 
+ 
+8   For greater certainty, market share, access to market, expected gains, and opportunities for profit-
+making are not, by themselves, investments. 
+12 2 Chapter 12 – Investment 
+ 
+ 
+“investor of a Party” means a national or an enterprise of a Party, that attempts to make, is 
+making, or has made an investment in the territory of the other Party, provided, however, that 
+a natural person who possesses dual nationality shall be deemed to possess exclusively the 
+nationality of the State of his or her dominant and effective nationality; 
+ 
+“investor of a non-Party” means, with respect to a Party, an investor that attempts to make, is 
+making, or has made an investment in the territory of that Party, that is not an investor of 
+either Party; 
+ 
+“measures” adopted or maintained by a Party includes those taken by: 
+ 
+(a)  central, regional or local governments and authorities; and 
+ 
+(b)  non-governmental  bodies  in  the  exercise  of  powers  delegated  by  central, 
+regional or local governments or authorities; 
+ 
+“New York Convention” means the Convention on the Recognition and Enforcement of 
+Foreign Arbitral Awards, adopted at the United Nations in New York on 10 June 1958; 
+ 
+“respondent” means the Party that is a party to an investment dispute; 
+ 
+“return” means an amount  yielded by or derived from  an investment, including profits, 
+dividends, interest, capital gains, royalty payments, payments in connection with intellectual 
+property  rights,  and  all  other  lawful  income.  For  the  purposes  of  the  definition  of 
+“investment”, returns that are invested shall be treated as investments and any alteration of 
+the  form  in  which  assets  are  invested  or  reinvested  shall  not  affect  their  character  as 
+investments; and 
+ 
+“UNCITRAL  Arbitration  Rules”  means  the  arbitration  rules  of  the  United  Nations 
+Commission  on  International  Trade  Law,  as  adopted  by  the  United  Nations  General 
+Assembly on 15 December 1976, as revised in 2010. 
+ 
+SECTION 12-A 
+INVESTMENT 
+ 
+Article 12.2 
+Scope and Coverage 
+ 
+1.  This Chapter shall apply to measures adopted or maintained by a Party relating to: 
+ 
+(a)  investors of the other Party;  
+ 
+(b)  covered investments; and  
+ 
+(c)  with respect to Article 12.7 (Performance Requirements), all investments in 
+the territory of the Party. 
+12 3 Chapter 12 – Investment 
+ 
+ 
+2.  This Chapter shall not apply to: 
+  
+(a)  services supplied in the exercise of governmental authority within the territory 
+of the respective Party. For purposes of this Chapter, a service supplied in the 
+exercise  of  governmental  authority  means  any  service  which  is  supplied 
+neither on a commercial basis, nor in competition with one or more service 
+suppliers; 
+ 
+(b)  subsidies or grants provided by a Party, or to any conditions attached to the 
+receipt or continued receipt of such subsidies or grants, whether or not such 
+subsidies  or  grants  are  offered  exclusively  to  investors  of  the  Party  or 
+investments of investors of the Party, including government-supported loans, 
+guarantees and insurance; and 
+  
+(c)  measures adopted or maintained by a Party to the extent that they are covered 
+by Chapter 10 (Financial Services). 
+ 
+3.  In the event of any inconsistency between this Chapter and another Chapter, the other 
+Chapter shall prevail over this Chapter to the extent of the inconsistency.  
+ 
+4.  The requirement by a Party that a service provider of the other Party post a bond or 
+other form of financial security as a condition of providing a service into its territory 
+does not of itself make this Chapter applicable to the provision of that cross-border 
+service. This Chapter applies to that Party’s treatment of the posted bond or financial 
+security, to the extent that such bond or financial security is a covered investment. 
+ 
+5.  For greater certainty, the provisions of this Chapter do not impose any obligation on 
+either Party in relation to any act or fact that took place or any situation that ceased to 
+exist before the date of entry into force of this Agreement. 
+ 
+Article 12.3 
+Minimum Standard of Treatment 
+ 
+1.  Each  Party  shall  accord  to  covered  investments  treatment  in  accordance  with 
+customary international law minimum standard of treatment of aliens9, including “fair 
+and equitable treatment” and “full protection and security”. 
+ 
+2.  For  greater  certainty,  paragraph  1  prescribes  the  customary  international  law 
+minimum standard of treatment of aliens as the minimum standard of treatment to be 
+afforded to covered investments. The concepts of “fair and equitable treatment” and 
+“full protection and security” do not require treatment in addition to or beyond that 
+                                                           
+9   Customary international law results from a general and consistent practice of States that they follow 
+from a sense of legal obligation. With regard to this Article, the customary international law minimum 
+standard of treatment of aliens refers to all customary international law principles that protect the 
+economic rights and interests of aliens.   
+12 4 Chapter 12 – Investment 
+ 
+which is required by that standard, and do not create additional substantive rights. The 
+obligation to provide:  
+ 
+(a)  “fair and equitable treatment” includes the obligation not to deny justice in 
+criminal, civil or administrative adjudicatory proceedings in accordance with 
+the principle of due process embodied in the principal legal systems of the 
+world; and   
+ 
+(b)  “full protection and security” requires each Party to provide the level of police 
+protection required under customary international law. 
+ 
+3.  A determination that there has been a breach of another provision of this Agreement, 
+or of a separate international agreement, does not establish that there has been a 
+breach of this Article. 
+ 
+Article 12.4 
+National Treatment 
+ 
+1.  Each Party shall accord to investors of the other Party treatment no less favourable 
+than that it accords, in like circumstances, to its own investors with respect to the 
+establishment, acquisition, expansion, management, conduct, operation, and sale or 
+other disposition of investments in its territory. 
+ 
+2.  Each Party shall accord to covered investments treatment no less favourable than that 
+it accords, in like circumstances, to investments in its territory of its own investors 
+with  respect  to  the  establishment,  acquisition,  expansion,  management,  conduct, 
+operation, and sale or other disposition of investments. 
+ 
+Article 12.5 
+Most-Favoured-Nation Treatment 
+ 
+1.  Each Party shall accord to investors of the other Party treatment no less favourable 
+than that it accords, in like circumstances, to investors of any non-Party with respect 
+to the establishment, acquisition, expansion, management, conduct, operation, and 
+sale or other disposition of investments in its territory. 
+ 
+2.  Each Party shall accord to covered investments treatment no less favourable than that 
+it accords, in like circumstances, to investments in its territory of investors of any 
+non-Party  with  respect  to  the establishment, acquisition, expansion, management, 
+conduct, operation, and sale or other disposition of investments.  
+ 
+3.  For  greater  certainty,  paragraphs  1  and  2  shall  not  be  construed  as  granting  to 
+investors options or procedures for the settlement of disputes other than those set out 
+in Section 12-B (Investor-State Dispute Settlement). 
+ 
+4.   Notwithstanding paragraphs 1 and 2, in the case of supply of services in the territory 
+of a Party by covered investments, each Party shall: 
+12 5 Chapter 12 – Investment 
+ 
+(a)  accord to investors of the other Party treatment no less favourable than that it 
+accords, in like circumstances, to investors of any non-Party with respect only 
+to  the  management,  conduct,  operation,  and  sale  or  other  disposition  of 
+investments in its territory; and 
+ 
+(b)  accord  to  covered  investments  treatment  no  less  favourable  than  that  it 
+accords, in like circumstances, to investments in its territory of investors of 
+any non-Party with respect only to the management, conduct, operation, and 
+sale or other disposition of investments. 
+ 
+Article 12.6 
+Compensation for Losses 
+ 
+1.  Investors of one Party whose covered investments in the territory of the other Party 
+suffer losses owing to war or other armed conflict, revolution, a state of national 
+emergency, insurrection, riot, or any other similar event in the territory of the latter 
+Party,  shall  be  accorded  by  the  latter  Party  treatment,  as  regards  restitution, 
+indemnification, compensation or other settlement, no less favourable than that which 
+the latter Party accords to investments of its own investors or investments of investors 
+of any non-Party, whichever is more favourable, to the covered investment of the 
+investor of the former Party. All payments that may result shall be deemed freely 
+transferable. 
+  
+2.  Notwithstanding paragraph 1, if an investor of a Party, in the situations referred to in 
+paragraph 1, suffers a loss in the territory of the other Party resulting from: 
+ 
+(a)  requisitioning of its covered investment or part thereof by the latter’s forces or 
+authorities; or 
+ 
+(b)  destruction of its covered investment or part thereof by the latter’s forces or 
+authorities, which was not required by the necessity of the situation, 
+ 
+the  latter  Party  shall  provide  the  investor  restitution,  compensation,  or  both,  as 
+appropriate, for such loss. 
+ 
+Article 12.7 
+Performance Requirements10 
+ 
+1.  Neither  Party  may,  in  connection  with  the  establishment,  acquisition,  expansion, 
+management, conduct, operation, or sale or other disposition of an investment of an 
+                                                           
+10   For greater certainty, Article 12.7 (Performance Requirements) shall not apply to subsidies or grants 
+provided by a Party as specified in subparagraph 2(c) of Article 12.2 (Scope and Coverage). 
+12 6 Chapter 12 – Investment 
+ 
+investor of a Party or of a non-Party in its territory, impose or enforce any requirement 
+or enforce any commitment or undertaking11: 
+ 
+(a)  to export a given level or percentage of goods or services; 
+ 
+(b)   to achieve a given level or percentage of domestic content; 
+ 
+(c)  to purchase, use, or accord a preference to goods produced in its territory, or to 
+purchase goods from persons in its territory; 
+ 
+(d)  to relate in any way the volume or value of imports to the volume or value of 
+exports or to the amount of foreign exchange inflows associated with such 
+investment; 
+ 
+(e)  to  restrict  sales  of  goods  or  services  in  its  territory  that  such  investment 
+produces or supplies by relating such sales in any way to the volume or value 
+of its exports or foreign exchange earnings; 
+ 
+(f)  to transfer a particular technology, a production process, or other proprietary 
+knowledge to a person in its territory; or 
+ 
+(g)  to  supply  exclusively  from  the  territory  of  the  Party  the  goods  that  such 
+investment produces or the services that such investment supplies to a specific 
+regional market or to the world market. 
+ 
+2.  Neither Party may condition the receipt or continued receipt of an advantage, in 
+connection  with  the  establishment,  acquisition,  expansion,  management,  conduct, 
+operation, or sale or other disposition of an investment in its territory of an investor of 
+a Party or of a non-Party, on compliance with any requirement: 
+ 
+(a)  to achieve a given level or percentage of domestic content; 
+ 
+(b)  to purchase, use, or accord a preference to goods produced in its territory, or to 
+purchase goods from persons in its territory; 
+ 
+(c)  to relate in any way the volume or value of imports to the volume or value of 
+exports or to the amount of foreign exchange inflows associated with such 
+investment; or 
+ 
+(d)  to  restrict  sales  of  goods  or  services  in  its  territory  that  such  investment 
+produces or supplies by relating such sales in any way to the volume or value 
+of its exports or foreign exchange earnings.  
+ 
+                                                           
+11   For greater certainty, a condition for the receipt or continued receipt of an advantage referred to in 
+paragraph 2 does not constitute a “requirement” or a “commitment or undertaking” for the purposes of 
+paragraph 1. 
+12 7 Chapter 12 – Investment 
+ 
+3.  (a)  For greater certainty, nothing in paragraph 1 shall be construed to prevent a 
+  Party  from,  in  connection  with  the  establishment,  acquisition,  expansion, 
+  management, conduct, operation or sale or other disposition of an investment 
+  of  an  investor  of  a  Party  or  of  a  non-Party  in  its  territory,  imposing  or 
+  enforcing a requirement or enforcing a commitment or undertaking to employ 
+  or train workers in its territory, provided that such employment or training 
+  does not require the transfer of a particular technology, production process, or 
+  other proprietary knowledge to a person in its territory. 
+ 
+(b)  For greater certainty, nothing in paragraph 2 shall be construed to prevent a 
+  Party from conditioning the receipt or continued receipt of an advantage, in 
+  connection with an investment in its territory of an investor of a Party or of a 
+  non-Party, on compliance with a requirement to locate production, supply a 
+  service, employ or train workers, construct or expand particular facilities, or 
+  carry out research and development, in its territory.  
+ 
+(c)  The provisions of subparagraph 1(f) do not apply: 
+ 
+(i)  when  a  Party  authorises  use  of  an  intellectual  property  right  in 
+accordance with Article 3112 of the TRIPS Agreement, or to measures 
+requiring the disclosure of proprietary information that fall within the 
+scope of, and are consistent with, Article 39 of the TRIPS Agreement; 
+or 
+ 
+(ii)  the  requirement  is  imposed  or  the  commitment  or  undertaking  is 
+enforced by a court, administrative tribunal, or competition authority to 
+remedy a practice determined after judicial or administrative process to 
+be anti-competitive under the Party’s competition laws13. 
+ 
+(d)  Subparagraphs  1(a),  1(b),  1(c),  1(d),  2(a)  and  2(b),  do  not  apply  to 
+  qualification  requirements  for  goods  or  services  with  respect  to  export 
+  promotion and foreign aid programs. 
+ 
+(e)  Subparagraphs 2(a) and 2(b) do not apply to requirements imposed by an 
+  importing  Party  relating  to  the  content  of  goods  necessary  to  qualify  for 
+  preferential tariffs or preferential quotas. 
+ 
+4.     For  greater  certainty,  paragraphs  1  and  2  do  not  apply  to  any  commitment,      
+undertaking, or requirement other than those set out in those paragraphs. 
+ 
+5.       This  Article  does  not  preclude  enforcement  of  any  commitment,  undertaking,  or 
+requirement between private parties, where a Party did not impose or require the 
+commitment, undertaking, or requirement. 
+ 
+                                                           
+12   The reference to “Article 31” includes footnote 7 to Article 31. 
+13   The Parties note that a patent does not necessarily confer market power.  
+12 8 Chapter 12 – Investment 
+ 
+Article 12.8 
+Senior Management and Boards of Directors 
+ 
+1.  Neither Party may require that an enterprise of that Party that is a covered investment 
+appoint to senior management positions natural persons of any particular nationality. 
+ 
+2.  A Party may require that a majority of the board of directors, or any committee 
+thereof, of an enterprise of that Party that is a covered investment, be of a particular 
+nationality, or resident in the territory of the Party, provided that the requirement does 
+not materially impair the ability of the investor of the other Party to exercise control 
+over its investment. 
+ 
+Article 12.9 
+Non-Conforming Measures 
+ 
+1.  Articles  12.4  (National  Treatment),  12.5  (Most-Favoured-Nation  Treatment),  12.7 
+(Performance Requirements) and 12.8 (Senior Management and Board of Directors) do 
+not apply to: 
+ 
+(a)  any existing non-conforming measure that is maintained by a Party as set out 
+in its Schedule to Annex 7-A. 
+ 
+(b)  the continuation or prompt renewal of any non-conforming measure referred 
+to in subparagraph (a); or 
+ 
+(c)  an amendment to any non-conforming measure referred to in subparagraph (a) 
+to the extent that the amendment does not decrease the conformity of the 
+measure, as it existed at the date of the entry into force of this Agreement, 
+with  Articles  12.4  (National  Treatment),  12.5  (Most-Favoured-Nation 
+Treatment), 12.7 (Performance Requirements) and 12.8 (Senior Management 
+and Board of Directors). 
+ 
+2.  Articles 12.4 (National  Treatment), 12.5 (Most-Favoured-Nation Treatment), 12.7 
+(Performance Requirements) and 12.8 (Senior Management and Board of Directors) 
+do not apply to any measure that a Party adopts or maintains with respect to sectors, 
+subsectors, or activities, as set out in its Schedule to Annex 7-B. 
+ 
+3.  Neither Party may, under any measure adopted after the date of entry into force of this 
+Agreement and covered by its Schedule to Annex 7-B, require an investor of the other 
+Party, by reason of its nationality, to sell or otherwise dispose of an investment 
+existing at the time the measure becomes effective. 
+ 
+4.  Articles 12.4 (National Treatment) and 12.5 (Most-Favoured-Nation Treatment) do 
+not  apply to  any measure that is  an exception to,  or derogation from,  a Party’s 
+obligations under Chapter 15 (Intellectual Property) and the TRIPS Agreement, as 
+specifically provided for in that Agreement.  
+ 
+12 9 Chapter 12 – Investment 
+ 
+5.  Articles 12.4 (National  Treatment), 12.5 (Most-Favoured-Nation Treatment),  12.7 
+(Performance Requirements) and 12.8 (Senior Management and Board of Directors) 
+do not apply to government procurement. 
+ 
+Article 12.10 
+Special Formalities and Treatment of Information 
+ 
+1.  Nothing in Article 12.4 (National Treatment) shall be construed to prevent a Party 
+from  adopting  or  maintaining  a  measure  that  prescribes  special  formalities  in 
+connection with covered investments, such as residency requirements for registration 
+or a requirement that covered investments be legally constituted under its laws or 
+regulations, provided that such formalities do not materially impair the protections 
+afforded by the Party to investors of the other Party and covered investments pursuant 
+to this Chapter. 
+ 
+2.  Notwithstanding Article 12.4 (National Treatment) and Article 12.5 (Most-Favoured-
+Nation Treatment), a Party may require an investor of the other Party or its covered 
+investment to provide information concerning that investment solely for informational 
+or  statistical  purposes.  The  Party  shall  protect  such  business  information  that  is 
+confidential from any disclosure that would prejudice the competitive position of the 
+investor or the covered investment. Nothing in this paragraph shall be construed to 
+prevent a Party from otherwise obtaining or disclosing information in connection with 
+the equitable and good faith application of its law. 
+ 
+Article 12.11 
+Expropriation14 
+ 
+1.  Neither  Party  shall  nationalise,  expropriate  or  subject  to  measures  having  effect 
+equivalent  to  nationalisation  or  expropriation  (hereinafter  referred  to  as 
+“expropriation”) a covered investment unless such a measure is taken on a non-
+discriminatory basis, for a public purpose, in accordance with due process of law and 
+Article 12.3 (Minimum Standard of Treatment), and upon payment of compensation 
+in accordance with this Article. 
+ 
+2.  The expropriation shall be accompanied by the payment of prompt, adequate and 
+effective compensation. Compensation shall be equivalent to the fair market value of 
+the  expropriated  investment  immediately  before  the  expropriation  or  impending 
+expropriation  became  public  knowledge.  Such  compensation  shall  be  effectively 
+realisable, freely transferable in accordance with Article 12.12 (Transfers) and made 
+without  delay.  The  compensation  shall  include  interest  at  an  appropriate  and 
+reasonable rate for that currency, accrued from the date of expropriation until the date 
+of payment. 
+ 
+                                                           
+14   Article 12.11 (Expropriation) is to be interpreted in accordance with Annex 12-A (Expropriation). 
+Paragraph 1 of Article 18.5 (Taxation) shall not apply to this Article and Annex 12-A (Expropriation). 
+12 10 Chapter 12 – Investment 
+ 
+3.  Notwithstanding paragraphs 1 and 2, any measure of expropriation relating to land, 
+which shall be as defined in the existing domestic legislation of the expropriating 
+Party on the date of entry into force of this Agreement, shall be for a purpose and 
+upon payment of compensation in accordance with the aforesaid legislation. 
+ 
+4.  This Article does not apply to the issuance of compulsory licences granted in relation 
+to intellectual property rights in accordance with the TRIPS Agreement, or to the 
+revocation, limitation, or creation of intellectual property rights, to the extent that 
+such  issuance,  revocation,  limitation,  or  creation  is  consistent  with  Chapter  15 
+(Intellectual Property) and the TRIPS Agreement15. 
+ 
+Article 12.12 
+Transfers 
+ 
+1.  Each Party shall permit all transfers relating to a covered investment to be made freely 
+and without delay into and out of its territory. Such transfers include: 
+ 
+(a)  the initial capital and additional amounts to maintain or increase a covered 
+investment; 
+ 
+(b)  profits, dividends, capital gains, and proceeds from the sale of all or any part 
+of the covered investment or from the partial or complete liquidation of the 
+covered investment;  
+ 
+(c)  interest,  royalty  payments,  management  fees,  and  technical  assistance  and 
+other fees;  
+ 
+(d)  payments made under a contract entered into by the investor, or its covered 
+investment, including payments made pursuant to a loan agreement;  
+ 
+(e)  payments  made  pursuant  to  Article  12.6  (Compensation  for  Losses)  and 
+Article 12.11(Expropriation); and  
+ 
+(f)  payments arising under Section 12-B (Investor-State Dispute Settlement). 
+ 
+2.  Each Party shall permit such transfers to be made in a freely convertible currency at 
+the market rate of exchange prevailing at the time of transfer. 
+ 
+3.  Each Party shall permit returns in kind relating to a covered investment to be made as 
+authorised or specified in an investment authorisation or other written agreement 
+between the Party and a covered investment or an investor of the other Party. 
+ 
+                                                           
+15   For greater certainty, the Parties recognise that, for the purposes of this Article, the term “revocation” 
+of intellectual property rights includes the cancellation or nullification of such rights, and the term 
+“limitation” of intellectual property rights includes exceptions to such rights. 
+12 11 Chapter 12 – Investment 
+ 
+4.  Notwithstanding paragraphs 1, 2, and 3, a Party may delay or prevent a transfer 
+through  the  equitable,  non-discriminatory,  and  good  faith  application  of  its  laws 
+relating to: 
+ 
+(a)  bankruptcy, insolvency, or the protection of the rights of creditors;  
+ 
+(b)  issuing, trading, or dealing in securities, futures, options, or derivatives;  
+ 
+(c)  financial reporting or record keeping of transfers when necessary to assist law 
+enforcement or financial regulatory authorities;  
+ 
+(d)  criminal or penal offences;  
+ 
+(e)  ensuring compliance with orders or judgments in judicial or administrative 
+proceedings; or 
+ 
+(f)  social security16, public retirement or compulsory savings schemes. 
+ 
+5.  Nothing in this Chapter shall affect the rights and obligations of the members of the 
+International Monetary Fund under the Articles of Agreement of the International 
+Monetary Fund, including the use of exchange actions which are consistent with such 
+Articles of Agreement, provided that a Party shall not impose restrictions on any 
+capital transactions inconsistently with its obligations under this Chapter regarding 
+such transactions, except under Article 18.6 (Restrictions to Safeguard the Balance-
+of-Payments) of Chapter 18 (Institutional, General and Final Provisions) or at the 
+request of the International Monetary Fund. 
+ 
+Article 12.13 
+Subrogation 
+ 
+1.  If a Party (or any agency, institution, statutory body or corporation designated by it) 
+makes a payment to any of its investors under a guarantee, a contract of insurance or 
+other form of indemnity it has granted in respect of a covered investment, against 
+non-commercial risks, the other Party shall recognise the subrogation or transfer of 
+any right or title in respect of such investment. The Party or its designated Agency is 
+entitled by virtue of subrogation to exercise the rights and enforce the claims of that 
+investor. The subrogated or transferred right or claim shall not be greater than the 
+original right or claim of the investor. 
+ 
+2.  Where a Party (or any agency, institution, statutory body or corporation designated by 
+it) has made a payment to an investor of that Party and has taken over rights and 
+claims of the investor, that investor shall not, unless authorised to act on behalf of the 
+Party or the designated agency of the Party making the payment, pursue those rights 
+and claims against the other Party. 
+ 
+                                                           
+16   For greater certainty, social security schemes include compulsory health insurance schemes.   
+ 
+12 12 Chapter 12 – Investment 
+ 
+SECTION 12-B 
+INVESTOR-STATE DISPUTE SETTLEMENT 
+ 
+Article 12.14 
+Scope 
+ 
+1.  This Section shall apply to disputes between a Party and an investor of the other 
+Party17 concerning  an  alleged  breach  of  Articles  12.3  (Minimum  Standard  of 
+Treatment), 12.4 (National Treatment), 12.5 (Most-Favoured-Nation Treatment), 12.6 
+(Compensation for Losses), paragraph 1 of 12.7 (Performance Requirements), 12.8 
+(Senior Management and Boards of Directors), paragraph 3 of 12.9 (Non-Conforming 
+Measures),  12.10  (Special  Formalities  and  Treatment  of  Information),  12.11 
+(Expropriation), 12.12 (Transfers), and 12.13 (Subrogation), which causes loss or 
+damage to the investor or its covered investment. 
+ 
+2.  This  Section  shall  not  apply  to  any  dispute  concerning  any  measure  adopted  or 
+maintained or any treatment accorded to investors or investments by a Party in respect 
+of tobacco or tobacco-related products18, that is aimed at protecting or promoting 
+human health. 
+ 
+Article 12.15 
+Institution of Arbitral Proceedings 
+ 
+1.  The disputing parties shall initially seek to resolve the dispute by consultations and 
+negotiations.  
+ 
+2.  Where the dispute cannot be resolved as provided for under paragraph 1 within 6 
+months from the date of a written request for consultations and negotiations, the 
+claimant may submit to arbitration: 
+ 
+(a)  a claim, on its own behalf, that the respondent has breached an obligation 
+under this Agreement and the claimant has incurred loss or damage by reason 
+of, or arising out of, that breach; and 
+ 
+(b)  a claim, on behalf of an enterprise of the respondent that is an enterprise that 
+the claimant owns or controls19, that the respondent has breached an obligation 
+                                                           
+17   For greater certainty, a natural person possessing the nationality or citizenship of a Party shall not 
+pursue a claim against that Party under this Agreement. 
+ 
+18   For the purpose of this Chapter, “tobacco products” means products under HS Chapter 24 (Tobacco 
+and Manufactured Tobacco Substitutes) and tobacco-related products falling outside HS Chapter 24 
+(Tobacco and Manufactured Tobacco Substitutes).  
+ 
+19   An enterprise is:  
+ 
+(a)   owned by natural persons or enterprises of the other Party if more than 50 per cent of the 
+equity interest in it is beneficially owned by natural persons or enterprises of that Party;  
+ 
+12 13 Chapter 12 – Investment 
+ 
+under this Agreement and the enterprise has incurred loss or damage by reason 
+of, or arising out of, that breach. 
+ 
+3.  A  claimant  may submit the claim to arbitration: 
+ 
+(a)  under the ICSID Convention and the ICSID Arbitration Rules, provided that 
+both Parties are parties to the ICSID Convention; 
+ 
+(b)  under the ICSID Additional Facility Rules, provided that one of the Parties, 
+but not both, is a party to the ICSID Convention;  
+ 
+(c)  under the UNCITRAL Arbitration Rules; or 
+ 
+(d)  to any other arbitral institutions or under any other arbitration rules, if the 
+disputing parties so agree. 
+ 
+4.  Each  Party  hereby  consents  to  the  submission  of  a  dispute  to  arbitration  under 
+subparagraphs 3(a), 3(b), 3(c) and 3(d) in accordance with the provisions of this 
+Section, conditional upon: 
+ 
+(a)  the submission of the dispute to such arbitration taking place within three 
+years of the time at which the claimant became aware, or should reasonably 
+have  become  aware,  of  a  breach  of  an  obligation  under  this  Agreement 
+causing loss or damage to the claimant or its covered investment; 
+ 
+(b)  the claimant not being an enterprise of the respondent until the claimant refers 
+the dispute for arbitration pursuant to paragraph 3;  
+ 
+(c)  the claimant providing written consent to arbitration in accordance with the 
+provisions set out in this Section; and 
+ 
+(d)  the claimant providing written notice, which shall be delivered at least 90 days 
+before the claim is submitted, to the respondent of its intent to submit the 
+dispute to such arbitration and which: 
+ 
+(i)  states the name and address of the claimant and, where a dispute is 
+submitted on behalf of an enterprise, the name, address, and place of 
+constitution of the enterprise; 
+ 
+(ii)  nominates one of the fora referred to in paragraph 3 as the forum for 
+dispute settlement; 
+ 
+(iii)   is accompanied,  
+ 
+                                                                                                                                                                                     
+(b)   controlled by natural persons or enterprises of the other Party if such natural persons or 
+enterprises have the power to name a majority of its directors or otherwise to legally direct its 
+actions. 
+12 14 Chapter 12 – Investment 
+ 
+(A)  for claims submitted to arbitration under subparagraph 2(a), 
+by the claimant’s written waiver; and  
+ 
+(B)  for claims submitted to arbitration under subparagraph 2(b), 
+by the claimant’s and the enterprise’s written waivers 
+ 
+of  any  right  to  initiate  or  continue  any  proceedings  (excluding  
+proceedings for interim measures of protection referred to in paragraph 
+1 of Article 12.19 (Interim Measures of Protection and Diplomatic 
+Protection)) before any of the other dispute settlement fora referred to 
+in paragraph 3 in relation to the matter under dispute; and 
+ 
+(iv)  briefly summarises the alleged breach of the respondent under this 
+Agreement (including the provisions alleged to have been breached), 
+the legal and factual basis for the dispute, and the loss or damage 
+allegedly caused to the claimant or its covered investment by reason of 
+that breach. 
+ 
+(e)   In deciding whether an investment dispute is within the jurisdiction of ICSID 
+and competence of the tribunal established under subparagraphs 3(a) and 3(b), 
+that tribunal shall comply with the notification20 submitted by the Republic of 
+Turkey on March 3, 1989 to ICSID in accordance with Article 25 (4) of ICSID 
+Convention, concerning classes of disputes considered suitable or unsuitable 
+for  submission  to  the  jurisdiction  of  ICSID,  as  an  integral  part  of  this 
+Agreement. 
+ 
+5.  The consent under paragraph 4 and the submission of a claim to arbitration under this 
+Section shall satisfy the requirements of:  
+ 
+(a)  Chapter II of the ICSID Convention (Jurisdiction of the Centre) and the ICSID 
+Additional Facility Rules for written consent of the parties to the dispute; and 
+ 
+(b)  Article II of the New York Convention for an “agreement in writing”.  
+ 
+6.  A claim that is submitted for arbitration under this Section shall be considered to arise 
+out of a commercial relationship or transaction for purposes of Article I of the New 
+York Convention. 
+ 
+Article 12.16 
+Constitution of Arbitral Tribunal 
+ 
+                                                           
+20   In this regard, the phrase “necessary permission” in the said notification refers only to the initial  
+permission or approval required for an investment to be made in Turkey in conformity with the 
+relevant legislation of the Republic of Turkey on foreign capital, and does not include any other 
+permission or approval that may be required under the law of the Republic of Turkey. 
+ 
+  
+  
+12 15 Chapter 12 – Investment 
+ 
+1.  Unless the disputing parties otherwise agree, the arbitral tribunal shall be composed of 
+three arbitrators. Each disputing party shall appoint one arbitrator and the disputing 
+parties shall agree upon a third arbitrator, who shall be the chairman of the arbitral 
+tribunal. If an arbitral tribunal has not been established within 90 days from the date 
+on which the claim was submitted to arbitration, either because a disputing party 
+failed to appoint an arbitrator or because the disputing parties failed to agree upon the 
+chairman, the Secretary-General of ICSID, upon request of either disputing party, 
+shall appoint, at his own discretion, the arbitrator or arbitrators not yet appointed.  
+ 
+2.  For the purposes of paragraph 1, in the event that the Secretary-General of ICSID is a 
+national or permanent resident of either Party, the Deputy Secretary-General of ICSID 
+or the officer next in seniority who is not a national or permanent resident of either 
+Party shall be requested to make the necessary appointment or appointments. 
+ 
+Article 12.17 
+Place of Arbitration 
+ 
+Unless  the  disputing  parties  otherwise  agree,  the  tribunal  shall  determine  the  place  of 
+arbitration in accordance with the applicable arbitration rules, provided that the place shall be 
+in the territory of a State that is a party to the New York Convention.  
+ 
+Article 12.18 
+Conduct of the Arbitration 
+ 
+1.  A  tribunal  established  under  this  Section  shall  decide  the  issues  in  dispute  in 
+accordance  with  this  Agreement  and  the  applicable  rules  and  principles  of 
+international law.21  
+ 
+2.  Without prejudice to a tribunal’s authority to address other objections as a preliminary 
+question, such as an objection that a dispute is not within the competence of the 
+tribunal, including an objection to the tribunal’s jurisdiction, a tribunal shall address 
+and decide as a preliminary question any objection by the respondent that, as a matter 
+of law, a claim submitted is not a claim for which an award in favour of the claimant 
+may be made under Article 12.20 (Award). 
+ 
+(a)  Such objection shall be submitted to the tribunal as soon as possible after the 
+tribunal is constituted, and in no event later than the date the tribunal fixes for 
+the  respondent  to  submit  its  counter-memorial  (or,  in  the  case  of  an 
+amendment to the notice of arbitration, the date the tribunal fixes for the 
+respondent to submit its response to the amendment).   
+ 
+(b)  On receipt of an objection under this paragraph, the tribunal shall suspend any 
+proceedings on the merits, establish a schedule for considering the objection 
+                                                           
+21   The Parties confirm their mutual understanding that when domestic law of the Respondent is relevant 
+to a claim, an arbitral tribunal established under this Section shall take into account the domestic law as 
+a matter of fact.  
+ 
+12 16 Chapter 12 – Investment 
+ 
+consistent  with  any  schedule  it  has  established  for  considering  any  other 
+preliminary question, and issue a decision or award on the objection, stating 
+the grounds therefor.  
+ 
+(c)  In deciding an objection under this paragraph, the tribunal shall assume to be 
+true claimant’s factual allegations in support of any claim in the notice of 
+arbitration (or any amendment thereof) and, in disputes brought under the 
+UNCITRAL  Arbitration  Rules,  the  statement  of  claim  referred  to  in  the 
+relevant article of the UNCITRAL Arbitration Rules. The tribunal may also 
+consider any relevant facts not in dispute.  
+ 
+(d)  The  respondent  does  not  waive  any  objection  as  to  competence  or  any 
+argument on the merits merely because the respondent did or did not raise an 
+objection under this paragraph or make use of the expedited procedure set out 
+in paragraph 3.   
+ 
+3.    In the event that the respondent so requests within 45 days after the tribunal is 
+constituted,  the  tribunal  shall  decide  on  an  expedited  basis  an  objection  under 
+paragraph 2 or any objection that the dispute is not within the tribunal’s competence, 
+including an objection that the dispute is not within the tribunal’s jurisdiction. The 
+tribunal shall suspend any proceedings on the merits and issue a decision or award on 
+the objection(s), stating the grounds therefor, no later than 150 days after the date of 
+the request. However, if a disputing party requests a hearing, the tribunal may take an 
+additional 30 days to issue the decision or award. Regardless of whether a hearing is 
+requested, a tribunal may, on a showing of extraordinary cause, delay issuing its 
+decision or award by an additional brief period, which may not exceed 30 days. 
+ 
+4.    When it decides a respondent’s objection under paragraph 2 or 3, the tribunal may, if 
+warranted, award to the prevailing disputing party reasonable costs and attorney’s fees 
+incurred in submitting or opposing the objection. In determining whether such an 
+award is warranted, the tribunal shall consider whether either the claimant’s claim or 
+the respondent’s objection was frivolous, and shall provide the disputing parties a 
+reasonable opportunity to comment.  
+ 
+Article 12.19 
+Interim Measures of Protection and Diplomatic Protection 
+ 
+1.  Subparagraph 4(d)(iii) of Article 12.15 (Institution of Arbitral Proceedings) shall not 
+prevent the claimant from seeking interim measures of protection,  not  involving  the  
+payment of damages or resolution of the substance of the matter in dispute before the 
+courts  or  administrative  tribunals  of  the  respondent,  prior  to  the  institution  of 
+proceedings before any of the dispute settlement fora referred to in paragraph 3 of 
+Article 12.15 (Institution of Arbitral Proceedings), for the preservation of its rights 
+and interests.  
+ 
+2.  Neither Party shall give diplomatic protection, or bring an international claim, in 
+respect  of  a  dispute  which  one  of  its  investors  and  the  other  Party  shall  have 
+12 17 Chapter 12 – Investment 
+ 
+consented to submit or have submitted to arbitration under this Section, unless such 
+other Party has failed to abide by and comply with the award rendered in such dispute. 
+Diplomatic protection, for the purposes of this paragraph, shall not include informal 
+diplomatic exchanges for the sole purpose of facilitating a settlement of the dispute.  
+ 
+Article 12.20 
+Award 
+ 
+1.  Where a tribunal makes a final award against a respondent, the tribunal may award, 
+separately or in combination, only: 
+ 
+(a)  monetary damages and any applicable interest; and 
+ 
+(b)  restitution  of  property,  in  which  case  the  award  shall  provide  that  the 
+respondent may pay monetary damages and any applicable interest in lieu of 
+restitution. 
+ 
+A tribunal may also award costs and attorney’s fees in accordance with this Section 
+and the applicable arbitration rules. 
+ 
+2.  Any arbitral award shall be final and binding upon the disputing parties. Each Party 
+shall ensure the recognition and enforcement of the award in accordance with its 
+relevant laws and regulations.  
+ 
+3.  Where a claim is submitted on behalf of an enterprise of the respondent, the arbitral 
+award shall be made to the enterprise. 
+ 
+Article 12.21 
+Consolidation 
+ 
+1.  Where two or more claims have been submitted separately to arbitration under this 
+Section, and the claims have a question of law or fact in common and arise out of the 
+same events or circumstances, any disputing party may seek a consolidation order, in 
+accordance with the agreement of all the disputing parties sought to be covered by the 
+order or the terms of this Article. 
+ 
+2.  A disputing party that seeks a consolidation order under this Article shall deliver, in 
+writing, a request to the Secretary-General of ICSID and to all the disputing parties 
+sought  to  be  covered  by  the  order,  specifying  the  name  and  address  of  all  the 
+disputing parties sought to be covered by the order; the nature of the order sought; and 
+the grounds on which the order is sought. 
+ 
+3.  Unless the Secretary-General of ICSID finds within 30 days after receiving a request 
+in conformity with paragraph 2 that the request is manifestly unfounded, a tribunal 
+shall be established under this Article. 
+ 
+12 18 Chapter 12 – Investment 
+ 
+4.  Unless  all the disputing parties sought  to  be covered by the  consolidation  order 
+otherwise  agree,  the  tribunal  established  under  this  Article  shall  comprise  three 
+arbitrators: 
+ 
+(a)  one arbitrator appointed by agreement of the disputing investors;  
+ 
+(b)  one arbitrator appointed by the respondent; and  
+ 
+(c)  the chairman of the arbitral tribunal appointed by the Secretary-General of 
+ICSID provided that the chairman shall not be a national of either Party. 
+ 
+5.  If, within the 60 days after the Secretary-General receives a request made under 
+paragraph 2, the respondent fails or the disputing investors fail to appoint an arbitrator 
+in accordance with paragraph 4, the Secretary-General, on request of any disputing 
+party sought to be covered by the order, shall appoint the arbitrator or arbitrators not 
+yet appointed. 
+ 
+6.  Where a tribunal established under this Article is satisfied that two or more claims 
+that have been submitted to arbitration in accordance to Article 12.15 (Institution of 
+Arbitral Proceedings), have a question of law or fact in common, and arise out of the 
+same events or circumstances, the tribunal may, in the interest of fair and efficient 
+resolution of the claims, and after hearing the disputing parties, by order: 
+ 
+(a)  assume jurisdiction over, and hear and determine together, all or part of the 
+claims;  
+ 
+(b)  assume jurisdiction over, and hear and determine one or more claims, whose 
+determination it considers would assist in the resolution of the other claims; or  
+ 
+(c)  instruct a tribunal previously established under Article 12.16 (Constitution of 
+the Arbitral Tribunal) to assume jurisdiction over and to hear and determine 
+together, all or part of the claims, provided that: 
+ 
+(i)  that tribunal, at the request of any disputing investor not previously a 
+disputing  party  before  that  tribunal,  shall  be  reconstituted  with  its 
+original members, except that the arbitrator for the disputing investors 
+shall be appointed pursuant to paragraphs 4(a) and 5; and 
+ 
+(ii)  that  tribunal  shall  decide  whether  any  previous  hearing  must  be 
+repeated. 
+ 
+7.  Where a tribunal has been established under this Article, a disputing investor that has 
+submitted a claim to arbitration pursuant to Article 12.15 (Institution of Arbitral 
+Proceedings) and that has not been named in a request made under paragraph 2, may 
+make a written request to the tribunal that it be included in any order issued under 
+paragraph 6, specifying: 
+ 
+12 19 Chapter 12 – Investment 
+ 
+(a)  the name and address of the disputing investor; 
+ 
+(b)  the nature of the order sought; and 
+ 
+(c)  the grounds on which the order is sought. 
+ 
+The claimant shall provide the Secretary-General with a copy of his request. 
+ 
+8.  A  tribunal  established  pursuant  to  this  Article  shall  conduct  the  proceedings  in 
+accordance  with  the  UNCITRAL  Arbitration  Rules,  except  as  modified  by  this 
+Section. 
+ 
+9.  A tribunal established under Article 12.16 (Constitution of the Arbitral Tribunal) shall 
+not have jurisdiction to decide a claim or a part of a claim over which a tribunal 
+established or instructed under this Article has assumed jurisdiction. 
+ 
+10.  On application of a disputing party, a tribunal established pursuant to this Article 
+may, pending its decision under paragraph 6, order that the proceedings of a tribunal 
+established under Article 12.16 (Constitution of the Arbitral Tribunal) be stayed, 
+unless the latter tribunal has already adjourned its proceedings. 
+ 
+SECTION 12-C 
+FINAL PROVISIONS 
+ 
+Article 12.22 
+Denial of Benefits 
+ 
+1.   A Party may deny the benefits of this Chapter to an investor of the other Party and to 
+its investments if the investor is an enterprise owned or controlled by persons of a 
+non-Party  or  the  denying  Party,  and  such  enterprise  has  no  substantive  business 
+operations in the territory of the other Party.   
+ 
+2.   The  denying  Party  shall,  to  the  extent  practicable,  notify  the  other  Party  before 
+denying the benefits. If the denying Party provides such notice, it shall consult with 
+the other Party at the request of the other Party. 
+ 
+Article 12.23 
+Publication of International Agreements 
+ 
+1.   Each  Party  shall  ensure  that  international  agreements  pertaining  to  or  affecting 
+investors or investment activities to which a Party is a signatory shall be promptly 
+published  or  otherwise  made  available  in  such  a  manner  as  to  enable  interested 
+persons or parties to become acquainted with them. 
+ 
+2.   To the extent possible, each Party shall make the international agreements of the kind 
+referred to in paragraph 1 available on the Internet. Each Party shall, upon request by 
+12 20 Chapter 12 – Investment 
+ 
+the other Party, respond to specific questions from and provide information to the 
+other Party with respect to the international agreements referred to in paragraph 1. 
+ 
+Article 12.24 
+General Exceptions22 
+Subject to the requirement that such measures are not applied in a manner which would 
+constitute a means of arbitrary or unjustifiable discrimination against the other Party or its 
+investors where like conditions prevail, or a disguised restriction on investments of investors 
+of the other Party in the territory of a Party, nothing in this Agreement shall be construed to 
+prevent the adoption or enforcement by a Party of measures: 
+ 
+(a)  necessary to protect public morals or to maintain public order23; 
+ 
+(b)  necessary to protect human, animal or plant life or health24; 
+ 
+(c)  necessary  to  secure  compliance  with  laws  or  regulations  which  are  not 
+inconsistent with the provisions of this Agreement including those relating to: 
+ 
+(i)   the prevention of deceptive and fraudulent practices or to deal with the 
+effects of a default on a contract;  
+ 
+(ii)   the protection of the privacy of individuals in relation to the processing 
+and dissemination of personal data and the protection of confidentiality 
+of individual records and accounts;  
+ 
+(iii)   safety; or  
+ 
+(d)  relating to the conservation of exhaustible natural resources. 
+ 
+Article 12.25 
+Savings Clause 
+1.  For 10 years from the date of termination of this Agreement, the following provisions 
+(including the relevant Annexes and Appendices) shall continue to apply to covered 
+investments in existence at the date of termination, and without prejudice to the 
+application thereafter of the rules of general international law: 
+ 
+(a)  the provisions of this Chapter; and 
+                                                           
+22   For  greater  certainty,  the  application  of  the  general  exception  to  these  provisions  shall  not  be 
+interpreted so as to diminish the ability of governments to take measures where investors are not in like 
+circumstances due to the existence of legitimate regulatory objectives. 
+ 
+23    The public order exception may be invoked only where a genuine and sufficiently serious threat is 
+posed to one of the fundamental interests of society.  
+ 
+24   The  Parties  understand  that  the  measures  referred  in  subparagraph  1(b)  include  environmental 
+measures necessary to protect human, animal or plant life or health. 
+12 21 Chapter 12 – Investment 
+ 
+ 
+(b)  such  other  provisions  in  the  Agreement  as  may  be  necessary  for  or 
+consequential to the application or interpretation of this Chapter. 
+ 
+2.  For  the  avoidance  of  doubt,  paragraph  1  shall  not  apply  to  the  establishment, 
+acquisition or expansion of investments after the date of termination. 
+ 
+Article 12.26 
+Term of Investment Promotion and Protection Agreement 
+ 
+1.  Subject to paragraph 2, the Parties hereby agree that the Agreement between the 
+Government of the Republic of Singapore and the Government of the Republic of 
+Turkey Concerning the Reciprocal Promotion and Protection of Investments signed in 
+Singapore on 19 February 2008 (“IPPA”), as well as all the rights and obligations 
+derived from the said Agreement, shall cease to have effect on the date of entry into 
+force of this Agreement. 
+ 
+2.  Any and all investments made pursuant to the IPPA before the entry into force of this 
+Agreement will be governed by the rules of the said IPPA regarding any matter 
+arising while the IPPA was in force. An investor may only submit an arbitration claim 
+pursuant to the IPPA regarding any matter arising while the IPPA was in force, 
+pursuant to the rules and procedures established in it, and provided that no more than 
+three years have elapsed since the date of entry into force of this Agreement. 
+ 
+ANNEX 12-A 
+EXPROPRIATION 
+ 
+The Parties confirm their shared understanding that: 
+ 
+1.  An action or a series of actions by a Party cannot constitute an expropriation unless it 
+interferes  with  a  tangible  or  intangible  property  right  or  property  interest  in  an 
+investment.  
+ 
+2.  Paragraph 1 of Article 12.11 (Expropriation) addresses two situations. The first is 
+direct  expropriation,  where  an  investment  is  nationalised  or  otherwise  directly 
+expropriated through formal transfer of title or outright seizure. 
+ 
+3.  The second situation addressed by paragraph 1 of Article 12.11 (Expropriation) is 
+indirect expropriation, where an action or series of actions by a Party has an effect 
+equivalent to direct expropriation without formal transfer of title or outright seizure. 
+ 
+(a)  The determination of whether an action or series of actions by a Party, in a 
+specific fact situation, constitutes an indirect expropriation, requires a case-by-
+case, fact-based inquiry that considers, among other factors: 
+ 
+(i)  the economic impact of the government action, although the fact that 
+an action or series of actions by a Party has an adverse effect on the 
+12 22 Chapter 12 – Investment 
+ 
+economic value of an investment, standing alone, does not establish 
+that an indirect expropriation has occurred; 
+ 
+(ii)  the extent to  which the government  action interferes with  distinct, 
+reasonable investment-backed expectations; and 
+ 
+(iii)  the character of the government action. 
+ 
+(b)  Except in rare circumstances, non-discriminatory regulatory actions by a Party 
+that are designed and applied to protect legitimate public welfare objectives, 
+such as public health, safety and the environment, do not constitute indirect 
+expropriations. 
+ 
+ 
+12 23 

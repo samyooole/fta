@@ -1,0 +1,41 @@
+# Web scraping tools
+beautifulsoup4
+requests
+pdfx
+PyMuPDF
+nltk
+scikit-learn
+git+https://github.com/samyooole/text-preprocessing.git
+pytesseract
+pdf2image
+tabula-py
+pdfplumber
+"camelot-py[base]"
+opencv-python
+
+
+
+# new stuff
+openpyxl
+pandas
+pycountry
+sentence-transformers
+scikit-learn
+numpy
+matplotlib
+contractions
+pyspellchecker
+names_dataset
+indexer
+datasets
+evaluate
+accelerate
+optimum
+spacy
+label-studio
+spacy-transformers
+cupy-cuda117
+bertopic
+cohere
+
+# also write a script for special installation of cuda
